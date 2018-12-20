@@ -36,18 +36,21 @@ import org.apache.lucene.store.FSDirectory;
  * @author Debasis
  */
 public class WMTIndexer {
+/*
     Properties prop;
     File indexDir;    
     Analyzer analyzer;
     IndexWriter writer;
     List<String> stopwords;
+*/
 
     static final public String FIELD_URL = "url";  // ref domain id
     static final public String FIELD_DOMAIN_ID = "domain_id";  // ref domain id
     static final public String FIELD_ANALYZED_CONTENT = "words";  // Standard analyzer w/o stopwords.
     static final public String FIELD_CLUSTER_ID = "cluster_id"; // to be used during processing
+    static final public String FIELD_DOC_NO = "doc_no";
 
-    public WMTIndexer(String propFile) throws Exception {
+/*    public WMTIndexer(String propFile) throws Exception {
         prop = new Properties();
         prop.load(new FileReader(propFile));                
         analyzer = constructAnalyzer(prop.getProperty("stopfile"));            
@@ -176,5 +179,5 @@ public class WMTIndexer {
         catch (Exception ex) {
             ex.printStackTrace();
         }
-    }    
+    }   */
 }

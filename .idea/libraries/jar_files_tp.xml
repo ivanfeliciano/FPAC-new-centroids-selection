@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jar_files_tp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jar_files_tp/lucene-core-5.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar_files_tp/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar_files_tp/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jar_files_tp/lucene-backward-codecs-5.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -52,7 +52,6 @@ public class IndexDumper {
             while ( (line = br.readLine()) != null ) {
                 stopwords.add(line.trim());
             }
-            br.close();
         }
         catch (Exception ex) {
             ex.printStackTrace();
