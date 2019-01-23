@@ -175,6 +175,9 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
             boolean eval = true;
             if (eval) {
                 ClusterEvaluator ceval = new ClusterEvaluator(args[0]);
+                System.out.println("Acc, prec, recall, fscore: ");
+                ceval.showNewMeasures();
+
                 System.out.println("Purity: " + ceval.computePurity());
                 System.out.println("NMI: " + ceval.computeNMI());            
                 System.out.println("RI: " + ceval.computeRandIndex());            

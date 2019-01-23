@@ -131,8 +131,8 @@ public class DocumentsIndexer {
         String docDomainName = row[docDomainIdx];
         String docTextElt = row[docContentIdx];
         doc.add(new Field(WMTIndexer.FIELD_DOMAIN_ID, docDomainName, Field.Store.YES, Field.Index.NOT_ANALYZED));
-        doc.add(new Field(WMTIndexer.FIELD_DOC_NO, String.valueOf(docIdx++), Field.Store.YES, Field.Index.NOT_ANALYZED));
-//        doc.add(new Field(WMTIndexer.FIELD_URL, String.valueOf(docIdx++), Field.Store.YES, Field.Index.NOT_ANALYZED));
+        doc.add(new Field(WMTIndexer.FIELD_DOC_NO, String.valueOf(docIdx), Field.Store.YES, Field.Index.NOT_ANALYZED));
+        doc.add(new Field(WMTIndexer.FIELD_URL, String.valueOf(docIdx++), Field.Store.YES, Field.Index.NOT_ANALYZED));
         String content = docTextElt;
         if (content.equals("null"))
             return null;

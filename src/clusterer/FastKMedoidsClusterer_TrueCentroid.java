@@ -80,7 +80,7 @@ public class FastKMedoidsClusterer_TrueCentroid extends FastKMedoidsClusterer {
         if (args.length == 0) {
             args = new String[1];
             System.out.println("Usage: java FastKMedoidsClusterer_TrueCentroid <prop-file>");
-            args[0] = "init_0.properties";
+            args[0] = "/home/ivan/Documentos/FPAC-new-centroids-selection/run_properties/init_0.properties";
         }
         
         try {
@@ -90,6 +90,9 @@ public class FastKMedoidsClusterer_TrueCentroid extends FastKMedoidsClusterer {
             boolean eval = Boolean.parseBoolean(fkmc.getProperties().getProperty("eval", "false"));
             if (eval) {
                 ClusterEvaluator ceval = new ClusterEvaluator(args[0]);
+                System.out.println("Acc, prec, recall, fscore: ");
+                ceval.showNewMeasures();
+
                 System.out.println("Purity: " + ceval.computePurity());
                 System.out.println("NMI: " + ceval.computeNMI());            
                 System.out.println("RI: " + ceval.computeRandIndex());            

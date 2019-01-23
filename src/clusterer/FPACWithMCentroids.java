@@ -49,7 +49,35 @@ import org.apache.lucene.util.BytesRef;
  * @author dganguly
  */
 public class FPACWithMCentroids extends LuceneClusterer {
-    IndexSearcher searcher;
+    public FPACWithMCentroids(String propFile) throws Exception {
+        super(propFile);
+    }
+
+    @Override
+    void initCentroids() throws Exception {
+
+    }
+
+    @Override
+    void recomputeCentroids() throws Exception {
+
+    }
+
+    @Override
+    boolean isCentroid(int docId) {
+        return false;
+    }
+
+    @Override
+    int getClosestCluster(int docId) throws Exception {
+        return 0;
+    }
+
+    @Override
+    void showCentroids() throws Exception {
+
+    }
+    /*IndexSearcher searcher;
     RelatedDocumentsRetriever[] rdes;
     
     
@@ -343,4 +371,4 @@ public class FPACWithMCentroids extends LuceneClusterer {
             ex.printStackTrace();
         }
     }
-}
+*/}

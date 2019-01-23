@@ -231,6 +231,16 @@ public final class ClusterEvaluator {
         }
     }
 
+    void showNewMeasures() {
+        float accuracy = (countTP() + countTN())/(float)(countTP() + (countTPPlusFP() - countTP()) + countFN() + countTN());
+        float prec = (countTP())/(float)(countTP() + (countTPPlusFP() - countTP()));
+        float recall = (countTP())/(float)(countTP() + countFN());
+        float fscore = 2*prec*recall/(prec+recall);
+
+        System.out.println(accuracy + " " + prec + " " + recall + " " + fscore);
+
+    }
+
     void testFunctionalities() throws Exception {
         K = 3;
         J = 3;
@@ -245,8 +255,10 @@ public final class ClusterEvaluator {
         clusterClassMatrix[2][0] = 2;
         clusterClassMatrix[2][1] = 0;
         clusterClassMatrix[2][2] = 3;
-        
+
+
         initSums(clusterClassMatrix);
+
 
         System.out.println("TP: " + countTP());
         System.out.println("FP  : " + (countTPPlusFP() - countTP()));
