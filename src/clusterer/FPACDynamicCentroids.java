@@ -14,11 +14,7 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintStream;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Properties;
-import java.util.Set;
+import java.util.*;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
@@ -283,6 +279,7 @@ public class FPACDynamicCentroids extends LuceneClusterer {
         System.out.println("Generando vocabulario del cluster");
         for (int docId = 0; docId < numDocs; docId++) {
             clusterId = getClusterId(docId);
+            if (clusterId == INITIAL_CLUSTER_ID) continue;
             docsInEachCluster.get(getClusterId(docId)).add(docId);
             tfvector = reader.getTermVector(docId, contentFieldName);
             if (tfvector == null || tfvector.size() == 0)
@@ -303,12 +300,12 @@ public class FPACDynamicCentroids extends LuceneClusterer {
             Set<String> intersection;
             Set<String> bestDoc = new HashSet<>();
             int bestDocId = 0;
-            Boolean hasBeenSelected[] = new Boolean[docsInEachCluster.get(cluster).size()];
+            HashMap <Integer, Byte> hasBeenSelected = new HashMap<>();
             while (!clusterVocabulary.isEmpty()) {
                 int maxCover = 0;
                 // Por cada documento en este cluster
                 for (int clusterDocsIdx = 0; clusterDocsIdx < docsInEachCluster.get(cluster).size(); clusterDocsIdx++) {
-                    if(hasBeenSelected[clusterDocsIdx]) continue;
+                    if(hasBeenSelected.containsKey(clusterDocsIdx)) continue;
                     Set<String> docVocabulary = new HashSet<>();
                     int docId = docsInEachCluster.get(cluster).get(clusterDocsIdx);
                     tfvector = reader.getTermVector(docId, contentFieldName);
@@ -328,15 +325,15 @@ public class FPACDynamicCentroids extends LuceneClusterer {
                 }
                 if (maxCover == 0) { System.out.println("No cubrí el vocabulario pero ya no había documentos que cumplieran la propiedad"); break;}
 
-                hasBeenSelected[bestDocId] = true;
+                hasBeenSelected.put(bestDocId, null);
                 clusterVocabulary.removeAll(bestDoc);
-                float porcentajeCubierto = 100 - clusterVocabulary.size() * 100 / clusterVocabularyInitialSize;
-                System.out.println("He cubierto " + porcentajeCubierto  + " del vocabulario del cluster");
+                float porcentajeCubierto = 100.0f - (clusterVocabulary.size() * 100.0f) / clusterVocabularyInitialSize;
+                System.out.println("He cubierto " + porcentajeCubierto  + "% del vocabulario del cluster");
                 DynamicCentroids.get(cluster).add(new RelatedDocumentsRetriever(reader, bestDocId, prop, cluster + 1));
                 System.out.println("Con " + DynamicCentroids.get(cluster).size() + " centroides");
                 dynamicTermVectorCentroids.get(cluster).add(TermVector.extractAllDocTerms(reader, bestDocId, contentFieldName, lambda));
                 DynamicCentroids.get(cluster).get(idx++).getRelatedDocs(numDocs / K);
-                if(porcentajeCubierto > 50) break;
+                if(porcentajeCubierto > 50.0f) break;
             }
             if (clusterVocabulary.isEmpty()) { System.out.println("Cubrí el vocabulario con " + idx + " centroides"); }
         }

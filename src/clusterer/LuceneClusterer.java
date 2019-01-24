@@ -27,6 +27,7 @@ public abstract class LuceneClusterer {
     IndexReader reader;  // the combined index to search
     int numDocs;
     int K;
+    int INITIAL_CLUSTER_ID = -100;
     String contentFieldName;
     HashMap<Integer, Integer> clusterIdMap;
     String idFieldName;
@@ -145,7 +146,7 @@ public abstract class LuceneClusterer {
     // Call this before initializing the algorithm
     public void resetAllClusterIds() throws Exception {        
         for (int i=0; i < numDocs; i++) {
-            clusterIdMap.put(i, 0);
+            clusterIdMap.put(i, INITIAL_CLUSTER_ID);
         }        
     }
     
