@@ -1,0 +1,2504 @@
+El número de clusters es 20
+Chosen doc 1760 as first centroid for cluster 1
+Chosen doc 12494 as first centroid for cluster 2
+Chosen doc 18811 as first centroid for cluster 3
+Chosen doc 9584 as first centroid for cluster 4
+Chosen doc 14706 as first centroid for cluster 5
+Chosen doc 18098 as first centroid for cluster 6
+Chosen doc 5695 as first centroid for cluster 7
+Chosen doc 18234 as first centroid for cluster 8
+Chosen doc 7022 as first centroid for cluster 9
+Chosen doc 9940 as first centroid for cluster 10
+Chosen doc 15982 as first centroid for cluster 11
+Chosen doc 9965 as first centroid for cluster 12
+Chosen doc 5085 as first centroid for cluster 13
+Chosen doc 5738 as first centroid for cluster 14
+Chosen doc 14044 as first centroid for cluster 15
+Chosen doc 7095 as first centroid for cluster 16
+Chosen doc 4296 as first centroid for cluster 17
+Chosen doc 48 as first centroid for cluster 18
+Chosen doc 14944 as first centroid for cluster 19
+Chosen doc 5913 as first centroid for cluster 20
+Iteration : 1
+Cluster 1 has the centroids:
+Centroid 1: 4, 1760
+Cluster 2 has the centroids:
+Centroid 1: 8, 12494
+Cluster 3 has the centroids:
+Centroid 1: 19, 18811
+Cluster 4 has the centroids:
+Centroid 1: 3, 9584
+Cluster 5 has the centroids:
+Centroid 1: 12, 14706
+Cluster 6 has the centroids:
+Centroid 1: 18, 18098
+Cluster 7 has the centroids:
+Centroid 1: 14, 5695
+Cluster 8 has the centroids:
+Centroid 1: 18, 18234
+Cluster 9 has the centroids:
+Centroid 1: 18, 7022
+Cluster 10 has the centroids:
+Centroid 1: 4, 9940
+Cluster 11 has the centroids:
+Centroid 1: 14, 15982
+Cluster 12 has the centroids:
+Centroid 1: 4, 9965
+Cluster 13 has the centroids:
+Centroid 1: 13, 5085
+Cluster 14 has the centroids:
+Centroid 1: 14, 5738
+Cluster 15 has the centroids:
+Centroid 1: 11, 14044
+Cluster 16 has the centroids:
+Centroid 1: 18, 7095
+Cluster 17 has the centroids:
+Centroid 1: 11, 4296
+Cluster 18 has the centroids:
+Centroid 1: 0, 48
+Cluster 19 has the centroids:
+Centroid 1: 12, 14944
+Cluster 20 has the centroids:
+Centroid 1: 15, 5913
+Reassigning cluster ids to non-centroid docs...
+0.9989373 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 43458
+Número de documentos en el cluster = 10643
+He cubierto 50.016106% del vocabulario del cluster con 632 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 10565
+Número de documentos en el cluster = 608
+He cubierto 50.260292% del vocabulario del cluster con 62 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 8466
+Número de documentos en el cluster = 331
+He cubierto 50.177177% del vocabulario del cluster con 27 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 8027
+Número de documentos en el cluster = 473
+He cubierto 50.205555% del vocabulario del cluster con 47 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 10026
+Número de documentos en el cluster = 587
+He cubierto 50.149612% del vocabulario del cluster con 44 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 10670
+Número de documentos en el cluster = 439
+He cubierto 50.440487% del vocabulario del cluster con 45 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 8839
+Número de documentos en el cluster = 446
+He cubierto 50.503452% del vocabulario del cluster con 38 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 8858
+Número de documentos en el cluster = 318
+He cubierto 50.12418% del vocabulario del cluster con 28 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 9535
+Número de documentos en el cluster = 308
+He cubierto 50.256947% del vocabulario del cluster con 21 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 9992
+Número de documentos en el cluster = 463
+He cubierto 50.04003% del vocabulario del cluster con 35 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 15490
+Número de documentos en el cluster = 364
+He cubierto 50.890896% del vocabulario del cluster con 15 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 8044
+Número de documentos en el cluster = 717
+He cubierto 50.14918% del vocabulario del cluster con 49 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 15893
+Número de documentos en el cluster = 262
+He cubierto 51.04763% del vocabulario del cluster con 16 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 7896
+Número de documentos en el cluster = 398
+He cubierto 50.291286% del vocabulario del cluster con 46 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 7075
+Número de documentos en el cluster = 444
+He cubierto 50.459366% del vocabulario del cluster con 23 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 8339
+Número de documentos en el cluster = 328
+He cubierto 50.42571% del vocabulario del cluster con 29 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 6596
+Número de documentos en el cluster = 277
+He cubierto 50.63675% del vocabulario del cluster con 30 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 7580
+Número de documentos en el cluster = 400
+He cubierto 50.448547% del vocabulario del cluster con 33 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 9169
+Número de documentos en el cluster = 573
+He cubierto 50.22358% del vocabulario del cluster con 60 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 10586
+Número de documentos en el cluster = 421
+He cubierto 50.05668% del vocabulario del cluster con 24 centroides
+0 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 1 iterations: 186 seconds
+Global time until this iteration: 186 seconds
+Iteration : 2
+Cluster 1 has the centroids:
+Centroid 1: 5, 10334
+Centroid 2: 1, 665
+Centroid 3: 10, 13500
+Centroid 4: 4, 1549
+Centroid 5: 10, 4032
+Centroid 6: 9, 12889
+Centroid 7: 15, 5839
+Centroid 8: 17, 17513
+Centroid 9: 14, 15741
+Centroid 10: 10, 4129
+Centroid 11: 17, 17424
+Centroid 12: 10, 13732
+Centroid 13: 10, 13818
+Centroid 14: 6, 11121
+Centroid 15: 14, 15691
+Centroid 16: 9, 13087
+Centroid 17: 15, 5920
+Centroid 18: 9, 13169
+Centroid 19: 10, 4125
+Centroid 20: 0, 251
+Centroid 21: 14, 16196
+Centroid 22: 12, 4878
+Centroid 23: 12, 14494
+Centroid 24: 17, 17805
+Centroid 25: 13, 15195
+Centroid 26: 9, 13088
+Centroid 27: 17, 17555
+Centroid 28: 17, 6873
+Centroid 29: 1, 8099
+Centroid 30: 8, 3337
+Centroid 31: 19, 18781
+Centroid 32: 10, 3986
+Centroid 33: 10, 4033
+Centroid 34: 1, 8407
+Centroid 35: 15, 16739
+Centroid 36: 16, 17352
+Centroid 37: 5, 10523
+Centroid 38: 6, 2422
+Centroid 39: 16, 17188
+Centroid 40: 6, 2463
+Centroid 41: 12, 14827
+Centroid 42: 17, 6954
+Centroid 43: 6, 11182
+Centroid 44: 8, 12246
+Centroid 45: 11, 13910
+Centroid 46: 19, 18809
+Centroid 47: 6, 2479
+Centroid 48: 10, 4054
+Centroid 49: 10, 13619
+Centroid 50: 17, 17590
+Centroid 51: 17, 17641
+Centroid 52: 11, 14457
+Centroid 53: 16, 6567
+Centroid 54: 14, 15690
+Centroid 55: 5, 2235
+Centroid 56: 0, 7734
+Centroid 57: 17, 17529
+Centroid 58: 8, 12510
+Centroid 59: 15, 16354
+Centroid 60: 15, 16589
+Centroid 61: 19, 18500
+Centroid 62: 5, 1900
+Centroid 63: 10, 4151
+Centroid 64: 13, 15448
+Centroid 65: 18, 18174
+Centroid 66: 13, 5271
+Centroid 67: 13, 15291
+Centroid 68: 6, 2537
+Centroid 69: 5, 2153
+Centroid 70: 5, 10693
+Centroid 71: 6, 11179
+Centroid 72: 8, 12571
+Centroid 73: 10, 13891
+Centroid 74: 11, 13939
+Centroid 75: 1, 8342
+Centroid 76: 5, 10438
+Centroid 77: 8, 12493
+Centroid 78: 13, 15188
+Centroid 79: 5, 2267
+Centroid 80: 6, 2351
+Centroid 81: 10, 4178
+Centroid 82: 15, 6017
+Centroid 83: 6, 2368
+Centroid 84: 4, 10228
+Centroid 85: 17, 17873
+Centroid 86: 6, 11361
+Centroid 87: 5, 2015
+Centroid 88: 8, 3142
+Centroid 89: 10, 4083
+Centroid 90: 17, 6931
+Centroid 91: 1, 8530
+Centroid 92: 6, 10986
+Centroid 93: 9, 12993
+Centroid 94: 10, 13356
+Centroid 95: 13, 15144
+Centroid 96: 6, 2417
+Centroid 97: 19, 18735
+Centroid 98: 0, 125
+Centroid 99: 8, 3323
+Centroid 100: 15, 6122
+Centroid 101: 11, 14034
+Centroid 102: 14, 5772
+Centroid 103: 6, 11138
+Centroid 104: 5, 1964
+Centroid 105: 7, 2724
+Centroid 106: 18, 7263
+Centroid 107: 15, 16486
+Centroid 108: 13, 5130
+Centroid 109: 5, 10546
+Centroid 110: 6, 11376
+Centroid 111: 7, 11633
+Centroid 112: 7, 12000
+Centroid 113: 9, 3564
+Centroid 114: 13, 5070
+Centroid 115: 12, 14536
+Centroid 116: 17, 17440
+Centroid 117: 7, 2945
+Centroid 118: 19, 7308
+Centroid 119: 3, 9435
+Centroid 120: 19, 18504
+Centroid 121: 19, 18596
+Centroid 122: 8, 3317
+Centroid 123: 13, 5371
+Centroid 124: 14, 5671
+Centroid 125: 5, 10615
+Centroid 126: 7, 11526
+Centroid 127: 16, 17231
+Centroid 128: 17, 17823
+Centroid 129: 4, 1559
+Centroid 130: 5, 2081
+Centroid 131: 12, 4796
+Centroid 132: 16, 6535
+Centroid 133: 17, 6935
+Centroid 134: 5, 10690
+Centroid 135: 6, 11000
+Centroid 136: 9, 12812
+Centroid 137: 12, 14528
+Centroid 138: 2, 1075
+Centroid 139: 7, 2924
+Centroid 140: 18, 7207
+Centroid 141: 2, 8907
+Centroid 142: 5, 10806
+Centroid 143: 12, 14806
+Centroid 144: 5, 1978
+Centroid 145: 12, 4925
+Centroid 146: 6, 11447
+Centroid 147: 9, 13196
+Centroid 148: 16, 17148
+Centroid 149: 19, 18545
+Centroid 150: 0, 56
+Centroid 151: 4, 1847
+Centroid 152: 6, 2392
+Centroid 153: 11, 4576
+Centroid 154: 15, 6148
+Centroid 155: 18, 18034
+Centroid 156: 7, 2845
+Centroid 157: 8, 3447
+Centroid 158: 9, 3688
+Centroid 159: 11, 4644
+Centroid 160: 12, 4672
+Centroid 161: 16, 6434
+Centroid 162: 19, 7512
+Centroid 163: 5, 10890
+Centroid 164: 14, 15825
+Centroid 165: 18, 18081
+Centroid 166: 5, 1960
+Centroid 167: 9, 3731
+Centroid 168: 17, 6696
+Centroid 169: 18, 6995
+Centroid 170: 2, 8717
+Centroid 171: 7, 11883
+Centroid 172: 9, 13172
+Centroid 173: 10, 13357
+Centroid 174: 10, 13808
+Centroid 175: 6, 2373
+Centroid 176: 7, 2908
+Centroid 177: 13, 5051
+Centroid 178: 14, 5785
+Centroid 179: 16, 6494
+Centroid 180: 17, 6766
+Centroid 181: 2, 8647
+Centroid 182: 5, 10903
+Centroid 183: 8, 12672
+Centroid 184: 9, 13262
+Centroid 185: 10, 13364
+Centroid 186: 15, 16393
+Centroid 187: 18, 18213
+Centroid 188: 0, 121
+Centroid 189: 2, 713
+Centroid 190: 8, 3208
+Centroid 191: 10, 4147
+Centroid 192: 13, 5353
+Centroid 193: 1, 8191
+Centroid 194: 5, 10708
+Centroid 195: 17, 17466
+Centroid 196: 0, 167
+Centroid 197: 5, 2026
+Centroid 198: 9, 3511
+Centroid 199: 11, 4569
+Centroid 200: 13, 5299
+Centroid 201: 17, 6892
+Centroid 202: 2, 8827
+Centroid 203: 4, 10145
+Centroid 204: 8, 12465
+Centroid 205: 10, 13424
+Centroid 206: 10, 13564
+Centroid 207: 14, 16239
+Centroid 208: 16, 16933
+Centroid 209: 0, 55
+Centroid 210: 1, 507
+Centroid 211: 1, 593
+Centroid 212: 5, 2008
+Centroid 213: 9, 3580
+Centroid 214: 13, 5376
+Centroid 215: 5, 10501
+Centroid 216: 5, 10630
+Centroid 217: 6, 11309
+Centroid 218: 10, 13612
+Centroid 219: 13, 15305
+Centroid 220: 15, 16862
+Centroid 221: 16, 17361
+Centroid 222: 18, 18335
+Centroid 223: 9, 3621
+Centroid 224: 11, 4298
+Centroid 225: 13, 5298
+Centroid 226: 14, 5519
+Centroid 227: 16, 6534
+Centroid 228: 17, 6664
+Centroid 229: 17, 6752
+Centroid 230: 4, 10308
+Centroid 231: 6, 11392
+Centroid 232: 8, 12197
+Centroid 233: 9, 12854
+Centroid 234: 10, 13450
+Centroid 235: 13, 15506
+Centroid 236: 14, 16044
+Centroid 237: 16, 16871
+Centroid 238: 17, 17499
+Centroid 239: 17, 17596
+Centroid 240: 2, 1030
+Centroid 241: 3, 1304
+Centroid 242: 7, 2936
+Centroid 243: 8, 3199
+Centroid 244: 9, 3746
+Centroid 245: 13, 5176
+Centroid 246: 16, 6569
+Centroid 247: 17, 6591
+Centroid 248: 17, 6829
+Centroid 249: 1, 8515
+Centroid 250: 6, 11344
+Centroid 251: 8, 12522
+Centroid 252: 10, 13772
+Centroid 253: 11, 14215
+Centroid 254: 13, 15574
+Centroid 255: 17, 17579
+Centroid 256: 19, 18506
+Centroid 257: 1, 522
+Centroid 258: 2, 844
+Centroid 259: 5, 1887
+Centroid 260: 5, 2114
+Centroid 261: 5, 2251
+Centroid 262: 13, 5053
+Centroid 263: 18, 7201
+Centroid 264: 19, 7500
+Centroid 265: 0, 7866
+Centroid 266: 1, 8531
+Centroid 267: 2, 9028
+Centroid 268: 8, 12632
+Centroid 269: 9, 12769
+Centroid 270: 10, 13653
+Centroid 271: 12, 14684
+Centroid 272: 13, 15271
+Centroid 273: 13, 15636
+Centroid 274: 19, 18447
+Centroid 275: 3, 1430
+Centroid 276: 5, 1905
+Centroid 277: 7, 2711
+Centroid 278: 7, 3023
+Centroid 279: 8, 3082
+Centroid 280: 10, 3850
+Centroid 281: 10, 4089
+Centroid 282: 11, 4500
+Centroid 283: 12, 4967
+Centroid 284: 13, 5236
+Centroid 285: 16, 6238
+Centroid 286: 16, 6390
+Centroid 287: 16, 6510
+Centroid 288: 17, 6901
+Centroid 289: 18, 7129
+Centroid 290: 0, 7948
+Centroid 291: 2, 8884
+Centroid 292: 2, 8938
+Centroid 293: 7, 11659
+Centroid 294: 9, 12966
+Centroid 295: 9, 12992
+Centroid 296: 13, 15241
+Centroid 297: 13, 15654
+Centroid 298: 14, 15762
+Centroid 299: 14, 16069
+Centroid 300: 16, 16952
+Centroid 301: 16, 16988
+Centroid 302: 2, 886
+Centroid 303: 3, 1244
+Centroid 304: 7, 2693
+Centroid 305: 7, 2870
+Centroid 306: 8, 3174
+Centroid 307: 8, 3253
+Centroid 308: 9, 3672
+Centroid 309: 13, 5315
+Centroid 310: 14, 5795
+Centroid 311: 15, 5859
+Centroid 312: 15, 5869
+Centroid 313: 17, 6870
+Centroid 314: 19, 7467
+Centroid 315: 2, 8887
+Centroid 316: 5, 10389
+Centroid 317: 5, 10588
+Centroid 318: 6, 11330
+Centroid 319: 7, 11552
+Centroid 320: 11, 13997
+Centroid 321: 12, 14829
+Centroid 322: 13, 15285
+Centroid 323: 15, 16645
+Centroid 324: 16, 17089
+Centroid 325: 17, 17434
+Centroid 326: 17, 17778
+Centroid 327: 18, 17999
+Centroid 328: 19, 18672
+Centroid 329: 2, 759
+Centroid 330: 2, 1091
+Centroid 331: 8, 3159
+Centroid 332: 8, 3251
+Centroid 333: 8, 3379
+Centroid 334: 9, 3547
+Centroid 335: 10, 4119
+Centroid 336: 15, 6089
+Centroid 337: 16, 6513
+Centroid 338: 17, 6710
+Centroid 339: 17, 6778
+Centroid 340: 0, 7849
+Centroid 341: 1, 8386
+Centroid 342: 1, 8506
+Centroid 343: 3, 9304
+Centroid 344: 5, 10696
+Centroid 345: 5, 10719
+Centroid 346: 8, 12139
+Centroid 347: 9, 13111
+Centroid 348: 10, 13421
+Centroid 349: 11, 13962
+Centroid 350: 13, 15187
+Centroid 351: 13, 15257
+Centroid 352: 15, 16397
+Centroid 353: 17, 17841
+Centroid 354: 19, 18764
+Centroid 355: 1, 412
+Centroid 356: 1, 694
+Centroid 357: 2, 833
+Centroid 358: 3, 1213
+Centroid 359: 7, 2714
+Centroid 360: 7, 2759
+Centroid 361: 8, 3306
+Centroid 362: 9, 3822
+Centroid 363: 12, 4965
+Centroid 364: 13, 5305
+Centroid 365: 13, 5341
+Centroid 366: 14, 5508
+Centroid 367: 16, 6311
+Centroid 368: 17, 6631
+Centroid 369: 17, 6737
+Centroid 370: 19, 7525
+Centroid 371: 0, 7803
+Centroid 372: 1, 8024
+Centroid 373: 1, 8397
+Centroid 374: 2, 8700
+Centroid 375: 3, 9463
+Centroid 376: 3, 9569
+Centroid 377: 6, 11072
+Centroid 378: 6, 11194
+Centroid 379: 6, 11283
+Centroid 380: 6, 11317
+Centroid 381: 7, 11561
+Centroid 382: 8, 12417
+Centroid 383: 9, 12807
+Centroid 384: 10, 13580
+Centroid 385: 10, 13689
+Centroid 386: 10, 13746
+Centroid 387: 13, 15245
+Centroid 388: 13, 15498
+Centroid 389: 14, 16090
+Centroid 390: 14, 16252
+Centroid 391: 15, 16377
+Centroid 392: 16, 17079
+Centroid 393: 19, 18532
+Centroid 394: 19, 18565
+Centroid 395: 19, 18637
+Centroid 396: 2, 935
+Centroid 397: 7, 3015
+Centroid 398: 8, 3283
+Centroid 399: 8, 3401
+Centroid 400: 9, 3581
+Centroid 401: 12, 4748
+Centroid 402: 12, 5018
+Centroid 403: 13, 5322
+Centroid 404: 13, 5372
+Centroid 405: 15, 5864
+Centroid 406: 16, 6299
+Centroid 407: 16, 6504
+Centroid 408: 17, 6732
+Centroid 409: 17, 6868
+Centroid 410: 19, 7378
+Centroid 411: 0, 7929
+Centroid 412: 1, 8314
+Centroid 413: 1, 8532
+Centroid 414: 5, 10762
+Centroid 415: 7, 11636
+Centroid 416: 8, 12208
+Centroid 417: 8, 12679
+Centroid 418: 9, 12939
+Centroid 419: 10, 13404
+Centroid 420: 11, 13975
+Centroid 421: 13, 15602
+Centroid 422: 15, 16338
+Centroid 423: 15, 16373
+Centroid 424: 15, 16536
+Centroid 425: 16, 17294
+Centroid 426: 16, 17367
+Centroid 427: 0, 66
+Centroid 428: 5, 1996
+Centroid 429: 5, 2058
+Centroid 430: 5, 2228
+Centroid 431: 7, 2727
+Centroid 432: 9, 3500
+Centroid 433: 9, 3525
+Centroid 434: 9, 3682
+Centroid 435: 12, 4798
+Centroid 436: 12, 4799
+Centroid 437: 14, 5447
+Centroid 438: 14, 5454
+Centroid 439: 14, 5794
+Centroid 440: 15, 5909
+Centroid 441: 16, 6321
+Centroid 442: 16, 6578
+Centroid 443: 17, 6851
+Centroid 444: 18, 7001
+Centroid 445: 0, 7802
+Centroid 446: 0, 7838
+Centroid 447: 2, 9037
+Centroid 448: 2, 9073
+Centroid 449: 2, 9144
+Centroid 450: 3, 9255
+Centroid 451: 4, 10024
+Centroid 452: 5, 10409
+Centroid 453: 5, 10633
+Centroid 454: 5, 10730
+Centroid 455: 6, 11088
+Centroid 456: 7, 11687
+Centroid 457: 7, 12042
+Centroid 458: 8, 12513
+Centroid 459: 8, 12534
+Centroid 460: 9, 13179
+Centroid 461: 10, 13525
+Centroid 462: 12, 14599
+Centroid 463: 12, 14832
+Centroid 464: 13, 15393
+Centroid 465: 13, 15657
+Centroid 466: 13, 15672
+Centroid 467: 16, 17139
+Centroid 468: 17, 17417
+Centroid 469: 17, 17549
+Centroid 470: 17, 17593
+Centroid 471: 19, 18477
+Centroid 472: 19, 18605
+Centroid 473: 19, 18701
+Centroid 474: 1, 615
+Centroid 475: 1, 656
+Centroid 476: 2, 793
+Centroid 477: 2, 867
+Centroid 478: 2, 1062
+Centroid 479: 5, 1987
+Centroid 480: 5, 2216
+Centroid 481: 5, 2265
+Centroid 482: 6, 2520
+Centroid 483: 7, 2847
+Centroid 484: 8, 3116
+Centroid 485: 8, 3237
+Centroid 486: 9, 3710
+Centroid 487: 12, 4948
+Centroid 488: 12, 4982
+Centroid 489: 14, 5524
+Centroid 490: 15, 6151
+Centroid 491: 18, 7013
+Centroid 492: 19, 7407
+Centroid 493: 1, 8279
+Centroid 494: 1, 8527
+Centroid 495: 2, 8766
+Centroid 496: 3, 9402
+Centroid 497: 4, 10048
+Centroid 498: 5, 10460
+Centroid 499: 5, 10518
+Centroid 500: 5, 10575
+Centroid 501: 7, 11582
+Centroid 502: 7, 11653
+Centroid 503: 7, 11685
+Centroid 504: 7, 11791
+Centroid 505: 7, 11932
+Centroid 506: 7, 11995
+Centroid 507: 7, 12031
+Centroid 508: 9, 12741
+Centroid 509: 9, 12913
+Centroid 510: 9, 13170
+Centroid 511: 9, 13296
+Centroid 512: 10, 13788
+Centroid 513: 10, 13863
+Centroid 514: 11, 13914
+Centroid 515: 13, 15378
+Centroid 516: 13, 15621
+Centroid 517: 14, 16074
+Centroid 518: 15, 16569
+Centroid 519: 16, 17135
+Centroid 520: 17, 17476
+Centroid 521: 18, 18006
+Centroid 522: 0, 75
+Centroid 523: 0, 134
+Centroid 524: 3, 1120
+Centroid 525: 5, 1931
+Centroid 526: 5, 2205
+Centroid 527: 6, 2314
+Centroid 528: 6, 2415
+Centroid 529: 7, 2789
+Centroid 530: 8, 3114
+Centroid 531: 9, 3683
+Centroid 532: 10, 3917
+Centroid 533: 10, 4101
+Centroid 534: 10, 4220
+Centroid 535: 11, 4353
+Centroid 536: 11, 4376
+Centroid 537: 12, 4723
+Centroid 538: 13, 5039
+Centroid 539: 13, 5080
+Centroid 540: 14, 5444
+Centroid 541: 14, 5620
+Centroid 542: 14, 5662
+Centroid 543: 16, 6415
+Centroid 544: 16, 6554
+Centroid 545: 17, 6616
+Centroid 546: 17, 6792
+Centroid 547: 19, 7387
+Centroid 548: 1, 8179
+Centroid 549: 1, 8535
+Centroid 550: 2, 8706
+Centroid 551: 2, 8850
+Centroid 552: 5, 10743
+Centroid 553: 6, 11003
+Centroid 554: 6, 11042
+Centroid 555: 7, 11971
+Centroid 556: 7, 12097
+Centroid 557: 8, 12205
+Centroid 558: 8, 12234
+Centroid 559: 9, 13004
+Centroid 560: 9, 13062
+Centroid 561: 10, 13366
+Centroid 562: 11, 14046
+Centroid 563: 12, 14697
+Centroid 564: 12, 14812
+Centroid 565: 12, 14921
+Centroid 566: 12, 15003
+Centroid 567: 14, 15816
+Centroid 568: 14, 15872
+Centroid 569: 15, 16661
+Centroid 570: 17, 17572
+Centroid 571: 17, 17706
+Centroid 572: 18, 18309
+Centroid 573: 19, 18792
+Centroid 574: 0, 252
+Centroid 575: 1, 568
+Centroid 576: 1, 619
+Centroid 577: 3, 1357
+Centroid 578: 4, 1534
+Centroid 579: 4, 1843
+Centroid 580: 7, 2717
+Centroid 581: 8, 3392
+Centroid 582: 9, 3536
+Centroid 583: 9, 3792
+Centroid 584: 10, 4044
+Centroid 585: 10, 4094
+Centroid 586: 11, 4252
+Centroid 587: 13, 5268
+Centroid 588: 13, 5272
+Centroid 589: 14, 5477
+Centroid 590: 15, 5983
+Centroid 591: 17, 6889
+Centroid 592: 17, 6965
+Centroid 593: 1, 8037
+Centroid 594: 1, 8151
+Centroid 595: 1, 8216
+Centroid 596: 1, 8333
+Centroid 597: 1, 8412
+Centroid 598: 1, 8443
+Centroid 599: 2, 8941
+Centroid 600: 2, 9021
+Centroid 601: 2, 9063
+Centroid 602: 3, 9537
+Centroid 603: 4, 9906
+Centroid 604: 4, 9952
+Centroid 605: 4, 10324
+Centroid 606: 5, 10429
+Centroid 607: 5, 10678
+Centroid 608: 5, 10885
+Centroid 609: 6, 11158
+Centroid 610: 6, 11333
+Centroid 611: 6, 11377
+Centroid 612: 7, 11965
+Centroid 613: 7, 12099
+Centroid 614: 9, 12893
+Centroid 615: 9, 13050
+Centroid 616: 9, 13067
+Centroid 617: 9, 13177
+Centroid 618: 9, 13185
+Centroid 619: 10, 13576
+Centroid 620: 10, 13581
+Centroid 621: 10, 13681
+Centroid 622: 10, 13761
+Centroid 623: 10, 13857
+Centroid 624: 12, 14559
+Centroid 625: 12, 14583
+Centroid 626: 12, 14911
+Centroid 627: 13, 15334
+Centroid 628: 13, 15526
+Centroid 629: 13, 15626
+Centroid 630: 15, 16271
+Centroid 631: 15, 16769
+Centroid 632: 15, 16861
+Cluster 2 has the centroids:
+Centroid 1: 7, 11668
+Centroid 2: 16, 17093
+Centroid 3: 8, 12266
+Centroid 4: 7, 2825
+Centroid 5: 17, 6751
+Centroid 6: 15, 16782
+Centroid 7: 19, 18780
+Centroid 8: 17, 6924
+Centroid 9: 8, 12533
+Centroid 10: 8, 12580
+Centroid 11: 7, 2785
+Centroid 12: 10, 13726
+Centroid 13: 13, 5041
+Centroid 14: 7, 11841
+Centroid 15: 9, 3663
+Centroid 16: 18, 7002
+Centroid 17: 7, 11749
+Centroid 18: 8, 3420
+Centroid 19: 17, 6805
+Centroid 20: 16, 17353
+Centroid 21: 18, 18106
+Centroid 22: 14, 16051
+Centroid 23: 17, 6862
+Centroid 24: 17, 17463
+Centroid 25: 0, 266
+Centroid 26: 10, 13315
+Centroid 27: 17, 17878
+Centroid 28: 18, 18170
+Centroid 29: 18, 18349
+Centroid 30: 14, 15864
+Centroid 31: 8, 12609
+Centroid 32: 7, 2925
+Centroid 33: 2, 8736
+Centroid 34: 8, 12543
+Centroid 35: 10, 3851
+Centroid 36: 16, 6303
+Centroid 37: 13, 15299
+Centroid 38: 7, 11909
+Centroid 39: 7, 2702
+Centroid 40: 15, 16518
+Centroid 41: 16, 17122
+Centroid 42: 8, 3285
+Centroid 43: 9, 3508
+Centroid 44: 16, 6548
+Centroid 45: 7, 11661
+Centroid 46: 8, 12598
+Centroid 47: 8, 3109
+Centroid 48: 19, 7511
+Centroid 49: 9, 12999
+Centroid 50: 16, 17271
+Centroid 51: 7, 11635
+Centroid 52: 8, 12206
+Centroid 53: 8, 3235
+Centroid 54: 9, 3716
+Centroid 55: 8, 12281
+Centroid 56: 8, 12430
+Centroid 57: 13, 15450
+Centroid 58: 4, 1544
+Centroid 59: 9, 3461
+Centroid 60: 10, 4185
+Centroid 61: 8, 12217
+Centroid 62: 13, 15121
+Cluster 3 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 17, 17912
+Centroid 3: 17, 6930
+Centroid 4: 18, 18087
+Centroid 5: 17, 17550
+Centroid 6: 15, 5828
+Centroid 7: 16, 17162
+Centroid 8: 7, 11672
+Centroid 9: 17, 17617
+Centroid 10: 16, 17285
+Centroid 11: 19, 7377
+Centroid 12: 11, 14061
+Centroid 13: 4, 1767
+Centroid 14: 15, 16787
+Centroid 15: 17, 17631
+Centroid 16: 17, 6761
+Centroid 17: 5, 2144
+Centroid 18: 5, 2011
+Centroid 19: 19, 18598
+Centroid 20: 16, 17019
+Centroid 21: 17, 17510
+Centroid 22: 7, 11559
+Centroid 23: 1, 448
+Centroid 24: 15, 16394
+Centroid 25: 16, 17110
+Centroid 26: 12, 4996
+Centroid 27: 13, 5050
+Cluster 4 has the centroids:
+Centroid 1: 5, 2052
+Centroid 2: 11, 14239
+Centroid 3: 3, 9318
+Centroid 4: 2, 714
+Centroid 5: 3, 9181
+Centroid 6: 2, 1069
+Centroid 7: 17, 17649
+Centroid 8: 19, 18679
+Centroid 9: 14, 15915
+Centroid 10: 14, 16109
+Centroid 11: 1, 424
+Centroid 12: 5, 10445
+Centroid 13: 13, 15196
+Centroid 14: 7, 2938
+Centroid 15: 2, 866
+Centroid 16: 3, 9685
+Centroid 17: 16, 17356
+Centroid 18: 6, 11131
+Centroid 19: 14, 5737
+Centroid 20: 12, 14584
+Centroid 21: 14, 16197
+Centroid 22: 2, 8690
+Centroid 23: 1, 427
+Centroid 24: 3, 9669
+Centroid 25: 12, 14535
+Centroid 26: 16, 17310
+Centroid 27: 7, 2686
+Centroid 28: 7, 2954
+Centroid 29: 1, 8344
+Centroid 30: 1, 8366
+Centroid 31: 7, 2917
+Centroid 32: 10, 4170
+Centroid 33: 11, 4612
+Centroid 34: 2, 983
+Centroid 35: 17, 6940
+Centroid 36: 18, 7173
+Centroid 37: 7, 2668
+Centroid 38: 11, 4469
+Centroid 39: 9, 12876
+Centroid 40: 7, 2728
+Centroid 41: 3, 9209
+Centroid 42: 3, 1270
+Centroid 43: 16, 6564
+Centroid 44: 5, 10652
+Centroid 45: 8, 12596
+Centroid 46: 2, 781
+Centroid 47: 18, 18122
+Cluster 5 has the centroids:
+Centroid 1: 5, 2054
+Centroid 2: 5, 1947
+Centroid 3: 13, 15595
+Centroid 4: 10, 4118
+Centroid 5: 2, 8711
+Centroid 6: 2, 9132
+Centroid 7: 17, 17710
+Centroid 8: 3, 9727
+Centroid 9: 12, 14770
+Centroid 10: 6, 2606
+Centroid 11: 8, 3183
+Centroid 12: 12, 4655
+Centroid 13: 10, 4247
+Centroid 14: 17, 6708
+Centroid 15: 6, 10933
+Centroid 16: 16, 6493
+Centroid 17: 7, 11538
+Centroid 18: 12, 14793
+Centroid 19: 6, 2407
+Centroid 20: 2, 8914
+Centroid 21: 12, 14517
+Centroid 22: 8, 3175
+Centroid 23: 8, 12508
+Centroid 24: 11, 14482
+Centroid 25: 12, 14589
+Centroid 26: 8, 12412
+Centroid 27: 7, 12052
+Centroid 28: 1, 8295
+Centroid 29: 7, 12008
+Centroid 30: 9, 3753
+Centroid 31: 3, 9423
+Centroid 32: 12, 5021
+Centroid 33: 17, 6655
+Centroid 34: 12, 4686
+Centroid 35: 1, 413
+Centroid 36: 1, 635
+Centroid 37: 10, 3869
+Centroid 38: 16, 6285
+Centroid 39: 8, 12346
+Centroid 40: 3, 1263
+Centroid 41: 5, 2009
+Centroid 42: 12, 5031
+Centroid 43: 5, 2087
+Centroid 44: 4, 9969
+Cluster 6 has the centroids:
+Centroid 1: 18, 18336
+Centroid 2: 9, 12711
+Centroid 3: 17, 17655
+Centroid 4: 10, 13880
+Centroid 5: 18, 18130
+Centroid 6: 17, 6902
+Centroid 7: 7, 11866
+Centroid 8: 17, 17574
+Centroid 9: 18, 18223
+Centroid 10: 19, 7501
+Centroid 11: 18, 18145
+Centroid 12: 16, 17222
+Centroid 13: 16, 6445
+Centroid 14: 11, 4488
+Centroid 15: 13, 5370
+Centroid 16: 6, 11137
+Centroid 17: 10, 4048
+Centroid 18: 17, 17477
+Centroid 19: 9, 12813
+Centroid 20: 13, 15609
+Centroid 21: 6, 2501
+Centroid 22: 15, 5929
+Centroid 23: 16, 6246
+Centroid 24: 10, 4192
+Centroid 25: 16, 17030
+Centroid 26: 17, 17602
+Centroid 27: 13, 15292
+Centroid 28: 13, 15147
+Centroid 29: 14, 5481
+Centroid 30: 16, 6326
+Centroid 31: 14, 15783
+Centroid 32: 17, 17733
+Centroid 33: 18, 18281
+Centroid 34: 17, 17464
+Centroid 35: 9, 12709
+Centroid 36: 10, 13362
+Centroid 37: 8, 12673
+Centroid 38: 9, 13008
+Centroid 39: 10, 13828
+Centroid 40: 17, 17666
+Centroid 41: 17, 6910
+Centroid 42: 1, 8135
+Centroid 43: 16, 6555
+Centroid 44: 5, 10715
+Centroid 45: 15, 16451
+Cluster 7 has the centroids:
+Centroid 1: 3, 9284
+Centroid 2: 13, 15461
+Centroid 3: 16, 17050
+Centroid 4: 16, 6463
+Centroid 5: 14, 15866
+Centroid 6: 1, 552
+Centroid 7: 14, 16231
+Centroid 8: 16, 16950
+Centroid 9: 7, 11886
+Centroid 10: 14, 5591
+Centroid 11: 18, 7000
+Centroid 12: 9, 3627
+Centroid 13: 3, 9458
+Centroid 14: 13, 15148
+Centroid 15: 15, 6091
+Centroid 16: 9, 13118
+Centroid 17: 13, 5087
+Centroid 18: 1, 346
+Centroid 19: 7, 2963
+Centroid 20: 10, 4027
+Centroid 21: 14, 15738
+Centroid 22: 10, 13498
+Centroid 23: 5, 2199
+Centroid 24: 7, 11632
+Centroid 25: 15, 6198
+Centroid 26: 14, 5520
+Centroid 27: 17, 17825
+Centroid 28: 2, 9032
+Centroid 29: 13, 15193
+Centroid 30: 14, 15758
+Centroid 31: 13, 15300
+Centroid 32: 15, 5941
+Centroid 33: 12, 14561
+Centroid 34: 14, 16141
+Centroid 35: 2, 771
+Centroid 36: 14, 5457
+Centroid 37: 8, 12686
+Centroid 38: 4, 1851
+Cluster 8 has the centroids:
+Centroid 1: 11, 4600
+Centroid 2: 18, 18300
+Centroid 3: 17, 6757
+Centroid 4: 0, 7898
+Centroid 5: 18, 18194
+Centroid 6: 15, 16716
+Centroid 7: 16, 6480
+Centroid 8: 17, 6861
+Centroid 9: 18, 7167
+Centroid 10: 18, 7147
+Centroid 11: 18, 18050
+Centroid 12: 18, 7098
+Centroid 13: 14, 5787
+Centroid 14: 0, 7717
+Centroid 15: 18, 7114
+Centroid 16: 16, 16944
+Centroid 17: 18, 18236
+Centroid 18: 18, 18185
+Centroid 19: 17, 6897
+Centroid 20: 11, 14462
+Centroid 21: 9, 12788
+Centroid 22: 16, 17242
+Centroid 23: 0, 201
+Centroid 24: 14, 16124
+Centroid 25: 18, 7210
+Centroid 26: 13, 15269
+Centroid 27: 8, 3144
+Centroid 28: 13, 15475
+Cluster 9 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 18, 7151
+Centroid 3: 17, 6685
+Centroid 4: 17, 17618
+Centroid 5: 15, 5914
+Centroid 6: 17, 6692
+Centroid 7: 17, 17809
+Centroid 8: 15, 6171
+Centroid 9: 9, 13056
+Centroid 10: 19, 18666
+Centroid 11: 17, 6774
+Centroid 12: 17, 17432
+Centroid 13: 18, 7214
+Centroid 14: 19, 18757
+Centroid 15: 15, 6076
+Centroid 16: 17, 17956
+Centroid 17: 14, 15794
+Centroid 18: 16, 6377
+Centroid 19: 17, 6704
+Centroid 20: 16, 6373
+Centroid 21: 17, 17566
+Cluster 10 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 5, 2055
+Centroid 3: 6, 2657
+Centroid 4: 5, 10344
+Centroid 5: 2, 731
+Centroid 6: 5, 10378
+Centroid 7: 18, 7212
+Centroid 8: 0, 7968
+Centroid 9: 7, 11716
+Centroid 10: 17, 17827
+Centroid 11: 9, 13091
+Centroid 12: 16, 6334
+Centroid 13: 13, 15407
+Centroid 14: 7, 12018
+Centroid 15: 8, 3128
+Centroid 16: 13, 15395
+Centroid 17: 14, 16042
+Centroid 18: 18, 18418
+Centroid 19: 12, 4696
+Centroid 20: 7, 12075
+Centroid 21: 10, 4165
+Centroid 22: 4, 10173
+Centroid 23: 4, 1629
+Centroid 24: 16, 16898
+Centroid 25: 12, 5003
+Centroid 26: 10, 3989
+Centroid 27: 17, 6869
+Centroid 28: 1, 8146
+Centroid 29: 11, 14100
+Centroid 30: 8, 3078
+Centroid 31: 6, 11329
+Centroid 32: 16, 17025
+Centroid 33: 14, 15757
+Centroid 34: 7, 2740
+Centroid 35: 16, 17392
+Cluster 11 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 14, 5612
+Centroid 3: 1, 8212
+Centroid 4: 13, 15462
+Centroid 5: 5, 10358
+Centroid 6: 14, 15695
+Centroid 7: 5, 10369
+Centroid 8: 13, 5368
+Centroid 9: 5, 2053
+Centroid 10: 14, 15687
+Centroid 11: 14, 5440
+Centroid 12: 11, 13999
+Centroid 13: 5, 10365
+Centroid 14: 0, 250
+Centroid 15: 1, 8581
+Cluster 12 has the centroids:
+Centroid 1: 4, 10270
+Centroid 2: 5, 2095
+Centroid 3: 1, 669
+Centroid 4: 1, 8521
+Centroid 5: 6, 11339
+Centroid 6: 6, 2621
+Centroid 7: 6, 11471
+Centroid 8: 16, 17328
+Centroid 9: 1, 556
+Centroid 10: 4, 1799
+Centroid 11: 6, 2329
+Centroid 12: 12, 14850
+Centroid 13: 5, 10638
+Centroid 14: 4, 9849
+Centroid 15: 1, 659
+Centroid 16: 4, 1556
+Centroid 17: 13, 5395
+Centroid 18: 4, 10252
+Centroid 19: 13, 15303
+Centroid 20: 3, 1329
+Centroid 21: 3, 9383
+Centroid 22: 5, 2078
+Centroid 23: 1, 558
+Centroid 24: 5, 10560
+Centroid 25: 4, 1649
+Centroid 26: 6, 11124
+Centroid 27: 1, 477
+Centroid 28: 5, 10620
+Centroid 29: 5, 10408
+Centroid 30: 5, 10481
+Centroid 31: 1, 8081
+Centroid 32: 3, 9565
+Centroid 33: 11, 14440
+Centroid 34: 1, 8068
+Centroid 35: 3, 1447
+Centroid 36: 4, 1725
+Centroid 37: 9, 3472
+Centroid 38: 5, 10771
+Centroid 39: 3, 1408
+Centroid 40: 6, 2564
+Centroid 41: 5, 10858
+Centroid 42: 6, 11301
+Centroid 43: 5, 10511
+Centroid 44: 5, 10618
+Centroid 45: 19, 7398
+Centroid 46: 4, 1554
+Centroid 47: 6, 2535
+Centroid 48: 6, 11142
+Centroid 49: 4, 1800
+Cluster 13 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 1, 405
+Centroid 3: 16, 17362
+Centroid 4: 11, 13933
+Centroid 5: 18, 18055
+Centroid 6: 17, 6672
+Centroid 7: 5, 10366
+Centroid 8: 17, 6801
+Centroid 9: 5, 10360
+Centroid 10: 13, 5084
+Centroid 11: 19, 18664
+Centroid 12: 11, 13931
+Centroid 13: 13, 15563
+Centroid 14: 17, 6673
+Centroid 15: 14, 16230
+Centroid 16: 13, 15566
+Cluster 14 has the centroids:
+Centroid 1: 18, 7156
+Centroid 2: 17, 6771
+Centroid 3: 14, 5657
+Centroid 4: 16, 6466
+Centroid 5: 10, 13365
+Centroid 6: 14, 16188
+Centroid 7: 14, 5747
+Centroid 8: 15, 6029
+Centroid 9: 15, 16475
+Centroid 10: 14, 16219
+Centroid 11: 13, 5266
+Centroid 12: 14, 5722
+Centroid 13: 9, 3723
+Centroid 14: 17, 6963
+Centroid 15: 12, 14937
+Centroid 16: 15, 16705
+Centroid 17: 14, 16155
+Centroid 18: 17, 17438
+Centroid 19: 11, 4441
+Centroid 20: 4, 9951
+Centroid 21: 10, 3888
+Centroid 22: 1, 328
+Centroid 23: 14, 15955
+Centroid 24: 7, 3024
+Centroid 25: 17, 6937
+Centroid 26: 13, 15333
+Centroid 27: 14, 16172
+Centroid 28: 12, 4973
+Centroid 29: 8, 12231
+Centroid 30: 7, 2940
+Centroid 31: 3, 9165
+Centroid 32: 14, 15936
+Centroid 33: 7, 2984
+Centroid 34: 1, 8528
+Centroid 35: 17, 6853
+Centroid 36: 8, 12112
+Centroid 37: 16, 17167
+Centroid 38: 12, 4718
+Centroid 39: 12, 5008
+Centroid 40: 19, 18453
+Centroid 41: 18, 18135
+Centroid 42: 10, 13369
+Centroid 43: 14, 5759
+Centroid 44: 8, 12295
+Centroid 45: 14, 15882
+Centroid 46: 18, 18382
+Cluster 15 has the centroids:
+Centroid 1: 11, 13932
+Centroid 2: 11, 13998
+Centroid 3: 11, 14179
+Centroid 4: 11, 14005
+Centroid 5: 11, 14081
+Centroid 6: 11, 13899
+Centroid 7: 1, 8092
+Centroid 8: 11, 4524
+Centroid 9: 12, 14949
+Centroid 10: 10, 13447
+Centroid 11: 11, 14052
+Centroid 12: 17, 17662
+Centroid 13: 1, 471
+Centroid 14: 19, 18631
+Centroid 15: 11, 14001
+Centroid 16: 11, 14177
+Centroid 17: 11, 14150
+Centroid 18: 0, 7549
+Centroid 19: 7, 11858
+Centroid 20: 11, 14321
+Centroid 21: 11, 14418
+Centroid 22: 0, 7991
+Centroid 23: 6, 2505
+Cluster 16 has the centroids:
+Centroid 1: 15, 6203
+Centroid 2: 17, 6674
+Centroid 3: 17, 17941
+Centroid 4: 18, 18032
+Centroid 5: 19, 18494
+Centroid 6: 15, 6165
+Centroid 7: 19, 18542
+Centroid 8: 17, 6905
+Centroid 9: 1, 697
+Centroid 10: 19, 18693
+Centroid 11: 18, 18274
+Centroid 12: 18, 18132
+Centroid 13: 7, 3013
+Centroid 14: 18, 7121
+Centroid 15: 15, 5876
+Centroid 16: 15, 16648
+Centroid 17: 9, 3552
+Centroid 18: 10, 13503
+Centroid 19: 16, 6497
+Centroid 20: 9, 12897
+Centroid 21: 19, 7323
+Centroid 22: 9, 12922
+Centroid 23: 15, 16734
+Centroid 24: 16, 16947
+Centroid 25: 15, 16717
+Centroid 26: 18, 18126
+Centroid 27: 0, 7615
+Centroid 28: 19, 18819
+Centroid 29: 17, 6660
+Cluster 17 has the centroids:
+Centroid 1: 18, 18144
+Centroid 2: 7, 2876
+Centroid 3: 17, 17672
+Centroid 4: 11, 13946
+Centroid 5: 11, 4410
+Centroid 6: 16, 6498
+Centroid 7: 11, 4278
+Centroid 8: 6, 2498
+Centroid 9: 16, 6538
+Centroid 10: 11, 13976
+Centroid 11: 11, 4369
+Centroid 12: 9, 12724
+Centroid 13: 1, 8228
+Centroid 14: 11, 14211
+Centroid 15: 7, 11836
+Centroid 16: 2, 958
+Centroid 17: 3, 1218
+Centroid 18: 11, 4385
+Centroid 19: 11, 13928
+Centroid 20: 11, 14341
+Centroid 21: 7, 2851
+Centroid 22: 14, 15736
+Centroid 23: 11, 4347
+Centroid 24: 11, 14092
+Centroid 25: 11, 14425
+Centroid 26: 5, 2128
+Centroid 27: 7, 11916
+Centroid 28: 16, 17221
+Centroid 29: 11, 14106
+Centroid 30: 11, 4487
+Cluster 18 has the centroids:
+Centroid 1: 0, 7719
+Centroid 2: 0, 7528
+Centroid 3: 10, 13678
+Centroid 4: 0, 174
+Centroid 5: 15, 16556
+Centroid 6: 15, 16388
+Centroid 7: 19, 18669
+Centroid 8: 0, 207
+Centroid 9: 10, 13600
+Centroid 10: 19, 18592
+Centroid 11: 15, 16843
+Centroid 12: 15, 16367
+Centroid 13: 19, 18521
+Centroid 14: 0, 7730
+Centroid 15: 0, 7641
+Centroid 16: 15, 16725
+Centroid 17: 19, 18469
+Centroid 18: 19, 18655
+Centroid 19: 19, 18793
+Centroid 20: 15, 6036
+Centroid 21: 17, 6877
+Centroid 22: 17, 17589
+Centroid 23: 17, 17490
+Centroid 24: 0, 37
+Centroid 25: 15, 16765
+Centroid 26: 0, 7901
+Centroid 27: 19, 7301
+Centroid 28: 19, 7281
+Centroid 29: 0, 7702
+Centroid 30: 0, 7604
+Centroid 31: 0, 7629
+Centroid 32: 15, 5997
+Centroid 33: 19, 7450
+Cluster 19 has the centroids:
+Centroid 1: 11, 14336
+Centroid 2: 5, 10345
+Centroid 3: 13, 5058
+Centroid 4: 17, 17524
+Centroid 5: 2, 863
+Centroid 6: 18, 7041
+Centroid 7: 14, 16195
+Centroid 8: 11, 14357
+Centroid 9: 16, 6271
+Centroid 10: 15, 6194
+Centroid 11: 17, 6813
+Centroid 12: 15, 5939
+Centroid 13: 1, 408
+Centroid 14: 1, 8236
+Centroid 15: 13, 15460
+Centroid 16: 15, 5898
+Centroid 17: 13, 15206
+Centroid 18: 7, 2675
+Centroid 19: 14, 5806
+Centroid 20: 13, 5385
+Centroid 21: 7, 11585
+Centroid 22: 5, 1918
+Centroid 23: 10, 4096
+Centroid 24: 5, 2219
+Centroid 25: 14, 5479
+Centroid 26: 14, 15929
+Centroid 27: 19, 7314
+Centroid 28: 13, 5347
+Centroid 29: 7, 2840
+Centroid 30: 9, 3703
+Centroid 31: 8, 12243
+Centroid 32: 14, 16056
+Centroid 33: 5, 1965
+Centroid 34: 13, 5243
+Centroid 35: 11, 13907
+Centroid 36: 4, 10146
+Centroid 37: 17, 6875
+Centroid 38: 12, 4645
+Centroid 39: 8, 12683
+Centroid 40: 12, 14966
+Centroid 41: 13, 15507
+Centroid 42: 0, 7996
+Centroid 43: 2, 8623
+Centroid 44: 5, 10512
+Centroid 45: 14, 15843
+Centroid 46: 17, 17683
+Centroid 47: 14, 5653
+Centroid 48: 10, 4139
+Centroid 49: 12, 4876
+Centroid 50: 12, 15040
+Centroid 51: 15, 16357
+Centroid 52: 18, 18263
+Centroid 53: 12, 4835
+Centroid 54: 17, 6695
+Centroid 55: 4, 10158
+Centroid 56: 0, 57
+Centroid 57: 13, 5403
+Centroid 58: 7, 11649
+Centroid 59: 12, 15065
+Centroid 60: 2, 8774
+Cluster 20 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 17, 17458
+Centroid 3: 15, 5982
+Centroid 4: 19, 7456
+Centroid 5: 17, 17819
+Centroid 6: 19, 7431
+Centroid 7: 0, 7720
+Centroid 8: 19, 18481
+Centroid 9: 15, 6079
+Centroid 10: 15, 16547
+Centroid 11: 19, 18758
+Centroid 12: 0, 117
+Centroid 13: 15, 16854
+Centroid 14: 15, 6177
+Centroid 15: 17, 6858
+Centroid 16: 15, 6031
+Centroid 17: 0, 147
+Centroid 18: 0, 311
+Centroid 19: 15, 5984
+Centroid 20: 9, 3800
+Centroid 21: 16, 17182
+Centroid 22: 19, 18657
+Centroid 23: 15, 6161
+Centroid 24: 17, 6739
+Reassigning cluster ids to non-centroid docs...
+0.40664187 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 61450
+Número de documentos en el cluster = 17562
+He cubierto 50.00163% del vocabulario del cluster con 712 centroides
+12 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 5509
+Número de documentos en el cluster = 92
+He cubierto 50.499184% del vocabulario del cluster con 12 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 4367
+Número de documentos en el cluster = 40
+He cubierto 52.942524% del vocabulario del cluster con 6 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 4263
+Número de documentos en el cluster = 82
+He cubierto 51.630306% del vocabulario del cluster con 11 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 5385
+Número de documentos en el cluster = 101
+He cubierto 50.622097% del vocabulario del cluster con 7 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 5514
+Número de documentos en el cluster = 54
+He cubierto 51.196953% del vocabulario del cluster con 11 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 4757
+Número de documentos en el cluster = 76
+He cubierto 51.54509% del vocabulario del cluster con 8 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 4512
+Número de documentos en el cluster = 30
+He cubierto 50.99734% del vocabulario del cluster con 6 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 4865
+Número de documentos en el cluster = 21
+He cubierto 52.66187% del vocabulario del cluster con 5 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 5096
+Número de documentos en el cluster = 49
+He cubierto 53.041603% del vocabulario del cluster con 6 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 8084
+Número de documentos en el cluster = 15
+He cubierto 51.17516% del vocabulario del cluster con 5 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 5106
+Número de documentos en el cluster = 251
+He cubierto 50.56796% del vocabulario del cluster con 14 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 8319
+Número de documentos en el cluster = 16
+He cubierto 52.518333% del vocabulario del cluster con 5 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 4320
+Número de documentos en el cluster = 91
+He cubierto 50.324074% del vocabulario del cluster con 15 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 3749
+Número de documentos en el cluster = 40
+He cubierto 53.187515% del vocabulario del cluster con 4 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 4283
+Número de documentos en el cluster = 33
+He cubierto 52.43988% del vocabulario del cluster con 8 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 3573
+Número de documentos en el cluster = 61
+He cubierto 51.301426% del vocabulario del cluster con 9 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3904
+Número de documentos en el cluster = 41
+He cubierto 52.86885% del vocabulario del cluster con 8 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 5029
+Número de documentos en el cluster = 141
+He cubierto 50.586597% del vocabulario del cluster con 15 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 5369
+Número de documentos en el cluster = 24
+He cubierto 50.99646% del vocabulario del cluster con 5 centroides
+0 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 2 iterations: 345 seconds
+Iteration : 3
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 1, 406
+Centroid 3: 5, 10334
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 1, 8211
+Centroid 7: 17, 17615
+Centroid 8: 18, 7234
+Centroid 9: 4, 1549
+Centroid 10: 10, 4032
+Centroid 11: 13, 5086
+Centroid 12: 17, 6943
+Centroid 13: 14, 15684
+Centroid 14: 14, 15741
+Centroid 15: 15, 5839
+Centroid 16: 1, 665
+Centroid 17: 16, 17035
+Centroid 18: 13, 5083
+Centroid 19: 17, 17418
+Centroid 20: 10, 4129
+Centroid 21: 17, 6765
+Centroid 22: 17, 6952
+Centroid 23: 13, 5274
+Centroid 24: 5, 10332
+Centroid 25: 13, 15567
+Centroid 26: 0, 7527
+Centroid 27: 9, 12889
+Centroid 28: 17, 17513
+Centroid 29: 1, 337
+Centroid 30: 17, 17424
+Centroid 31: 6, 11082
+Centroid 32: 14, 15689
+Centroid 33: 5, 10406
+Centroid 34: 17, 17548
+Centroid 35: 17, 6894
+Centroid 36: 13, 5147
+Centroid 37: 0, 144
+Centroid 38: 13, 5123
+Centroid 39: 1, 607
+Centroid 40: 5, 10333
+Centroid 41: 11, 4362
+Centroid 42: 10, 13732
+Centroid 43: 18, 7105
+Centroid 44: 15, 16277
+Centroid 45: 13, 15564
+Centroid 46: 17, 17901
+Centroid 47: 9, 13087
+Centroid 48: 10, 13818
+Centroid 49: 17, 6756
+Centroid 50: 13, 15208
+Centroid 51: 16, 16872
+Centroid 52: 17, 17575
+Centroid 53: 18, 18148
+Centroid 54: 14, 15691
+Centroid 55: 18, 18078
+Centroid 56: 17, 17805
+Centroid 57: 9, 13169
+Centroid 58: 18, 6970
+Centroid 59: 6, 11121
+Centroid 60: 17, 17555
+Centroid 61: 7, 11674
+Centroid 62: 13, 15190
+Centroid 63: 14, 15686
+Centroid 64: 17, 6893
+Centroid 65: 10, 4125
+Centroid 66: 17, 6906
+Centroid 67: 9, 13088
+Centroid 68: 12, 14494
+Centroid 69: 0, 251
+Centroid 70: 13, 15426
+Centroid 71: 15, 16857
+Centroid 72: 14, 15680
+Centroid 73: 17, 6909
+Centroid 74: 5, 10331
+Centroid 75: 1, 542
+Centroid 76: 10, 3986
+Centroid 77: 0, 303
+Centroid 78: 19, 18455
+Centroid 79: 14, 15694
+Centroid 80: 14, 16072
+Centroid 81: 1, 431
+Centroid 82: 16, 6315
+Centroid 83: 14, 15685
+Centroid 84: 18, 7133
+Centroid 85: 17, 17614
+Centroid 86: 15, 5920
+Centroid 87: 13, 5348
+Centroid 88: 5, 10523
+Centroid 89: 11, 14008
+Centroid 90: 10, 4033
+Centroid 91: 14, 5495
+Centroid 92: 17, 17677
+Centroid 93: 1, 483
+Centroid 94: 17, 6954
+Centroid 95: 19, 7514
+Centroid 96: 14, 16178
+Centroid 97: 16, 16924
+Centroid 98: 17, 17859
+Centroid 99: 1, 677
+Centroid 100: 10, 13619
+Centroid 101: 15, 16337
+Centroid 102: 17, 6908
+Centroid 103: 17, 6926
+Centroid 104: 11, 14334
+Centroid 105: 13, 15347
+Centroid 106: 18, 7023
+Centroid 107: 18, 18104
+Centroid 108: 17, 6772
+Centroid 109: 6, 11182
+Centroid 110: 17, 17742
+Centroid 111: 5, 2235
+Centroid 112: 15, 6153
+Centroid 113: 0, 194
+Centroid 114: 2, 907
+Centroid 115: 16, 16959
+Centroid 116: 15, 5950
+Centroid 117: 15, 6098
+Centroid 118: 17, 17634
+Centroid 119: 19, 18484
+Centroid 120: 5, 2153
+Centroid 121: 6, 2537
+Centroid 122: 8, 3337
+Centroid 123: 10, 4151
+Centroid 124: 11, 13910
+Centroid 125: 19, 7503
+Centroid 126: 10, 13356
+Centroid 127: 15, 16758
+Centroid 128: 17, 17446
+Centroid 129: 17, 17577
+Centroid 130: 18, 18061
+Centroid 131: 5, 2267
+Centroid 132: 13, 5133
+Centroid 133: 6, 2463
+Centroid 134: 15, 6002
+Centroid 135: 17, 6907
+Centroid 136: 0, 7614
+Centroid 137: 7, 11667
+Centroid 138: 19, 18809
+Centroid 139: 13, 5063
+Centroid 140: 13, 5284
+Centroid 141: 6, 11444
+Centroid 142: 0, 95
+Centroid 143: 18, 7164
+Centroid 144: 15, 16627
+Centroid 145: 17, 17945
+Centroid 146: 10, 4054
+Centroid 147: 12, 4878
+Centroid 148: 14, 5594
+Centroid 149: 18, 7063
+Centroid 150: 1, 8293
+Centroid 151: 5, 10438
+Centroid 152: 17, 17529
+Centroid 153: 0, 187
+Centroid 154: 5, 2015
+Centroid 155: 6, 2368
+Centroid 156: 17, 6855
+Centroid 157: 17, 17641
+Centroid 158: 14, 5539
+Centroid 159: 17, 6919
+Centroid 160: 19, 7395
+Centroid 161: 4, 10228
+Centroid 162: 19, 18493
+Centroid 163: 19, 18781
+Centroid 164: 5, 2118
+Centroid 165: 6, 2479
+Centroid 166: 6, 2583
+Centroid 167: 18, 6969
+Centroid 168: 5, 10615
+Centroid 169: 14, 15690
+Centroid 170: 15, 16801
+Centroid 171: 16, 17364
+Centroid 172: 7, 2819
+Centroid 173: 17, 6857
+Centroid 174: 17, 6890
+Centroid 175: 6, 11179
+Centroid 176: 14, 15693
+Centroid 177: 15, 16739
+Centroid 178: 16, 17320
+Centroid 179: 17, 17675
+Centroid 180: 15, 6009
+Centroid 181: 15, 6129
+Centroid 182: 5, 10546
+Centroid 183: 6, 10986
+Centroid 184: 6, 11000
+Centroid 185: 16, 17109
+Centroid 186: 16, 17352
+Centroid 187: 5, 1900
+Centroid 188: 10, 4083
+Centroid 189: 8, 12510
+Centroid 190: 11, 14457
+Centroid 191: 13, 15188
+Centroid 192: 13, 15195
+Centroid 193: 17, 17448
+Centroid 194: 19, 18504
+Centroid 195: 0, 119
+Centroid 196: 19, 7375
+Centroid 197: 19, 7483
+Centroid 198: 5, 10806
+Centroid 199: 5, 10890
+Centroid 200: 6, 10946
+Centroid 201: 9, 12993
+Centroid 202: 17, 17496
+Centroid 203: 19, 18567
+Centroid 204: 3, 1434
+Centroid 205: 5, 2081
+Centroid 206: 6, 2351
+Centroid 207: 10, 4178
+Centroid 208: 15, 6014
+Centroid 209: 10, 13891
+Centroid 210: 14, 15688
+Centroid 211: 7, 2945
+Centroid 212: 17, 6730
+Centroid 213: 19, 7519
+Centroid 214: 5, 10693
+Centroid 215: 10, 13808
+Centroid 216: 13, 15355
+Centroid 217: 17, 17899
+Centroid 218: 17, 17927
+Centroid 219: 16, 6342
+Centroid 220: 16, 6567
+Centroid 221: 17, 6782
+Centroid 222: 0, 7886
+Centroid 223: 7, 11896
+Centroid 224: 13, 15510
+Centroid 225: 13, 15642
+Centroid 226: 17, 17625
+Centroid 227: 19, 18558
+Centroid 228: 8, 3102
+Centroid 229: 8, 3188
+Centroid 230: 13, 5265
+Centroid 231: 14, 5475
+Centroid 232: 16, 6543
+Centroid 233: 19, 7341
+Centroid 234: 0, 7695
+Centroid 235: 2, 8907
+Centroid 236: 5, 10690
+Centroid 237: 8, 12493
+Centroid 238: 9, 13196
+Centroid 239: 13, 15512
+Centroid 240: 14, 15681
+Centroid 241: 15, 16446
+Centroid 242: 19, 18543
+Centroid 243: 1, 525
+Centroid 244: 5, 1960
+Centroid 245: 7, 2845
+Centroid 246: 11, 4576
+Centroid 247: 12, 4796
+Centroid 248: 12, 4839
+Centroid 249: 18, 7252
+Centroid 250: 1, 8511
+Centroid 251: 1, 8530
+Centroid 252: 2, 8717
+Centroid 253: 4, 10145
+Centroid 254: 6, 11138
+Centroid 255: 6, 11278
+Centroid 256: 8, 12532
+Centroid 257: 11, 13936
+Centroid 258: 11, 14229
+Centroid 259: 18, 18212
+Centroid 260: 4, 1847
+Centroid 261: 5, 2026
+Centroid 262: 6, 2392
+Centroid 263: 6, 2417
+Centroid 264: 13, 5294
+Centroid 265: 13, 5371
+Centroid 266: 15, 5860
+Centroid 267: 15, 6095
+Centroid 268: 17, 6942
+Centroid 269: 2, 8827
+Centroid 270: 4, 10095
+Centroid 271: 7, 11526
+Centroid 272: 9, 13041
+Centroid 273: 9, 13172
+Centroid 274: 12, 14732
+Centroid 275: 14, 15679
+Centroid 276: 16, 17126
+Centroid 277: 1, 399
+Centroid 278: 6, 2571
+Centroid 279: 9, 3564
+Centroid 280: 10, 3890
+Centroid 281: 12, 4925
+Centroid 282: 14, 5734
+Centroid 283: 14, 5780
+Centroid 284: 15, 6065
+Centroid 285: 17, 6932
+Centroid 286: 19, 7331
+Centroid 287: 1, 8191
+Centroid 288: 5, 10903
+Centroid 289: 8, 12474
+Centroid 290: 11, 13898
+Centroid 291: 12, 14827
+Centroid 292: 13, 15448
+Centroid 293: 14, 15784
+Centroid 294: 15, 16297
+Centroid 295: 16, 17138
+Centroid 296: 17, 17485
+Centroid 297: 17, 17512
+Centroid 298: 17, 17721
+Centroid 299: 18, 18109
+Centroid 300: 18, 18323
+Centroid 301: 19, 18596
+Centroid 302: 19, 18735
+Centroid 303: 2, 910
+Centroid 304: 5, 1978
+Centroid 305: 8, 3323
+Centroid 306: 11, 4569
+Centroid 307: 13, 5070
+Centroid 308: 16, 6260
+Centroid 309: 16, 6449
+Centroid 310: 17, 6737
+Centroid 311: 0, 7734
+Centroid 312: 2, 8647
+Centroid 313: 5, 10708
+Centroid 314: 10, 13588
+Centroid 315: 10, 13594
+Centroid 316: 12, 14528
+Centroid 317: 12, 14925
+Centroid 318: 13, 15144
+Centroid 319: 15, 16470
+Centroid 320: 15, 16589
+Centroid 321: 15, 16662
+Centroid 322: 15, 16844
+Centroid 323: 17, 17433
+Centroid 324: 17, 17595
+Centroid 325: 0, 129
+Centroid 326: 0, 216
+Centroid 327: 7, 2679
+Centroid 328: 7, 2724
+Centroid 329: 8, 3342
+Centroid 330: 9, 3632
+Centroid 331: 10, 4128
+Centroid 332: 18, 7166
+Centroid 333: 19, 7278
+Centroid 334: 1, 8342
+Centroid 335: 8, 12641
+Centroid 336: 9, 13159
+Centroid 337: 10, 13772
+Centroid 338: 14, 15692
+Centroid 339: 14, 16189
+Centroid 340: 15, 16289
+Centroid 341: 17, 17497
+Centroid 342: 17, 17527
+Centroid 343: 17, 17803
+Centroid 344: 18, 18227
+Centroid 345: 2, 713
+Centroid 346: 2, 1030
+Centroid 347: 2, 1075
+Centroid 348: 4, 1534
+Centroid 349: 5, 2008
+Centroid 350: 10, 4086
+Centroid 351: 12, 4873
+Centroid 352: 13, 5099
+Centroid 353: 13, 5232
+Centroid 354: 13, 5271
+Centroid 355: 13, 5336
+Centroid 356: 15, 6170
+Centroid 357: 17, 6814
+Centroid 358: 17, 6880
+Centroid 359: 2, 8845
+Centroid 360: 3, 9435
+Centroid 361: 5, 10630
+Centroid 362: 7, 11605
+Centroid 363: 7, 11633
+Centroid 364: 7, 11659
+Centroid 365: 7, 11883
+Centroid 366: 9, 13236
+Centroid 367: 10, 13364
+Centroid 368: 11, 14048
+Centroid 369: 13, 15639
+Centroid 370: 14, 15729
+Centroid 371: 14, 15813
+Centroid 372: 14, 15858
+Centroid 373: 15, 16741
+Centroid 374: 16, 16933
+Centroid 375: 18, 18139
+Centroid 376: 18, 18283
+Centroid 377: 19, 18509
+Centroid 378: 19, 18545
+Centroid 379: 1, 522
+Centroid 380: 3, 1430
+Centroid 381: 5, 1905
+Centroid 382: 6, 2324
+Centroid 383: 8, 3070
+Centroid 384: 8, 3417
+Centroid 385: 12, 4672
+Centroid 386: 18, 7029
+Centroid 387: 5, 10389
+Centroid 388: 7, 11868
+Centroid 389: 8, 12197
+Centroid 390: 9, 12702
+Centroid 391: 9, 12768
+Centroid 392: 9, 13050
+Centroid 393: 11, 14034
+Centroid 394: 13, 15348
+Centroid 395: 14, 15682
+Centroid 396: 14, 15911
+Centroid 397: 15, 16449
+Centroid 398: 15, 16579
+Centroid 399: 17, 17556
+Centroid 400: 18, 18251
+Centroid 401: 19, 18788
+Centroid 402: 2, 759
+Centroid 403: 2, 1095
+Centroid 404: 5, 2251
+Centroid 405: 7, 2759
+Centroid 406: 8, 3170
+Centroid 407: 8, 3191
+Centroid 408: 8, 3204
+Centroid 409: 8, 3219
+Centroid 410: 8, 3283
+Centroid 411: 12, 4663
+Centroid 412: 12, 4709
+Centroid 413: 13, 5312
+Centroid 414: 15, 6201
+Centroid 415: 18, 7014
+Centroid 416: 18, 7208
+Centroid 417: 1, 8506
+Centroid 418: 2, 8887
+Centroid 419: 2, 8938
+Centroid 420: 5, 10588
+Centroid 421: 7, 11552
+Centroid 422: 9, 13201
+Centroid 423: 10, 13424
+Centroid 424: 10, 13481
+Centroid 425: 11, 14056
+Centroid 426: 12, 14495
+Centroid 427: 13, 15141
+Centroid 428: 13, 15150
+Centroid 429: 14, 16196
+Centroid 430: 15, 16486
+Centroid 431: 15, 16709
+Centroid 432: 17, 17417
+Centroid 433: 17, 17709
+Centroid 434: 19, 18742
+Centroid 435: 0, 55
+Centroid 436: 0, 175
+Centroid 437: 5, 1887
+Centroid 438: 7, 2870
+Centroid 439: 7, 2882
+Centroid 440: 7, 2931
+Centroid 441: 8, 3253
+Centroid 442: 9, 3602
+Centroid 443: 9, 3626
+Centroid 444: 11, 4298
+Centroid 445: 11, 4644
+Centroid 446: 13, 5057
+Centroid 447: 13, 5120
+Centroid 448: 13, 5396
+Centroid 449: 14, 5772
+Centroid 450: 15, 6186
+Centroid 451: 16, 6550
+Centroid 452: 18, 7131
+Centroid 453: 18, 7180
+Centroid 454: 18, 7231
+Centroid 455: 0, 7677
+Centroid 456: 0, 7690
+Centroid 457: 0, 7905
+Centroid 458: 2, 8748
+Centroid 459: 2, 8884
+Centroid 460: 3, 9187
+Centroid 461: 5, 10719
+Centroid 462: 6, 11027
+Centroid 463: 6, 11392
+Centroid 464: 6, 11399
+Centroid 465: 7, 11629
+Centroid 466: 8, 12200
+Centroid 467: 8, 12246
+Centroid 468: 8, 12347
+Centroid 469: 9, 12719
+Centroid 470: 9, 12812
+Centroid 471: 10, 13421
+Centroid 472: 11, 13939
+Centroid 473: 12, 14614
+Centroid 474: 12, 15029
+Centroid 475: 14, 16090
+Centroid 476: 15, 16354
+Centroid 477: 16, 17048
+Centroid 478: 17, 17828
+Centroid 479: 17, 17851
+Centroid 480: 18, 17997
+Centroid 481: 18, 18359
+Centroid 482: 1, 395
+Centroid 483: 3, 1244
+Centroid 484: 4, 1852
+Centroid 485: 6, 2585
+Centroid 486: 9, 3688
+Centroid 487: 9, 3746
+Centroid 488: 13, 5053
+Centroid 489: 13, 5236
+Centroid 490: 13, 5240
+Centroid 491: 13, 5376
+Centroid 492: 16, 6434
+Centroid 493: 17, 6678
+Centroid 494: 17, 6687
+Centroid 495: 17, 6752
+Centroid 496: 18, 7187
+Centroid 497: 19, 7315
+Centroid 498: 3, 9463
+Centroid 499: 4, 10308
+Centroid 500: 5, 10460
+Centroid 501: 6, 11046
+Centroid 502: 6, 11309
+Centroid 503: 6, 11330
+Centroid 504: 7, 11658
+Centroid 505: 7, 11932
+Centroid 506: 8, 12105
+Centroid 507: 10, 13612
+Centroid 508: 11, 14295
+Centroid 509: 12, 14684
+Centroid 510: 12, 14986
+Centroid 511: 13, 15324
+Centroid 512: 13, 15332
+Centroid 513: 13, 15506
+Centroid 514: 13, 15602
+Centroid 515: 15, 16514
+Centroid 516: 15, 16821
+Centroid 517: 16, 17269
+Centroid 518: 17, 17461
+Centroid 519: 17, 17904
+Centroid 520: 18, 18317
+Centroid 521: 18, 18391
+Centroid 522: 19, 18447
+Centroid 523: 19, 18500
+Centroid 524: 19, 18502
+Centroid 525: 0, 318
+Centroid 526: 1, 507
+Centroid 527: 2, 1062
+Centroid 528: 2, 1091
+Centroid 529: 3, 1304
+Centroid 530: 7, 2765
+Centroid 531: 7, 2777
+Centroid 532: 8, 3237
+Centroid 533: 9, 3822
+Centroid 534: 13, 5102
+Centroid 535: 13, 5130
+Centroid 536: 13, 5242
+Centroid 537: 13, 5298
+Centroid 538: 13, 5375
+Centroid 539: 15, 6016
+Centroid 540: 16, 6287
+Centroid 541: 16, 6455
+Centroid 542: 17, 6721
+Centroid 543: 17, 6825
+Centroid 544: 17, 6958
+Centroid 545: 18, 7141
+Centroid 546: 1, 8100
+Centroid 547: 2, 9037
+Centroid 548: 7, 11996
+Centroid 549: 9, 12966
+Centroid 550: 10, 13357
+Centroid 551: 10, 13689
+Centroid 552: 11, 14215
+Centroid 553: 12, 14806
+Centroid 554: 13, 15245
+Centroid 555: 13, 15291
+Centroid 556: 13, 15385
+Centroid 557: 13, 15538
+Centroid 558: 14, 15902
+Centroid 559: 15, 16333
+Centroid 560: 15, 16523
+Centroid 561: 15, 16592
+Centroid 562: 15, 16800
+Centroid 563: 16, 17007
+Centroid 564: 17, 17419
+Centroid 565: 17, 17440
+Centroid 566: 17, 17445
+Centroid 567: 17, 17450
+Centroid 568: 17, 17689
+Centroid 569: 18, 18102
+Centroid 570: 18, 18326
+Centroid 571: 19, 18528
+Centroid 572: 19, 18620
+Centroid 573: 19, 18814
+Centroid 574: 0, 25
+Centroid 575: 0, 283
+Centroid 576: 1, 653
+Centroid 577: 4, 1819
+Centroid 578: 5, 1996
+Centroid 579: 5, 2114
+Centroid 580: 6, 2602
+Centroid 581: 7, 2822
+Centroid 582: 8, 3251
+Centroid 583: 9, 3672
+Centroid 584: 12, 4799
+Centroid 585: 13, 5417
+Centroid 586: 14, 5579
+Centroid 587: 14, 5706
+Centroid 588: 15, 5840
+Centroid 589: 16, 6494
+Centroid 590: 0, 7777
+Centroid 591: 0, 7944
+Centroid 592: 1, 8373
+Centroid 593: 1, 8386
+Centroid 594: 2, 8784
+Centroid 595: 3, 9304
+Centroid 596: 3, 9437
+Centroid 597: 3, 9717
+Centroid 598: 3, 9751
+Centroid 599: 5, 10730
+Centroid 600: 6, 10991
+Centroid 601: 6, 11268
+Centroid 602: 6, 11344
+Centroid 603: 8, 12679
+Centroid 604: 9, 13165
+Centroid 605: 9, 13179
+Centroid 606: 10, 13450
+Centroid 607: 10, 13653
+Centroid 608: 10, 13788
+Centroid 609: 11, 14300
+Centroid 610: 12, 14572
+Centroid 611: 12, 14670
+Centroid 612: 13, 15266
+Centroid 613: 13, 15271
+Centroid 614: 14, 15970
+Centroid 615: 15, 16636
+Centroid 616: 16, 16902
+Centroid 617: 16, 16979
+Centroid 618: 16, 17181
+Centroid 619: 17, 17452
+Centroid 620: 17, 17552
+Centroid 621: 17, 17651
+Centroid 622: 17, 17918
+Centroid 623: 17, 17961
+Centroid 624: 18, 18193
+Centroid 625: 19, 18764
+Centroid 626: 1, 488
+Centroid 627: 1, 569
+Centroid 628: 2, 886
+Centroid 629: 2, 935
+Centroid 630: 3, 1107
+Centroid 631: 3, 1353
+Centroid 632: 5, 1991
+Centroid 633: 5, 2163
+Centroid 634: 5, 2228
+Centroid 635: 6, 2588
+Centroid 636: 7, 2693
+Centroid 637: 7, 2701
+Centroid 638: 8, 3187
+Centroid 639: 8, 3202
+Centroid 640: 8, 3401
+Centroid 641: 9, 3465
+Centroid 642: 9, 3580
+Centroid 643: 10, 4101
+Centroid 644: 11, 4500
+Centroid 645: 12, 4646
+Centroid 646: 12, 4701
+Centroid 647: 12, 4761
+Centroid 648: 13, 5051
+Centroid 649: 13, 5137
+Centroid 650: 13, 5255
+Centroid 651: 13, 5402
+Centroid 652: 14, 5711
+Centroid 653: 14, 5810
+Centroid 654: 15, 6064
+Centroid 655: 15, 6122
+Centroid 656: 15, 6160
+Centroid 657: 18, 7213
+Centroid 658: 19, 7403
+Centroid 659: 0, 7866
+Centroid 660: 0, 7972
+Centroid 661: 1, 8199
+Centroid 662: 1, 8407
+Centroid 663: 1, 8515
+Centroid 664: 2, 8624
+Centroid 665: 3, 9210
+Centroid 666: 4, 10238
+Centroid 667: 5, 10501
+Centroid 668: 5, 10518
+Centroid 669: 5, 10633
+Centroid 670: 5, 10743
+Centroid 671: 6, 11045
+Centroid 672: 6, 11193
+Centroid 673: 6, 11376
+Centroid 674: 6, 11447
+Centroid 675: 7, 11582
+Centroid 676: 7, 11871
+Centroid 677: 9, 12741
+Centroid 678: 9, 13218
+Centroid 679: 9, 13262
+Centroid 680: 10, 13404
+Centroid 681: 11, 13996
+Centroid 682: 11, 14194
+Centroid 683: 11, 14426
+Centroid 684: 12, 14680
+Centroid 685: 13, 15241
+Centroid 686: 13, 15318
+Centroid 687: 13, 15665
+Centroid 688: 14, 15963
+Centroid 689: 14, 15979
+Centroid 690: 14, 16062
+Centroid 691: 14, 16164
+Centroid 692: 15, 16309
+Centroid 693: 15, 16423
+Centroid 694: 16, 16892
+Centroid 695: 16, 17002
+Centroid 696: 16, 17016
+Centroid 697: 16, 17112
+Centroid 698: 16, 17118
+Centroid 699: 18, 18081
+Centroid 700: 18, 18384
+Centroid 701: 0, 42
+Centroid 702: 0, 125
+Centroid 703: 0, 256
+Centroid 704: 1, 329
+Centroid 705: 1, 412
+Centroid 706: 3, 1201
+Centroid 707: 3, 1231
+Centroid 708: 3, 1322
+Centroid 709: 4, 1576
+Centroid 710: 6, 2433
+Centroid 711: 7, 2714
+Centroid 712: 7, 2833
+Cluster 2 has the centroids:
+Centroid 1: 7, 11668
+Centroid 2: 16, 17093
+Centroid 3: 8, 12266
+Centroid 4: 7, 2825
+Centroid 5: 17, 6751
+Centroid 6: 15, 16782
+Centroid 7: 19, 18780
+Centroid 8: 17, 6924
+Centroid 9: 8, 12533
+Centroid 10: 8, 12580
+Centroid 11: 7, 2785
+Centroid 12: 10, 13726
+Cluster 3 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 17, 17912
+Centroid 3: 17, 6930
+Centroid 4: 18, 18087
+Centroid 5: 17, 17550
+Centroid 6: 15, 5828
+Cluster 4 has the centroids:
+Centroid 1: 5, 2052
+Centroid 2: 11, 14239
+Centroid 3: 3, 9318
+Centroid 4: 2, 714
+Centroid 5: 3, 9181
+Centroid 6: 2, 1069
+Centroid 7: 17, 17649
+Centroid 8: 19, 18679
+Centroid 9: 14, 15915
+Centroid 10: 14, 16109
+Centroid 11: 1, 424
+Cluster 5 has the centroids:
+Centroid 1: 5, 2054
+Centroid 2: 5, 1947
+Centroid 3: 13, 15595
+Centroid 4: 10, 4118
+Centroid 5: 2, 8711
+Centroid 6: 2, 9132
+Centroid 7: 17, 17710
+Cluster 6 has the centroids:
+Centroid 1: 18, 18336
+Centroid 2: 9, 12711
+Centroid 3: 17, 17655
+Centroid 4: 10, 13880
+Centroid 5: 18, 18130
+Centroid 6: 17, 6902
+Centroid 7: 7, 11866
+Centroid 8: 17, 17574
+Centroid 9: 18, 18223
+Centroid 10: 19, 7501
+Centroid 11: 18, 18145
+Cluster 7 has the centroids:
+Centroid 1: 3, 9284
+Centroid 2: 13, 15461
+Centroid 3: 16, 17050
+Centroid 4: 16, 6463
+Centroid 5: 14, 15866
+Centroid 6: 1, 552
+Centroid 7: 14, 16231
+Centroid 8: 16, 16950
+Cluster 8 has the centroids:
+Centroid 1: 11, 4600
+Centroid 2: 18, 18300
+Centroid 3: 17, 6757
+Centroid 4: 0, 7898
+Centroid 5: 18, 18194
+Centroid 6: 15, 16716
+Cluster 9 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 18, 7151
+Centroid 3: 17, 6685
+Centroid 4: 17, 17618
+Centroid 5: 15, 5914
+Cluster 10 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 5, 2055
+Centroid 3: 6, 2657
+Centroid 4: 5, 10344
+Centroid 5: 2, 731
+Centroid 6: 5, 10378
+Cluster 11 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 14, 5612
+Centroid 3: 1, 8212
+Centroid 4: 13, 15462
+Centroid 5: 5, 10358
+Cluster 12 has the centroids:
+Centroid 1: 4, 10270
+Centroid 2: 5, 2095
+Centroid 3: 1, 669
+Centroid 4: 1, 8521
+Centroid 5: 6, 11339
+Centroid 6: 6, 2621
+Centroid 7: 6, 11471
+Centroid 8: 16, 17328
+Centroid 9: 1, 556
+Centroid 10: 4, 1799
+Centroid 11: 6, 2329
+Centroid 12: 12, 14850
+Centroid 13: 5, 10638
+Centroid 14: 4, 9849
+Cluster 13 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 1, 405
+Centroid 3: 16, 17362
+Centroid 4: 11, 13933
+Centroid 5: 18, 18055
+Cluster 14 has the centroids:
+Centroid 1: 18, 7156
+Centroid 2: 17, 6771
+Centroid 3: 14, 5657
+Centroid 4: 16, 6466
+Centroid 5: 10, 13365
+Centroid 6: 14, 16188
+Centroid 7: 14, 5747
+Centroid 8: 15, 6029
+Centroid 9: 15, 16475
+Centroid 10: 14, 16219
+Centroid 11: 13, 5266
+Centroid 12: 14, 5722
+Centroid 13: 9, 3723
+Centroid 14: 17, 6963
+Centroid 15: 12, 14937
+Cluster 15 has the centroids:
+Centroid 1: 11, 13932
+Centroid 2: 11, 13998
+Centroid 3: 11, 14179
+Centroid 4: 11, 14005
+Cluster 16 has the centroids:
+Centroid 1: 15, 6203
+Centroid 2: 17, 6674
+Centroid 3: 17, 17941
+Centroid 4: 18, 18032
+Centroid 5: 19, 18494
+Centroid 6: 15, 6165
+Centroid 7: 19, 18542
+Centroid 8: 17, 6905
+Cluster 17 has the centroids:
+Centroid 1: 18, 18144
+Centroid 2: 7, 2876
+Centroid 3: 17, 17672
+Centroid 4: 11, 13946
+Centroid 5: 11, 4410
+Centroid 6: 16, 6498
+Centroid 7: 11, 4278
+Centroid 8: 6, 2498
+Centroid 9: 16, 6538
+Cluster 18 has the centroids:
+Centroid 1: 0, 7719
+Centroid 2: 0, 7528
+Centroid 3: 10, 13678
+Centroid 4: 0, 174
+Centroid 5: 15, 16556
+Centroid 6: 15, 16388
+Centroid 7: 19, 18669
+Centroid 8: 0, 207
+Cluster 19 has the centroids:
+Centroid 1: 11, 14336
+Centroid 2: 5, 10345
+Centroid 3: 13, 5058
+Centroid 4: 17, 17524
+Centroid 5: 2, 863
+Centroid 6: 18, 7041
+Centroid 7: 14, 16195
+Centroid 8: 11, 14357
+Centroid 9: 16, 6271
+Centroid 10: 15, 6194
+Centroid 11: 17, 6813
+Centroid 12: 15, 5939
+Centroid 13: 1, 408
+Centroid 14: 1, 8236
+Centroid 15: 13, 15460
+Cluster 20 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 17, 17458
+Centroid 3: 15, 5982
+Centroid 4: 19, 7456
+Centroid 5: 17, 17819
+Reassigning cluster ids to non-centroid docs...
+0.05876727 fraction of the documents reassigned different clusters...
+Stopping after 3 iterations...
+Time to cluster: 532 seconds
+Termina de inicializar mapa de ids de clusters
+Acc, Prec, recall, fscore: 
+0.07325534 0.0504676 0.9750304 0.0959679
+
+Purity: 0.05696068012752391
+NMI: 0.010337022423788556
+RI: 0.07325533429116875

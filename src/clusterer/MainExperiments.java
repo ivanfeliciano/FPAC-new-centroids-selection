@@ -19,48 +19,39 @@ public class MainExperiments {
     public static void main(String[] args) {
         try {
             PrintStream out;
-            
-            if (args.length == 0) {
-                args = new String[1];
-                System.out.println("Usage: java FastKMedoidsClusterer <prop-file>");
-                args[0] = "init_0.properties";
-            }
-            
-            LuceneClusterer algorithms [];
-            algorithms = new LuceneClusterer[5];
-            algorithms[0] = new FPACWithMCentroids(args[0]);
-            algorithms[1] = new KMedoidsClusterer(args[0]);
-            algorithms[2] = new FastKMedoidsClusterer_TrueCentroid(args[0]);
-            algorithms[3] = new KMeansClusterer(args[0]);
-            algorithms[4] = new ScalableKMeans(args[0]);
-            
-            for (int algoIterator = 0; algoIterator < 5; algoIterator++) {
-                out = new PrintStream(new FileOutputStream("logs_tweets_algorithm" + algoIterator + ".txt"));
-                System.setOut(out);
-                LuceneClusterer fkmc = algorithms[algoIterator];
-                fkmc.cluster();
-                boolean eval = Boolean.parseBoolean(fkmc.getProperties().getProperty("eval", "true"));
-                if (eval) {
-                    ClusterEvaluator ceval = new ClusterEvaluator(args[0]);
-                    System.out.println("Purity: " + ceval.computePurity());
-                    System.out.println("NMI: " + ceval.computeNMI());
-                    System.out.println("RI: " + ceval.computeRandIndex());
+            System.out.println("Ejecución usando 20 Newsgroups");
+            int numberOfClusters [] = {20, 40};
+
+            for (int k : numberOfClusters) {
+                String propFileName = "/home/ivan/Documentos/FPAC-new-centroids-selection/run_properties/20News_init_" + k + ".properties";
+                LuceneClusterer algorithms [];
+                algorithms = new LuceneClusterer[5];
+                algorithms[0] = new FastKMedoidsClusterer(propFileName);
+                algorithms[1] = new FastKMedoidsClusterer_TrueCentroid(propFileName);
+                algorithms[2] = new FPACNU_NotSimilarHeuristics(propFileName);
+                algorithms[3] = new FPACNU_SetCover(propFileName, 25);
+                algorithms[4] = new FPACNU_SetCover(propFileName, 50);
+//                algorithms[5] = new FPACNU_SetCover(propFileName, 75);
+//                algorithms[2] = new FPACNU_SetCover(propFileName);
+                for (int algoIterator = 0; algoIterator < 5; algoIterator++) {
+                    out = new PrintStream(new FileOutputStream("./logs/logs_20News_" + k + "_algorithm" + algoIterator + ".txt"));
+                    System.setOut(out);
+
+                    try {
+                        algorithms[algoIterator].cluster();
+                        ClusterEvaluator ceval = new ClusterEvaluator(propFileName);
+                        System.out.println("Acc, Prec, recall, fscore: ");
+                        ceval.showNewMeasures();
+                        System.out.print("\nPurity: " + ceval.computePurity());
+                        System.out.print("\nNMI: " + ceval.computeNMI());
+                        System.out.print("\nRI: " + ceval.computeRandIndex());
+                        System.out.println();
+                    }catch (Exception e){
+                        System.out.println(e);
+                    }
+
                 }
-            }
-            for (int idxPropertyFile = 1; idxPropertyFile < 3; idxPropertyFile++) {
-                String propertyFile = "init_" + idxPropertyFile + ".properties";
-                out = new PrintStream(new FileOutputStream("logs_tweets_algorithm_m_centroids" + idxPropertyFile + ".txt"));
-                System.setOut(out);
-                    
-                LuceneClusterer fkmc = new FPACWithMCentroids(propertyFile);
-                fkmc.cluster();
-                boolean eval = Boolean.parseBoolean(fkmc.getProperties().getProperty("eval", "true"));
-                if (eval) {
-                    ClusterEvaluator ceval = new ClusterEvaluator(args[0]);
-                    System.out.println("Purity: " + ceval.computePurity());
-                    System.out.println("NMI: " + ceval.computeNMI());
-                    System.out.println("RI: " + ceval.computeRandIndex());
-                }
+                break;
             }
                 
         } catch (Exception ex) {

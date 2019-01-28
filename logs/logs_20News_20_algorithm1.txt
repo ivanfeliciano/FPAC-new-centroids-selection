@@ -1,0 +1,529 @@
+Chosen doc 2616 as centroid number 1
+Chosen doc 6145 as centroid number 2
+Chosen doc 7912 as centroid number 3
+Chosen doc 8775 as centroid number 4
+Chosen doc 3646 as centroid number 5
+Chosen doc 18743 as centroid number 6
+Chosen doc 9484 as centroid number 7
+Chosen doc 1921 as centroid number 8
+Chosen doc 10725 as centroid number 9
+Chosen doc 5012 as centroid number 10
+Chosen doc 5563 as centroid number 11
+Chosen doc 3612 as centroid number 12
+Chosen doc 6319 as centroid number 13
+Chosen doc 72 as centroid number 14
+Chosen doc 17394 as centroid number 15
+Chosen doc 12061 as centroid number 16
+Chosen doc 12685 as centroid number 17
+Chosen doc 3045 as centroid number 18
+Chosen doc 2167 as centroid number 19
+Chosen doc 2221 as centroid number 20
+Iteration : 1
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.9989373 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 1 iterations: 0 seconds
+Global time until this iteration: 0 seconds
+Iteration : 2
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47210413 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 2 iterations: 0 seconds
+Iteration : 3
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47167906 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 3 iterations: 0 seconds
+Iteration : 4
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.4717322 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 4 iterations: 0 seconds
+Iteration : 5
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.4724761 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 5 iterations: 0 seconds
+Iteration : 6
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.4749203 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 6 iterations: 0 seconds
+Iteration : 7
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47428268 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 7 iterations: 0 seconds
+Iteration : 8
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47194475 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 8 iterations: 0 seconds
+Iteration : 9
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47507972 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 9 iterations: 0 seconds
+Iteration : 10
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47306058 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 10 iterations: 0 seconds
+Iteration : 11
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47231668 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 11 iterations: 0 seconds
+Iteration : 12
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47380447 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 12 iterations: 0 seconds
+Iteration : 13
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.4753985 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 13 iterations: 0 seconds
+Iteration : 14
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.4708289 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 14 iterations: 0 seconds
+Iteration : 15
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47327313 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 15 iterations: 0 seconds
+Iteration : 16
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47205102 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 16 iterations: 0 seconds
+Iteration : 17
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47460148 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 17 iterations: 0 seconds
+Iteration : 18
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47407013 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 18 iterations: 0 seconds
+Iteration : 19
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47268862 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 19 iterations: 0 seconds
+Iteration : 20
+Centroid 0: 6, 2616
+Centroid 1: 15, 6145
+Centroid 2: 0, 7912
+Centroid 3: 2, 8775
+Centroid 4: 9, 3646
+Centroid 5: 19, 18743
+Centroid 6: 3, 9484
+Centroid 7: 5, 1921
+Centroid 8: 5, 10725
+Centroid 9: 12, 5012
+Centroid 10: 14, 5563
+Centroid 11: 9, 3612
+Centroid 12: 16, 6319
+Centroid 13: 0, 72
+Centroid 14: 16, 17394
+Centroid 15: 7, 12061
+Centroid 16: 8, 12685
+Centroid 17: 7, 3045
+Centroid 18: 5, 2167
+Centroid 19: 5, 2221
+Reassigning cluster ids to non-centroid docs...
+0.47268862 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 9368
+Time to run till 20 iterations: 0 seconds
+Time to cluster: 0 seconds
+Termina de inicializar mapa de ids de clusters
+Acc, Prec, recall, fscore: 
+0.9067776 0.076624535 0.076723866 0.07667416
+
+Purity: 0.1681721572794899
+NMI: 0.06039229691234211
+RI: 0.9067775637019565

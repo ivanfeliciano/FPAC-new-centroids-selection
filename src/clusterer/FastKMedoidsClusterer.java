@@ -164,7 +164,7 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
         if (args.length == 0) {
             args = new String[1];
             System.out.println("Usage: java FastKMedoidsClusterer <prop-file>");
-            args[0] = "/home/ivan/Documentos/FPAC-new-centroids-selection/run_properties/init_0.properties";
+            args[0] = "/home/ivan/Documentos/FPAC-new-centroids-selection/run_properties/20News_init_10.properties";
         }
         
         try {

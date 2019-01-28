@@ -1,0 +1,929 @@
+Chosen doc 8633 as centroid number 1
+Chosen doc 11720 as centroid number 2
+Chosen doc 18246 as centroid number 3
+Chosen doc 16128 as centroid number 4
+Chosen doc 16371 as centroid number 5
+Chosen doc 4639 as centroid number 6
+Chosen doc 5837 as centroid number 7
+Chosen doc 17246 as centroid number 8
+Chosen doc 6700 as centroid number 9
+Chosen doc 10613 as centroid number 10
+Chosen doc 12371 as centroid number 11
+Chosen doc 1048 as centroid number 12
+Chosen doc 7181 as centroid number 13
+Chosen doc 11420 as centroid number 14
+Chosen doc 11964 as centroid number 15
+Chosen doc 15897 as centroid number 16
+Chosen doc 16663 as centroid number 17
+Chosen doc 4499 as centroid number 18
+Chosen doc 1640 as centroid number 19
+Chosen doc 11726 as centroid number 20
+Iteration : 1
+Centroid 0: 2, 8633
+Centroid 1: 7, 11720
+Centroid 2: 18, 18246
+Centroid 3: 14, 16128
+Centroid 4: 15, 16371
+Centroid 5: 11, 4639
+Centroid 6: 15, 5837
+Centroid 7: 16, 17246
+Centroid 8: 17, 6700
+Centroid 9: 5, 10613
+Centroid 10: 8, 12371
+Centroid 11: 2, 1048
+Centroid 12: 18, 7181
+Centroid 13: 6, 11420
+Centroid 14: 7, 11964
+Centroid 15: 14, 15897
+Centroid 16: 15, 16663
+Centroid 17: 11, 4499
+Centroid 18: 4, 1640
+Centroid 19: 7, 11726
+Reassigning cluster ids to non-centroid docs...
+0.9989373 fraction of the documents reassigned different clusters...
+Changed centroid document 8633 to 723
+Changed centroid document 11720 to 316
+Changed centroid document 18246 to 546
+Changed centroid document 16128 to 794
+Changed centroid document 16371 to 571
+Changed centroid document 4639 to 457
+Changed centroid document 5837 to 832
+Changed centroid document 17246 to 233
+Changed centroid document 6700 to 204
+Changed centroid document 10613 to 83
+Changed centroid document 12371 to 746
+Changed centroid document 1048 to 664
+Changed centroid document 7181 to 752
+Changed centroid document 11420 to 898
+Changed centroid document 11964 to 226
+Changed centroid document 15897 to 629
+Changed centroid document 16663 to 315
+Changed centroid document 4499 to 719
+Changed centroid document 1640 to 489
+Changed centroid document 11726 to 842
+numberOfDocsAssigendRandomly = 9774
+Time to run till 1 iterations: 1 seconds
+Global time until this iteration: 1 seconds
+Iteration : 2
+Centroid 0: 2, 723
+Centroid 1: 0, 316
+Centroid 2: 1, 546
+Centroid 3: 2, 794
+Centroid 4: 1, 571
+Centroid 5: 1, 457
+Centroid 6: 2, 832
+Centroid 7: 0, 233
+Centroid 8: 0, 204
+Centroid 9: 0, 83
+Centroid 10: 2, 746
+Centroid 11: 1, 664
+Centroid 12: 2, 752
+Centroid 13: 2, 898
+Centroid 14: 0, 226
+Centroid 15: 1, 629
+Centroid 16: 0, 315
+Centroid 17: 2, 719
+Centroid 18: 1, 489
+Centroid 19: 2, 842
+Reassigning cluster ids to non-centroid docs...
+0.94569606 fraction of the documents reassigned different clusters...
+Changed centroid document 723 to 95
+Changed centroid document 316 to 244
+Changed centroid document 546 to 139
+Changed centroid document 794 to 840
+Changed centroid document 571 to 139
+Changed centroid document 457 to 52
+Changed centroid document 832 to 181
+Changed centroid document 233 to 75
+Changed centroid document 204 to 889
+Changed centroid document 83 to 823
+Changed centroid document 746 to 831
+Changed centroid document 664 to 28
+Changed centroid document 752 to 675
+Changed centroid document 898 to 575
+Changed centroid document 226 to 559
+Changed centroid document 629 to 929
+Changed centroid document 315 to 161
+Changed centroid document 719 to 524
+Changed centroid document 489 to 95
+Changed centroid document 842 to 555
+numberOfDocsAssigendRandomly = 10302
+Time to run till 2 iterations: 0 seconds
+Iteration : 3
+Centroid 0: 0, 95
+Centroid 1: 0, 244
+Centroid 2: 0, 139
+Centroid 3: 2, 840
+Centroid 4: 0, 139
+Centroid 5: 0, 52
+Centroid 6: 0, 181
+Centroid 7: 0, 75
+Centroid 8: 2, 889
+Centroid 9: 2, 823
+Centroid 10: 2, 831
+Centroid 11: 0, 28
+Centroid 12: 1, 675
+Centroid 13: 1, 575
+Centroid 14: 1, 559
+Centroid 15: 2, 929
+Centroid 16: 0, 161
+Centroid 17: 1, 524
+Centroid 18: 0, 95
+Centroid 19: 1, 555
+Reassigning cluster ids to non-centroid docs...
+0.9493624 fraction of the documents reassigned different clusters...
+Changed centroid document 95 to 59
+Changed centroid document 244 to 369
+Changed centroid document 139 to 598
+Changed centroid document 840 to 54
+Changed centroid document 139 to 598
+Changed centroid document 52 to 644
+Changed centroid document 181 to 233
+Changed centroid document 75 to 423
+Changed centroid document 889 to 44
+Changed centroid document 823 to 113
+Changed centroid document 831 to 330
+Changed centroid document 28 to 903
+Changed centroid document 675 to 5
+Changed centroid document 575 to 27
+Changed centroid document 559 to 179
+Changed centroid document 929 to 851
+Changed centroid document 161 to 320
+Changed centroid document 524 to 355
+Changed centroid document 95 to 59
+Changed centroid document 555 to 23
+numberOfDocsAssigendRandomly = 10545
+Time to run till 3 iterations: 0 seconds
+Iteration : 4
+Centroid 0: 0, 59
+Centroid 1: 1, 369
+Centroid 2: 1, 598
+Centroid 3: 0, 54
+Centroid 4: 1, 598
+Centroid 5: 1, 644
+Centroid 6: 0, 233
+Centroid 7: 1, 423
+Centroid 8: 0, 44
+Centroid 9: 0, 113
+Centroid 10: 1, 330
+Centroid 11: 2, 903
+Centroid 12: 0, 5
+Centroid 13: 0, 27
+Centroid 14: 0, 179
+Centroid 15: 2, 851
+Centroid 16: 1, 320
+Centroid 17: 1, 355
+Centroid 18: 0, 59
+Centroid 19: 0, 23
+Reassigning cluster ids to non-centroid docs...
+0.95021254 fraction of the documents reassigned different clusters...
+Changed centroid document 59 to 665
+Changed centroid document 369 to 58
+Changed centroid document 598 to 10
+Changed centroid document 54 to 801
+Changed centroid document 598 to 10
+Changed centroid document 644 to 22
+Changed centroid document 233 to 75
+Changed centroid document 423 to 17
+Changed centroid document 44 to 186
+Changed centroid document 113 to 743
+Changed centroid document 330 to 5
+Changed centroid document 903 to 212
+Changed centroid document 5 to 713
+Changed centroid document 27 to 579
+Changed centroid document 179 to 26
+Changed centroid document 851 to 854
+Changed centroid document 320 to 12
+Changed centroid document 355 to 801
+Changed centroid document 59 to 665
+Changed centroid document 23 to 320
+numberOfDocsAssigendRandomly = 11103
+Time to run till 4 iterations: 0 seconds
+Iteration : 5
+Centroid 0: 1, 665
+Centroid 1: 0, 58
+Centroid 2: 0, 10
+Centroid 3: 2, 801
+Centroid 4: 0, 10
+Centroid 5: 0, 22
+Centroid 6: 0, 75
+Centroid 7: 0, 17
+Centroid 8: 0, 186
+Centroid 9: 2, 743
+Centroid 10: 0, 5
+Centroid 11: 0, 212
+Centroid 12: 2, 713
+Centroid 13: 1, 579
+Centroid 14: 0, 26
+Centroid 15: 2, 854
+Centroid 16: 0, 12
+Centroid 17: 2, 801
+Centroid 18: 1, 665
+Centroid 19: 1, 320
+Reassigning cluster ids to non-centroid docs...
+0.9553666 fraction of the documents reassigned different clusters...
+Changed centroid document 665 to 113
+Changed centroid document 58 to 650
+Changed centroid document 10 to 331
+Changed centroid document 801 to 569
+Changed centroid document 10 to 331
+Changed centroid document 22 to 511
+Changed centroid document 75 to 423
+Changed centroid document 17 to 220
+Changed centroid document 186 to 603
+Changed centroid document 743 to 95
+Changed centroid document 5 to 713
+Changed centroid document 212 to 832
+Changed centroid document 713 to 9
+Changed centroid document 579 to 459
+Changed centroid document 26 to 676
+Changed centroid document 854 to 525
+Changed centroid document 12 to 851
+Changed centroid document 801 to 569
+Changed centroid document 665 to 113
+Changed centroid document 320 to 12
+numberOfDocsAssigendRandomly = 11337
+Time to run till 5 iterations: 0 seconds
+Iteration : 6
+Centroid 0: 0, 113
+Centroid 1: 1, 650
+Centroid 2: 1, 331
+Centroid 3: 1, 569
+Centroid 4: 1, 331
+Centroid 5: 1, 511
+Centroid 6: 1, 423
+Centroid 7: 0, 220
+Centroid 8: 1, 603
+Centroid 9: 0, 95
+Centroid 10: 2, 713
+Centroid 11: 2, 832
+Centroid 12: 0, 9
+Centroid 13: 1, 459
+Centroid 14: 1, 676
+Centroid 15: 1, 525
+Centroid 16: 2, 851
+Centroid 17: 1, 569
+Centroid 18: 0, 113
+Centroid 19: 0, 12
+Reassigning cluster ids to non-centroid docs...
+0.95015943 fraction of the documents reassigned different clusters...
+Changed centroid document 113 to 743
+Changed centroid document 650 to 16
+Changed centroid document 331 to 794
+Changed centroid document 569 to 54
+Changed centroid document 331 to 794
+Changed centroid document 511 to 401
+Changed centroid document 423 to 17
+Changed centroid document 220 to 231
+Changed centroid document 603 to 34
+Changed centroid document 95 to 59
+Changed centroid document 713 to 9
+Changed centroid document 832 to 181
+Changed centroid document 9 to 839
+Changed centroid document 459 to 25
+Changed centroid document 676 to 211
+Changed centroid document 525 to 137
+Changed centroid document 851 to 854
+Changed centroid document 569 to 54
+Changed centroid document 113 to 743
+Changed centroid document 12 to 851
+numberOfDocsAssigendRandomly = 10633
+Time to run till 6 iterations: 0 seconds
+Iteration : 7
+Centroid 0: 2, 743
+Centroid 1: 0, 16
+Centroid 2: 2, 794
+Centroid 3: 0, 54
+Centroid 4: 2, 794
+Centroid 5: 1, 401
+Centroid 6: 0, 17
+Centroid 7: 0, 231
+Centroid 8: 0, 34
+Centroid 9: 0, 59
+Centroid 10: 0, 9
+Centroid 11: 0, 181
+Centroid 12: 2, 839
+Centroid 13: 0, 25
+Centroid 14: 0, 211
+Centroid 15: 0, 137
+Centroid 16: 2, 854
+Centroid 17: 0, 54
+Centroid 18: 2, 743
+Centroid 19: 2, 851
+Reassigning cluster ids to non-centroid docs...
+0.9534006 fraction of the documents reassigned different clusters...
+Changed centroid document 743 to 95
+Changed centroid document 16 to 605
+Changed centroid document 794 to 840
+Changed centroid document 54 to 801
+Changed centroid document 794 to 840
+Changed centroid document 401 to 84
+Changed centroid document 17 to 220
+Changed centroid document 231 to 224
+Changed centroid document 34 to 905
+Changed centroid document 59 to 665
+Changed centroid document 9 to 839
+Changed centroid document 181 to 233
+Changed centroid document 839 to 782
+Changed centroid document 25 to 676
+Changed centroid document 211 to 414
+Changed centroid document 137 to 133
+Changed centroid document 854 to 525
+Changed centroid document 54 to 801
+Changed centroid document 743 to 95
+Changed centroid document 851 to 854
+numberOfDocsAssigendRandomly = 11171
+Time to run till 7 iterations: 0 seconds
+Iteration : 8
+Centroid 0: 0, 95
+Centroid 1: 1, 605
+Centroid 2: 2, 840
+Centroid 3: 2, 801
+Centroid 4: 2, 840
+Centroid 5: 0, 84
+Centroid 6: 0, 220
+Centroid 7: 0, 224
+Centroid 8: 2, 905
+Centroid 9: 1, 665
+Centroid 10: 2, 839
+Centroid 11: 0, 233
+Centroid 12: 2, 782
+Centroid 13: 1, 676
+Centroid 14: 1, 414
+Centroid 15: 0, 133
+Centroid 16: 1, 525
+Centroid 17: 2, 801
+Centroid 18: 0, 95
+Centroid 19: 2, 854
+Reassigning cluster ids to non-centroid docs...
+0.95223165 fraction of the documents reassigned different clusters...
+Changed centroid document 95 to 59
+Changed centroid document 605 to 202
+Changed centroid document 840 to 54
+Changed centroid document 801 to 569
+Changed centroid document 840 to 54
+Changed centroid document 84 to 514
+Changed centroid document 220 to 231
+Changed centroid document 224 to 464
+Changed centroid document 905 to 82
+Changed centroid document 665 to 113
+Changed centroid document 839 to 782
+Changed centroid document 233 to 75
+Changed centroid document 782 to 384
+Changed centroid document 676 to 211
+Changed centroid document 414 to 70
+Changed centroid document 133 to 264
+Changed centroid document 525 to 137
+Changed centroid document 801 to 569
+Changed centroid document 95 to 59
+Changed centroid document 854 to 525
+numberOfDocsAssigendRandomly = 10877
+Time to run till 8 iterations: 0 seconds
+Iteration : 9
+Centroid 0: 0, 59
+Centroid 1: 0, 202
+Centroid 2: 0, 54
+Centroid 3: 1, 569
+Centroid 4: 0, 54
+Centroid 5: 1, 514
+Centroid 6: 0, 231
+Centroid 7: 1, 464
+Centroid 8: 0, 82
+Centroid 9: 0, 113
+Centroid 10: 2, 782
+Centroid 11: 0, 75
+Centroid 12: 1, 384
+Centroid 13: 0, 211
+Centroid 14: 0, 70
+Centroid 15: 0, 264
+Centroid 16: 0, 137
+Centroid 17: 1, 569
+Centroid 18: 0, 59
+Centroid 19: 1, 525
+Reassigning cluster ids to non-centroid docs...
+0.9512752 fraction of the documents reassigned different clusters...
+Changed centroid document 59 to 665
+Changed centroid document 202 to 899
+Changed centroid document 54 to 801
+Changed centroid document 569 to 54
+Changed centroid document 54 to 801
+Changed centroid document 514 to 87
+Changed centroid document 231 to 224
+Changed centroid document 464 to 232
+Changed centroid document 82 to 822
+Changed centroid document 113 to 743
+Changed centroid document 782 to 384
+Changed centroid document 75 to 423
+Changed centroid document 384 to 3
+Changed centroid document 211 to 414
+Changed centroid document 70 to 272
+Changed centroid document 264 to 846
+Changed centroid document 137 to 133
+Changed centroid document 569 to 54
+Changed centroid document 59 to 665
+Changed centroid document 525 to 137
+numberOfDocsAssigendRandomly = 11782
+Time to run till 9 iterations: 0 seconds
+Iteration : 10
+Centroid 0: 1, 665
+Centroid 1: 2, 899
+Centroid 2: 2, 801
+Centroid 3: 0, 54
+Centroid 4: 2, 801
+Centroid 5: 0, 87
+Centroid 6: 0, 224
+Centroid 7: 0, 232
+Centroid 8: 2, 822
+Centroid 9: 2, 743
+Centroid 10: 1, 384
+Centroid 11: 1, 423
+Centroid 12: 0, 3
+Centroid 13: 1, 414
+Centroid 14: 0, 272
+Centroid 15: 2, 846
+Centroid 16: 0, 133
+Centroid 17: 0, 54
+Centroid 18: 1, 665
+Centroid 19: 0, 137
+Reassigning cluster ids to non-centroid docs...
+0.9575983 fraction of the documents reassigned different clusters...
+Changed centroid document 665 to 113
+Changed centroid document 899 to 134
+Changed centroid document 801 to 569
+Changed centroid document 54 to 801
+Changed centroid document 801 to 569
+Changed centroid document 87 to 427
+Changed centroid document 224 to 464
+Changed centroid document 232 to 313
+Changed centroid document 822 to 724
+Changed centroid document 743 to 95
+Changed centroid document 384 to 3
+Changed centroid document 423 to 17
+Changed centroid document 3 to 816
+Changed centroid document 414 to 70
+Changed centroid document 272 to 483
+Changed centroid document 846 to 100
+Changed centroid document 133 to 264
+Changed centroid document 54 to 801
+Changed centroid document 665 to 113
+Changed centroid document 137 to 133
+numberOfDocsAssigendRandomly = 12003
+Time to run till 10 iterations: 0 seconds
+Iteration : 11
+Centroid 0: 0, 113
+Centroid 1: 0, 134
+Centroid 2: 1, 569
+Centroid 3: 2, 801
+Centroid 4: 1, 569
+Centroid 5: 1, 427
+Centroid 6: 1, 464
+Centroid 7: 0, 313
+Centroid 8: 2, 724
+Centroid 9: 0, 95
+Centroid 10: 0, 3
+Centroid 11: 0, 17
+Centroid 12: 2, 816
+Centroid 13: 0, 70
+Centroid 14: 1, 483
+Centroid 15: 0, 100
+Centroid 16: 0, 264
+Centroid 17: 2, 801
+Centroid 18: 0, 113
+Centroid 19: 0, 133
+Reassigning cluster ids to non-centroid docs...
+0.9522848 fraction of the documents reassigned different clusters...
+Changed centroid document 113 to 743
+Changed centroid document 134 to 509
+Changed centroid document 569 to 54
+Changed centroid document 801 to 569
+Changed centroid document 569 to 54
+Changed centroid document 427 to 360
+Changed centroid document 464 to 232
+Changed centroid document 313 to 875
+Changed centroid document 724 to 122
+Changed centroid document 95 to 59
+Changed centroid document 3 to 816
+Changed centroid document 17 to 220
+Changed centroid document 816 to 375
+Changed centroid document 70 to 272
+Changed centroid document 483 to 59
+Changed centroid document 100 to 782
+Changed centroid document 264 to 846
+Changed centroid document 801 to 569
+Changed centroid document 113 to 743
+Changed centroid document 133 to 264
+numberOfDocsAssigendRandomly = 12108
+Time to run till 11 iterations: 0 seconds
+Iteration : 12
+Centroid 0: 2, 743
+Centroid 1: 1, 509
+Centroid 2: 0, 54
+Centroid 3: 1, 569
+Centroid 4: 0, 54
+Centroid 5: 1, 360
+Centroid 6: 0, 232
+Centroid 7: 2, 875
+Centroid 8: 0, 122
+Centroid 9: 0, 59
+Centroid 10: 2, 816
+Centroid 11: 0, 220
+Centroid 12: 1, 375
+Centroid 13: 0, 272
+Centroid 14: 0, 59
+Centroid 15: 2, 782
+Centroid 16: 2, 846
+Centroid 17: 1, 569
+Centroid 18: 2, 743
+Centroid 19: 0, 264
+Reassigning cluster ids to non-centroid docs...
+0.9552072 fraction of the documents reassigned different clusters...
+Changed centroid document 743 to 95
+Changed centroid document 509 to 413
+Changed centroid document 54 to 801
+Changed centroid document 569 to 54
+Changed centroid document 54 to 801
+Changed centroid document 360 to 777
+Changed centroid document 232 to 313
+Changed centroid document 875 to 207
+Changed centroid document 122 to 673
+Changed centroid document 59 to 665
+Changed centroid document 816 to 375
+Changed centroid document 220 to 231
+Changed centroid document 375 to 298
+Changed centroid document 272 to 483
+Changed centroid document 59 to 665
+Changed centroid document 782 to 384
+Changed centroid document 846 to 100
+Changed centroid document 569 to 54
+Changed centroid document 743 to 95
+Changed centroid document 264 to 846
+numberOfDocsAssigendRandomly = 11480
+Time to run till 12 iterations: 0 seconds
+Iteration : 13
+Centroid 0: 0, 95
+Centroid 1: 1, 413
+Centroid 2: 2, 801
+Centroid 3: 0, 54
+Centroid 4: 2, 801
+Centroid 5: 2, 777
+Centroid 6: 0, 313
+Centroid 7: 0, 207
+Centroid 8: 1, 673
+Centroid 9: 1, 665
+Centroid 10: 1, 375
+Centroid 11: 0, 231
+Centroid 12: 0, 298
+Centroid 13: 1, 483
+Centroid 14: 1, 665
+Centroid 15: 1, 384
+Centroid 16: 0, 100
+Centroid 17: 0, 54
+Centroid 18: 0, 95
+Centroid 19: 2, 846
+Reassigning cluster ids to non-centroid docs...
+0.95053136 fraction of the documents reassigned different clusters...
+Changed centroid document 95 to 59
+Changed centroid document 413 to 490
+Changed centroid document 801 to 569
+Changed centroid document 54 to 801
+Changed centroid document 801 to 569
+Changed centroid document 777 to 503
+Changed centroid document 313 to 875
+Changed centroid document 207 to 448
+Changed centroid document 673 to 826
+Changed centroid document 665 to 113
+Changed centroid document 375 to 298
+Changed centroid document 231 to 224
+Changed centroid document 298 to 416
+Changed centroid document 483 to 59
+Changed centroid document 665 to 113
+Changed centroid document 384 to 3
+Changed centroid document 100 to 782
+Changed centroid document 54 to 801
+Changed centroid document 95 to 59
+Changed centroid document 846 to 100
+numberOfDocsAssigendRandomly = 12617
+Time to run till 13 iterations: 0 seconds
+Iteration : 14
+Centroid 0: 0, 59
+Centroid 1: 1, 490
+Centroid 2: 1, 569
+Centroid 3: 2, 801
+Centroid 4: 1, 569
+Centroid 5: 1, 503
+Centroid 6: 2, 875
+Centroid 7: 1, 448
+Centroid 8: 2, 826
+Centroid 9: 0, 113
+Centroid 10: 0, 298
+Centroid 11: 0, 224
+Centroid 12: 1, 416
+Centroid 13: 0, 59
+Centroid 14: 0, 113
+Centroid 15: 0, 3
+Centroid 16: 2, 782
+Centroid 17: 2, 801
+Centroid 18: 0, 59
+Centroid 19: 0, 100
+Reassigning cluster ids to non-centroid docs...
+0.9492561 fraction of the documents reassigned different clusters...
+Changed centroid document 59 to 665
+Changed centroid document 490 to 78
+Changed centroid document 569 to 54
+Changed centroid document 801 to 569
+Changed centroid document 569 to 54
+Changed centroid document 503 to 77
+Changed centroid document 875 to 207
+Changed centroid document 448 to 82
+Changed centroid document 826 to 48
+Changed centroid document 113 to 743
+Changed centroid document 298 to 416
+Changed centroid document 224 to 464
+Changed centroid document 416 to 88
+Changed centroid document 59 to 665
+Changed centroid document 113 to 743
+Changed centroid document 3 to 816
+Changed centroid document 782 to 384
+Changed centroid document 801 to 569
+Changed centroid document 59 to 665
+Changed centroid document 100 to 782
+numberOfDocsAssigendRandomly = 11891
+Time to run till 14 iterations: 0 seconds
+Iteration : 15
+Centroid 0: 1, 665
+Centroid 1: 0, 78
+Centroid 2: 0, 54
+Centroid 3: 1, 569
+Centroid 4: 0, 54
+Centroid 5: 0, 77
+Centroid 6: 0, 207
+Centroid 7: 0, 82
+Centroid 8: 0, 48
+Centroid 9: 2, 743
+Centroid 10: 1, 416
+Centroid 11: 1, 464
+Centroid 12: 0, 88
+Centroid 13: 1, 665
+Centroid 14: 2, 743
+Centroid 15: 2, 816
+Centroid 16: 1, 384
+Centroid 17: 1, 569
+Centroid 18: 1, 665
+Centroid 19: 2, 782
+Reassigning cluster ids to non-centroid docs...
+0.9549416 fraction of the documents reassigned different clusters...
+Changed centroid document 665 to 113
+Changed centroid document 78 to 504
+Changed centroid document 54 to 801
+Changed centroid document 569 to 54
+Changed centroid document 54 to 801
+Changed centroid document 77 to 726
+Changed centroid document 207 to 448
+Changed centroid document 82 to 822
+Changed centroid document 48 to 347
+Changed centroid document 743 to 95
+Changed centroid document 416 to 88
+Changed centroid document 464 to 232
+Changed centroid document 88 to 335
+Changed centroid document 665 to 113
+Changed centroid document 743 to 95
+Changed centroid document 816 to 375
+Changed centroid document 384 to 3
+Changed centroid document 569 to 54
+Changed centroid document 665 to 113
+Changed centroid document 782 to 384
+numberOfDocsAssigendRandomly = 12160
+Time to run till 15 iterations: 0 seconds
+Iteration : 16
+Centroid 0: 0, 113
+Centroid 1: 1, 504
+Centroid 2: 2, 801
+Centroid 3: 0, 54
+Centroid 4: 2, 801
+Centroid 5: 2, 726
+Centroid 6: 1, 448
+Centroid 7: 2, 822
+Centroid 8: 1, 347
+Centroid 9: 0, 95
+Centroid 10: 0, 88
+Centroid 11: 0, 232
+Centroid 12: 1, 335
+Centroid 13: 0, 113
+Centroid 14: 0, 95
+Centroid 15: 1, 375
+Centroid 16: 0, 3
+Centroid 17: 0, 54
+Centroid 18: 0, 113
+Centroid 19: 1, 384
+Reassigning cluster ids to non-centroid docs...
+0.956695 fraction of the documents reassigned different clusters...
+Changed centroid document 113 to 743
+Changed centroid document 504 to 167
+Changed centroid document 801 to 569
+Changed centroid document 54 to 801
+Changed centroid document 801 to 569
+Changed centroid document 726 to 311
+Changed centroid document 448 to 82
+Changed centroid document 822 to 724
+Changed centroid document 347 to 98
+Changed centroid document 95 to 59
+Changed centroid document 88 to 335
+Changed centroid document 232 to 313
+Changed centroid document 335 to 13
+Changed centroid document 113 to 743
+Changed centroid document 95 to 59
+Changed centroid document 375 to 298
+Changed centroid document 3 to 816
+Changed centroid document 54 to 801
+Changed centroid document 113 to 743
+Changed centroid document 384 to 3
+numberOfDocsAssigendRandomly = 11805
+Time to run till 16 iterations: 0 seconds
+Iteration : 17
+Centroid 0: 2, 743
+Centroid 1: 0, 167
+Centroid 2: 1, 569
+Centroid 3: 2, 801
+Centroid 4: 1, 569
+Centroid 5: 0, 311
+Centroid 6: 0, 82
+Centroid 7: 2, 724
+Centroid 8: 0, 98
+Centroid 9: 0, 59
+Centroid 10: 1, 335
+Centroid 11: 0, 313
+Centroid 12: 0, 13
+Centroid 13: 2, 743
+Centroid 14: 0, 59
+Centroid 15: 0, 298
+Centroid 16: 2, 816
+Centroid 17: 2, 801
+Centroid 18: 2, 743
+Centroid 19: 0, 3
+Reassigning cluster ids to non-centroid docs...
+0.95414454 fraction of the documents reassigned different clusters...
+Changed centroid document 743 to 95
+Changed centroid document 167 to 761
+Changed centroid document 569 to 54
+Changed centroid document 801 to 569
+Changed centroid document 569 to 54
+Changed centroid document 311 to 139
+Changed centroid document 82 to 822
+Changed centroid document 724 to 122
+Changed centroid document 98 to 113
+Changed centroid document 59 to 665
+Changed centroid document 335 to 13
+Changed centroid document 313 to 875
+Changed centroid document 13 to 536
+Changed centroid document 743 to 95
+Changed centroid document 59 to 665
+Changed centroid document 298 to 416
+Changed centroid document 816 to 375
+Changed centroid document 801 to 569
+Changed centroid document 743 to 95
+Changed centroid document 3 to 816
+numberOfDocsAssigendRandomly = 12165
+Time to run till 17 iterations: 0 seconds
+Iteration : 18
+Centroid 0: 0, 95
+Centroid 1: 2, 761
+Centroid 2: 0, 54
+Centroid 3: 1, 569
+Centroid 4: 0, 54
+Centroid 5: 0, 139
+Centroid 6: 2, 822
+Centroid 7: 0, 122
+Centroid 8: 0, 113
+Centroid 9: 1, 665
+Centroid 10: 0, 13
+Centroid 11: 2, 875
+Centroid 12: 1, 536
+Centroid 13: 0, 95
+Centroid 14: 1, 665
+Centroid 15: 1, 416
+Centroid 16: 1, 375
+Centroid 17: 1, 569
+Centroid 18: 0, 95
+Centroid 19: 2, 816
+Reassigning cluster ids to non-centroid docs...
+0.95270985 fraction of the documents reassigned different clusters...
+Changed centroid document 95 to 59
+Changed centroid document 761 to 559
+Changed centroid document 54 to 801
+Changed centroid document 569 to 54
+Changed centroid document 54 to 801
+Changed centroid document 139 to 598
+Changed centroid document 822 to 724
+Changed centroid document 122 to 673
+Changed centroid document 113 to 743
+Changed centroid document 665 to 113
+Changed centroid document 13 to 536
+Changed centroid document 875 to 207
+Changed centroid document 536 to 398
+Changed centroid document 95 to 59
+Changed centroid document 665 to 113
+Changed centroid document 416 to 88
+Changed centroid document 375 to 298
+Changed centroid document 569 to 54
+Changed centroid document 95 to 59
+Changed centroid document 816 to 375
+numberOfDocsAssigendRandomly = 11661
+Time to run till 18 iterations: 0 seconds
+Iteration : 19
+Centroid 0: 0, 59
+Centroid 1: 1, 559
+Centroid 2: 2, 801
+Centroid 3: 0, 54
+Centroid 4: 2, 801
+Centroid 5: 1, 598
+Centroid 6: 2, 724
+Centroid 7: 1, 673
+Centroid 8: 2, 743
+Centroid 9: 0, 113
+Centroid 10: 1, 536
+Centroid 11: 0, 207
+Centroid 12: 1, 398
+Centroid 13: 0, 59
+Centroid 14: 0, 113
+Centroid 15: 0, 88
+Centroid 16: 0, 298
+Centroid 17: 0, 54
+Centroid 18: 0, 59
+Centroid 19: 1, 375
+Reassigning cluster ids to non-centroid docs...
+0.9537726 fraction of the documents reassigned different clusters...
+Changed centroid document 59 to 665
+Changed centroid document 559 to 179
+Changed centroid document 801 to 569
+Changed centroid document 54 to 801
+Changed centroid document 801 to 569
+Changed centroid document 598 to 10
+Changed centroid document 724 to 122
+Changed centroid document 673 to 826
+Changed centroid document 743 to 95
+Changed centroid document 113 to 743
+Changed centroid document 536 to 398
+Changed centroid document 207 to 448
+Changed centroid document 398 to 14
+Changed centroid document 59 to 665
+Changed centroid document 113 to 743
+Changed centroid document 88 to 335
+Changed centroid document 298 to 416
+Changed centroid document 54 to 801
+Changed centroid document 59 to 665
+Changed centroid document 375 to 298
+numberOfDocsAssigendRandomly = 11798
+Time to run till 19 iterations: 0 seconds
+Iteration : 20
+Centroid 0: 1, 665
+Centroid 1: 0, 179
+Centroid 2: 1, 569
+Centroid 3: 2, 801
+Centroid 4: 1, 569
+Centroid 5: 0, 10
+Centroid 6: 0, 122
+Centroid 7: 2, 826
+Centroid 8: 0, 95
+Centroid 9: 2, 743
+Centroid 10: 1, 398
+Centroid 11: 1, 448
+Centroid 12: 0, 14
+Centroid 13: 1, 665
+Centroid 14: 2, 743
+Centroid 15: 1, 335
+Centroid 16: 1, 416
+Centroid 17: 2, 801
+Centroid 18: 1, 665
+Centroid 19: 0, 298
+Reassigning cluster ids to non-centroid docs...
+0.95265675 fraction of the documents reassigned different clusters...
+Changed centroid document 665 to 113
+Changed centroid document 179 to 26
+Changed centroid document 569 to 54
+Changed centroid document 801 to 569
+Changed centroid document 569 to 54
+Changed centroid document 10 to 331
+Changed centroid document 122 to 673
+Changed centroid document 826 to 48
+Changed centroid document 95 to 59
+Changed centroid document 743 to 95
+Changed centroid document 398 to 14
+Changed centroid document 448 to 82
+Changed centroid document 14 to 901
+Changed centroid document 665 to 113
+Changed centroid document 743 to 95
+Changed centroid document 335 to 13
+Changed centroid document 416 to 88
+Changed centroid document 801 to 569
+Changed centroid document 665 to 113
+Changed centroid document 298 to 416
+numberOfDocsAssigendRandomly = 12098
+Time to run till 20 iterations: 0 seconds
+Time to cluster: 18 seconds
+Termina de inicializar mapa de ids de clusters
+Acc, Prec, recall, fscore: 
+0.90337914 0.06055005 0.06305176 0.061775587
+
+Purity: 0.11190223166843784
+NMI: 0.030106086295068335
+RI: 0.9033790945106633

@@ -84,9 +84,9 @@ public abstract class LuceneClusterer {
 	    start = System.currentTimeMillis();
 
             System.out.println("Iteration : " + i);
-            if (i ==  1 || i % 20 == 0) {
+//            if (i ==  1 || i % 2 == 0) {
                 showCentroids();
-            }
+//            }
             
             System.out.println("Reassigning cluster ids to non-centroid docs...");
             changeRatio = assignClusterIds();

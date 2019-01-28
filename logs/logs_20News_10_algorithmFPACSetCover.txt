@@ -1,0 +1,89 @@
+Number of documents
+18820
+El número de clusters es 10
+Chosen doc 7748 as first centroid for cluster 1
+Chosen doc 13257 as first centroid for cluster 2
+Chosen doc 3324 as first centroid for cluster 3
+Chosen doc 5209 as first centroid for cluster 4
+Chosen doc 13204 as first centroid for cluster 5
+Chosen doc 7033 as first centroid for cluster 6
+Chosen doc 8951 as first centroid for cluster 7
+Chosen doc 9156 as first centroid for cluster 8
+Chosen doc 17822 as first centroid for cluster 9
+Chosen doc 7028 as first centroid for cluster 10
+Iteration : 1
+Cluster 1 has the centroids:
+Centroid 1: 0, 7748
+Cluster 2 has the centroids:
+Centroid 1: 9, 13257
+Cluster 3 has the centroids:
+Centroid 1: 8, 3324
+Cluster 4 has the centroids:
+Centroid 1: 13, 5209
+Cluster 5 has the centroids:
+Centroid 1: 9, 13204
+Cluster 6 has the centroids:
+Centroid 1: 18, 7033
+Cluster 7 has the centroids:
+Centroid 1: 2, 8951
+Cluster 8 has the centroids:
+Centroid 1: 2, 9156
+Cluster 9 has the centroids:
+Centroid 1: 17, 17822
+Cluster 10 has the centroids:
+Centroid 1: 18, 7028
+Reassigning cluster ids to non-centroid docs...
+0.9994686 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 42111
+Número de documentos en el cluster = 9979
+No cubrí el vocabulario pero ya no había documentos que cumplieran la propiedad
+He cubierto 95.12479% del vocabulario del cluster con 5503 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 13204
+Número de documentos en el cluster = 1005
+No cubrí el vocabulario pero ya no había documentos que cumplieran la propiedad
+He cubierto 99.92426% del vocabulario del cluster con 860 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 14173
+Número de documentos en el cluster = 1003
+No cubrí el vocabulario pero ya no había documentos que cumplieran la propiedad
+He cubierto 99.75305% del vocabulario del cluster con 854 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 16930
+Número de documentos en el cluster = 877
+No cubrí el vocabulario pero ya no había documentos que cumplieran la propiedad
+He cubierto 99.704666% del vocabulario del cluster con 757 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 13792
+Número de documentos en el cluster = 1223
+No cubrí el vocabulario pero ya no había documentos que cumplieran la propiedad
+He cubierto 99.59397% del vocabulario del cluster con 1012 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 14282
+Número de documentos en el cluster = 974
+No cubrí el vocabulario pero ya no había documentos que cumplieran la propiedad
+He cubierto 99.66391% del vocabulario del cluster con 814 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 16500
+Número de documentos en el cluster = 1076
+No cubrí el vocabulario pero ya no había documentos que cumplieran la propiedad
+He cubierto 99.00606% del vocabulario del cluster con 892 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 18480
+Número de documentos en el cluster = 1035
+No cubrí el vocabulario pero ya no había documentos que cumplieran la propiedad
+He cubierto 98.85822% del vocabulario del cluster con 872 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 14683
+Número de documentos en el cluster = 800

@@ -1,0 +1,4038 @@
+El número de clusters es 20
+Chosen doc 210 as first centroid for cluster 1
+Chosen doc 18112 as first centroid for cluster 2
+Chosen doc 3863 as first centroid for cluster 3
+Chosen doc 12214 as first centroid for cluster 4
+Chosen doc 176 as first centroid for cluster 5
+Chosen doc 13780 as first centroid for cluster 6
+Chosen doc 5842 as first centroid for cluster 7
+Chosen doc 10933 as first centroid for cluster 8
+Chosen doc 8767 as first centroid for cluster 9
+Chosen doc 4057 as first centroid for cluster 10
+Chosen doc 14278 as first centroid for cluster 11
+Chosen doc 9916 as first centroid for cluster 12
+Chosen doc 9068 as first centroid for cluster 13
+Chosen doc 3487 as first centroid for cluster 14
+Chosen doc 2248 as first centroid for cluster 15
+Chosen doc 17395 as first centroid for cluster 16
+Chosen doc 16018 as first centroid for cluster 17
+Chosen doc 14285 as first centroid for cluster 18
+Chosen doc 2049 as first centroid for cluster 19
+Chosen doc 7432 as first centroid for cluster 20
+Iteration : 1
+Cluster 1 has the centroids:
+Centroid 1: 0, 210
+Cluster 2 has the centroids:
+Centroid 1: 18, 18112
+Cluster 3 has the centroids:
+Centroid 1: 10, 3863
+Cluster 4 has the centroids:
+Centroid 1: 8, 12214
+Cluster 5 has the centroids:
+Centroid 1: 0, 176
+Cluster 6 has the centroids:
+Centroid 1: 10, 13780
+Cluster 7 has the centroids:
+Centroid 1: 15, 5842
+Cluster 8 has the centroids:
+Centroid 1: 6, 10933
+Cluster 9 has the centroids:
+Centroid 1: 2, 8767
+Cluster 10 has the centroids:
+Centroid 1: 10, 4057
+Cluster 11 has the centroids:
+Centroid 1: 11, 14278
+Cluster 12 has the centroids:
+Centroid 1: 4, 9916
+Cluster 13 has the centroids:
+Centroid 1: 2, 9068
+Cluster 14 has the centroids:
+Centroid 1: 9, 3487
+Cluster 15 has the centroids:
+Centroid 1: 5, 2248
+Cluster 16 has the centroids:
+Centroid 1: 16, 17395
+Cluster 17 has the centroids:
+Centroid 1: 14, 16018
+Cluster 18 has the centroids:
+Centroid 1: 11, 14285
+Cluster 19 has the centroids:
+Centroid 1: 5, 2049
+Cluster 20 has the centroids:
+Centroid 1: 19, 7432
+Reassigning cluster ids to non-centroid docs...
+0.9989373 fraction of the documents reassigned different clusters...
+Generando nuevos centroides del cluster 0
+Nuevo centroide 59 para el cluster 0
+Nuevo centroide 0 para el cluster 0
+Nuevo centroide 2 para el cluster 0
+Nuevo centroide 6 para el cluster 0
+Nuevo centroide 15 para el cluster 0
+Nuevo centroide 20 para el cluster 0
+Nuevo centroide 22 para el cluster 0
+Nuevo centroide 32 para el cluster 0
+Nuevo centroide 33 para el cluster 0
+Nuevo centroide 40 para el cluster 0
+Nuevo centroide 64 para el cluster 0
+Nuevo centroide 68 para el cluster 0
+Nuevo centroide 71 para el cluster 0
+Nuevo centroide 98 para el cluster 0
+Nuevo centroide 126 para el cluster 0
+Nuevo centroide 137 para el cluster 0
+Nuevo centroide 191 para el cluster 0
+Nuevo centroide 198 para el cluster 0
+Nuevo centroide 209 para el cluster 0
+Nuevo centroide 212 para el cluster 0
+Nuevo centroide 225 para el cluster 0
+Nuevo centroide 232 para el cluster 0
+Nuevo centroide 247 para el cluster 0
+Nuevo centroide 261 para el cluster 0
+Nuevo centroide 288 para el cluster 0
+Nuevo centroide 294 para el cluster 0
+Nuevo centroide 320 para el cluster 0
+Nuevo centroide 327 para el cluster 0
+Nuevo centroide 333 para el cluster 0
+Nuevo centroide 334 para el cluster 0
+Nuevo centroide 340 para el cluster 0
+Nuevo centroide 344 para el cluster 0
+Nuevo centroide 345 para el cluster 0
+Nuevo centroide 354 para el cluster 0
+Nuevo centroide 358 para el cluster 0
+Nuevo centroide 359 para el cluster 0
+Nuevo centroide 362 para el cluster 0
+Nuevo centroide 365 para el cluster 0
+Nuevo centroide 374 para el cluster 0
+Nuevo centroide 394 para el cluster 0
+Nuevo centroide 397 para el cluster 0
+Nuevo centroide 425 para el cluster 0
+Nuevo centroide 463 para el cluster 0
+Nuevo centroide 480 para el cluster 0
+Nuevo centroide 499 para el cluster 0
+Nuevo centroide 504 para el cluster 0
+Nuevo centroide 517 para el cluster 0
+Nuevo centroide 562 para el cluster 0
+Nuevo centroide 563 para el cluster 0
+Nuevo centroide 586 para el cluster 0
+Nuevo centroide 591 para el cluster 0
+Nuevo centroide 605 para el cluster 0
+Nuevo centroide 608 para el cluster 0
+Nuevo centroide 612 para el cluster 0
+Nuevo centroide 646 para el cluster 0
+Nuevo centroide 703 para el cluster 0
+Nuevo centroide 718 para el cluster 0
+Nuevo centroide 726 para el cluster 0
+Nuevo centroide 774 para el cluster 0
+Nuevo centroide 808 para el cluster 0
+Nuevo centroide 810 para el cluster 0
+Nuevo centroide 933 para el cluster 0
+Nuevo centroide 935 para el cluster 0
+Nuevo centroide 950 para el cluster 0
+Nuevo centroide 978 para el cluster 0
+Nuevo centroide 1014 para el cluster 0
+Nuevo centroide 1108 para el cluster 0
+Nuevo centroide 1133 para el cluster 0
+Nuevo centroide 1152 para el cluster 0
+Nuevo centroide 1167 para el cluster 0
+Nuevo centroide 1170 para el cluster 0
+Nuevo centroide 1204 para el cluster 0
+Nuevo centroide 1247 para el cluster 0
+Nuevo centroide 1300 para el cluster 0
+Nuevo centroide 1305 para el cluster 0
+Nuevo centroide 1342 para el cluster 0
+Nuevo centroide 1486 para el cluster 0
+Nuevo centroide 1494 para el cluster 0
+Nuevo centroide 1503 para el cluster 0
+Nuevo centroide 1518 para el cluster 0
+Nuevo centroide 1543 para el cluster 0
+Nuevo centroide 1584 para el cluster 0
+Nuevo centroide 1719 para el cluster 0
+Nuevo centroide 1745 para el cluster 0
+Nuevo centroide 1832 para el cluster 0
+Nuevo centroide 1856 para el cluster 0
+Nuevo centroide 1864 para el cluster 0
+Nuevo centroide 1946 para el cluster 0
+Nuevo centroide 1959 para el cluster 0
+Nuevo centroide 2013 para el cluster 0
+Nuevo centroide 2020 para el cluster 0
+Nuevo centroide 2035 para el cluster 0
+Nuevo centroide 2124 para el cluster 0
+Nuevo centroide 2134 para el cluster 0
+Nuevo centroide 2188 para el cluster 0
+Nuevo centroide 2190 para el cluster 0
+Nuevo centroide 2294 para el cluster 0
+Nuevo centroide 2316 para el cluster 0
+Nuevo centroide 2318 para el cluster 0
+Nuevo centroide 2322 para el cluster 0
+Nuevo centroide 2335 para el cluster 0
+Nuevo centroide 2356 para el cluster 0
+Nuevo centroide 2387 para el cluster 0
+Nuevo centroide 2389 para el cluster 0
+Nuevo centroide 2423 para el cluster 0
+Nuevo centroide 2426 para el cluster 0
+Nuevo centroide 2452 para el cluster 0
+Nuevo centroide 2508 para el cluster 0
+Nuevo centroide 2509 para el cluster 0
+Nuevo centroide 2529 para el cluster 0
+Nuevo centroide 2538 para el cluster 0
+Nuevo centroide 2685 para el cluster 0
+Nuevo centroide 2766 para el cluster 0
+Nuevo centroide 2768 para el cluster 0
+Nuevo centroide 2781 para el cluster 0
+Nuevo centroide 2784 para el cluster 0
+Nuevo centroide 2850 para el cluster 0
+Nuevo centroide 2861 para el cluster 0
+Nuevo centroide 2880 para el cluster 0
+Nuevo centroide 2891 para el cluster 0
+Nuevo centroide 3003 para el cluster 0
+Nuevo centroide 3047 para el cluster 0
+Nuevo centroide 3108 para el cluster 0
+Nuevo centroide 3132 para el cluster 0
+Nuevo centroide 3156 para el cluster 0
+Nuevo centroide 3166 para el cluster 0
+Nuevo centroide 3200 para el cluster 0
+Nuevo centroide 3349 para el cluster 0
+Nuevo centroide 3352 para el cluster 0
+Nuevo centroide 3362 para el cluster 0
+Nuevo centroide 3429 para el cluster 0
+Nuevo centroide 3493 para el cluster 0
+Nuevo centroide 3495 para el cluster 0
+Nuevo centroide 3517 para el cluster 0
+Nuevo centroide 3545 para el cluster 0
+Nuevo centroide 3585 para el cluster 0
+Nuevo centroide 3587 para el cluster 0
+Nuevo centroide 3589 para el cluster 0
+Nuevo centroide 3606 para el cluster 0
+Nuevo centroide 3608 para el cluster 0
+Nuevo centroide 3649 para el cluster 0
+Nuevo centroide 3758 para el cluster 0
+Nuevo centroide 3771 para el cluster 0
+Nuevo centroide 3906 para el cluster 0
+Nuevo centroide 4003 para el cluster 0
+Nuevo centroide 4076 para el cluster 0
+Nuevo centroide 4082 para el cluster 0
+Nuevo centroide 4167 para el cluster 0
+Nuevo centroide 4183 para el cluster 0
+Nuevo centroide 4255 para el cluster 0
+Nuevo centroide 4421 para el cluster 0
+Nuevo centroide 4567 para el cluster 0
+Nuevo centroide 4591 para el cluster 0
+Nuevo centroide 4700 para el cluster 0
+Nuevo centroide 4726 para el cluster 0
+Nuevo centroide 4832 para el cluster 0
+Nuevo centroide 4842 para el cluster 0
+Nuevo centroide 4971 para el cluster 0
+Nuevo centroide 4974 para el cluster 0
+Nuevo centroide 5079 para el cluster 0
+Nuevo centroide 5148 para el cluster 0
+Nuevo centroide 5166 para el cluster 0
+Nuevo centroide 5207 para el cluster 0
+Nuevo centroide 5226 para el cluster 0
+Nuevo centroide 5314 para el cluster 0
+Nuevo centroide 5349 para el cluster 0
+Nuevo centroide 5428 para el cluster 0
+Nuevo centroide 5433 para el cluster 0
+Nuevo centroide 5462 para el cluster 0
+Nuevo centroide 5686 para el cluster 0
+Nuevo centroide 5805 para el cluster 0
+Nuevo centroide 5874 para el cluster 0
+Nuevo centroide 5923 para el cluster 0
+Nuevo centroide 6035 para el cluster 0
+Nuevo centroide 6089 para el cluster 0
+Nuevo centroide 6155 para el cluster 0
+Nuevo centroide 6278 para el cluster 0
+Nuevo centroide 6366 para el cluster 0
+Nuevo centroide 6371 para el cluster 0
+Nuevo centroide 6499 para el cluster 0
+Nuevo centroide 6629 para el cluster 0
+Nuevo centroide 6666 para el cluster 0
+Nuevo centroide 6699 para el cluster 0
+Nuevo centroide 6709 para el cluster 0
+Nuevo centroide 6844 para el cluster 0
+Nuevo centroide 7035 para el cluster 0
+Nuevo centroide 7043 para el cluster 0
+Nuevo centroide 7306 para el cluster 0
+Nuevo centroide 8065 para el cluster 0
+Nuevo centroide 8186 para el cluster 0
+Nuevo centroide 8611 para el cluster 0
+Nuevo centroide 8825 para el cluster 0
+Nuevo centroide 9148 para el cluster 0
+Nuevo centroide 9180 para el cluster 0
+Nuevo centroide 9419 para el cluster 0
+Nuevo centroide 9875 para el cluster 0
+Nuevo centroide 9929 para el cluster 0
+Nuevo centroide 10084 para el cluster 0
+Nuevo centroide 10163 para el cluster 0
+Nuevo centroide 10221 para el cluster 0
+Nuevo centroide 10310 para el cluster 0
+Nuevo centroide 10455 para el cluster 0
+Nuevo centroide 10861 para el cluster 0
+Nuevo centroide 11196 para el cluster 0
+Nuevo centroide 11557 para el cluster 0
+Nuevo centroide 11736 para el cluster 0
+Nuevo centroide 11898 para el cluster 0
+Nuevo centroide 12444 para el cluster 0
+Nuevo centroide 12626 para el cluster 0
+Nuevo centroide 12657 para el cluster 0
+Nuevo centroide 12868 para el cluster 0
+Nuevo centroide 12974 para el cluster 0
+Nuevo centroide 13064 para el cluster 0
+Nuevo centroide 13090 para el cluster 0
+Nuevo centroide 13147 para el cluster 0
+Nuevo centroide 13192 para el cluster 0
+Nuevo centroide 13292 para el cluster 0
+Nuevo centroide 13569 para el cluster 0
+Nuevo centroide 13683 para el cluster 0
+Nuevo centroide 13721 para el cluster 0
+Nuevo centroide 14352 para el cluster 0
+Nuevo centroide 14863 para el cluster 0
+Nuevo centroide 15062 para el cluster 0
+Nuevo centroide 15109 para el cluster 0
+Nuevo centroide 15211 para el cluster 0
+Nuevo centroide 15369 para el cluster 0
+Nuevo centroide 15493 para el cluster 0
+Nuevo centroide 15855 para el cluster 0
+Nuevo centroide 16009 para el cluster 0
+Nuevo centroide 16245 para el cluster 0
+Nuevo centroide 16274 para el cluster 0
+Nuevo centroide 16292 para el cluster 0
+Nuevo centroide 16686 para el cluster 0
+Nuevo centroide 17033 para el cluster 0
+Nuevo centroide 17686 para el cluster 0
+Nuevo centroide 17876 para el cluster 0
+Nuevo centroide 17895 para el cluster 0
+Nuevo centroide 18002 para el cluster 0
+Nuevo centroide 18057 para el cluster 0
+Nuevo centroide 18083 para el cluster 0
+Nuevo centroide 18600 para el cluster 0
+Nuevo centroide 18614 para el cluster 0
+Nuevo centroide 18684 para el cluster 0
+Generando nuevos centroides del cluster 1
+Nuevo centroide 449 para el cluster 1
+Nuevo centroide 31 para el cluster 1
+Nuevo centroide 111 para el cluster 1
+Nuevo centroide 2819 para el cluster 1
+Nuevo centroide 4271 para el cluster 1
+Nuevo centroide 4588 para el cluster 1
+Nuevo centroide 4805 para el cluster 1
+Nuevo centroide 5103 para el cluster 1
+Nuevo centroide 5496 para el cluster 1
+Nuevo centroide 5822 para el cluster 1
+Nuevo centroide 5898 para el cluster 1
+Nuevo centroide 6877 para el cluster 1
+Nuevo centroide 6901 para el cluster 1
+Nuevo centroide 7001 para el cluster 1
+Nuevo centroide 7022 para el cluster 1
+Nuevo centroide 15556 para el cluster 1
+Nuevo centroide 15781 para el cluster 1
+Nuevo centroide 16333 para el cluster 1
+Nuevo centroide 17012 para el cluster 1
+Nuevo centroide 17605 para el cluster 1
+Nuevo centroide 18121 para el cluster 1
+Nuevo centroide 18245 para el cluster 1
+Generando nuevos centroides del cluster 2
+Nuevo centroide 18 para el cluster 2
+Nuevo centroide 78 para el cluster 2
+Nuevo centroide 127 para el cluster 2
+Nuevo centroide 332 para el cluster 2
+Nuevo centroide 366 para el cluster 2
+Nuevo centroide 398 para el cluster 2
+Nuevo centroide 498 para el cluster 2
+Nuevo centroide 533 para el cluster 2
+Nuevo centroide 832 para el cluster 2
+Nuevo centroide 902 para el cluster 2
+Nuevo centroide 1043 para el cluster 2
+Nuevo centroide 1107 para el cluster 2
+Nuevo centroide 1215 para el cluster 2
+Nuevo centroide 1282 para el cluster 2
+Nuevo centroide 1481 para el cluster 2
+Nuevo centroide 1706 para el cluster 2
+Nuevo centroide 1730 para el cluster 2
+Nuevo centroide 2164 para el cluster 2
+Nuevo centroide 2182 para el cluster 2
+Nuevo centroide 2196 para el cluster 2
+Nuevo centroide 3011 para el cluster 2
+Nuevo centroide 3033 para el cluster 2
+Nuevo centroide 3180 para el cluster 2
+Nuevo centroide 3616 para el cluster 2
+Nuevo centroide 3883 para el cluster 2
+Nuevo centroide 3940 para el cluster 2
+Nuevo centroide 3986 para el cluster 2
+Nuevo centroide 5065 para el cluster 2
+Nuevo centroide 5182 para el cluster 2
+Nuevo centroide 5714 para el cluster 2
+Nuevo centroide 6214 para el cluster 2
+Nuevo centroide 6219 para el cluster 2
+Nuevo centroide 6351 para el cluster 2
+Nuevo centroide 6747 para el cluster 2
+Nuevo centroide 6796 para el cluster 2
+Nuevo centroide 7069 para el cluster 2
+Nuevo centroide 7205 para el cluster 2
+Nuevo centroide 7225 para el cluster 2
+Nuevo centroide 7544 para el cluster 2
+Nuevo centroide 7633 para el cluster 2
+Nuevo centroide 11642 para el cluster 2
+Nuevo centroide 12721 para el cluster 2
+Nuevo centroide 13641 para el cluster 2
+Nuevo centroide 14077 para el cluster 2
+Nuevo centroide 14753 para el cluster 2
+Nuevo centroide 15708 para el cluster 2
+Nuevo centroide 15827 para el cluster 2
+Nuevo centroide 15928 para el cluster 2
+Nuevo centroide 16078 para el cluster 2
+Nuevo centroide 17820 para el cluster 2
+Nuevo centroide 17954 para el cluster 2
+Nuevo centroide 18688 para el cluster 2
+Generando nuevos centroides del cluster 3
+Nuevo centroide 424 para el cluster 3
+Nuevo centroide 133 para el cluster 3
+Nuevo centroide 286 para el cluster 3
+Nuevo centroide 328 para el cluster 3
+Nuevo centroide 415 para el cluster 3
+Nuevo centroide 977 para el cluster 3
+Nuevo centroide 1184 para el cluster 3
+Nuevo centroide 1290 para el cluster 3
+Nuevo centroide 2717 para el cluster 3
+Nuevo centroide 2871 para el cluster 3
+Nuevo centroide 2938 para el cluster 3
+Nuevo centroide 3065 para el cluster 3
+Nuevo centroide 3067 para el cluster 3
+Nuevo centroide 3078 para el cluster 3
+Nuevo centroide 3100 para el cluster 3
+Nuevo centroide 3135 para el cluster 3
+Nuevo centroide 3148 para el cluster 3
+Nuevo centroide 3149 para el cluster 3
+Nuevo centroide 3157 para el cluster 3
+Nuevo centroide 3201 para el cluster 3
+Nuevo centroide 3263 para el cluster 3
+Nuevo centroide 4430 para el cluster 3
+Nuevo centroide 4580 para el cluster 3
+Nuevo centroide 5179 para el cluster 3
+Nuevo centroide 5208 para el cluster 3
+Nuevo centroide 5384 para el cluster 3
+Nuevo centroide 5459 para el cluster 3
+Nuevo centroide 5498 para el cluster 3
+Nuevo centroide 5837 para el cluster 3
+Nuevo centroide 6233 para el cluster 3
+Nuevo centroide 6665 para el cluster 3
+Nuevo centroide 6957 para el cluster 3
+Nuevo centroide 7117 para el cluster 3
+Nuevo centroide 9400 para el cluster 3
+Nuevo centroide 9753 para el cluster 3
+Nuevo centroide 11945 para el cluster 3
+Nuevo centroide 12146 para el cluster 3
+Nuevo centroide 12210 para el cluster 3
+Nuevo centroide 12297 para el cluster 3
+Nuevo centroide 12684 para el cluster 3
+Nuevo centroide 14905 para el cluster 3
+Generando nuevos centroides del cluster 4
+Nuevo centroide 159 para el cluster 4
+Nuevo centroide 4 para el cluster 4
+Nuevo centroide 18 para el cluster 4
+Nuevo centroide 36 para el cluster 4
+Nuevo centroide 145 para el cluster 4
+Nuevo centroide 285 para el cluster 4
+Nuevo centroide 373 para el cluster 4
+Nuevo centroide 429 para el cluster 4
+Nuevo centroide 940 para el cluster 4
+Nuevo centroide 1283 para el cluster 4
+Nuevo centroide 1945 para el cluster 4
+Nuevo centroide 2079 para el cluster 4
+Nuevo centroide 2270 para el cluster 4
+Nuevo centroide 2400 para el cluster 4
+Nuevo centroide 2832 para el cluster 4
+Nuevo centroide 2863 para el cluster 4
+Nuevo centroide 3417 para el cluster 4
+Nuevo centroide 3571 para el cluster 4
+Nuevo centroide 3641 para el cluster 4
+Nuevo centroide 4155 para el cluster 4
+Nuevo centroide 4508 para el cluster 4
+Nuevo centroide 5047 para el cluster 4
+Nuevo centroide 5051 para el cluster 4
+Nuevo centroide 5385 para el cluster 4
+Nuevo centroide 5436 para el cluster 4
+Nuevo centroide 5470 para el cluster 4
+Nuevo centroide 5540 para el cluster 4
+Nuevo centroide 5892 para el cluster 4
+Nuevo centroide 6103 para el cluster 4
+Nuevo centroide 6184 para el cluster 4
+Nuevo centroide 6473 para el cluster 4
+Nuevo centroide 6656 para el cluster 4
+Nuevo centroide 6760 para el cluster 4
+Nuevo centroide 7278 para el cluster 4
+Nuevo centroide 7693 para el cluster 4
+Nuevo centroide 7819 para el cluster 4
+Nuevo centroide 9958 para el cluster 4
+Nuevo centroide 10318 para el cluster 4
+Nuevo centroide 10590 para el cluster 4
+Nuevo centroide 11616 para el cluster 4
+Nuevo centroide 11703 para el cluster 4
+Nuevo centroide 11848 para el cluster 4
+Nuevo centroide 12012 para el cluster 4
+Nuevo centroide 12389 para el cluster 4
+Nuevo centroide 15221 para el cluster 4
+Nuevo centroide 15720 para el cluster 4
+Nuevo centroide 16398 para el cluster 4
+Nuevo centroide 17134 para el cluster 4
+Nuevo centroide 17338 para el cluster 4
+Nuevo centroide 18486 para el cluster 4
+Generando nuevos centroides del cluster 5
+Nuevo centroide 44 para el cluster 5
+Nuevo centroide 321 para el cluster 5
+Nuevo centroide 370 para el cluster 5
+Nuevo centroide 1143 para el cluster 5
+Nuevo centroide 2348 para el cluster 5
+Nuevo centroide 2520 para el cluster 5
+Nuevo centroide 2840 para el cluster 5
+Nuevo centroide 2843 para el cluster 5
+Nuevo centroide 2919 para el cluster 5
+Nuevo centroide 3224 para el cluster 5
+Nuevo centroide 3250 para el cluster 5
+Nuevo centroide 3345 para el cluster 5
+Nuevo centroide 3470 para el cluster 5
+Nuevo centroide 3491 para el cluster 5
+Nuevo centroide 3569 para el cluster 5
+Nuevo centroide 3814 para el cluster 5
+Nuevo centroide 3852 para el cluster 5
+Nuevo centroide 3857 para el cluster 5
+Nuevo centroide 3869 para el cluster 5
+Nuevo centroide 3875 para el cluster 5
+Nuevo centroide 3877 para el cluster 5
+Nuevo centroide 3902 para el cluster 5
+Nuevo centroide 4001 para el cluster 5
+Nuevo centroide 4160 para el cluster 5
+Nuevo centroide 4741 para el cluster 5
+Nuevo centroide 5451 para el cluster 5
+Nuevo centroide 6082 para el cluster 5
+Nuevo centroide 6084 para el cluster 5
+Nuevo centroide 6525 para el cluster 5
+Nuevo centroide 7380 para el cluster 5
+Nuevo centroide 8801 para el cluster 5
+Nuevo centroide 9271 para el cluster 5
+Nuevo centroide 9550 para el cluster 5
+Nuevo centroide 13032 para el cluster 5
+Nuevo centroide 13222 para el cluster 5
+Nuevo centroide 13265 para el cluster 5
+Nuevo centroide 15524 para el cluster 5
+Nuevo centroide 17292 para el cluster 5
+Nuevo centroide 17611 para el cluster 5
+Generando nuevos centroides del cluster 6
+Nuevo centroide 128 para el cluster 6
+Nuevo centroide 7 para el cluster 6
+Nuevo centroide 55 para el cluster 6
+Nuevo centroide 108 para el cluster 6
+Nuevo centroide 109 para el cluster 6
+Nuevo centroide 155 para el cluster 6
+Nuevo centroide 220 para el cluster 6
+Nuevo centroide 245 para el cluster 6
+Nuevo centroide 416 para el cluster 6
+Nuevo centroide 769 para el cluster 6
+Nuevo centroide 2748 para el cluster 6
+Nuevo centroide 2794 para el cluster 6
+Nuevo centroide 2918 para el cluster 6
+Nuevo centroide 2947 para el cluster 6
+Nuevo centroide 3079 para el cluster 6
+Nuevo centroide 5377 para el cluster 6
+Nuevo centroide 5831 para el cluster 6
+Nuevo centroide 5834 para el cluster 6
+Nuevo centroide 5850 para el cluster 6
+Nuevo centroide 6440 para el cluster 6
+Nuevo centroide 6618 para el cluster 6
+Nuevo centroide 6974 para el cluster 6
+Nuevo centroide 7292 para el cluster 6
+Nuevo centroide 7547 para el cluster 6
+Nuevo centroide 7892 para el cluster 6
+Nuevo centroide 10763 para el cluster 6
+Nuevo centroide 11231 para el cluster 6
+Nuevo centroide 13321 para el cluster 6
+Nuevo centroide 14625 para el cluster 6
+Nuevo centroide 15532 para el cluster 6
+Nuevo centroide 15828 para el cluster 6
+Nuevo centroide 16451 para el cluster 6
+Nuevo centroide 16487 para el cluster 6
+Nuevo centroide 16671 para el cluster 6
+Nuevo centroide 17441 para el cluster 6
+Generando nuevos centroides del cluster 7
+Nuevo centroide 165 para el cluster 7
+Nuevo centroide 116 para el cluster 7
+Nuevo centroide 337 para el cluster 7
+Nuevo centroide 509 para el cluster 7
+Nuevo centroide 549 para el cluster 7
+Nuevo centroide 558 para el cluster 7
+Nuevo centroide 1102 para el cluster 7
+Nuevo centroide 1114 para el cluster 7
+Nuevo centroide 1172 para el cluster 7
+Nuevo centroide 1223 para el cluster 7
+Nuevo centroide 1544 para el cluster 7
+Nuevo centroide 1720 para el cluster 7
+Nuevo centroide 2287 para el cluster 7
+Nuevo centroide 2299 para el cluster 7
+Nuevo centroide 2305 para el cluster 7
+Nuevo centroide 2377 para el cluster 7
+Nuevo centroide 2427 para el cluster 7
+Nuevo centroide 2503 para el cluster 7
+Nuevo centroide 2599 para el cluster 7
+Nuevo centroide 2639 para el cluster 7
+Nuevo centroide 2682 para el cluster 7
+Nuevo centroide 4802 para el cluster 7
+Nuevo centroide 4857 para el cluster 7
+Nuevo centroide 4925 para el cluster 7
+Nuevo centroide 4965 para el cluster 7
+Nuevo centroide 5367 para el cluster 7
+Nuevo centroide 6192 para el cluster 7
+Nuevo centroide 11220 para el cluster 7
+Nuevo centroide 12369 para el cluster 7
+Nuevo centroide 14631 para el cluster 7
+Generando nuevos centroides del cluster 8
+Nuevo centroide 203 para el cluster 8
+Nuevo centroide 84 para el cluster 8
+Nuevo centroide 222 para el cluster 8
+Nuevo centroide 319 para el cluster 8
+Nuevo centroide 352 para el cluster 8
+Nuevo centroide 388 para el cluster 8
+Nuevo centroide 430 para el cluster 8
+Nuevo centroide 502 para el cluster 8
+Nuevo centroide 542 para el cluster 8
+Nuevo centroide 547 para el cluster 8
+Nuevo centroide 676 para el cluster 8
+Nuevo centroide 723 para el cluster 8
+Nuevo centroide 874 para el cluster 8
+Nuevo centroide 1050 para el cluster 8
+Nuevo centroide 1131 para el cluster 8
+Nuevo centroide 1241 para el cluster 8
+Nuevo centroide 1309 para el cluster 8
+Nuevo centroide 1359 para el cluster 8
+Nuevo centroide 1362 para el cluster 8
+Nuevo centroide 1668 para el cluster 8
+Nuevo centroide 1995 para el cluster 8
+Nuevo centroide 2008 para el cluster 8
+Nuevo centroide 2411 para el cluster 8
+Nuevo centroide 2720 para el cluster 8
+Nuevo centroide 2829 para el cluster 8
+Nuevo centroide 3267 para el cluster 8
+Nuevo centroide 3630 para el cluster 8
+Nuevo centroide 3693 para el cluster 8
+Nuevo centroide 4641 para el cluster 8
+Nuevo centroide 4711 para el cluster 8
+Nuevo centroide 4752 para el cluster 8
+Nuevo centroide 4813 para el cluster 8
+Nuevo centroide 4933 para el cluster 8
+Nuevo centroide 5115 para el cluster 8
+Nuevo centroide 5218 para el cluster 8
+Nuevo centroide 6728 para el cluster 8
+Nuevo centroide 6903 para el cluster 8
+Nuevo centroide 8049 para el cluster 8
+Nuevo centroide 8119 para el cluster 8
+Nuevo centroide 8189 para el cluster 8
+Nuevo centroide 9326 para el cluster 8
+Nuevo centroide 9630 para el cluster 8
+Nuevo centroide 10308 para el cluster 8
+Nuevo centroide 10793 para el cluster 8
+Nuevo centroide 10864 para el cluster 8
+Nuevo centroide 14679 para el cluster 8
+Nuevo centroide 15124 para el cluster 8
+Nuevo centroide 15977 para el cluster 8
+Nuevo centroide 17972 para el cluster 8
+Generando nuevos centroides del cluster 9
+Nuevo centroide 15 para el cluster 9
+Nuevo centroide 135 para el cluster 9
+Nuevo centroide 205 para el cluster 9
+Nuevo centroide 2273 para el cluster 9
+Nuevo centroide 2887 para el cluster 9
+Nuevo centroide 3367 para el cluster 9
+Nuevo centroide 3375 para el cluster 9
+Nuevo centroide 3469 para el cluster 9
+Nuevo centroide 3499 para el cluster 9
+Nuevo centroide 3766 para el cluster 9
+Nuevo centroide 3823 para el cluster 9
+Nuevo centroide 3853 para el cluster 9
+Nuevo centroide 3855 para el cluster 9
+Nuevo centroide 3859 para el cluster 9
+Nuevo centroide 3969 para el cluster 9
+Nuevo centroide 4008 para el cluster 9
+Nuevo centroide 4024 para el cluster 9
+Nuevo centroide 4212 para el cluster 9
+Nuevo centroide 4374 para el cluster 9
+Nuevo centroide 5943 para el cluster 9
+Nuevo centroide 6237 para el cluster 9
+Nuevo centroide 12750 para el cluster 9
+Nuevo centroide 13438 para el cluster 9
+Nuevo centroide 13451 para el cluster 9
+Nuevo centroide 13474 para el cluster 9
+Nuevo centroide 15208 para el cluster 9
+Generando nuevos centroides del cluster 10
+Nuevo centroide 686 para el cluster 10
+Nuevo centroide 343 para el cluster 10
+Nuevo centroide 419 para el cluster 10
+Nuevo centroide 1220 para el cluster 10
+Nuevo centroide 1472 para el cluster 10
+Nuevo centroide 1917 para el cluster 10
+Nuevo centroide 1953 para el cluster 10
+Nuevo centroide 2681 para el cluster 10
+Nuevo centroide 4266 para el cluster 10
+Nuevo centroide 4292 para el cluster 10
+Nuevo centroide 4364 para el cluster 10
+Nuevo centroide 4521 para el cluster 10
+Nuevo centroide 6386 para el cluster 10
+Nuevo centroide 7083 para el cluster 10
+Nuevo centroide 7095 para el cluster 10
+Nuevo centroide 9980 para el cluster 10
+Nuevo centroide 10957 para el cluster 10
+Nuevo centroide 11671 para el cluster 10
+Nuevo centroide 11897 para el cluster 10
+Nuevo centroide 13904 para el cluster 10
+Nuevo centroide 13959 para el cluster 10
+Nuevo centroide 14029 para el cluster 10
+Nuevo centroide 15735 para el cluster 10
+Nuevo centroide 17422 para el cluster 10
+Generando nuevos centroides del cluster 11
+Nuevo centroide 696 para el cluster 11
+Nuevo centroide 369 para el cluster 11
+Nuevo centroide 380 para el cluster 11
+Nuevo centroide 497 para el cluster 11
+Nuevo centroide 662 para el cluster 11
+Nuevo centroide 700 para el cluster 11
+Nuevo centroide 779 para el cluster 11
+Nuevo centroide 941 para el cluster 11
+Nuevo centroide 1071 para el cluster 11
+Nuevo centroide 1096 para el cluster 11
+Nuevo centroide 1314 para el cluster 11
+Nuevo centroide 1377 para el cluster 11
+Nuevo centroide 1497 para el cluster 11
+Nuevo centroide 1507 para el cluster 11
+Nuevo centroide 1585 para el cluster 11
+Nuevo centroide 1617 para el cluster 11
+Nuevo centroide 1688 para el cluster 11
+Nuevo centroide 1815 para el cluster 11
+Nuevo centroide 2014 para el cluster 11
+Nuevo centroide 2048 para el cluster 11
+Nuevo centroide 2251 para el cluster 11
+Nuevo centroide 2286 para el cluster 11
+Nuevo centroide 2535 para el cluster 11
+Nuevo centroide 2609 para el cluster 11
+Nuevo centroide 2634 para el cluster 11
+Nuevo centroide 2651 para el cluster 11
+Nuevo centroide 2894 para el cluster 11
+Nuevo centroide 3170 para el cluster 11
+Nuevo centroide 4615 para el cluster 11
+Nuevo centroide 6620 para el cluster 11
+Nuevo centroide 7436 para el cluster 11
+Nuevo centroide 8639 para el cluster 11
+Nuevo centroide 9520 para el cluster 11
+Nuevo centroide 9571 para el cluster 11
+Nuevo centroide 9629 para el cluster 11
+Nuevo centroide 9879 para el cluster 11
+Nuevo centroide 10081 para el cluster 11
+Nuevo centroide 10348 para el cluster 11
+Nuevo centroide 12678 para el cluster 11
+Nuevo centroide 13814 para el cluster 11
+Nuevo centroide 14745 para el cluster 11
+Nuevo centroide 14781 para el cluster 11
+Nuevo centroide 15304 para el cluster 11
+Nuevo centroide 16019 para el cluster 11
+Nuevo centroide 16803 para el cluster 11
+Nuevo centroide 17646 para el cluster 11
+Nuevo centroide 18253 para el cluster 11
+Nuevo centroide 18420 para el cluster 11
+Generando nuevos centroides del cluster 12
+Nuevo centroide 884 para el cluster 12
+Nuevo centroide 134 para el cluster 12
+Nuevo centroide 255 para el cluster 12
+Nuevo centroide 331 para el cluster 12
+Nuevo centroide 346 para el cluster 12
+Nuevo centroide 438 para el cluster 12
+Nuevo centroide 465 para el cluster 12
+Nuevo centroide 724 para el cluster 12
+Nuevo centroide 728 para el cluster 12
+Nuevo centroide 730 para el cluster 12
+Nuevo centroide 744 para el cluster 12
+Nuevo centroide 951 para el cluster 12
+Nuevo centroide 1155 para el cluster 12
+Nuevo centroide 1254 para el cluster 12
+Nuevo centroide 1348 para el cluster 12
+Nuevo centroide 1426 para el cluster 12
+Nuevo centroide 1570 para el cluster 12
+Nuevo centroide 1958 para el cluster 12
+Nuevo centroide 2038 para el cluster 12
+Nuevo centroide 2088 para el cluster 12
+Nuevo centroide 2184 para el cluster 12
+Nuevo centroide 2291 para el cluster 12
+Nuevo centroide 2323 para el cluster 12
+Nuevo centroide 2324 para el cluster 12
+Nuevo centroide 2588 para el cluster 12
+Nuevo centroide 2898 para el cluster 12
+Nuevo centroide 3025 para el cluster 12
+Nuevo centroide 3258 para el cluster 12
+Nuevo centroide 3293 para el cluster 12
+Nuevo centroide 3865 para el cluster 12
+Nuevo centroide 3916 para el cluster 12
+Nuevo centroide 4287 para el cluster 12
+Nuevo centroide 4669 para el cluster 12
+Nuevo centroide 4727 para el cluster 12
+Nuevo centroide 4986 para el cluster 12
+Nuevo centroide 5093 para el cluster 12
+Nuevo centroide 5134 para el cluster 12
+Nuevo centroide 5691 para el cluster 12
+Nuevo centroide 5804 para el cluster 12
+Nuevo centroide 6055 para el cluster 12
+Nuevo centroide 6302 para el cluster 12
+Nuevo centroide 6645 para el cluster 12
+Nuevo centroide 7829 para el cluster 12
+Nuevo centroide 8348 para el cluster 12
+Nuevo centroide 8492 para el cluster 12
+Nuevo centroide 8567 para el cluster 12
+Nuevo centroide 8631 para el cluster 12
+Nuevo centroide 10686 para el cluster 12
+Nuevo centroide 11801 para el cluster 12
+Nuevo centroide 11846 para el cluster 12
+Nuevo centroide 12979 para el cluster 12
+Nuevo centroide 14767 para el cluster 12
+Nuevo centroide 15927 para el cluster 12
+Nuevo centroide 15951 para el cluster 12
+Nuevo centroide 16432 para el cluster 12
+Nuevo centroide 18588 para el cluster 12
+Generando nuevos centroides del cluster 13
+Nuevo centroide 249 para el cluster 13
+Nuevo centroide 117 para el cluster 13
+Nuevo centroide 243 para el cluster 13
+Nuevo centroide 1077 para el cluster 13
+Nuevo centroide 1818 para el cluster 13
+Nuevo centroide 2131 para el cluster 13
+Nuevo centroide 2912 para el cluster 13
+Nuevo centroide 3059 para el cluster 13
+Nuevo centroide 3292 para el cluster 13
+Nuevo centroide 3458 para el cluster 13
+Nuevo centroide 3480 para el cluster 13
+Nuevo centroide 3482 para el cluster 13
+Nuevo centroide 3529 para el cluster 13
+Nuevo centroide 3548 para el cluster 13
+Nuevo centroide 3866 para el cluster 13
+Nuevo centroide 5091 para el cluster 13
+Nuevo centroide 8036 para el cluster 13
+Nuevo centroide 11757 para el cluster 13
+Nuevo centroide 12235 para el cluster 13
+Nuevo centroide 12819 para el cluster 13
+Nuevo centroide 12876 para el cluster 13
+Nuevo centroide 12967 para el cluster 13
+Nuevo centroide 13274 para el cluster 13
+Nuevo centroide 13850 para el cluster 13
+Nuevo centroide 15210 para el cluster 13
+Nuevo centroide 15451 para el cluster 13
+Nuevo centroide 16272 para el cluster 13
+Nuevo centroide 17563 para el cluster 13
+Nuevo centroide 18548 para el cluster 13
+Generando nuevos centroides del cluster 14
+Nuevo centroide 655 para el cluster 14
+Nuevo centroide 114 para el cluster 14
+Nuevo centroide 259 para el cluster 14
+Nuevo centroide 349 para el cluster 14
+Nuevo centroide 817 para el cluster 14
+Nuevo centroide 838 para el cluster 14
+Nuevo centroide 1232 para el cluster 14
+Nuevo centroide 1272 para el cluster 14
+Nuevo centroide 1352 para el cluster 14
+Nuevo centroide 1606 para el cluster 14
+Nuevo centroide 2103 para el cluster 14
+Nuevo centroide 2152 para el cluster 14
+Nuevo centroide 2224 para el cluster 14
+Nuevo centroide 2724 para el cluster 14
+Nuevo centroide 2848 para el cluster 14
+Nuevo centroide 3116 para el cluster 14
+Nuevo centroide 3131 para el cluster 14
+Nuevo centroide 3348 para el cluster 14
+Nuevo centroide 3562 para el cluster 14
+Nuevo centroide 4224 para el cluster 14
+Nuevo centroide 4827 para el cluster 14
+Nuevo centroide 5049 para el cluster 14
+Nuevo centroide 5243 para el cluster 14
+Nuevo centroide 5703 para el cluster 14
+Nuevo centroide 5904 para el cluster 14
+Nuevo centroide 6759 para el cluster 14
+Nuevo centroide 6778 para el cluster 14
+Nuevo centroide 7338 para el cluster 14
+Nuevo centroide 8439 para el cluster 14
+Nuevo centroide 9016 para el cluster 14
+Nuevo centroide 10773 para el cluster 14
+Nuevo centroide 12745 para el cluster 14
+Nuevo centroide 13301 para el cluster 14
+Nuevo centroide 13643 para el cluster 14
+Nuevo centroide 14605 para el cluster 14
+Nuevo centroide 15435 para el cluster 14
+Nuevo centroide 18301 para el cluster 14
+Generando nuevos centroides del cluster 15
+Nuevo centroide 856 para el cluster 15
+Nuevo centroide 11 para el cluster 15
+Nuevo centroide 51 para el cluster 15
+Nuevo centroide 69 para el cluster 15
+Nuevo centroide 208 para el cluster 15
+Nuevo centroide 215 para el cluster 15
+Nuevo centroide 447 para el cluster 15
+Nuevo centroide 569 para el cluster 15
+Nuevo centroide 901 para el cluster 15
+Nuevo centroide 919 para el cluster 15
+Nuevo centroide 1755 para el cluster 15
+Nuevo centroide 2227 para el cluster 15
+Nuevo centroide 2407 para el cluster 15
+Nuevo centroide 2589 para el cluster 15
+Nuevo centroide 3202 para el cluster 15
+Nuevo centroide 3236 para el cluster 15
+Nuevo centroide 3337 para el cluster 15
+Nuevo centroide 3744 para el cluster 15
+Nuevo centroide 4486 para el cluster 15
+Nuevo centroide 4783 para el cluster 15
+Nuevo centroide 5310 para el cluster 15
+Nuevo centroide 5467 para el cluster 15
+Nuevo centroide 5812 para el cluster 15
+Nuevo centroide 6281 para el cluster 15
+Nuevo centroide 6433 para el cluster 15
+Nuevo centroide 6602 para el cluster 15
+Nuevo centroide 7090 para el cluster 15
+Nuevo centroide 7126 para el cluster 15
+Nuevo centroide 7307 para el cluster 15
+Nuevo centroide 7746 para el cluster 15
+Nuevo centroide 8056 para el cluster 15
+Nuevo centroide 9350 para el cluster 15
+Nuevo centroide 10188 para el cluster 15
+Nuevo centroide 11959 para el cluster 15
+Nuevo centroide 15226 para el cluster 15
+Nuevo centroide 16921 para el cluster 15
+Nuevo centroide 18081 para el cluster 15
+Nuevo centroide 18538 para el cluster 15
+Nuevo centroide 18629 para el cluster 15
+Generando nuevos centroides del cluster 16
+Nuevo centroide 205 para el cluster 16
+Nuevo centroide 12 para el cluster 16
+Nuevo centroide 306 para el cluster 16
+Nuevo centroide 324 para el cluster 16
+Nuevo centroide 464 para el cluster 16
+Nuevo centroide 550 para el cluster 16
+Nuevo centroide 991 para el cluster 16
+Nuevo centroide 1195 para el cluster 16
+Nuevo centroide 1239 para el cluster 16
+Nuevo centroide 1513 para el cluster 16
+Nuevo centroide 1532 para el cluster 16
+Nuevo centroide 2684 para el cluster 16
+Nuevo centroide 2835 para el cluster 16
+Nuevo centroide 2924 para el cluster 16
+Nuevo centroide 2943 para el cluster 16
+Nuevo centroide 3020 para el cluster 16
+Nuevo centroide 3095 para el cluster 16
+Nuevo centroide 3454 para el cluster 16
+Nuevo centroide 3489 para el cluster 16
+Nuevo centroide 4260 para el cluster 16
+Nuevo centroide 4358 para el cluster 16
+Nuevo centroide 4371 para el cluster 16
+Nuevo centroide 4495 para el cluster 16
+Nuevo centroide 4930 para el cluster 16
+Nuevo centroide 5480 para el cluster 16
+Nuevo centroide 5514 para el cluster 16
+Nuevo centroide 5600 para el cluster 16
+Nuevo centroide 5695 para el cluster 16
+Nuevo centroide 6624 para el cluster 16
+Nuevo centroide 6633 para el cluster 16
+Nuevo centroide 6657 para el cluster 16
+Nuevo centroide 7044 para el cluster 16
+Nuevo centroide 7153 para el cluster 16
+Nuevo centroide 11454 para el cluster 16
+Nuevo centroide 12381 para el cluster 16
+Nuevo centroide 12815 para el cluster 16
+Nuevo centroide 14667 para el cluster 16
+Nuevo centroide 14743 para el cluster 16
+Nuevo centroide 15053 para el cluster 16
+Nuevo centroide 15139 para el cluster 16
+Nuevo centroide 15631 para el cluster 16
+Nuevo centroide 16010 para el cluster 16
+Nuevo centroide 17725 para el cluster 16
+Nuevo centroide 18232 para el cluster 16
+Generando nuevos centroides del cluster 17
+Nuevo centroide 319 para el cluster 17
+Nuevo centroide 82 para el cluster 17
+Nuevo centroide 177 para el cluster 17
+Nuevo centroide 230 para el cluster 17
+Nuevo centroide 487 para el cluster 17
+Nuevo centroide 507 para el cluster 17
+Nuevo centroide 548 para el cluster 17
+Nuevo centroide 560 para el cluster 17
+Nuevo centroide 634 para el cluster 17
+Nuevo centroide 685 para el cluster 17
+Nuevo centroide 768 para el cluster 17
+Nuevo centroide 786 para el cluster 17
+Nuevo centroide 837 para el cluster 17
+Nuevo centroide 999 para el cluster 17
+Nuevo centroide 1138 para el cluster 17
+Nuevo centroide 1207 para el cluster 17
+Nuevo centroide 1577 para el cluster 17
+Nuevo centroide 1640 para el cluster 17
+Nuevo centroide 1742 para el cluster 17
+Nuevo centroide 1957 para el cluster 17
+Nuevo centroide 2478 para el cluster 17
+Nuevo centroide 2513 para el cluster 17
+Nuevo centroide 2693 para el cluster 17
+Nuevo centroide 3296 para el cluster 17
+Nuevo centroide 4300 para el cluster 17
+Nuevo centroide 4621 para el cluster 17
+Nuevo centroide 5056 para el cluster 17
+Nuevo centroide 5735 para el cluster 17
+Nuevo centroide 6651 para el cluster 17
+Nuevo centroide 6959 para el cluster 17
+Nuevo centroide 7643 para el cluster 17
+Nuevo centroide 9407 para el cluster 17
+Nuevo centroide 9498 para el cluster 17
+Nuevo centroide 10723 para el cluster 17
+Nuevo centroide 10947 para el cluster 17
+Nuevo centroide 11099 para el cluster 17
+Nuevo centroide 11449 para el cluster 17
+Nuevo centroide 11525 para el cluster 17
+Nuevo centroide 12310 para el cluster 17
+Nuevo centroide 13105 para el cluster 17
+Nuevo centroide 13161 para el cluster 17
+Nuevo centroide 13224 para el cluster 17
+Nuevo centroide 13239 para el cluster 17
+Nuevo centroide 14053 para el cluster 17
+Nuevo centroide 14176 para el cluster 17
+Nuevo centroide 15072 para el cluster 17
+Nuevo centroide 17752 para el cluster 17
+Nuevo centroide 18389 para el cluster 17
+Generando nuevos centroides del cluster 18
+Nuevo centroide 600 para el cluster 18
+Nuevo centroide 322 para el cluster 18
+Nuevo centroide 411 para el cluster 18
+Nuevo centroide 484 para el cluster 18
+Nuevo centroide 546 para el cluster 18
+Nuevo centroide 551 para el cluster 18
+Nuevo centroide 576 para el cluster 18
+Nuevo centroide 579 para el cluster 18
+Nuevo centroide 598 para el cluster 18
+Nuevo centroide 684 para el cluster 18
+Nuevo centroide 747 para el cluster 18
+Nuevo centroide 756 para el cluster 18
+Nuevo centroide 782 para el cluster 18
+Nuevo centroide 799 para el cluster 18
+Nuevo centroide 803 para el cluster 18
+Nuevo centroide 924 para el cluster 18
+Nuevo centroide 1025 para el cluster 18
+Nuevo centroide 2167 para el cluster 18
+Nuevo centroide 2178 para el cluster 18
+Nuevo centroide 2483 para el cluster 18
+Nuevo centroide 2544 para el cluster 18
+Nuevo centroide 3169 para el cluster 18
+Nuevo centroide 4909 para el cluster 18
+Nuevo centroide 5820 para el cluster 18
+Nuevo centroide 5949 para el cluster 18
+Nuevo centroide 6038 para el cluster 18
+Nuevo centroide 6190 para el cluster 18
+Nuevo centroide 8679 para el cluster 18
+Nuevo centroide 9216 para el cluster 18
+Nuevo centroide 10027 para el cluster 18
+Nuevo centroide 13057 para el cluster 18
+Nuevo centroide 16170 para el cluster 18
+Nuevo centroide 18422 para el cluster 18
+Generando nuevos centroides del cluster 19
+Nuevo centroide 439 para el cluster 19
+Nuevo centroide 19 para el cluster 19
+Nuevo centroide 63 para el cluster 19
+Nuevo centroide 342 para el cluster 19
+Nuevo centroide 478 para el cluster 19
+Nuevo centroide 614 para el cluster 19
+Nuevo centroide 651 para el cluster 19
+Nuevo centroide 692 para el cluster 19
+Nuevo centroide 1012 para el cluster 19
+Nuevo centroide 1586 para el cluster 19
+Nuevo centroide 1768 para el cluster 19
+Nuevo centroide 1859 para el cluster 19
+Nuevo centroide 2222 para el cluster 19
+Nuevo centroide 2645 para el cluster 19
+Nuevo centroide 2976 para el cluster 19
+Nuevo centroide 3141 para el cluster 19
+Nuevo centroide 3278 para el cluster 19
+Nuevo centroide 3324 para el cluster 19
+Nuevo centroide 3449 para el cluster 19
+Nuevo centroide 3594 para el cluster 19
+Nuevo centroide 3707 para el cluster 19
+Nuevo centroide 3910 para el cluster 19
+Nuevo centroide 4498 para el cluster 19
+Nuevo centroide 5288 para el cluster 19
+Nuevo centroide 5328 para el cluster 19
+Nuevo centroide 5404 para el cluster 19
+Nuevo centroide 5431 para el cluster 19
+Nuevo centroide 5435 para el cluster 19
+Nuevo centroide 5544 para el cluster 19
+Nuevo centroide 5601 para el cluster 19
+Nuevo centroide 6106 para el cluster 19
+Nuevo centroide 6331 para el cluster 19
+Nuevo centroide 6347 para el cluster 19
+Nuevo centroide 6615 para el cluster 19
+Nuevo centroide 6663 para el cluster 19
+Nuevo centroide 6884 para el cluster 19
+Nuevo centroide 7072 para el cluster 19
+Nuevo centroide 7311 para el cluster 19
+Nuevo centroide 7326 para el cluster 19
+Nuevo centroide 7373 para el cluster 19
+Nuevo centroide 7387 para el cluster 19
+Nuevo centroide 7490 para el cluster 19
+Nuevo centroide 8229 para el cluster 19
+Nuevo centroide 9483 para el cluster 19
+Nuevo centroide 10145 para el cluster 19
+Nuevo centroide 10201 para el cluster 19
+Nuevo centroide 10866 para el cluster 19
+Nuevo centroide 11224 para el cluster 19
+Nuevo centroide 12504 para el cluster 19
+Nuevo centroide 12806 para el cluster 19
+Nuevo centroide 14575 para el cluster 19
+Nuevo centroide 15088 para el cluster 19
+Nuevo centroide 15122 para el cluster 19
+Nuevo centroide 15182 para el cluster 19
+Nuevo centroide 15743 para el cluster 19
+Nuevo centroide 16482 para el cluster 19
+Nuevo centroide 17979 para el cluster 19
+numberOfDocsAssigendRandomly = 0
+Time to run till 1 iterations: 4 seconds
+Global time until this iteration: 4 seconds
+Iteration : 2
+Cluster 1 has the centroids:
+Centroid 1: 0, 59
+Centroid 2: 0, 0
+Centroid 3: 0, 2
+Centroid 4: 0, 6
+Centroid 5: 0, 15
+Centroid 6: 0, 20
+Centroid 7: 0, 22
+Centroid 8: 0, 32
+Centroid 9: 0, 33
+Centroid 10: 0, 40
+Centroid 11: 0, 64
+Centroid 12: 0, 68
+Centroid 13: 0, 71
+Centroid 14: 0, 98
+Centroid 15: 0, 126
+Centroid 16: 0, 137
+Centroid 17: 0, 191
+Centroid 18: 0, 198
+Centroid 19: 0, 209
+Centroid 20: 0, 212
+Centroid 21: 0, 225
+Centroid 22: 0, 232
+Centroid 23: 0, 247
+Centroid 24: 0, 261
+Centroid 25: 0, 288
+Centroid 26: 0, 294
+Centroid 27: 1, 320
+Centroid 28: 1, 327
+Centroid 29: 1, 333
+Centroid 30: 1, 334
+Centroid 31: 1, 340
+Centroid 32: 1, 344
+Centroid 33: 1, 345
+Centroid 34: 1, 354
+Centroid 35: 1, 358
+Centroid 36: 1, 359
+Centroid 37: 1, 362
+Centroid 38: 1, 365
+Centroid 39: 1, 374
+Centroid 40: 1, 394
+Centroid 41: 1, 397
+Centroid 42: 1, 425
+Centroid 43: 1, 463
+Centroid 44: 1, 480
+Centroid 45: 1, 499
+Centroid 46: 1, 504
+Centroid 47: 1, 517
+Centroid 48: 1, 562
+Centroid 49: 1, 563
+Centroid 50: 1, 586
+Centroid 51: 1, 591
+Centroid 52: 1, 605
+Centroid 53: 1, 608
+Centroid 54: 1, 612
+Centroid 55: 1, 646
+Centroid 56: 1, 703
+Centroid 57: 2, 718
+Centroid 58: 2, 726
+Centroid 59: 2, 774
+Centroid 60: 2, 808
+Centroid 61: 2, 810
+Centroid 62: 2, 933
+Centroid 63: 2, 935
+Centroid 64: 2, 950
+Centroid 65: 2, 978
+Centroid 66: 2, 1014
+Centroid 67: 3, 1108
+Centroid 68: 3, 1133
+Centroid 69: 3, 1152
+Centroid 70: 3, 1167
+Centroid 71: 3, 1170
+Centroid 72: 3, 1204
+Centroid 73: 3, 1247
+Centroid 74: 3, 1300
+Centroid 75: 3, 1305
+Centroid 76: 3, 1342
+Centroid 77: 3, 1486
+Centroid 78: 4, 1494
+Centroid 79: 4, 1503
+Centroid 80: 4, 1518
+Centroid 81: 4, 1543
+Centroid 82: 4, 1584
+Centroid 83: 4, 1719
+Centroid 84: 4, 1745
+Centroid 85: 4, 1832
+Centroid 86: 4, 1856
+Centroid 87: 4, 1864
+Centroid 88: 5, 1946
+Centroid 89: 5, 1959
+Centroid 90: 5, 2013
+Centroid 91: 5, 2020
+Centroid 92: 5, 2035
+Centroid 93: 5, 2124
+Centroid 94: 5, 2134
+Centroid 95: 5, 2188
+Centroid 96: 5, 2190
+Centroid 97: 6, 2294
+Centroid 98: 6, 2316
+Centroid 99: 6, 2318
+Centroid 100: 6, 2322
+Centroid 101: 6, 2335
+Centroid 102: 6, 2356
+Centroid 103: 6, 2387
+Centroid 104: 6, 2389
+Centroid 105: 6, 2423
+Centroid 106: 6, 2426
+Centroid 107: 6, 2452
+Centroid 108: 6, 2508
+Centroid 109: 6, 2509
+Centroid 110: 6, 2529
+Centroid 111: 6, 2538
+Centroid 112: 7, 2685
+Centroid 113: 7, 2766
+Centroid 114: 7, 2768
+Centroid 115: 7, 2781
+Centroid 116: 7, 2784
+Centroid 117: 7, 2850
+Centroid 118: 7, 2861
+Centroid 119: 7, 2880
+Centroid 120: 7, 2891
+Centroid 121: 7, 3003
+Centroid 122: 7, 3047
+Centroid 123: 8, 3108
+Centroid 124: 8, 3132
+Centroid 125: 8, 3156
+Centroid 126: 8, 3166
+Centroid 127: 8, 3200
+Centroid 128: 8, 3349
+Centroid 129: 8, 3352
+Centroid 130: 8, 3362
+Centroid 131: 8, 3429
+Centroid 132: 9, 3493
+Centroid 133: 9, 3495
+Centroid 134: 9, 3517
+Centroid 135: 9, 3545
+Centroid 136: 9, 3585
+Centroid 137: 9, 3587
+Centroid 138: 9, 3589
+Centroid 139: 9, 3606
+Centroid 140: 9, 3608
+Centroid 141: 9, 3649
+Centroid 142: 9, 3758
+Centroid 143: 9, 3771
+Centroid 144: 10, 3906
+Centroid 145: 10, 4003
+Centroid 146: 10, 4076
+Centroid 147: 10, 4082
+Centroid 148: 10, 4167
+Centroid 149: 10, 4183
+Centroid 150: 11, 4255
+Centroid 151: 11, 4421
+Centroid 152: 11, 4567
+Centroid 153: 11, 4591
+Centroid 154: 12, 4700
+Centroid 155: 12, 4726
+Centroid 156: 12, 4832
+Centroid 157: 12, 4842
+Centroid 158: 12, 4971
+Centroid 159: 12, 4974
+Centroid 160: 13, 5079
+Centroid 161: 13, 5148
+Centroid 162: 13, 5166
+Centroid 163: 13, 5207
+Centroid 164: 13, 5226
+Centroid 165: 13, 5314
+Centroid 166: 13, 5349
+Centroid 167: 13, 5428
+Centroid 168: 13, 5433
+Centroid 169: 14, 5462
+Centroid 170: 14, 5686
+Centroid 171: 14, 5805
+Centroid 172: 15, 5874
+Centroid 173: 15, 5923
+Centroid 174: 15, 6035
+Centroid 175: 15, 6089
+Centroid 176: 15, 6155
+Centroid 177: 16, 6278
+Centroid 178: 16, 6366
+Centroid 179: 16, 6371
+Centroid 180: 16, 6499
+Centroid 181: 17, 6629
+Centroid 182: 17, 6666
+Centroid 183: 17, 6699
+Centroid 184: 17, 6709
+Centroid 185: 17, 6844
+Centroid 186: 18, 7035
+Centroid 187: 18, 7043
+Centroid 188: 19, 7306
+Centroid 189: 1, 8065
+Centroid 190: 1, 8186
+Centroid 191: 2, 8611
+Centroid 192: 2, 8825
+Centroid 193: 2, 9148
+Centroid 194: 3, 9180
+Centroid 195: 3, 9419
+Centroid 196: 4, 9875
+Centroid 197: 4, 9929
+Centroid 198: 4, 10084
+Centroid 199: 4, 10163
+Centroid 200: 4, 10221
+Centroid 201: 4, 10310
+Centroid 202: 5, 10455
+Centroid 203: 5, 10861
+Centroid 204: 6, 11196
+Centroid 205: 7, 11557
+Centroid 206: 7, 11736
+Centroid 207: 7, 11898
+Centroid 208: 8, 12444
+Centroid 209: 8, 12626
+Centroid 210: 8, 12657
+Centroid 211: 9, 12868
+Centroid 212: 9, 12974
+Centroid 213: 9, 13064
+Centroid 214: 9, 13090
+Centroid 215: 9, 13147
+Centroid 216: 9, 13192
+Centroid 217: 9, 13292
+Centroid 218: 10, 13569
+Centroid 219: 10, 13683
+Centroid 220: 10, 13721
+Centroid 221: 11, 14352
+Centroid 222: 12, 14863
+Centroid 223: 12, 15062
+Centroid 224: 13, 15109
+Centroid 225: 13, 15211
+Centroid 226: 13, 15369
+Centroid 227: 13, 15493
+Centroid 228: 14, 15855
+Centroid 229: 14, 16009
+Centroid 230: 14, 16245
+Centroid 231: 15, 16274
+Centroid 232: 15, 16292
+Centroid 233: 15, 16686
+Centroid 234: 16, 17033
+Centroid 235: 17, 17686
+Centroid 236: 17, 17876
+Centroid 237: 17, 17895
+Centroid 238: 18, 18002
+Centroid 239: 18, 18057
+Centroid 240: 18, 18083
+Centroid 241: 19, 18600
+Centroid 242: 19, 18614
+Centroid 243: 19, 18684
+Cluster 2 has the centroids:
+Centroid 1: 1, 449
+Centroid 2: 0, 31
+Centroid 3: 0, 111
+Centroid 4: 7, 2819
+Centroid 5: 11, 4271
+Centroid 6: 11, 4588
+Centroid 7: 12, 4805
+Centroid 8: 13, 5103
+Centroid 9: 14, 5496
+Centroid 10: 14, 5822
+Centroid 11: 15, 5898
+Centroid 12: 17, 6877
+Centroid 13: 17, 6901
+Centroid 14: 18, 7001
+Centroid 15: 18, 7022
+Centroid 16: 13, 15556
+Centroid 17: 14, 15781
+Centroid 18: 15, 16333
+Centroid 19: 16, 17012
+Centroid 20: 17, 17605
+Centroid 21: 18, 18121
+Centroid 22: 18, 18245
+Cluster 3 has the centroids:
+Centroid 1: 0, 18
+Centroid 2: 0, 78
+Centroid 3: 0, 127
+Centroid 4: 1, 332
+Centroid 5: 1, 366
+Centroid 6: 1, 398
+Centroid 7: 1, 498
+Centroid 8: 1, 533
+Centroid 9: 2, 832
+Centroid 10: 2, 902
+Centroid 11: 2, 1043
+Centroid 12: 3, 1107
+Centroid 13: 3, 1215
+Centroid 14: 3, 1282
+Centroid 15: 3, 1481
+Centroid 16: 4, 1706
+Centroid 17: 4, 1730
+Centroid 18: 5, 2164
+Centroid 19: 5, 2182
+Centroid 20: 5, 2196
+Centroid 21: 7, 3011
+Centroid 22: 7, 3033
+Centroid 23: 8, 3180
+Centroid 24: 9, 3616
+Centroid 25: 10, 3883
+Centroid 26: 10, 3940
+Centroid 27: 10, 3986
+Centroid 28: 13, 5065
+Centroid 29: 13, 5182
+Centroid 30: 14, 5714
+Centroid 31: 15, 6214
+Centroid 32: 15, 6219
+Centroid 33: 16, 6351
+Centroid 34: 17, 6747
+Centroid 35: 17, 6796
+Centroid 36: 18, 7069
+Centroid 37: 18, 7205
+Centroid 38: 18, 7225
+Centroid 39: 0, 7544
+Centroid 40: 0, 7633
+Centroid 41: 7, 11642
+Centroid 42: 9, 12721
+Centroid 43: 10, 13641
+Centroid 44: 11, 14077
+Centroid 45: 12, 14753
+Centroid 46: 14, 15708
+Centroid 47: 14, 15827
+Centroid 48: 14, 15928
+Centroid 49: 14, 16078
+Centroid 50: 17, 17820
+Centroid 51: 17, 17954
+Centroid 52: 19, 18688
+Cluster 4 has the centroids:
+Centroid 1: 1, 424
+Centroid 2: 0, 133
+Centroid 3: 0, 286
+Centroid 4: 1, 328
+Centroid 5: 1, 415
+Centroid 6: 2, 977
+Centroid 7: 3, 1184
+Centroid 8: 3, 1290
+Centroid 9: 7, 2717
+Centroid 10: 7, 2871
+Centroid 11: 7, 2938
+Centroid 12: 8, 3065
+Centroid 13: 8, 3067
+Centroid 14: 8, 3078
+Centroid 15: 8, 3100
+Centroid 16: 8, 3135
+Centroid 17: 8, 3148
+Centroid 18: 8, 3149
+Centroid 19: 8, 3157
+Centroid 20: 8, 3201
+Centroid 21: 8, 3263
+Centroid 22: 11, 4430
+Centroid 23: 11, 4580
+Centroid 24: 13, 5179
+Centroid 25: 13, 5208
+Centroid 26: 13, 5384
+Centroid 27: 14, 5459
+Centroid 28: 14, 5498
+Centroid 29: 15, 5837
+Centroid 30: 16, 6233
+Centroid 31: 17, 6665
+Centroid 32: 17, 6957
+Centroid 33: 18, 7117
+Centroid 34: 3, 9400
+Centroid 35: 4, 9753
+Centroid 36: 7, 11945
+Centroid 37: 8, 12146
+Centroid 38: 8, 12210
+Centroid 39: 8, 12297
+Centroid 40: 8, 12684
+Centroid 41: 12, 14905
+Cluster 5 has the centroids:
+Centroid 1: 0, 159
+Centroid 2: 0, 4
+Centroid 3: 0, 18
+Centroid 4: 0, 36
+Centroid 5: 0, 145
+Centroid 6: 0, 285
+Centroid 7: 1, 373
+Centroid 8: 1, 429
+Centroid 9: 2, 940
+Centroid 10: 3, 1283
+Centroid 11: 5, 1945
+Centroid 12: 5, 2079
+Centroid 13: 6, 2270
+Centroid 14: 6, 2400
+Centroid 15: 7, 2832
+Centroid 16: 7, 2863
+Centroid 17: 8, 3417
+Centroid 18: 9, 3571
+Centroid 19: 9, 3641
+Centroid 20: 10, 4155
+Centroid 21: 11, 4508
+Centroid 22: 13, 5047
+Centroid 23: 13, 5051
+Centroid 24: 13, 5385
+Centroid 25: 14, 5436
+Centroid 26: 14, 5470
+Centroid 27: 14, 5540
+Centroid 28: 15, 5892
+Centroid 29: 15, 6103
+Centroid 30: 15, 6184
+Centroid 31: 16, 6473
+Centroid 32: 17, 6656
+Centroid 33: 17, 6760
+Centroid 34: 19, 7278
+Centroid 35: 0, 7693
+Centroid 36: 0, 7819
+Centroid 37: 4, 9958
+Centroid 38: 4, 10318
+Centroid 39: 5, 10590
+Centroid 40: 7, 11616
+Centroid 41: 7, 11703
+Centroid 42: 7, 11848
+Centroid 43: 7, 12012
+Centroid 44: 8, 12389
+Centroid 45: 13, 15221
+Centroid 46: 14, 15720
+Centroid 47: 15, 16398
+Centroid 48: 16, 17134
+Centroid 49: 16, 17338
+Centroid 50: 19, 18486
+Cluster 6 has the centroids:
+Centroid 1: 0, 44
+Centroid 2: 1, 321
+Centroid 3: 1, 370
+Centroid 4: 3, 1143
+Centroid 5: 6, 2348
+Centroid 6: 6, 2520
+Centroid 7: 7, 2840
+Centroid 8: 7, 2843
+Centroid 9: 7, 2919
+Centroid 10: 8, 3224
+Centroid 11: 8, 3250
+Centroid 12: 8, 3345
+Centroid 13: 9, 3470
+Centroid 14: 9, 3491
+Centroid 15: 9, 3569
+Centroid 16: 9, 3814
+Centroid 17: 10, 3852
+Centroid 18: 10, 3857
+Centroid 19: 10, 3869
+Centroid 20: 10, 3875
+Centroid 21: 10, 3877
+Centroid 22: 10, 3902
+Centroid 23: 10, 4001
+Centroid 24: 10, 4160
+Centroid 25: 12, 4741
+Centroid 26: 14, 5451
+Centroid 27: 15, 6082
+Centroid 28: 15, 6084
+Centroid 29: 16, 6525
+Centroid 30: 19, 7380
+Centroid 31: 2, 8801
+Centroid 32: 3, 9271
+Centroid 33: 3, 9550
+Centroid 34: 9, 13032
+Centroid 35: 9, 13222
+Centroid 36: 9, 13265
+Centroid 37: 13, 15524
+Centroid 38: 16, 17292
+Centroid 39: 17, 17611
+Cluster 7 has the centroids:
+Centroid 1: 0, 128
+Centroid 2: 0, 7
+Centroid 3: 0, 55
+Centroid 4: 0, 108
+Centroid 5: 0, 109
+Centroid 6: 0, 155
+Centroid 7: 0, 220
+Centroid 8: 0, 245
+Centroid 9: 1, 416
+Centroid 10: 2, 769
+Centroid 11: 7, 2748
+Centroid 12: 7, 2794
+Centroid 13: 7, 2918
+Centroid 14: 7, 2947
+Centroid 15: 8, 3079
+Centroid 16: 13, 5377
+Centroid 17: 15, 5831
+Centroid 18: 15, 5834
+Centroid 19: 15, 5850
+Centroid 20: 16, 6440
+Centroid 21: 17, 6618
+Centroid 22: 18, 6974
+Centroid 23: 19, 7292
+Centroid 24: 0, 7547
+Centroid 25: 0, 7892
+Centroid 26: 5, 10763
+Centroid 27: 6, 11231
+Centroid 28: 10, 13321
+Centroid 29: 12, 14625
+Centroid 30: 13, 15532
+Centroid 31: 14, 15828
+Centroid 32: 15, 16451
+Centroid 33: 15, 16487
+Centroid 34: 15, 16671
+Centroid 35: 17, 17441
+Cluster 8 has the centroids:
+Centroid 1: 0, 165
+Centroid 2: 0, 116
+Centroid 3: 1, 337
+Centroid 4: 1, 509
+Centroid 5: 1, 549
+Centroid 6: 1, 558
+Centroid 7: 3, 1102
+Centroid 8: 3, 1114
+Centroid 9: 3, 1172
+Centroid 10: 3, 1223
+Centroid 11: 4, 1544
+Centroid 12: 4, 1720
+Centroid 13: 6, 2287
+Centroid 14: 6, 2299
+Centroid 15: 6, 2305
+Centroid 16: 6, 2377
+Centroid 17: 6, 2427
+Centroid 18: 6, 2503
+Centroid 19: 6, 2599
+Centroid 20: 6, 2639
+Centroid 21: 7, 2682
+Centroid 22: 12, 4802
+Centroid 23: 12, 4857
+Centroid 24: 12, 4925
+Centroid 25: 12, 4965
+Centroid 26: 13, 5367
+Centroid 27: 15, 6192
+Centroid 28: 6, 11220
+Centroid 29: 8, 12369
+Centroid 30: 12, 14631
+Cluster 9 has the centroids:
+Centroid 1: 0, 203
+Centroid 2: 0, 84
+Centroid 3: 0, 222
+Centroid 4: 1, 319
+Centroid 5: 1, 352
+Centroid 6: 1, 388
+Centroid 7: 1, 430
+Centroid 8: 1, 502
+Centroid 9: 1, 542
+Centroid 10: 1, 547
+Centroid 11: 1, 676
+Centroid 12: 2, 723
+Centroid 13: 2, 874
+Centroid 14: 2, 1050
+Centroid 15: 3, 1131
+Centroid 16: 3, 1241
+Centroid 17: 3, 1309
+Centroid 18: 3, 1359
+Centroid 19: 3, 1362
+Centroid 20: 4, 1668
+Centroid 21: 5, 1995
+Centroid 22: 5, 2008
+Centroid 23: 6, 2411
+Centroid 24: 7, 2720
+Centroid 25: 7, 2829
+Centroid 26: 8, 3267
+Centroid 27: 9, 3630
+Centroid 28: 9, 3693
+Centroid 29: 11, 4641
+Centroid 30: 12, 4711
+Centroid 31: 12, 4752
+Centroid 32: 12, 4813
+Centroid 33: 12, 4933
+Centroid 34: 13, 5115
+Centroid 35: 13, 5218
+Centroid 36: 17, 6728
+Centroid 37: 17, 6903
+Centroid 38: 1, 8049
+Centroid 39: 1, 8119
+Centroid 40: 1, 8189
+Centroid 41: 3, 9326
+Centroid 42: 3, 9630
+Centroid 43: 4, 10308
+Centroid 44: 5, 10793
+Centroid 45: 5, 10864
+Centroid 46: 12, 14679
+Centroid 47: 13, 15124
+Centroid 48: 14, 15977
+Centroid 49: 17, 17972
+Cluster 10 has the centroids:
+Centroid 1: 0, 15
+Centroid 2: 0, 135
+Centroid 3: 0, 205
+Centroid 4: 6, 2273
+Centroid 5: 7, 2887
+Centroid 6: 8, 3367
+Centroid 7: 8, 3375
+Centroid 8: 9, 3469
+Centroid 9: 9, 3499
+Centroid 10: 9, 3766
+Centroid 11: 9, 3823
+Centroid 12: 10, 3853
+Centroid 13: 10, 3855
+Centroid 14: 10, 3859
+Centroid 15: 10, 3969
+Centroid 16: 10, 4008
+Centroid 17: 10, 4024
+Centroid 18: 10, 4212
+Centroid 19: 11, 4374
+Centroid 20: 15, 5943
+Centroid 21: 16, 6237
+Centroid 22: 9, 12750
+Centroid 23: 10, 13438
+Centroid 24: 10, 13451
+Centroid 25: 10, 13474
+Centroid 26: 13, 15208
+Cluster 11 has the centroids:
+Centroid 1: 1, 686
+Centroid 2: 1, 343
+Centroid 3: 1, 419
+Centroid 4: 3, 1220
+Centroid 5: 3, 1472
+Centroid 6: 5, 1917
+Centroid 7: 5, 1953
+Centroid 8: 7, 2681
+Centroid 9: 11, 4266
+Centroid 10: 11, 4292
+Centroid 11: 11, 4364
+Centroid 12: 11, 4521
+Centroid 13: 16, 6386
+Centroid 14: 18, 7083
+Centroid 15: 18, 7095
+Centroid 16: 4, 9980
+Centroid 17: 6, 10957
+Centroid 18: 7, 11671
+Centroid 19: 7, 11897
+Centroid 20: 11, 13904
+Centroid 21: 11, 13959
+Centroid 22: 11, 14029
+Centroid 23: 14, 15735
+Centroid 24: 17, 17422
+Cluster 12 has the centroids:
+Centroid 1: 1, 696
+Centroid 2: 1, 369
+Centroid 3: 1, 380
+Centroid 4: 1, 497
+Centroid 5: 1, 662
+Centroid 6: 1, 700
+Centroid 7: 2, 779
+Centroid 8: 2, 941
+Centroid 9: 2, 1071
+Centroid 10: 2, 1096
+Centroid 11: 3, 1314
+Centroid 12: 3, 1377
+Centroid 13: 4, 1497
+Centroid 14: 4, 1507
+Centroid 15: 4, 1585
+Centroid 16: 4, 1617
+Centroid 17: 4, 1688
+Centroid 18: 4, 1815
+Centroid 19: 5, 2014
+Centroid 20: 5, 2048
+Centroid 21: 5, 2251
+Centroid 22: 6, 2286
+Centroid 23: 6, 2535
+Centroid 24: 6, 2609
+Centroid 25: 6, 2634
+Centroid 26: 6, 2651
+Centroid 27: 7, 2894
+Centroid 28: 8, 3170
+Centroid 29: 11, 4615
+Centroid 30: 17, 6620
+Centroid 31: 19, 7436
+Centroid 32: 2, 8639
+Centroid 33: 3, 9520
+Centroid 34: 3, 9571
+Centroid 35: 3, 9629
+Centroid 36: 4, 9879
+Centroid 37: 4, 10081
+Centroid 38: 5, 10348
+Centroid 39: 8, 12678
+Centroid 40: 10, 13814
+Centroid 41: 12, 14745
+Centroid 42: 12, 14781
+Centroid 43: 13, 15304
+Centroid 44: 14, 16019
+Centroid 45: 15, 16803
+Centroid 46: 17, 17646
+Centroid 47: 18, 18253
+Centroid 48: 18, 18420
+Cluster 13 has the centroids:
+Centroid 1: 2, 884
+Centroid 2: 0, 134
+Centroid 3: 0, 255
+Centroid 4: 1, 331
+Centroid 5: 1, 346
+Centroid 6: 1, 438
+Centroid 7: 1, 465
+Centroid 8: 2, 724
+Centroid 9: 2, 728
+Centroid 10: 2, 730
+Centroid 11: 2, 744
+Centroid 12: 2, 951
+Centroid 13: 3, 1155
+Centroid 14: 3, 1254
+Centroid 15: 3, 1348
+Centroid 16: 3, 1426
+Centroid 17: 4, 1570
+Centroid 18: 5, 1958
+Centroid 19: 5, 2038
+Centroid 20: 5, 2088
+Centroid 21: 5, 2184
+Centroid 22: 6, 2291
+Centroid 23: 6, 2323
+Centroid 24: 6, 2324
+Centroid 25: 6, 2588
+Centroid 26: 7, 2898
+Centroid 27: 7, 3025
+Centroid 28: 8, 3258
+Centroid 29: 8, 3293
+Centroid 30: 10, 3865
+Centroid 31: 10, 3916
+Centroid 32: 11, 4287
+Centroid 33: 12, 4669
+Centroid 34: 12, 4727
+Centroid 35: 12, 4986
+Centroid 36: 13, 5093
+Centroid 37: 13, 5134
+Centroid 38: 14, 5691
+Centroid 39: 14, 5804
+Centroid 40: 15, 6055
+Centroid 41: 16, 6302
+Centroid 42: 17, 6645
+Centroid 43: 0, 7829
+Centroid 44: 1, 8348
+Centroid 45: 1, 8492
+Centroid 46: 1, 8567
+Centroid 47: 2, 8631
+Centroid 48: 5, 10686
+Centroid 49: 7, 11801
+Centroid 50: 7, 11846
+Centroid 51: 9, 12979
+Centroid 52: 12, 14767
+Centroid 53: 14, 15927
+Centroid 54: 14, 15951
+Centroid 55: 15, 16432
+Centroid 56: 19, 18588
+Cluster 14 has the centroids:
+Centroid 1: 0, 249
+Centroid 2: 0, 117
+Centroid 3: 0, 243
+Centroid 4: 2, 1077
+Centroid 5: 4, 1818
+Centroid 6: 5, 2131
+Centroid 7: 7, 2912
+Centroid 8: 8, 3059
+Centroid 9: 8, 3292
+Centroid 10: 9, 3458
+Centroid 11: 9, 3480
+Centroid 12: 9, 3482
+Centroid 13: 9, 3529
+Centroid 14: 9, 3548
+Centroid 15: 10, 3866
+Centroid 16: 13, 5091
+Centroid 17: 1, 8036
+Centroid 18: 7, 11757
+Centroid 19: 8, 12235
+Centroid 20: 9, 12819
+Centroid 21: 9, 12876
+Centroid 22: 9, 12967
+Centroid 23: 9, 13274
+Centroid 24: 10, 13850
+Centroid 25: 13, 15210
+Centroid 26: 13, 15451
+Centroid 27: 15, 16272
+Centroid 28: 17, 17563
+Centroid 29: 19, 18548
+Cluster 15 has the centroids:
+Centroid 1: 1, 655
+Centroid 2: 0, 114
+Centroid 3: 0, 259
+Centroid 4: 1, 349
+Centroid 5: 2, 817
+Centroid 6: 2, 838
+Centroid 7: 3, 1232
+Centroid 8: 3, 1272
+Centroid 9: 3, 1352
+Centroid 10: 4, 1606
+Centroid 11: 5, 2103
+Centroid 12: 5, 2152
+Centroid 13: 5, 2224
+Centroid 14: 7, 2724
+Centroid 15: 7, 2848
+Centroid 16: 8, 3116
+Centroid 17: 8, 3131
+Centroid 18: 8, 3348
+Centroid 19: 9, 3562
+Centroid 20: 10, 4224
+Centroid 21: 12, 4827
+Centroid 22: 13, 5049
+Centroid 23: 13, 5243
+Centroid 24: 14, 5703
+Centroid 25: 15, 5904
+Centroid 26: 17, 6759
+Centroid 27: 17, 6778
+Centroid 28: 19, 7338
+Centroid 29: 1, 8439
+Centroid 30: 2, 9016
+Centroid 31: 5, 10773
+Centroid 32: 9, 12745
+Centroid 33: 10, 13301
+Centroid 34: 10, 13643
+Centroid 35: 12, 14605
+Centroid 36: 13, 15435
+Centroid 37: 18, 18301
+Cluster 16 has the centroids:
+Centroid 1: 2, 856
+Centroid 2: 0, 11
+Centroid 3: 0, 51
+Centroid 4: 0, 69
+Centroid 5: 0, 208
+Centroid 6: 0, 215
+Centroid 7: 1, 447
+Centroid 8: 1, 569
+Centroid 9: 2, 901
+Centroid 10: 2, 919
+Centroid 11: 4, 1755
+Centroid 12: 5, 2227
+Centroid 13: 6, 2407
+Centroid 14: 6, 2589
+Centroid 15: 8, 3202
+Centroid 16: 8, 3236
+Centroid 17: 8, 3337
+Centroid 18: 9, 3744
+Centroid 19: 11, 4486
+Centroid 20: 12, 4783
+Centroid 21: 13, 5310
+Centroid 22: 14, 5467
+Centroid 23: 14, 5812
+Centroid 24: 16, 6281
+Centroid 25: 16, 6433
+Centroid 26: 17, 6602
+Centroid 27: 18, 7090
+Centroid 28: 18, 7126
+Centroid 29: 19, 7307
+Centroid 30: 0, 7746
+Centroid 31: 1, 8056
+Centroid 32: 3, 9350
+Centroid 33: 4, 10188
+Centroid 34: 7, 11959
+Centroid 35: 13, 15226
+Centroid 36: 16, 16921
+Centroid 37: 18, 18081
+Centroid 38: 19, 18538
+Centroid 39: 19, 18629
+Cluster 17 has the centroids:
+Centroid 1: 0, 205
+Centroid 2: 0, 12
+Centroid 3: 0, 306
+Centroid 4: 1, 324
+Centroid 5: 1, 464
+Centroid 6: 1, 550
+Centroid 7: 2, 991
+Centroid 8: 3, 1195
+Centroid 9: 3, 1239
+Centroid 10: 4, 1513
+Centroid 11: 4, 1532
+Centroid 12: 7, 2684
+Centroid 13: 7, 2835
+Centroid 14: 7, 2924
+Centroid 15: 7, 2943
+Centroid 16: 7, 3020
+Centroid 17: 8, 3095
+Centroid 18: 9, 3454
+Centroid 19: 9, 3489
+Centroid 20: 11, 4260
+Centroid 21: 11, 4358
+Centroid 22: 11, 4371
+Centroid 23: 11, 4495
+Centroid 24: 12, 4930
+Centroid 25: 14, 5480
+Centroid 26: 14, 5514
+Centroid 27: 14, 5600
+Centroid 28: 14, 5695
+Centroid 29: 17, 6624
+Centroid 30: 17, 6633
+Centroid 31: 17, 6657
+Centroid 32: 18, 7044
+Centroid 33: 18, 7153
+Centroid 34: 6, 11454
+Centroid 35: 8, 12381
+Centroid 36: 9, 12815
+Centroid 37: 12, 14667
+Centroid 38: 12, 14743
+Centroid 39: 12, 15053
+Centroid 40: 13, 15139
+Centroid 41: 13, 15631
+Centroid 42: 14, 16010
+Centroid 43: 17, 17725
+Centroid 44: 18, 18232
+Cluster 18 has the centroids:
+Centroid 1: 1, 319
+Centroid 2: 0, 82
+Centroid 3: 0, 177
+Centroid 4: 0, 230
+Centroid 5: 1, 487
+Centroid 6: 1, 507
+Centroid 7: 1, 548
+Centroid 8: 1, 560
+Centroid 9: 1, 634
+Centroid 10: 1, 685
+Centroid 11: 2, 768
+Centroid 12: 2, 786
+Centroid 13: 2, 837
+Centroid 14: 2, 999
+Centroid 15: 3, 1138
+Centroid 16: 3, 1207
+Centroid 17: 4, 1577
+Centroid 18: 4, 1640
+Centroid 19: 4, 1742
+Centroid 20: 5, 1957
+Centroid 21: 6, 2478
+Centroid 22: 6, 2513
+Centroid 23: 7, 2693
+Centroid 24: 8, 3296
+Centroid 25: 11, 4300
+Centroid 26: 11, 4621
+Centroid 27: 13, 5056
+Centroid 28: 14, 5735
+Centroid 29: 17, 6651
+Centroid 30: 17, 6959
+Centroid 31: 0, 7643
+Centroid 32: 3, 9407
+Centroid 33: 3, 9498
+Centroid 34: 5, 10723
+Centroid 35: 6, 10947
+Centroid 36: 6, 11099
+Centroid 37: 6, 11449
+Centroid 38: 7, 11525
+Centroid 39: 8, 12310
+Centroid 40: 9, 13105
+Centroid 41: 9, 13161
+Centroid 42: 9, 13224
+Centroid 43: 9, 13239
+Centroid 44: 11, 14053
+Centroid 45: 11, 14176
+Centroid 46: 12, 15072
+Centroid 47: 17, 17752
+Centroid 48: 18, 18389
+Cluster 19 has the centroids:
+Centroid 1: 1, 600
+Centroid 2: 1, 322
+Centroid 3: 1, 411
+Centroid 4: 1, 484
+Centroid 5: 1, 546
+Centroid 6: 1, 551
+Centroid 7: 1, 576
+Centroid 8: 1, 579
+Centroid 9: 1, 598
+Centroid 10: 1, 684
+Centroid 11: 2, 747
+Centroid 12: 2, 756
+Centroid 13: 2, 782
+Centroid 14: 2, 799
+Centroid 15: 2, 803
+Centroid 16: 2, 924
+Centroid 17: 2, 1025
+Centroid 18: 5, 2167
+Centroid 19: 5, 2178
+Centroid 20: 6, 2483
+Centroid 21: 6, 2544
+Centroid 22: 8, 3169
+Centroid 23: 12, 4909
+Centroid 24: 14, 5820
+Centroid 25: 15, 5949
+Centroid 26: 15, 6038
+Centroid 27: 15, 6190
+Centroid 28: 2, 8679
+Centroid 29: 3, 9216
+Centroid 30: 4, 10027
+Centroid 31: 9, 13057
+Centroid 32: 14, 16170
+Centroid 33: 18, 18422
+Cluster 20 has the centroids:
+Centroid 1: 1, 439
+Centroid 2: 0, 19
+Centroid 3: 0, 63
+Centroid 4: 1, 342
+Centroid 5: 1, 478
+Centroid 6: 1, 614
+Centroid 7: 1, 651
+Centroid 8: 1, 692
+Centroid 9: 2, 1012
+Centroid 10: 4, 1586
+Centroid 11: 4, 1768
+Centroid 12: 4, 1859
+Centroid 13: 5, 2222
+Centroid 14: 6, 2645
+Centroid 15: 7, 2976
+Centroid 16: 8, 3141
+Centroid 17: 8, 3278
+Centroid 18: 8, 3324
+Centroid 19: 8, 3449
+Centroid 20: 9, 3594
+Centroid 21: 9, 3707
+Centroid 22: 10, 3910
+Centroid 23: 11, 4498
+Centroid 24: 13, 5288
+Centroid 25: 13, 5328
+Centroid 26: 13, 5404
+Centroid 27: 13, 5431
+Centroid 28: 14, 5435
+Centroid 29: 14, 5544
+Centroid 30: 14, 5601
+Centroid 31: 15, 6106
+Centroid 32: 16, 6331
+Centroid 33: 16, 6347
+Centroid 34: 17, 6615
+Centroid 35: 17, 6663
+Centroid 36: 17, 6884
+Centroid 37: 18, 7072
+Centroid 38: 19, 7311
+Centroid 39: 19, 7326
+Centroid 40: 19, 7373
+Centroid 41: 19, 7387
+Centroid 42: 19, 7490
+Centroid 43: 1, 8229
+Centroid 44: 3, 9483
+Centroid 45: 4, 10145
+Centroid 46: 4, 10201
+Centroid 47: 5, 10866
+Centroid 48: 6, 11224
+Centroid 49: 8, 12504
+Centroid 50: 9, 12806
+Centroid 51: 12, 14575
+Centroid 52: 13, 15088
+Centroid 53: 13, 15122
+Centroid 54: 13, 15182
+Centroid 55: 14, 15743
+Centroid 56: 15, 16482
+Centroid 57: 18, 17979
+Reassigning cluster ids to non-centroid docs...
+0.4657811 fraction of the documents reassigned different clusters...
+Generando nuevos centroides del cluster 0
+Nuevo centroide 665 para el cluster 0
+Nuevo centroide 0 para el cluster 0
+Nuevo centroide 2 para el cluster 0
+Nuevo centroide 5 para el cluster 0
+Nuevo centroide 16 para el cluster 0
+Nuevo centroide 20 para el cluster 0
+Nuevo centroide 22 para el cluster 0
+Nuevo centroide 32 para el cluster 0
+Nuevo centroide 33 para el cluster 0
+Nuevo centroide 35 para el cluster 0
+Nuevo centroide 40 para el cluster 0
+Nuevo centroide 46 para el cluster 0
+Nuevo centroide 62 para el cluster 0
+Nuevo centroide 64 para el cluster 0
+Nuevo centroide 68 para el cluster 0
+Nuevo centroide 71 para el cluster 0
+Nuevo centroide 99 para el cluster 0
+Nuevo centroide 104 para el cluster 0
+Nuevo centroide 137 para el cluster 0
+Nuevo centroide 191 para el cluster 0
+Nuevo centroide 225 para el cluster 0
+Nuevo centroide 232 para el cluster 0
+Nuevo centroide 247 para el cluster 0
+Nuevo centroide 253 para el cluster 0
+Nuevo centroide 261 para el cluster 0
+Nuevo centroide 288 para el cluster 0
+Nuevo centroide 320 para el cluster 0
+Nuevo centroide 327 para el cluster 0
+Nuevo centroide 333 para el cluster 0
+Nuevo centroide 334 para el cluster 0
+Nuevo centroide 340 para el cluster 0
+Nuevo centroide 344 para el cluster 0
+Nuevo centroide 345 para el cluster 0
+Nuevo centroide 350 para el cluster 0
+Nuevo centroide 358 para el cluster 0
+Nuevo centroide 359 para el cluster 0
+Nuevo centroide 362 para el cluster 0
+Nuevo centroide 374 para el cluster 0
+Nuevo centroide 394 para el cluster 0
+Nuevo centroide 397 para el cluster 0
+Nuevo centroide 425 para el cluster 0
+Nuevo centroide 462 para el cluster 0
+Nuevo centroide 463 para el cluster 0
+Nuevo centroide 480 para el cluster 0
+Nuevo centroide 499 para el cluster 0
+Nuevo centroide 504 para el cluster 0
+Nuevo centroide 517 para el cluster 0
+Nuevo centroide 562 para el cluster 0
+Nuevo centroide 563 para el cluster 0
+Nuevo centroide 586 para el cluster 0
+Nuevo centroide 591 para el cluster 0
+Nuevo centroide 605 para el cluster 0
+Nuevo centroide 608 para el cluster 0
+Nuevo centroide 612 para el cluster 0
+Nuevo centroide 646 para el cluster 0
+Nuevo centroide 703 para el cluster 0
+Nuevo centroide 718 para el cluster 0
+Nuevo centroide 726 para el cluster 0
+Nuevo centroide 774 para el cluster 0
+Nuevo centroide 797 para el cluster 0
+Nuevo centroide 802 para el cluster 0
+Nuevo centroide 808 para el cluster 0
+Nuevo centroide 826 para el cluster 0
+Nuevo centroide 935 para el cluster 0
+Nuevo centroide 950 para el cluster 0
+Nuevo centroide 952 para el cluster 0
+Nuevo centroide 978 para el cluster 0
+Nuevo centroide 1014 para el cluster 0
+Nuevo centroide 1108 para el cluster 0
+Nuevo centroide 1133 para el cluster 0
+Nuevo centroide 1167 para el cluster 0
+Nuevo centroide 1204 para el cluster 0
+Nuevo centroide 1247 para el cluster 0
+Nuevo centroide 1300 para el cluster 0
+Nuevo centroide 1305 para el cluster 0
+Nuevo centroide 1342 para el cluster 0
+Nuevo centroide 1379 para el cluster 0
+Nuevo centroide 1486 para el cluster 0
+Nuevo centroide 1494 para el cluster 0
+Nuevo centroide 1503 para el cluster 0
+Nuevo centroide 1518 para el cluster 0
+Nuevo centroide 1543 para el cluster 0
+Nuevo centroide 1584 para el cluster 0
+Nuevo centroide 1641 para el cluster 0
+Nuevo centroide 1642 para el cluster 0
+Nuevo centroide 1719 para el cluster 0
+Nuevo centroide 1832 para el cluster 0
+Nuevo centroide 1860 para el cluster 0
+Nuevo centroide 1864 para el cluster 0
+Nuevo centroide 1885 para el cluster 0
+Nuevo centroide 1943 para el cluster 0
+Nuevo centroide 1946 para el cluster 0
+Nuevo centroide 1959 para el cluster 0
+Nuevo centroide 2013 para el cluster 0
+Nuevo centroide 2020 para el cluster 0
+Nuevo centroide 2035 para el cluster 0
+Nuevo centroide 2124 para el cluster 0
+Nuevo centroide 2134 para el cluster 0
+Nuevo centroide 2188 para el cluster 0
+Nuevo centroide 2190 para el cluster 0
+Nuevo centroide 2294 para el cluster 0
+Nuevo centroide 2316 para el cluster 0
+Nuevo centroide 2318 para el cluster 0
+Nuevo centroide 2322 para el cluster 0
+Nuevo centroide 2349 para el cluster 0
+Nuevo centroide 2356 para el cluster 0
+Nuevo centroide 2426 para el cluster 0
+Nuevo centroide 2452 para el cluster 0
+Nuevo centroide 2455 para el cluster 0
+Nuevo centroide 2465 para el cluster 0
+Nuevo centroide 2508 para el cluster 0
+Nuevo centroide 2529 para el cluster 0
+Nuevo centroide 2538 para el cluster 0
+Nuevo centroide 2546 para el cluster 0
+Nuevo centroide 2685 para el cluster 0
+Nuevo centroide 2766 para el cluster 0
+Nuevo centroide 2768 para el cluster 0
+Nuevo centroide 2781 para el cluster 0
+Nuevo centroide 2784 para el cluster 0
+Nuevo centroide 2861 para el cluster 0
+Nuevo centroide 2880 para el cluster 0
+Nuevo centroide 2891 para el cluster 0
+Nuevo centroide 3003 para el cluster 0
+Nuevo centroide 3108 para el cluster 0
+Nuevo centroide 3132 para el cluster 0
+Nuevo centroide 3156 para el cluster 0
+Nuevo centroide 3166 para el cluster 0
+Nuevo centroide 3200 para el cluster 0
+Nuevo centroide 3206 para el cluster 0
+Nuevo centroide 3349 para el cluster 0
+Nuevo centroide 3429 para el cluster 0
+Nuevo centroide 3472 para el cluster 0
+Nuevo centroide 3493 para el cluster 0
+Nuevo centroide 3495 para el cluster 0
+Nuevo centroide 3517 para el cluster 0
+Nuevo centroide 3587 para el cluster 0
+Nuevo centroide 3606 para el cluster 0
+Nuevo centroide 3710 para el cluster 0
+Nuevo centroide 3758 para el cluster 0
+Nuevo centroide 3771 para el cluster 0
+Nuevo centroide 3772 para el cluster 0
+Nuevo centroide 3777 para el cluster 0
+Nuevo centroide 3891 para el cluster 0
+Nuevo centroide 3895 para el cluster 0
+Nuevo centroide 3906 para el cluster 0
+Nuevo centroide 3971 para el cluster 0
+Nuevo centroide 4076 para el cluster 0
+Nuevo centroide 4082 para el cluster 0
+Nuevo centroide 4183 para el cluster 0
+Nuevo centroide 4255 para el cluster 0
+Nuevo centroide 4412 para el cluster 0
+Nuevo centroide 4421 para el cluster 0
+Nuevo centroide 4605 para el cluster 0
+Nuevo centroide 4661 para el cluster 0
+Nuevo centroide 4687 para el cluster 0
+Nuevo centroide 4700 para el cluster 0
+Nuevo centroide 4726 para el cluster 0
+Nuevo centroide 4728 para el cluster 0
+Nuevo centroide 4832 para el cluster 0
+Nuevo centroide 4842 para el cluster 0
+Nuevo centroide 4971 para el cluster 0
+Nuevo centroide 4974 para el cluster 0
+Nuevo centroide 4977 para el cluster 0
+Nuevo centroide 5079 para el cluster 0
+Nuevo centroide 5097 para el cluster 0
+Nuevo centroide 5166 para el cluster 0
+Nuevo centroide 5173 para el cluster 0
+Nuevo centroide 5204 para el cluster 0
+Nuevo centroide 5207 para el cluster 0
+Nuevo centroide 5314 para el cluster 0
+Nuevo centroide 5349 para el cluster 0
+Nuevo centroide 5416 para el cluster 0
+Nuevo centroide 5428 para el cluster 0
+Nuevo centroide 5523 para el cluster 0
+Nuevo centroide 5805 para el cluster 0
+Nuevo centroide 5874 para el cluster 0
+Nuevo centroide 5923 para el cluster 0
+Nuevo centroide 5963 para el cluster 0
+Nuevo centroide 6089 para el cluster 0
+Nuevo centroide 6180 para el cluster 0
+Nuevo centroide 6366 para el cluster 0
+Nuevo centroide 6371 para el cluster 0
+Nuevo centroide 6499 para el cluster 0
+Nuevo centroide 6595 para el cluster 0
+Nuevo centroide 6596 para el cluster 0
+Nuevo centroide 6666 para el cluster 0
+Nuevo centroide 6718 para el cluster 0
+Nuevo centroide 6784 para el cluster 0
+Nuevo centroide 7035 para el cluster 0
+Nuevo centroide 7049 para el cluster 0
+Nuevo centroide 7111 para el cluster 0
+Nuevo centroide 7363 para el cluster 0
+Nuevo centroide 8065 para el cluster 0
+Nuevo centroide 8825 para el cluster 0
+Nuevo centroide 9148 para el cluster 0
+Nuevo centroide 9419 para el cluster 0
+Nuevo centroide 9929 para el cluster 0
+Nuevo centroide 10084 para el cluster 0
+Nuevo centroide 10221 para el cluster 0
+Nuevo centroide 10310 para el cluster 0
+Nuevo centroide 10455 para el cluster 0
+Nuevo centroide 10677 para el cluster 0
+Nuevo centroide 10851 para el cluster 0
+Nuevo centroide 10935 para el cluster 0
+Nuevo centroide 11557 para el cluster 0
+Nuevo centroide 11736 para el cluster 0
+Nuevo centroide 11898 para el cluster 0
+Nuevo centroide 11956 para el cluster 0
+Nuevo centroide 12315 para el cluster 0
+Nuevo centroide 12444 para el cluster 0
+Nuevo centroide 12626 para el cluster 0
+Nuevo centroide 12652 para el cluster 0
+Nuevo centroide 12657 para el cluster 0
+Nuevo centroide 12974 para el cluster 0
+Nuevo centroide 13064 para el cluster 0
+Nuevo centroide 13090 para el cluster 0
+Nuevo centroide 13147 para el cluster 0
+Nuevo centroide 13683 para el cluster 0
+Nuevo centroide 13774 para el cluster 0
+Nuevo centroide 14415 para el cluster 0
+Nuevo centroide 14863 para el cluster 0
+Nuevo centroide 15109 para el cluster 0
+Nuevo centroide 15211 para el cluster 0
+Nuevo centroide 15369 para el cluster 0
+Nuevo centroide 15855 para el cluster 0
+Nuevo centroide 16009 para el cluster 0
+Nuevo centroide 16145 para el cluster 0
+Nuevo centroide 16245 para el cluster 0
+Nuevo centroide 16274 para el cluster 0
+Nuevo centroide 16292 para el cluster 0
+Nuevo centroide 17033 para el cluster 0
+Nuevo centroide 17489 para el cluster 0
+Nuevo centroide 17843 para el cluster 0
+Nuevo centroide 17895 para el cluster 0
+Nuevo centroide 18057 para el cluster 0
+Nuevo centroide 18614 para el cluster 0
+Nuevo centroide 18684 para el cluster 0
+Generando nuevos centroides del cluster 1
+Nuevo centroide 18 para el cluster 1
+Nuevo centroide 111 para el cluster 1
+Nuevo centroide 2819 para el cluster 1
+Nuevo centroide 4271 para el cluster 1
+Nuevo centroide 4588 para el cluster 1
+Nuevo centroide 4805 para el cluster 1
+Nuevo centroide 5064 para el cluster 1
+Nuevo centroide 5496 para el cluster 1
+Nuevo centroide 5898 para el cluster 1
+Nuevo centroide 6877 para el cluster 1
+Nuevo centroide 6901 para el cluster 1
+Nuevo centroide 7001 para el cluster 1
+Nuevo centroide 7022 para el cluster 1
+Nuevo centroide 15556 para el cluster 1
+Nuevo centroide 15781 para el cluster 1
+Nuevo centroide 17012 para el cluster 1
+Nuevo centroide 17605 para el cluster 1
+Nuevo centroide 18121 para el cluster 1
+Nuevo centroide 18221 para el cluster 1
+Generando nuevos centroides del cluster 2
+Nuevo centroide 770 para el cluster 2
+Nuevo centroide 78 para el cluster 2
+Nuevo centroide 127 para el cluster 2
+Nuevo centroide 332 para el cluster 2
+Nuevo centroide 366 para el cluster 2
+Nuevo centroide 398 para el cluster 2
+Nuevo centroide 498 para el cluster 2
+Nuevo centroide 533 para el cluster 2
+Nuevo centroide 832 para el cluster 2
+Nuevo centroide 902 para el cluster 2
+Nuevo centroide 1043 para el cluster 2
+Nuevo centroide 1107 para el cluster 2
+Nuevo centroide 1215 para el cluster 2
+Nuevo centroide 1282 para el cluster 2
+Nuevo centroide 1481 para el cluster 2
+Nuevo centroide 1706 para el cluster 2
+Nuevo centroide 1730 para el cluster 2
+Nuevo centroide 2164 para el cluster 2
+Nuevo centroide 2182 para el cluster 2
+Nuevo centroide 2196 para el cluster 2
+Nuevo centroide 2857 para el cluster 2
+Nuevo centroide 3011 para el cluster 2
+Nuevo centroide 3033 para el cluster 2
+Nuevo centroide 3180 para el cluster 2
+Nuevo centroide 3616 para el cluster 2
+Nuevo centroide 3883 para el cluster 2
+Nuevo centroide 3940 para el cluster 2
+Nuevo centroide 3986 para el cluster 2
+Nuevo centroide 5065 para el cluster 2
+Nuevo centroide 5182 para el cluster 2
+Nuevo centroide 5646 para el cluster 2
+Nuevo centroide 6219 para el cluster 2
+Nuevo centroide 6351 para el cluster 2
+Nuevo centroide 6747 para el cluster 2
+Nuevo centroide 6796 para el cluster 2
+Nuevo centroide 7069 para el cluster 2
+Nuevo centroide 7205 para el cluster 2
+Nuevo centroide 7225 para el cluster 2
+Nuevo centroide 7386 para el cluster 2
+Nuevo centroide 7544 para el cluster 2
+Nuevo centroide 7633 para el cluster 2
+Nuevo centroide 11642 para el cluster 2
+Nuevo centroide 12721 para el cluster 2
+Nuevo centroide 13641 para el cluster 2
+Nuevo centroide 14077 para el cluster 2
+Nuevo centroide 14753 para el cluster 2
+Nuevo centroide 15827 para el cluster 2
+Nuevo centroide 15928 para el cluster 2
+Nuevo centroide 16078 para el cluster 2
+Nuevo centroide 17753 para el cluster 2
+Nuevo centroide 17954 para el cluster 2
+Nuevo centroide 18787 para el cluster 2
+Generando nuevos centroides del cluster 3
+Nuevo centroide 329 para el cluster 3
+Nuevo centroide 133 para el cluster 3
+Nuevo centroide 286 para el cluster 3
+Nuevo centroide 328 para el cluster 3
+Nuevo centroide 415 para el cluster 3
+Nuevo centroide 977 para el cluster 3
+Nuevo centroide 1184 para el cluster 3
+Nuevo centroide 1290 para el cluster 3
+Nuevo centroide 2717 para el cluster 3
+Nuevo centroide 2800 para el cluster 3
+Nuevo centroide 2938 para el cluster 3
+Nuevo centroide 3065 para el cluster 3
+Nuevo centroide 3067 para el cluster 3
+Nuevo centroide 3078 para el cluster 3
+Nuevo centroide 3100 para el cluster 3
+Nuevo centroide 3135 para el cluster 3
+Nuevo centroide 3148 para el cluster 3
+Nuevo centroide 3149 para el cluster 3
+Nuevo centroide 3157 para el cluster 3
+Nuevo centroide 3201 para el cluster 3
+Nuevo centroide 3237 para el cluster 3
+Nuevo centroide 4430 para el cluster 3
+Nuevo centroide 4472 para el cluster 3
+Nuevo centroide 5179 para el cluster 3
+Nuevo centroide 5208 para el cluster 3
+Nuevo centroide 5384 para el cluster 3
+Nuevo centroide 5439 para el cluster 3
+Nuevo centroide 5498 para el cluster 3
+Nuevo centroide 5837 para el cluster 3
+Nuevo centroide 5896 para el cluster 3
+Nuevo centroide 6665 para el cluster 3
+Nuevo centroide 7115 para el cluster 3
+Nuevo centroide 9292 para el cluster 3
+Nuevo centroide 9753 para el cluster 3
+Nuevo centroide 12146 para el cluster 3
+Nuevo centroide 12210 para el cluster 3
+Nuevo centroide 12684 para el cluster 3
+Nuevo centroide 14905 para el cluster 3
+Generando nuevos centroides del cluster 4
+Nuevo centroide 874 para el cluster 4
+Nuevo centroide 4 para el cluster 4
+Nuevo centroide 18 para el cluster 4
+Nuevo centroide 36 para el cluster 4
+Nuevo centroide 145 para el cluster 4
+Nuevo centroide 229 para el cluster 4
+Nuevo centroide 373 para el cluster 4
+Nuevo centroide 429 para el cluster 4
+Nuevo centroide 1283 para el cluster 4
+Nuevo centroide 1945 para el cluster 4
+Nuevo centroide 2079 para el cluster 4
+Nuevo centroide 2270 para el cluster 4
+Nuevo centroide 2400 para el cluster 4
+Nuevo centroide 2832 para el cluster 4
+Nuevo centroide 2863 para el cluster 4
+Nuevo centroide 3046 para el cluster 4
+Nuevo centroide 3571 para el cluster 4
+Nuevo centroide 3641 para el cluster 4
+Nuevo centroide 4155 para el cluster 4
+Nuevo centroide 4508 para el cluster 4
+Nuevo centroide 5047 para el cluster 4
+Nuevo centroide 5051 para el cluster 4
+Nuevo centroide 5385 para el cluster 4
+Nuevo centroide 5436 para el cluster 4
+Nuevo centroide 5470 para el cluster 4
+Nuevo centroide 5540 para el cluster 4
+Nuevo centroide 5892 para el cluster 4
+Nuevo centroide 6103 para el cluster 4
+Nuevo centroide 6184 para el cluster 4
+Nuevo centroide 6269 para el cluster 4
+Nuevo centroide 6335 para el cluster 4
+Nuevo centroide 6448 para el cluster 4
+Nuevo centroide 6649 para el cluster 4
+Nuevo centroide 6760 para el cluster 4
+Nuevo centroide 7330 para el cluster 4
+Nuevo centroide 7505 para el cluster 4
+Nuevo centroide 7538 para el cluster 4
+Nuevo centroide 9958 para el cluster 4
+Nuevo centroide 10259 para el cluster 4
+Nuevo centroide 10404 para el cluster 4
+Nuevo centroide 11616 para el cluster 4
+Nuevo centroide 11703 para el cluster 4
+Nuevo centroide 11848 para el cluster 4
+Nuevo centroide 12354 para el cluster 4
+Nuevo centroide 14657 para el cluster 4
+Nuevo centroide 15221 para el cluster 4
+Nuevo centroide 17338 para el cluster 4
+Generando nuevos centroides del cluster 5
+Nuevo centroide 186 para el cluster 5
+Nuevo centroide 321 para el cluster 5
+Nuevo centroide 370 para el cluster 5
+Nuevo centroide 1143 para el cluster 5
+Nuevo centroide 2348 para el cluster 5
+Nuevo centroide 2520 para el cluster 5
+Nuevo centroide 2840 para el cluster 5
+Nuevo centroide 2843 para el cluster 5
+Nuevo centroide 2919 para el cluster 5
+Nuevo centroide 3224 para el cluster 5
+Nuevo centroide 3250 para el cluster 5
+Nuevo centroide 3261 para el cluster 5
+Nuevo centroide 3470 para el cluster 5
+Nuevo centroide 3491 para el cluster 5
+Nuevo centroide 3569 para el cluster 5
+Nuevo centroide 3724 para el cluster 5
+Nuevo centroide 3814 para el cluster 5
+Nuevo centroide 3852 para el cluster 5
+Nuevo centroide 3857 para el cluster 5
+Nuevo centroide 3875 para el cluster 5
+Nuevo centroide 3877 para el cluster 5
+Nuevo centroide 3902 para el cluster 5
+Nuevo centroide 4001 para el cluster 5
+Nuevo centroide 4160 para el cluster 5
+Nuevo centroide 4689 para el cluster 5
+Nuevo centroide 5450 para el cluster 5
+Nuevo centroide 6082 para el cluster 5
+Nuevo centroide 7380 para el cluster 5
+Nuevo centroide 8801 para el cluster 5
+Nuevo centroide 9271 para el cluster 5
+Nuevo centroide 9550 para el cluster 5
+Nuevo centroide 12953 para el cluster 5
+Nuevo centroide 14740 para el cluster 5
+Nuevo centroide 15524 para el cluster 5
+Nuevo centroide 17611 para el cluster 5
+Generando nuevos centroides del cluster 6
+Nuevo centroide 886 para el cluster 6
+Nuevo centroide 7 para el cluster 6
+Nuevo centroide 14 para el cluster 6
+Nuevo centroide 108 para el cluster 6
+Nuevo centroide 109 para el cluster 6
+Nuevo centroide 130 para el cluster 6
+Nuevo centroide 155 para el cluster 6
+Nuevo centroide 165 para el cluster 6
+Nuevo centroide 220 para el cluster 6
+Nuevo centroide 245 para el cluster 6
+Nuevo centroide 769 para el cluster 6
+Nuevo centroide 2748 para el cluster 6
+Nuevo centroide 2794 para el cluster 6
+Nuevo centroide 2918 para el cluster 6
+Nuevo centroide 2947 para el cluster 6
+Nuevo centroide 3079 para el cluster 6
+Nuevo centroide 5142 para el cluster 6
+Nuevo centroide 5834 para el cluster 6
+Nuevo centroide 5850 para el cluster 6
+Nuevo centroide 6181 para el cluster 6
+Nuevo centroide 6320 para el cluster 6
+Nuevo centroide 7103 para el cluster 6
+Nuevo centroide 10566 para el cluster 6
+Nuevo centroide 11284 para el cluster 6
+Nuevo centroide 13321 para el cluster 6
+Nuevo centroide 14625 para el cluster 6
+Nuevo centroide 15826 para el cluster 6
+Nuevo centroide 16471 para el cluster 6
+Nuevo centroide 17441 para el cluster 6
+Generando nuevos centroides del cluster 7
+Nuevo centroide 929 para el cluster 7
+Nuevo centroide 116 para el cluster 7
+Nuevo centroide 337 para el cluster 7
+Nuevo centroide 509 para el cluster 7
+Nuevo centroide 549 para el cluster 7
+Nuevo centroide 558 para el cluster 7
+Nuevo centroide 1102 para el cluster 7
+Nuevo centroide 1114 para el cluster 7
+Nuevo centroide 1172 para el cluster 7
+Nuevo centroide 1189 para el cluster 7
+Nuevo centroide 1544 para el cluster 7
+Nuevo centroide 1720 para el cluster 7
+Nuevo centroide 2287 para el cluster 7
+Nuevo centroide 2299 para el cluster 7
+Nuevo centroide 2305 para el cluster 7
+Nuevo centroide 2377 para el cluster 7
+Nuevo centroide 2427 para el cluster 7
+Nuevo centroide 2503 para el cluster 7
+Nuevo centroide 2599 para el cluster 7
+Nuevo centroide 2639 para el cluster 7
+Nuevo centroide 2682 para el cluster 7
+Nuevo centroide 4802 para el cluster 7
+Nuevo centroide 4857 para el cluster 7
+Nuevo centroide 4925 para el cluster 7
+Nuevo centroide 4965 para el cluster 7
+Nuevo centroide 5363 para el cluster 7
+Nuevo centroide 6192 para el cluster 7
+Nuevo centroide 11220 para el cluster 7
+Nuevo centroide 12369 para el cluster 7
+Nuevo centroide 14631 para el cluster 7
+Generando nuevos centroides del cluster 8
+Nuevo centroide 585 para el cluster 8
+Nuevo centroide 84 para el cluster 8
+Nuevo centroide 222 para el cluster 8
+Nuevo centroide 319 para el cluster 8
+Nuevo centroide 352 para el cluster 8
+Nuevo centroide 388 para el cluster 8
+Nuevo centroide 430 para el cluster 8
+Nuevo centroide 486 para el cluster 8
+Nuevo centroide 547 para el cluster 8
+Nuevo centroide 676 para el cluster 8
+Nuevo centroide 723 para el cluster 8
+Nuevo centroide 759 para el cluster 8
+Nuevo centroide 874 para el cluster 8
+Nuevo centroide 1050 para el cluster 8
+Nuevo centroide 1131 para el cluster 8
+Nuevo centroide 1241 para el cluster 8
+Nuevo centroide 1309 para el cluster 8
+Nuevo centroide 1359 para el cluster 8
+Nuevo centroide 1362 para el cluster 8
+Nuevo centroide 1668 para el cluster 8
+Nuevo centroide 1995 para el cluster 8
+Nuevo centroide 2228 para el cluster 8
+Nuevo centroide 2411 para el cluster 8
+Nuevo centroide 2720 para el cluster 8
+Nuevo centroide 2829 para el cluster 8
+Nuevo centroide 3267 para el cluster 8
+Nuevo centroide 3630 para el cluster 8
+Nuevo centroide 3693 para el cluster 8
+Nuevo centroide 4641 para el cluster 8
+Nuevo centroide 4647 para el cluster 8
+Nuevo centroide 4711 para el cluster 8
+Nuevo centroide 4933 para el cluster 8
+Nuevo centroide 5169 para el cluster 8
+Nuevo centroide 5218 para el cluster 8
+Nuevo centroide 6728 para el cluster 8
+Nuevo centroide 6903 para el cluster 8
+Nuevo centroide 8049 para el cluster 8
+Nuevo centroide 8119 para el cluster 8
+Nuevo centroide 8189 para el cluster 8
+Nuevo centroide 9326 para el cluster 8
+Nuevo centroide 9630 para el cluster 8
+Nuevo centroide 10308 para el cluster 8
+Nuevo centroide 10864 para el cluster 8
+Nuevo centroide 14679 para el cluster 8
+Nuevo centroide 15124 para el cluster 8
+Nuevo centroide 15977 para el cluster 8
+Nuevo centroide 17560 para el cluster 8
+Generando nuevos centroides del cluster 9
+Nuevo centroide 746 para el cluster 9
+Nuevo centroide 135 para el cluster 9
+Nuevo centroide 205 para el cluster 9
+Nuevo centroide 2273 para el cluster 9
+Nuevo centroide 2887 para el cluster 9
+Nuevo centroide 3367 para el cluster 9
+Nuevo centroide 3375 para el cluster 9
+Nuevo centroide 3469 para el cluster 9
+Nuevo centroide 3499 para el cluster 9
+Nuevo centroide 3620 para el cluster 9
+Nuevo centroide 3766 para el cluster 9
+Nuevo centroide 3823 para el cluster 9
+Nuevo centroide 3853 para el cluster 9
+Nuevo centroide 3855 para el cluster 9
+Nuevo centroide 3892 para el cluster 9
+Nuevo centroide 3969 para el cluster 9
+Nuevo centroide 4008 para el cluster 9
+Nuevo centroide 4024 para el cluster 9
+Nuevo centroide 4374 para el cluster 9
+Nuevo centroide 5943 para el cluster 9
+Nuevo centroide 6237 para el cluster 9
+Nuevo centroide 12750 para el cluster 9
+Nuevo centroide 13438 para el cluster 9
+Nuevo centroide 13451 para el cluster 9
+Nuevo centroide 13474 para el cluster 9
+Nuevo centroide 15208 para el cluster 9
+Generando nuevos centroides del cluster 10
+Nuevo centroide 27 para el cluster 10
+Nuevo centroide 343 para el cluster 10
+Nuevo centroide 419 para el cluster 10
+Nuevo centroide 1220 para el cluster 10
+Nuevo centroide 1472 para el cluster 10
+Nuevo centroide 1917 para el cluster 10
+Nuevo centroide 1953 para el cluster 10
+Nuevo centroide 2681 para el cluster 10
+Nuevo centroide 4266 para el cluster 10
+Nuevo centroide 4292 para el cluster 10
+Nuevo centroide 4364 para el cluster 10
+Nuevo centroide 4521 para el cluster 10
+Nuevo centroide 6386 para el cluster 10
+Nuevo centroide 7083 para el cluster 10
+Nuevo centroide 7095 para el cluster 10
+Nuevo centroide 9980 para el cluster 10
+Nuevo centroide 10957 para el cluster 10
+Nuevo centroide 11671 para el cluster 10
+Nuevo centroide 11897 para el cluster 10
+Nuevo centroide 13904 para el cluster 10
+Nuevo centroide 13959 para el cluster 10
+Nuevo centroide 14029 para el cluster 10
+Nuevo centroide 15735 para el cluster 10
+Nuevo centroide 17422 para el cluster 10
+Generando nuevos centroides del cluster 11
+Nuevo centroide 338 para el cluster 11
+Nuevo centroide 369 para el cluster 11
+Nuevo centroide 380 para el cluster 11
+Nuevo centroide 454 para el cluster 11
+Nuevo centroide 662 para el cluster 11
+Nuevo centroide 779 para el cluster 11
+Nuevo centroide 925 para el cluster 11
+Nuevo centroide 941 para el cluster 11
+Nuevo centroide 1096 para el cluster 11
+Nuevo centroide 1314 para el cluster 11
+Nuevo centroide 1377 para el cluster 11
+Nuevo centroide 1497 para el cluster 11
+Nuevo centroide 1507 para el cluster 11
+Nuevo centroide 1585 para el cluster 11
+Nuevo centroide 1617 para el cluster 11
+Nuevo centroide 1688 para el cluster 11
+Nuevo centroide 2014 para el cluster 11
+Nuevo centroide 2048 para el cluster 11
+Nuevo centroide 2251 para el cluster 11
+Nuevo centroide 2286 para el cluster 11
+Nuevo centroide 2609 para el cluster 11
+Nuevo centroide 2634 para el cluster 11
+Nuevo centroide 2651 para el cluster 11
+Nuevo centroide 2864 para el cluster 11
+Nuevo centroide 3170 para el cluster 11
+Nuevo centroide 4615 para el cluster 11
+Nuevo centroide 6620 para el cluster 11
+Nuevo centroide 7436 para el cluster 11
+Nuevo centroide 9520 para el cluster 11
+Nuevo centroide 9571 para el cluster 11
+Nuevo centroide 9629 para el cluster 11
+Nuevo centroide 9879 para el cluster 11
+Nuevo centroide 10348 para el cluster 11
+Nuevo centroide 12678 para el cluster 11
+Nuevo centroide 13814 para el cluster 11
+Nuevo centroide 14781 para el cluster 11
+Nuevo centroide 16803 para el cluster 11
+Nuevo centroide 17646 para el cluster 11
+Nuevo centroide 18253 para el cluster 11
+Nuevo centroide 18420 para el cluster 11
+Generando nuevos centroides del cluster 12
+Nuevo centroide 565 para el cluster 12
+Nuevo centroide 134 para el cluster 12
+Nuevo centroide 255 para el cluster 12
+Nuevo centroide 331 para el cluster 12
+Nuevo centroide 346 para el cluster 12
+Nuevo centroide 393 para el cluster 12
+Nuevo centroide 465 para el cluster 12
+Nuevo centroide 724 para el cluster 12
+Nuevo centroide 728 para el cluster 12
+Nuevo centroide 744 para el cluster 12
+Nuevo centroide 888 para el cluster 12
+Nuevo centroide 951 para el cluster 12
+Nuevo centroide 1155 para el cluster 12
+Nuevo centroide 1254 para el cluster 12
+Nuevo centroide 1348 para el cluster 12
+Nuevo centroide 1426 para el cluster 12
+Nuevo centroide 1958 para el cluster 12
+Nuevo centroide 2026 para el cluster 12
+Nuevo centroide 2184 para el cluster 12
+Nuevo centroide 2291 para el cluster 12
+Nuevo centroide 2323 para el cluster 12
+Nuevo centroide 2324 para el cluster 12
+Nuevo centroide 2588 para el cluster 12
+Nuevo centroide 2760 para el cluster 12
+Nuevo centroide 3025 para el cluster 12
+Nuevo centroide 3258 para el cluster 12
+Nuevo centroide 3293 para el cluster 12
+Nuevo centroide 3865 para el cluster 12
+Nuevo centroide 3916 para el cluster 12
+Nuevo centroide 4287 para el cluster 12
+Nuevo centroide 4651 para el cluster 12
+Nuevo centroide 4669 para el cluster 12
+Nuevo centroide 4738 para el cluster 12
+Nuevo centroide 5093 para el cluster 12
+Nuevo centroide 5134 para el cluster 12
+Nuevo centroide 5452 para el cluster 12
+Nuevo centroide 5571 para el cluster 12
+Nuevo centroide 5691 para el cluster 12
+Nuevo centroide 5804 para el cluster 12
+Nuevo centroide 6055 para el cluster 12
+Nuevo centroide 6302 para el cluster 12
+Nuevo centroide 6645 para el cluster 12
+Nuevo centroide 7099 para el cluster 12
+Nuevo centroide 7829 para el cluster 12
+Nuevo centroide 8594 para el cluster 12
+Nuevo centroide 10686 para el cluster 12
+Nuevo centroide 12979 para el cluster 12
+Nuevo centroide 14701 para el cluster 12
+Nuevo centroide 15690 para el cluster 12
+Nuevo centroide 16432 para el cluster 12
+Nuevo centroide 18588 para el cluster 12
+Generando nuevos centroides del cluster 13
+Nuevo centroide 675 para el cluster 13
+Nuevo centroide 117 para el cluster 13
+Nuevo centroide 243 para el cluster 13
+Nuevo centroide 1077 para el cluster 13
+Nuevo centroide 1818 para el cluster 13
+Nuevo centroide 2131 para el cluster 13
+Nuevo centroide 2729 para el cluster 13
+Nuevo centroide 3059 para el cluster 13
+Nuevo centroide 3292 para el cluster 13
+Nuevo centroide 3458 para el cluster 13
+Nuevo centroide 3480 para el cluster 13
+Nuevo centroide 3482 para el cluster 13
+Nuevo centroide 3529 para el cluster 13
+Nuevo centroide 3548 para el cluster 13
+Nuevo centroide 5091 para el cluster 13
+Nuevo centroide 8036 para el cluster 13
+Nuevo centroide 11757 para el cluster 13
+Nuevo centroide 12235 para el cluster 13
+Nuevo centroide 12819 para el cluster 13
+Nuevo centroide 12876 para el cluster 13
+Nuevo centroide 13274 para el cluster 13
+Nuevo centroide 13850 para el cluster 13
+Nuevo centroide 15210 para el cluster 13
+Nuevo centroide 15451 para el cluster 13
+Nuevo centroide 16272 para el cluster 13
+Nuevo centroide 17563 para el cluster 13
+Nuevo centroide 18548 para el cluster 13
+Generando nuevos centroides del cluster 14
+Nuevo centroide 19 para el cluster 14
+Nuevo centroide 114 para el cluster 14
+Nuevo centroide 349 para el cluster 14
+Nuevo centroide 817 para el cluster 14
+Nuevo centroide 838 para el cluster 14
+Nuevo centroide 1232 para el cluster 14
+Nuevo centroide 1272 para el cluster 14
+Nuevo centroide 1352 para el cluster 14
+Nuevo centroide 1606 para el cluster 14
+Nuevo centroide 2103 para el cluster 14
+Nuevo centroide 2152 para el cluster 14
+Nuevo centroide 2224 para el cluster 14
+Nuevo centroide 2666 para el cluster 14
+Nuevo centroide 3116 para el cluster 14
+Nuevo centroide 3124 para el cluster 14
+Nuevo centroide 3348 para el cluster 14
+Nuevo centroide 3562 para el cluster 14
+Nuevo centroide 4224 para el cluster 14
+Nuevo centroide 4827 para el cluster 14
+Nuevo centroide 5049 para el cluster 14
+Nuevo centroide 5243 para el cluster 14
+Nuevo centroide 5486 para el cluster 14
+Nuevo centroide 5904 para el cluster 14
+Nuevo centroide 6759 para el cluster 14
+Nuevo centroide 6778 para el cluster 14
+Nuevo centroide 7338 para el cluster 14
+Nuevo centroide 8439 para el cluster 14
+Nuevo centroide 9016 para el cluster 14
+Nuevo centroide 10773 para el cluster 14
+Nuevo centroide 12745 para el cluster 14
+Nuevo centroide 13301 para el cluster 14
+Nuevo centroide 13519 para el cluster 14
+Nuevo centroide 14605 para el cluster 14
+Nuevo centroide 15435 para el cluster 14
+Nuevo centroide 18297 para el cluster 14
+Generando nuevos centroides del cluster 15
+Nuevo centroide 176 para el cluster 15
+Nuevo centroide 11 para el cluster 15
+Nuevo centroide 51 para el cluster 15
+Nuevo centroide 69 para el cluster 15
+Nuevo centroide 215 para el cluster 15
+Nuevo centroide 447 para el cluster 15
+Nuevo centroide 569 para el cluster 15
+Nuevo centroide 901 para el cluster 15
+Nuevo centroide 919 para el cluster 15
+Nuevo centroide 1755 para el cluster 15
+Nuevo centroide 2227 para el cluster 15
+Nuevo centroide 2407 para el cluster 15
+Nuevo centroide 2589 para el cluster 15
+Nuevo centroide 3202 para el cluster 15
+Nuevo centroide 3236 para el cluster 15
+Nuevo centroide 3337 para el cluster 15
+Nuevo centroide 3744 para el cluster 15
+Nuevo centroide 4486 para el cluster 15
+Nuevo centroide 4783 para el cluster 15
+Nuevo centroide 5310 para el cluster 15
+Nuevo centroide 5467 para el cluster 15
+Nuevo centroide 5812 para el cluster 15
+Nuevo centroide 6281 para el cluster 15
+Nuevo centroide 6433 para el cluster 15
+Nuevo centroide 6602 para el cluster 15
+Nuevo centroide 7090 para el cluster 15
+Nuevo centroide 7126 para el cluster 15
+Nuevo centroide 7307 para el cluster 15
+Nuevo centroide 7746 para el cluster 15
+Nuevo centroide 8056 para el cluster 15
+Nuevo centroide 9350 para el cluster 15
+Nuevo centroide 10188 para el cluster 15
+Nuevo centroide 11959 para el cluster 15
+Nuevo centroide 15226 para el cluster 15
+Nuevo centroide 16921 para el cluster 15
+Nuevo centroide 18081 para el cluster 15
+Nuevo centroide 18538 para el cluster 15
+Nuevo centroide 18615 para el cluster 15
+Generando nuevos centroides del cluster 16
+Nuevo centroide 70 para el cluster 16
+Nuevo centroide 293 para el cluster 16
+Nuevo centroide 324 para el cluster 16
+Nuevo centroide 464 para el cluster 16
+Nuevo centroide 550 para el cluster 16
+Nuevo centroide 991 para el cluster 16
+Nuevo centroide 1195 para el cluster 16
+Nuevo centroide 1239 para el cluster 16
+Nuevo centroide 1513 para el cluster 16
+Nuevo centroide 1532 para el cluster 16
+Nuevo centroide 2667 para el cluster 16
+Nuevo centroide 2775 para el cluster 16
+Nuevo centroide 2835 para el cluster 16
+Nuevo centroide 3095 para el cluster 16
+Nuevo centroide 3454 para el cluster 16
+Nuevo centroide 3489 para el cluster 16
+Nuevo centroide 4260 para el cluster 16
+Nuevo centroide 4358 para el cluster 16
+Nuevo centroide 4371 para el cluster 16
+Nuevo centroide 4413 para el cluster 16
+Nuevo centroide 4914 para el cluster 16
+Nuevo centroide 5600 para el cluster 16
+Nuevo centroide 5695 para el cluster 16
+Nuevo centroide 6603 para el cluster 16
+Nuevo centroide 6624 para el cluster 16
+Nuevo centroide 6657 para el cluster 16
+Nuevo centroide 6973 para el cluster 16
+Nuevo centroide 7044 para el cluster 16
+Nuevo centroide 11454 para el cluster 16
+Nuevo centroide 12381 para el cluster 16
+Nuevo centroide 12815 para el cluster 16
+Nuevo centroide 14667 para el cluster 16
+Nuevo centroide 14743 para el cluster 16
+Nuevo centroide 15038 para el cluster 16
+Nuevo centroide 16010 para el cluster 16
+Nuevo centroide 18169 para el cluster 16
+Generando nuevos centroides del cluster 17
+Nuevo centroide 414 para el cluster 17
+Nuevo centroide 13 para el cluster 17
+Nuevo centroide 177 para el cluster 17
+Nuevo centroide 230 para el cluster 17
+Nuevo centroide 548 para el cluster 17
+Nuevo centroide 560 para el cluster 17
+Nuevo centroide 634 para el cluster 17
+Nuevo centroide 768 para el cluster 17
+Nuevo centroide 786 para el cluster 17
+Nuevo centroide 837 para el cluster 17
+Nuevo centroide 999 para el cluster 17
+Nuevo centroide 1138 para el cluster 17
+Nuevo centroide 1207 para el cluster 17
+Nuevo centroide 1577 para el cluster 17
+Nuevo centroide 1618 para el cluster 17
+Nuevo centroide 1957 para el cluster 17
+Nuevo centroide 2353 para el cluster 17
+Nuevo centroide 2472 para el cluster 17
+Nuevo centroide 2513 para el cluster 17
+Nuevo centroide 3296 para el cluster 17
+Nuevo centroide 3593 para el cluster 17
+Nuevo centroide 3674 para el cluster 17
+Nuevo centroide 4300 para el cluster 17
+Nuevo centroide 4451 para el cluster 17
+Nuevo centroide 4686 para el cluster 17
+Nuevo centroide 5056 para el cluster 17
+Nuevo centroide 5140 para el cluster 17
+Nuevo centroide 5690 para el cluster 17
+Nuevo centroide 6651 para el cluster 17
+Nuevo centroide 6959 para el cluster 17
+Nuevo centroide 7643 para el cluster 17
+Nuevo centroide 9414 para el cluster 17
+Nuevo centroide 9498 para el cluster 17
+Nuevo centroide 10723 para el cluster 17
+Nuevo centroide 11219 para el cluster 17
+Nuevo centroide 11449 para el cluster 17
+Nuevo centroide 11526 para el cluster 17
+Nuevo centroide 11734 para el cluster 17
+Nuevo centroide 12310 para el cluster 17
+Nuevo centroide 13224 para el cluster 17
+Nuevo centroide 16876 para el cluster 17
+Nuevo centroide 17084 para el cluster 17
+Generando nuevos centroides del cluster 18
+Nuevo centroide 241 para el cluster 18
+Nuevo centroide 322 para el cluster 18
+Nuevo centroide 411 para el cluster 18
+Nuevo centroide 484 para el cluster 18
+Nuevo centroide 546 para el cluster 18
+Nuevo centroide 551 para el cluster 18
+Nuevo centroide 576 para el cluster 18
+Nuevo centroide 579 para el cluster 18
+Nuevo centroide 598 para el cluster 18
+Nuevo centroide 684 para el cluster 18
+Nuevo centroide 747 para el cluster 18
+Nuevo centroide 756 para el cluster 18
+Nuevo centroide 782 para el cluster 18
+Nuevo centroide 799 para el cluster 18
+Nuevo centroide 803 para el cluster 18
+Nuevo centroide 924 para el cluster 18
+Nuevo centroide 1025 para el cluster 18
+Nuevo centroide 2167 para el cluster 18
+Nuevo centroide 2178 para el cluster 18
+Nuevo centroide 2483 para el cluster 18
+Nuevo centroide 2524 para el cluster 18
+Nuevo centroide 3169 para el cluster 18
+Nuevo centroide 4895 para el cluster 18
+Nuevo centroide 5820 para el cluster 18
+Nuevo centroide 5949 para el cluster 18
+Nuevo centroide 6038 para el cluster 18
+Nuevo centroide 6190 para el cluster 18
+Nuevo centroide 7009 para el cluster 18
+Nuevo centroide 8545 para el cluster 18
+Nuevo centroide 8679 para el cluster 18
+Nuevo centroide 9216 para el cluster 18
+Nuevo centroide 9881 para el cluster 18
+Nuevo centroide 13057 para el cluster 18
+Nuevo centroide 16004 para el cluster 18
+Generando nuevos centroides del cluster 19
+Nuevo centroide 573 para el cluster 19
+Nuevo centroide 19 para el cluster 19
+Nuevo centroide 63 para el cluster 19
+Nuevo centroide 264 para el cluster 19
+Nuevo centroide 342 para el cluster 19
+Nuevo centroide 561 para el cluster 19
+Nuevo centroide 614 para el cluster 19
+Nuevo centroide 651 para el cluster 19
+Nuevo centroide 1012 para el cluster 19
+Nuevo centroide 1586 para el cluster 19
+Nuevo centroide 1768 para el cluster 19
+Nuevo centroide 1859 para el cluster 19
+Nuevo centroide 1908 para el cluster 19
+Nuevo centroide 1988 para el cluster 19
+Nuevo centroide 2645 para el cluster 19
+Nuevo centroide 2713 para el cluster 19
+Nuevo centroide 3133 para el cluster 19
+Nuevo centroide 3215 para el cluster 19
+Nuevo centroide 3449 para el cluster 19
+Nuevo centroide 3594 para el cluster 19
+Nuevo centroide 4467 para el cluster 19
+Nuevo centroide 5288 para el cluster 19
+Nuevo centroide 5309 para el cluster 19
+Nuevo centroide 5328 para el cluster 19
+Nuevo centroide 5431 para el cluster 19
+Nuevo centroide 5435 para el cluster 19
+Nuevo centroide 5544 para el cluster 19
+Nuevo centroide 5601 para el cluster 19
+Nuevo centroide 6106 para el cluster 19
+Nuevo centroide 6348 para el cluster 19
+Nuevo centroide 6468 para el cluster 19
+Nuevo centroide 6615 para el cluster 19
+Nuevo centroide 6663 para el cluster 19
+Nuevo centroide 6884 para el cluster 19
+Nuevo centroide 7072 para el cluster 19
+Nuevo centroide 7387 para el cluster 19
+Nuevo centroide 10145 para el cluster 19
+Nuevo centroide 10201 para el cluster 19
+Nuevo centroide 10866 para el cluster 19
+Nuevo centroide 11224 para el cluster 19
+Nuevo centroide 12806 para el cluster 19
+Nuevo centroide 14575 para el cluster 19
+Nuevo centroide 15088 para el cluster 19
+Nuevo centroide 15117 para el cluster 19
+Nuevo centroide 15182 para el cluster 19
+Nuevo centroide 15726 para el cluster 19
+Nuevo centroide 16482 para el cluster 19
+Nuevo centroide 17127 para el cluster 19
+numberOfDocsAssigendRandomly = 0
+Time to run till 2 iterations: 4 seconds
+Iteration : 3
+Cluster 1 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 0, 0
+Centroid 3: 0, 2
+Centroid 4: 0, 5
+Centroid 5: 0, 16
+Centroid 6: 0, 20
+Centroid 7: 0, 22
+Centroid 8: 0, 32
+Centroid 9: 0, 33
+Centroid 10: 0, 35
+Centroid 11: 0, 40
+Centroid 12: 0, 46
+Centroid 13: 0, 62
+Centroid 14: 0, 64
+Centroid 15: 0, 68
+Centroid 16: 0, 71
+Centroid 17: 0, 99
+Centroid 18: 0, 104
+Centroid 19: 0, 137
+Centroid 20: 0, 191
+Centroid 21: 0, 225
+Centroid 22: 0, 232
+Centroid 23: 0, 247
+Centroid 24: 0, 253
+Centroid 25: 0, 261
+Centroid 26: 0, 288
+Centroid 27: 1, 320
+Centroid 28: 1, 327
+Centroid 29: 1, 333
+Centroid 30: 1, 334
+Centroid 31: 1, 340
+Centroid 32: 1, 344
+Centroid 33: 1, 345
+Centroid 34: 1, 350
+Centroid 35: 1, 358
+Centroid 36: 1, 359
+Centroid 37: 1, 362
+Centroid 38: 1, 374
+Centroid 39: 1, 394
+Centroid 40: 1, 397
+Centroid 41: 1, 425
+Centroid 42: 1, 462
+Centroid 43: 1, 463
+Centroid 44: 1, 480
+Centroid 45: 1, 499
+Centroid 46: 1, 504
+Centroid 47: 1, 517
+Centroid 48: 1, 562
+Centroid 49: 1, 563
+Centroid 50: 1, 586
+Centroid 51: 1, 591
+Centroid 52: 1, 605
+Centroid 53: 1, 608
+Centroid 54: 1, 612
+Centroid 55: 1, 646
+Centroid 56: 1, 703
+Centroid 57: 2, 718
+Centroid 58: 2, 726
+Centroid 59: 2, 774
+Centroid 60: 2, 797
+Centroid 61: 2, 802
+Centroid 62: 2, 808
+Centroid 63: 2, 826
+Centroid 64: 2, 935
+Centroid 65: 2, 950
+Centroid 66: 2, 952
+Centroid 67: 2, 978
+Centroid 68: 2, 1014
+Centroid 69: 3, 1108
+Centroid 70: 3, 1133
+Centroid 71: 3, 1167
+Centroid 72: 3, 1204
+Centroid 73: 3, 1247
+Centroid 74: 3, 1300
+Centroid 75: 3, 1305
+Centroid 76: 3, 1342
+Centroid 77: 3, 1379
+Centroid 78: 3, 1486
+Centroid 79: 4, 1494
+Centroid 80: 4, 1503
+Centroid 81: 4, 1518
+Centroid 82: 4, 1543
+Centroid 83: 4, 1584
+Centroid 84: 4, 1641
+Centroid 85: 4, 1642
+Centroid 86: 4, 1719
+Centroid 87: 4, 1832
+Centroid 88: 4, 1860
+Centroid 89: 4, 1864
+Centroid 90: 5, 1885
+Centroid 91: 5, 1943
+Centroid 92: 5, 1946
+Centroid 93: 5, 1959
+Centroid 94: 5, 2013
+Centroid 95: 5, 2020
+Centroid 96: 5, 2035
+Centroid 97: 5, 2124
+Centroid 98: 5, 2134
+Centroid 99: 5, 2188
+Centroid 100: 5, 2190
+Centroid 101: 6, 2294
+Centroid 102: 6, 2316
+Centroid 103: 6, 2318
+Centroid 104: 6, 2322
+Centroid 105: 6, 2349
+Centroid 106: 6, 2356
+Centroid 107: 6, 2426
+Centroid 108: 6, 2452
+Centroid 109: 6, 2455
+Centroid 110: 6, 2465
+Centroid 111: 6, 2508
+Centroid 112: 6, 2529
+Centroid 113: 6, 2538
+Centroid 114: 6, 2546
+Centroid 115: 7, 2685
+Centroid 116: 7, 2766
+Centroid 117: 7, 2768
+Centroid 118: 7, 2781
+Centroid 119: 7, 2784
+Centroid 120: 7, 2861
+Centroid 121: 7, 2880
+Centroid 122: 7, 2891
+Centroid 123: 7, 3003
+Centroid 124: 8, 3108
+Centroid 125: 8, 3132
+Centroid 126: 8, 3156
+Centroid 127: 8, 3166
+Centroid 128: 8, 3200
+Centroid 129: 8, 3206
+Centroid 130: 8, 3349
+Centroid 131: 8, 3429
+Centroid 132: 9, 3472
+Centroid 133: 9, 3493
+Centroid 134: 9, 3495
+Centroid 135: 9, 3517
+Centroid 136: 9, 3587
+Centroid 137: 9, 3606
+Centroid 138: 9, 3710
+Centroid 139: 9, 3758
+Centroid 140: 9, 3771
+Centroid 141: 9, 3772
+Centroid 142: 9, 3777
+Centroid 143: 10, 3891
+Centroid 144: 10, 3895
+Centroid 145: 10, 3906
+Centroid 146: 10, 3971
+Centroid 147: 10, 4076
+Centroid 148: 10, 4082
+Centroid 149: 10, 4183
+Centroid 150: 11, 4255
+Centroid 151: 11, 4412
+Centroid 152: 11, 4421
+Centroid 153: 11, 4605
+Centroid 154: 12, 4661
+Centroid 155: 12, 4687
+Centroid 156: 12, 4700
+Centroid 157: 12, 4726
+Centroid 158: 12, 4728
+Centroid 159: 12, 4832
+Centroid 160: 12, 4842
+Centroid 161: 12, 4971
+Centroid 162: 12, 4974
+Centroid 163: 12, 4977
+Centroid 164: 13, 5079
+Centroid 165: 13, 5097
+Centroid 166: 13, 5166
+Centroid 167: 13, 5173
+Centroid 168: 13, 5204
+Centroid 169: 13, 5207
+Centroid 170: 13, 5314
+Centroid 171: 13, 5349
+Centroid 172: 13, 5416
+Centroid 173: 13, 5428
+Centroid 174: 14, 5523
+Centroid 175: 14, 5805
+Centroid 176: 15, 5874
+Centroid 177: 15, 5923
+Centroid 178: 15, 5963
+Centroid 179: 15, 6089
+Centroid 180: 15, 6180
+Centroid 181: 16, 6366
+Centroid 182: 16, 6371
+Centroid 183: 16, 6499
+Centroid 184: 17, 6595
+Centroid 185: 17, 6596
+Centroid 186: 17, 6666
+Centroid 187: 17, 6718
+Centroid 188: 17, 6784
+Centroid 189: 18, 7035
+Centroid 190: 18, 7049
+Centroid 191: 18, 7111
+Centroid 192: 19, 7363
+Centroid 193: 1, 8065
+Centroid 194: 2, 8825
+Centroid 195: 2, 9148
+Centroid 196: 3, 9419
+Centroid 197: 4, 9929
+Centroid 198: 4, 10084
+Centroid 199: 4, 10221
+Centroid 200: 4, 10310
+Centroid 201: 5, 10455
+Centroid 202: 5, 10677
+Centroid 203: 5, 10851
+Centroid 204: 6, 10935
+Centroid 205: 7, 11557
+Centroid 206: 7, 11736
+Centroid 207: 7, 11898
+Centroid 208: 7, 11956
+Centroid 209: 8, 12315
+Centroid 210: 8, 12444
+Centroid 211: 8, 12626
+Centroid 212: 8, 12652
+Centroid 213: 8, 12657
+Centroid 214: 9, 12974
+Centroid 215: 9, 13064
+Centroid 216: 9, 13090
+Centroid 217: 9, 13147
+Centroid 218: 10, 13683
+Centroid 219: 10, 13774
+Centroid 220: 11, 14415
+Centroid 221: 12, 14863
+Centroid 222: 13, 15109
+Centroid 223: 13, 15211
+Centroid 224: 13, 15369
+Centroid 225: 14, 15855
+Centroid 226: 14, 16009
+Centroid 227: 14, 16145
+Centroid 228: 14, 16245
+Centroid 229: 15, 16274
+Centroid 230: 15, 16292
+Centroid 231: 16, 17033
+Centroid 232: 17, 17489
+Centroid 233: 17, 17843
+Centroid 234: 17, 17895
+Centroid 235: 18, 18057
+Centroid 236: 19, 18614
+Centroid 237: 19, 18684
+Cluster 2 has the centroids:
+Centroid 1: 0, 18
+Centroid 2: 0, 111
+Centroid 3: 7, 2819
+Centroid 4: 11, 4271
+Centroid 5: 11, 4588
+Centroid 6: 12, 4805
+Centroid 7: 13, 5064
+Centroid 8: 14, 5496
+Centroid 9: 15, 5898
+Centroid 10: 17, 6877
+Centroid 11: 17, 6901
+Centroid 12: 18, 7001
+Centroid 13: 18, 7022
+Centroid 14: 13, 15556
+Centroid 15: 14, 15781
+Centroid 16: 16, 17012
+Centroid 17: 17, 17605
+Centroid 18: 18, 18121
+Centroid 19: 18, 18221
+Cluster 3 has the centroids:
+Centroid 1: 2, 770
+Centroid 2: 0, 78
+Centroid 3: 0, 127
+Centroid 4: 1, 332
+Centroid 5: 1, 366
+Centroid 6: 1, 398
+Centroid 7: 1, 498
+Centroid 8: 1, 533
+Centroid 9: 2, 832
+Centroid 10: 2, 902
+Centroid 11: 2, 1043
+Centroid 12: 3, 1107
+Centroid 13: 3, 1215
+Centroid 14: 3, 1282
+Centroid 15: 3, 1481
+Centroid 16: 4, 1706
+Centroid 17: 4, 1730
+Centroid 18: 5, 2164
+Centroid 19: 5, 2182
+Centroid 20: 5, 2196
+Centroid 21: 7, 2857
+Centroid 22: 7, 3011
+Centroid 23: 7, 3033
+Centroid 24: 8, 3180
+Centroid 25: 9, 3616
+Centroid 26: 10, 3883
+Centroid 27: 10, 3940
+Centroid 28: 10, 3986
+Centroid 29: 13, 5065
+Centroid 30: 13, 5182
+Centroid 31: 14, 5646
+Centroid 32: 15, 6219
+Centroid 33: 16, 6351
+Centroid 34: 17, 6747
+Centroid 35: 17, 6796
+Centroid 36: 18, 7069
+Centroid 37: 18, 7205
+Centroid 38: 18, 7225
+Centroid 39: 19, 7386
+Centroid 40: 0, 7544
+Centroid 41: 0, 7633
+Centroid 42: 7, 11642
+Centroid 43: 9, 12721
+Centroid 44: 10, 13641
+Centroid 45: 11, 14077
+Centroid 46: 12, 14753
+Centroid 47: 14, 15827
+Centroid 48: 14, 15928
+Centroid 49: 14, 16078
+Centroid 50: 17, 17753
+Centroid 51: 17, 17954
+Centroid 52: 19, 18787
+Cluster 4 has the centroids:
+Centroid 1: 1, 329
+Centroid 2: 0, 133
+Centroid 3: 0, 286
+Centroid 4: 1, 328
+Centroid 5: 1, 415
+Centroid 6: 2, 977
+Centroid 7: 3, 1184
+Centroid 8: 3, 1290
+Centroid 9: 7, 2717
+Centroid 10: 7, 2800
+Centroid 11: 7, 2938
+Centroid 12: 8, 3065
+Centroid 13: 8, 3067
+Centroid 14: 8, 3078
+Centroid 15: 8, 3100
+Centroid 16: 8, 3135
+Centroid 17: 8, 3148
+Centroid 18: 8, 3149
+Centroid 19: 8, 3157
+Centroid 20: 8, 3201
+Centroid 21: 8, 3237
+Centroid 22: 11, 4430
+Centroid 23: 11, 4472
+Centroid 24: 13, 5179
+Centroid 25: 13, 5208
+Centroid 26: 13, 5384
+Centroid 27: 14, 5439
+Centroid 28: 14, 5498
+Centroid 29: 15, 5837
+Centroid 30: 15, 5896
+Centroid 31: 17, 6665
+Centroid 32: 18, 7115
+Centroid 33: 3, 9292
+Centroid 34: 4, 9753
+Centroid 35: 8, 12146
+Centroid 36: 8, 12210
+Centroid 37: 8, 12684
+Centroid 38: 12, 14905
+Cluster 5 has the centroids:
+Centroid 1: 2, 874
+Centroid 2: 0, 4
+Centroid 3: 0, 18
+Centroid 4: 0, 36
+Centroid 5: 0, 145
+Centroid 6: 0, 229
+Centroid 7: 1, 373
+Centroid 8: 1, 429
+Centroid 9: 3, 1283
+Centroid 10: 5, 1945
+Centroid 11: 5, 2079
+Centroid 12: 6, 2270
+Centroid 13: 6, 2400
+Centroid 14: 7, 2832
+Centroid 15: 7, 2863
+Centroid 16: 7, 3046
+Centroid 17: 9, 3571
+Centroid 18: 9, 3641
+Centroid 19: 10, 4155
+Centroid 20: 11, 4508
+Centroid 21: 13, 5047
+Centroid 22: 13, 5051
+Centroid 23: 13, 5385
+Centroid 24: 14, 5436
+Centroid 25: 14, 5470
+Centroid 26: 14, 5540
+Centroid 27: 15, 5892
+Centroid 28: 15, 6103
+Centroid 29: 15, 6184
+Centroid 30: 16, 6269
+Centroid 31: 16, 6335
+Centroid 32: 16, 6448
+Centroid 33: 17, 6649
+Centroid 34: 17, 6760
+Centroid 35: 19, 7330
+Centroid 36: 19, 7505
+Centroid 37: 0, 7538
+Centroid 38: 4, 9958
+Centroid 39: 4, 10259
+Centroid 40: 5, 10404
+Centroid 41: 7, 11616
+Centroid 42: 7, 11703
+Centroid 43: 7, 11848
+Centroid 44: 8, 12354
+Centroid 45: 12, 14657
+Centroid 46: 13, 15221
+Centroid 47: 16, 17338
+Cluster 6 has the centroids:
+Centroid 1: 0, 186
+Centroid 2: 1, 321
+Centroid 3: 1, 370
+Centroid 4: 3, 1143
+Centroid 5: 6, 2348
+Centroid 6: 6, 2520
+Centroid 7: 7, 2840
+Centroid 8: 7, 2843
+Centroid 9: 7, 2919
+Centroid 10: 8, 3224
+Centroid 11: 8, 3250
+Centroid 12: 8, 3261
+Centroid 13: 9, 3470
+Centroid 14: 9, 3491
+Centroid 15: 9, 3569
+Centroid 16: 9, 3724
+Centroid 17: 9, 3814
+Centroid 18: 10, 3852
+Centroid 19: 10, 3857
+Centroid 20: 10, 3875
+Centroid 21: 10, 3877
+Centroid 22: 10, 3902
+Centroid 23: 10, 4001
+Centroid 24: 10, 4160
+Centroid 25: 12, 4689
+Centroid 26: 14, 5450
+Centroid 27: 15, 6082
+Centroid 28: 19, 7380
+Centroid 29: 2, 8801
+Centroid 30: 3, 9271
+Centroid 31: 3, 9550
+Centroid 32: 9, 12953
+Centroid 33: 12, 14740
+Centroid 34: 13, 15524
+Centroid 35: 17, 17611
+Cluster 7 has the centroids:
+Centroid 1: 2, 886
+Centroid 2: 0, 7
+Centroid 3: 0, 14
+Centroid 4: 0, 108
+Centroid 5: 0, 109
+Centroid 6: 0, 130
+Centroid 7: 0, 155
+Centroid 8: 0, 165
+Centroid 9: 0, 220
+Centroid 10: 0, 245
+Centroid 11: 2, 769
+Centroid 12: 7, 2748
+Centroid 13: 7, 2794
+Centroid 14: 7, 2918
+Centroid 15: 7, 2947
+Centroid 16: 8, 3079
+Centroid 17: 13, 5142
+Centroid 18: 15, 5834
+Centroid 19: 15, 5850
+Centroid 20: 15, 6181
+Centroid 21: 16, 6320
+Centroid 22: 18, 7103
+Centroid 23: 5, 10566
+Centroid 24: 6, 11284
+Centroid 25: 10, 13321
+Centroid 26: 12, 14625
+Centroid 27: 14, 15826
+Centroid 28: 15, 16471
+Centroid 29: 17, 17441
+Cluster 8 has the centroids:
+Centroid 1: 2, 929
+Centroid 2: 0, 116
+Centroid 3: 1, 337
+Centroid 4: 1, 509
+Centroid 5: 1, 549
+Centroid 6: 1, 558
+Centroid 7: 3, 1102
+Centroid 8: 3, 1114
+Centroid 9: 3, 1172
+Centroid 10: 3, 1189
+Centroid 11: 4, 1544
+Centroid 12: 4, 1720
+Centroid 13: 6, 2287
+Centroid 14: 6, 2299
+Centroid 15: 6, 2305
+Centroid 16: 6, 2377
+Centroid 17: 6, 2427
+Centroid 18: 6, 2503
+Centroid 19: 6, 2599
+Centroid 20: 6, 2639
+Centroid 21: 7, 2682
+Centroid 22: 12, 4802
+Centroid 23: 12, 4857
+Centroid 24: 12, 4925
+Centroid 25: 12, 4965
+Centroid 26: 13, 5363
+Centroid 27: 15, 6192
+Centroid 28: 6, 11220
+Centroid 29: 8, 12369
+Centroid 30: 12, 14631
+Cluster 9 has the centroids:
+Centroid 1: 1, 585
+Centroid 2: 0, 84
+Centroid 3: 0, 222
+Centroid 4: 1, 319
+Centroid 5: 1, 352
+Centroid 6: 1, 388
+Centroid 7: 1, 430
+Centroid 8: 1, 486
+Centroid 9: 1, 547
+Centroid 10: 1, 676
+Centroid 11: 2, 723
+Centroid 12: 2, 759
+Centroid 13: 2, 874
+Centroid 14: 2, 1050
+Centroid 15: 3, 1131
+Centroid 16: 3, 1241
+Centroid 17: 3, 1309
+Centroid 18: 3, 1359
+Centroid 19: 3, 1362
+Centroid 20: 4, 1668
+Centroid 21: 5, 1995
+Centroid 22: 5, 2228
+Centroid 23: 6, 2411
+Centroid 24: 7, 2720
+Centroid 25: 7, 2829
+Centroid 26: 8, 3267
+Centroid 27: 9, 3630
+Centroid 28: 9, 3693
+Centroid 29: 11, 4641
+Centroid 30: 12, 4647
+Centroid 31: 12, 4711
+Centroid 32: 12, 4933
+Centroid 33: 13, 5169
+Centroid 34: 13, 5218
+Centroid 35: 17, 6728
+Centroid 36: 17, 6903
+Centroid 37: 1, 8049
+Centroid 38: 1, 8119
+Centroid 39: 1, 8189
+Centroid 40: 3, 9326
+Centroid 41: 3, 9630
+Centroid 42: 4, 10308
+Centroid 43: 5, 10864
+Centroid 44: 12, 14679
+Centroid 45: 13, 15124
+Centroid 46: 14, 15977
+Centroid 47: 17, 17560
+Cluster 10 has the centroids:
+Centroid 1: 2, 746
+Centroid 2: 0, 135
+Centroid 3: 0, 205
+Centroid 4: 6, 2273
+Centroid 5: 7, 2887
+Centroid 6: 8, 3367
+Centroid 7: 8, 3375
+Centroid 8: 9, 3469
+Centroid 9: 9, 3499
+Centroid 10: 9, 3620
+Centroid 11: 9, 3766
+Centroid 12: 9, 3823
+Centroid 13: 10, 3853
+Centroid 14: 10, 3855
+Centroid 15: 10, 3892
+Centroid 16: 10, 3969
+Centroid 17: 10, 4008
+Centroid 18: 10, 4024
+Centroid 19: 11, 4374
+Centroid 20: 15, 5943
+Centroid 21: 16, 6237
+Centroid 22: 9, 12750
+Centroid 23: 10, 13438
+Centroid 24: 10, 13451
+Centroid 25: 10, 13474
+Centroid 26: 13, 15208
+Cluster 11 has the centroids:
+Centroid 1: 0, 27
+Centroid 2: 1, 343
+Centroid 3: 1, 419
+Centroid 4: 3, 1220
+Centroid 5: 3, 1472
+Centroid 6: 5, 1917
+Centroid 7: 5, 1953
+Centroid 8: 7, 2681
+Centroid 9: 11, 4266
+Centroid 10: 11, 4292
+Centroid 11: 11, 4364
+Centroid 12: 11, 4521
+Centroid 13: 16, 6386
+Centroid 14: 18, 7083
+Centroid 15: 18, 7095
+Centroid 16: 4, 9980
+Centroid 17: 6, 10957
+Centroid 18: 7, 11671
+Centroid 19: 7, 11897
+Centroid 20: 11, 13904
+Centroid 21: 11, 13959
+Centroid 22: 11, 14029
+Centroid 23: 14, 15735
+Centroid 24: 17, 17422
+Cluster 12 has the centroids:
+Centroid 1: 1, 338
+Centroid 2: 1, 369
+Centroid 3: 1, 380
+Centroid 4: 1, 454
+Centroid 5: 1, 662
+Centroid 6: 2, 779
+Centroid 7: 2, 925
+Centroid 8: 2, 941
+Centroid 9: 2, 1096
+Centroid 10: 3, 1314
+Centroid 11: 3, 1377
+Centroid 12: 4, 1497
+Centroid 13: 4, 1507
+Centroid 14: 4, 1585
+Centroid 15: 4, 1617
+Centroid 16: 4, 1688
+Centroid 17: 5, 2014
+Centroid 18: 5, 2048
+Centroid 19: 5, 2251
+Centroid 20: 6, 2286
+Centroid 21: 6, 2609
+Centroid 22: 6, 2634
+Centroid 23: 6, 2651
+Centroid 24: 7, 2864
+Centroid 25: 8, 3170
+Centroid 26: 11, 4615
+Centroid 27: 17, 6620
+Centroid 28: 19, 7436
+Centroid 29: 3, 9520
+Centroid 30: 3, 9571
+Centroid 31: 3, 9629
+Centroid 32: 4, 9879
+Centroid 33: 5, 10348
+Centroid 34: 8, 12678
+Centroid 35: 10, 13814
+Centroid 36: 12, 14781
+Centroid 37: 15, 16803
+Centroid 38: 17, 17646
+Centroid 39: 18, 18253
+Centroid 40: 18, 18420
+Cluster 13 has the centroids:
+Centroid 1: 1, 565
+Centroid 2: 0, 134
+Centroid 3: 0, 255
+Centroid 4: 1, 331
+Centroid 5: 1, 346
+Centroid 6: 1, 393
+Centroid 7: 1, 465
+Centroid 8: 2, 724
+Centroid 9: 2, 728
+Centroid 10: 2, 744
+Centroid 11: 2, 888
+Centroid 12: 2, 951
+Centroid 13: 3, 1155
+Centroid 14: 3, 1254
+Centroid 15: 3, 1348
+Centroid 16: 3, 1426
+Centroid 17: 5, 1958
+Centroid 18: 5, 2026
+Centroid 19: 5, 2184
+Centroid 20: 6, 2291
+Centroid 21: 6, 2323
+Centroid 22: 6, 2324
+Centroid 23: 6, 2588
+Centroid 24: 7, 2760
+Centroid 25: 7, 3025
+Centroid 26: 8, 3258
+Centroid 27: 8, 3293
+Centroid 28: 10, 3865
+Centroid 29: 10, 3916
+Centroid 30: 11, 4287
+Centroid 31: 12, 4651
+Centroid 32: 12, 4669
+Centroid 33: 12, 4738
+Centroid 34: 13, 5093
+Centroid 35: 13, 5134
+Centroid 36: 14, 5452
+Centroid 37: 14, 5571
+Centroid 38: 14, 5691
+Centroid 39: 14, 5804
+Centroid 40: 15, 6055
+Centroid 41: 16, 6302
+Centroid 42: 17, 6645
+Centroid 43: 18, 7099
+Centroid 44: 0, 7829
+Centroid 45: 2, 8594
+Centroid 46: 5, 10686
+Centroid 47: 9, 12979
+Centroid 48: 12, 14701
+Centroid 49: 14, 15690
+Centroid 50: 15, 16432
+Centroid 51: 19, 18588
+Cluster 14 has the centroids:
+Centroid 1: 1, 675
+Centroid 2: 0, 117
+Centroid 3: 0, 243
+Centroid 4: 2, 1077
+Centroid 5: 4, 1818
+Centroid 6: 5, 2131
+Centroid 7: 7, 2729
+Centroid 8: 8, 3059
+Centroid 9: 8, 3292
+Centroid 10: 9, 3458
+Centroid 11: 9, 3480
+Centroid 12: 9, 3482
+Centroid 13: 9, 3529
+Centroid 14: 9, 3548
+Centroid 15: 13, 5091
+Centroid 16: 1, 8036
+Centroid 17: 7, 11757
+Centroid 18: 8, 12235
+Centroid 19: 9, 12819
+Centroid 20: 9, 12876
+Centroid 21: 9, 13274
+Centroid 22: 10, 13850
+Centroid 23: 13, 15210
+Centroid 24: 13, 15451
+Centroid 25: 15, 16272
+Centroid 26: 17, 17563
+Centroid 27: 19, 18548
+Cluster 15 has the centroids:
+Centroid 1: 0, 19
+Centroid 2: 0, 114
+Centroid 3: 1, 349
+Centroid 4: 2, 817
+Centroid 5: 2, 838
+Centroid 6: 3, 1232
+Centroid 7: 3, 1272
+Centroid 8: 3, 1352
+Centroid 9: 4, 1606
+Centroid 10: 5, 2103
+Centroid 11: 5, 2152
+Centroid 12: 5, 2224
+Centroid 13: 7, 2666
+Centroid 14: 8, 3116
+Centroid 15: 8, 3124
+Centroid 16: 8, 3348
+Centroid 17: 9, 3562
+Centroid 18: 10, 4224
+Centroid 19: 12, 4827
+Centroid 20: 13, 5049
+Centroid 21: 13, 5243
+Centroid 22: 14, 5486
+Centroid 23: 15, 5904
+Centroid 24: 17, 6759
+Centroid 25: 17, 6778
+Centroid 26: 19, 7338
+Centroid 27: 1, 8439
+Centroid 28: 2, 9016
+Centroid 29: 5, 10773
+Centroid 30: 9, 12745
+Centroid 31: 10, 13301
+Centroid 32: 10, 13519
+Centroid 33: 12, 14605
+Centroid 34: 13, 15435
+Centroid 35: 18, 18297
+Cluster 16 has the centroids:
+Centroid 1: 0, 176
+Centroid 2: 0, 11
+Centroid 3: 0, 51
+Centroid 4: 0, 69
+Centroid 5: 0, 215
+Centroid 6: 1, 447
+Centroid 7: 1, 569
+Centroid 8: 2, 901
+Centroid 9: 2, 919
+Centroid 10: 4, 1755
+Centroid 11: 5, 2227
+Centroid 12: 6, 2407
+Centroid 13: 6, 2589
+Centroid 14: 8, 3202
+Centroid 15: 8, 3236
+Centroid 16: 8, 3337
+Centroid 17: 9, 3744
+Centroid 18: 11, 4486
+Centroid 19: 12, 4783
+Centroid 20: 13, 5310
+Centroid 21: 14, 5467
+Centroid 22: 14, 5812
+Centroid 23: 16, 6281
+Centroid 24: 16, 6433
+Centroid 25: 17, 6602
+Centroid 26: 18, 7090
+Centroid 27: 18, 7126
+Centroid 28: 19, 7307
+Centroid 29: 0, 7746
+Centroid 30: 1, 8056
+Centroid 31: 3, 9350
+Centroid 32: 4, 10188
+Centroid 33: 7, 11959
+Centroid 34: 13, 15226
+Centroid 35: 16, 16921
+Centroid 36: 18, 18081
+Centroid 37: 19, 18538
+Centroid 38: 19, 18615
+Cluster 17 has the centroids:
+Centroid 1: 0, 70
+Centroid 2: 0, 293
+Centroid 3: 1, 324
+Centroid 4: 1, 464
+Centroid 5: 1, 550
+Centroid 6: 2, 991
+Centroid 7: 3, 1195
+Centroid 8: 3, 1239
+Centroid 9: 4, 1513
+Centroid 10: 4, 1532
+Centroid 11: 7, 2667
+Centroid 12: 7, 2775
+Centroid 13: 7, 2835
+Centroid 14: 8, 3095
+Centroid 15: 9, 3454
+Centroid 16: 9, 3489
+Centroid 17: 11, 4260
+Centroid 18: 11, 4358
+Centroid 19: 11, 4371
+Centroid 20: 11, 4413
+Centroid 21: 12, 4914
+Centroid 22: 14, 5600
+Centroid 23: 14, 5695
+Centroid 24: 17, 6603
+Centroid 25: 17, 6624
+Centroid 26: 17, 6657
+Centroid 27: 18, 6973
+Centroid 28: 18, 7044
+Centroid 29: 6, 11454
+Centroid 30: 8, 12381
+Centroid 31: 9, 12815
+Centroid 32: 12, 14667
+Centroid 33: 12, 14743
+Centroid 34: 12, 15038
+Centroid 35: 14, 16010
+Centroid 36: 18, 18169
+Cluster 18 has the centroids:
+Centroid 1: 1, 414
+Centroid 2: 0, 13
+Centroid 3: 0, 177
+Centroid 4: 0, 230
+Centroid 5: 1, 548
+Centroid 6: 1, 560
+Centroid 7: 1, 634
+Centroid 8: 2, 768
+Centroid 9: 2, 786
+Centroid 10: 2, 837
+Centroid 11: 2, 999
+Centroid 12: 3, 1138
+Centroid 13: 3, 1207
+Centroid 14: 4, 1577
+Centroid 15: 4, 1618
+Centroid 16: 5, 1957
+Centroid 17: 6, 2353
+Centroid 18: 6, 2472
+Centroid 19: 6, 2513
+Centroid 20: 8, 3296
+Centroid 21: 9, 3593
+Centroid 22: 9, 3674
+Centroid 23: 11, 4300
+Centroid 24: 11, 4451
+Centroid 25: 12, 4686
+Centroid 26: 13, 5056
+Centroid 27: 13, 5140
+Centroid 28: 14, 5690
+Centroid 29: 17, 6651
+Centroid 30: 17, 6959
+Centroid 31: 0, 7643
+Centroid 32: 3, 9414
+Centroid 33: 3, 9498
+Centroid 34: 5, 10723
+Centroid 35: 6, 11219
+Centroid 36: 6, 11449
+Centroid 37: 7, 11526
+Centroid 38: 7, 11734
+Centroid 39: 8, 12310
+Centroid 40: 9, 13224
+Centroid 41: 16, 16876
+Centroid 42: 16, 17084
+Cluster 19 has the centroids:
+Centroid 1: 0, 241
+Centroid 2: 1, 322
+Centroid 3: 1, 411
+Centroid 4: 1, 484
+Centroid 5: 1, 546
+Centroid 6: 1, 551
+Centroid 7: 1, 576
+Centroid 8: 1, 579
+Centroid 9: 1, 598
+Centroid 10: 1, 684
+Centroid 11: 2, 747
+Centroid 12: 2, 756
+Centroid 13: 2, 782
+Centroid 14: 2, 799
+Centroid 15: 2, 803
+Centroid 16: 2, 924
+Centroid 17: 2, 1025
+Centroid 18: 5, 2167
+Centroid 19: 5, 2178
+Centroid 20: 6, 2483
+Centroid 21: 6, 2524
+Centroid 22: 8, 3169
+Centroid 23: 12, 4895
+Centroid 24: 14, 5820
+Centroid 25: 15, 5949
+Centroid 26: 15, 6038
+Centroid 27: 15, 6190
+Centroid 28: 18, 7009
+Centroid 29: 1, 8545
+Centroid 30: 2, 8679
+Centroid 31: 3, 9216
+Centroid 32: 4, 9881
+Centroid 33: 9, 13057
+Centroid 34: 14, 16004
+Cluster 20 has the centroids:
+Centroid 1: 1, 573
+Centroid 2: 0, 19
+Centroid 3: 0, 63
+Centroid 4: 0, 264
+Centroid 5: 1, 342
+Centroid 6: 1, 561
+Centroid 7: 1, 614
+Centroid 8: 1, 651
+Centroid 9: 2, 1012
+Centroid 10: 4, 1586
+Centroid 11: 4, 1768
+Centroid 12: 4, 1859
+Centroid 13: 5, 1908
+Centroid 14: 5, 1988
+Centroid 15: 6, 2645
+Centroid 16: 7, 2713
+Centroid 17: 8, 3133
+Centroid 18: 8, 3215
+Centroid 19: 8, 3449
+Centroid 20: 9, 3594
+Centroid 21: 11, 4467
+Centroid 22: 13, 5288
+Centroid 23: 13, 5309
+Centroid 24: 13, 5328
+Centroid 25: 13, 5431
+Centroid 26: 14, 5435
+Centroid 27: 14, 5544
+Centroid 28: 14, 5601
+Centroid 29: 15, 6106
+Centroid 30: 16, 6348
+Centroid 31: 16, 6468
+Centroid 32: 17, 6615
+Centroid 33: 17, 6663
+Centroid 34: 17, 6884
+Centroid 35: 18, 7072
+Centroid 36: 19, 7387
+Centroid 37: 4, 10145
+Centroid 38: 4, 10201
+Centroid 39: 5, 10866
+Centroid 40: 6, 11224
+Centroid 41: 9, 12806
+Centroid 42: 12, 14575
+Centroid 43: 13, 15088
+Centroid 44: 13, 15117
+Centroid 45: 13, 15182
+Centroid 46: 14, 15726
+Centroid 47: 15, 16482
+Centroid 48: 16, 17127
+Reassigning cluster ids to non-centroid docs...
+0.06928799 fraction of the documents reassigned different clusters...
+Stopping after 3 iterations...
+Time to cluster: 9 seconds
+Termina de inicializar mapa de ids de clusters
+Acc, Prec, recall, fscore: 
+0.23476964 0.050560806 0.796952 0.09508891
+
+Purity: 0.08097768331562168
+NMI: 0.04272821144162342
+RI: 0.2347696290615466

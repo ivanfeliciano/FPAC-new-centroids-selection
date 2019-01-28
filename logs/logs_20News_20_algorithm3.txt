@@ -1,0 +1,5803 @@
+El número de clusters es 20
+Chosen doc 2672 as first centroid for cluster 1
+Chosen doc 3387 as first centroid for cluster 2
+Chosen doc 2570 as first centroid for cluster 3
+Chosen doc 9250 as first centroid for cluster 4
+Chosen doc 7809 as first centroid for cluster 5
+Chosen doc 18433 as first centroid for cluster 6
+Chosen doc 4331 as first centroid for cluster 7
+Chosen doc 2165 as first centroid for cluster 8
+Chosen doc 1130 as first centroid for cluster 9
+Chosen doc 1842 as first centroid for cluster 10
+Chosen doc 12222 as first centroid for cluster 11
+Chosen doc 6520 as first centroid for cluster 12
+Chosen doc 10437 as first centroid for cluster 13
+Chosen doc 7656 as first centroid for cluster 14
+Chosen doc 7904 as first centroid for cluster 15
+Chosen doc 16262 as first centroid for cluster 16
+Chosen doc 5418 as first centroid for cluster 17
+Chosen doc 12715 as first centroid for cluster 18
+Chosen doc 15264 as first centroid for cluster 19
+Chosen doc 11918 as first centroid for cluster 20
+Iteration : 1
+Cluster 1 has the centroids:
+Centroid 1: 7, 2672
+Cluster 2 has the centroids:
+Centroid 1: 8, 3387
+Cluster 3 has the centroids:
+Centroid 1: 6, 2570
+Cluster 4 has the centroids:
+Centroid 1: 3, 9250
+Cluster 5 has the centroids:
+Centroid 1: 0, 7809
+Cluster 6 has the centroids:
+Centroid 1: 18, 18433
+Cluster 7 has the centroids:
+Centroid 1: 11, 4331
+Cluster 8 has the centroids:
+Centroid 1: 5, 2165
+Cluster 9 has the centroids:
+Centroid 1: 3, 1130
+Cluster 10 has the centroids:
+Centroid 1: 4, 1842
+Cluster 11 has the centroids:
+Centroid 1: 8, 12222
+Cluster 12 has the centroids:
+Centroid 1: 16, 6520
+Cluster 13 has the centroids:
+Centroid 1: 5, 10437
+Cluster 14 has the centroids:
+Centroid 1: 0, 7656
+Cluster 15 has the centroids:
+Centroid 1: 0, 7904
+Cluster 16 has the centroids:
+Centroid 1: 14, 16262
+Cluster 17 has the centroids:
+Centroid 1: 13, 5418
+Cluster 18 has the centroids:
+Centroid 1: 9, 12715
+Cluster 19 has the centroids:
+Centroid 1: 13, 15264
+Cluster 20 has the centroids:
+Centroid 1: 7, 11918
+Reassigning cluster ids to non-centroid docs...
+0.9989373 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 41338
+Número de documentos en el cluster = 10299
+He cubierto 25.027817% del vocabulario del cluster con 106 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 8124
+Número de documentos en el cluster = 458
+He cubierto 25.283112% del vocabulario del cluster con 18 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 10507
+Número de documentos en el cluster = 649
+He cubierto 25.145142% del vocabulario del cluster con 15 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 9265
+Número de documentos en el cluster = 388
+He cubierto 25.05127% del vocabulario del cluster con 5 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 7587
+Número de documentos en el cluster = 364
+He cubierto 26.057732% del vocabulario del cluster con 9 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 10012
+Número de documentos en el cluster = 385
+He cubierto 27.06752% del vocabulario del cluster con 7 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 9937
+Número de documentos en el cluster = 490
+He cubierto 26.356041% del vocabulario del cluster con 7 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 8039
+Número de documentos en el cluster = 489
+He cubierto 25.58776% del vocabulario del cluster con 8 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 6991
+Número de documentos en el cluster = 410
+He cubierto 25.332573% del vocabulario del cluster con 12 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 8655
+Número de documentos en el cluster = 463
+He cubierto 27.648758% del vocabulario del cluster con 5 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 9348
+Número de documentos en el cluster = 566
+He cubierto 25.502785% del vocabulario del cluster con 11 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 10584
+Número de documentos en el cluster = 551
+He cubierto 25.547997% del vocabulario del cluster con 4 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 13576
+Número de documentos en el cluster = 333
+He cubierto 27.909546% del vocabulario del cluster con 6 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 10511
+Número de documentos en el cluster = 302
+He cubierto 27.133476% del vocabulario del cluster con 6 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 9660
+Número de documentos en el cluster = 487
+He cubierto 26.759834% del vocabulario del cluster con 8 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 14049
+Número de documentos en el cluster = 317
+He cubierto 28.984268% del vocabulario del cluster con 5 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 11946
+Número de documentos en el cluster = 368
+He cubierto 26.410515% del vocabulario del cluster con 5 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 12608
+Número de documentos en el cluster = 632
+He cubierto 26.039024% del vocabulario del cluster con 4 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 9021
+Número de documentos en el cluster = 447
+He cubierto 25.82862% del vocabulario del cluster con 15 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 11204
+Número de documentos en el cluster = 402
+He cubierto 25.83899% del vocabulario del cluster con 5 centroides
+0 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 1 iterations: 34 seconds
+Global time until this iteration: 35 seconds
+Iteration : 2
+Cluster 1 has the centroids:
+Centroid 1: 7, 11668
+Centroid 2: 10, 13500
+Centroid 3: 10, 4032
+Centroid 4: 17, 6909
+Centroid 5: 7, 2825
+Centroid 6: 17, 6913
+Centroid 7: 14, 15741
+Centroid 8: 0, 144
+Centroid 9: 17, 17513
+Centroid 10: 10, 4129
+Centroid 11: 17, 17424
+Centroid 12: 10, 4118
+Centroid 13: 7, 11674
+Centroid 14: 7, 2876
+Centroid 15: 18, 7029
+Centroid 16: 9, 13059
+Centroid 17: 9, 13087
+Centroid 18: 16, 17050
+Centroid 19: 9, 13088
+Centroid 20: 7, 11667
+Centroid 21: 17, 17805
+Centroid 22: 10, 4125
+Centroid 23: 17, 17746
+Centroid 24: 14, 16189
+Centroid 25: 17, 17555
+Centroid 26: 10, 4033
+Centroid 27: 11, 14061
+Centroid 28: 6, 11137
+Centroid 29: 14, 16062
+Centroid 30: 16, 17007
+Centroid 31: 17, 6855
+Centroid 32: 17, 17566
+Centroid 33: 10, 3986
+Centroid 34: 15, 6170
+Centroid 35: 4, 1767
+Centroid 36: 10, 4054
+Centroid 37: 11, 13910
+Centroid 38: 9, 3552
+Centroid 39: 18, 18281
+Centroid 40: 19, 18781
+Centroid 41: 15, 16734
+Centroid 42: 17, 17464
+Centroid 43: 5, 10638
+Centroid 44: 16, 6543
+Centroid 45: 14, 15690
+Centroid 46: 17, 6954
+Centroid 47: 8, 12510
+Centroid 48: 5, 2015
+Centroid 49: 17, 6932
+Centroid 50: 19, 18598
+Centroid 51: 6, 11182
+Centroid 52: 13, 15448
+Centroid 53: 7, 11836
+Centroid 54: 5, 10690
+Centroid 55: 10, 13503
+Centroid 56: 6, 2479
+Centroid 57: 10, 4151
+Centroid 58: 13, 5271
+Centroid 59: 3, 1329
+Centroid 60: 4, 1799
+Centroid 61: 16, 6567
+Centroid 62: 2, 8827
+Centroid 63: 11, 14457
+Centroid 64: 14, 15973
+Centroid 65: 19, 7395
+Centroid 66: 5, 2153
+Centroid 67: 15, 6029
+Centroid 68: 18, 18339
+Centroid 69: 19, 18809
+Centroid 70: 6, 2537
+Centroid 71: 5, 2144
+Centroid 72: 6, 2368
+Centroid 73: 8, 3078
+Centroid 74: 14, 15810
+Centroid 75: 17, 17529
+Centroid 76: 18, 7131
+Centroid 77: 6, 10986
+Centroid 78: 17, 17641
+Centroid 79: 17, 17959
+Centroid 80: 1, 8530
+Centroid 81: 6, 2329
+Centroid 82: 14, 5772
+Centroid 83: 7, 11633
+Centroid 84: 18, 18418
+Centroid 85: 10, 13356
+Centroid 86: 6, 2351
+Centroid 87: 13, 5099
+Centroid 88: 11, 14418
+Centroid 89: 14, 16219
+Centroid 90: 17, 17630
+Centroid 91: 0, 94
+Centroid 92: 3, 1304
+Centroid 93: 16, 6326
+Centroid 94: 13, 15144
+Centroid 95: 1, 593
+Centroid 96: 6, 11376
+Centroid 97: 10, 13563
+Centroid 98: 12, 5021
+Centroid 99: 19, 7512
+Centroid 100: 5, 10615
+Centroid 101: 6, 11179
+Centroid 102: 14, 16124
+Centroid 103: 19, 18596
+Centroid 104: 10, 13588
+Centroid 105: 13, 5070
+Centroid 106: 7, 11559
+Cluster 2 has the centroids:
+Centroid 1: 17, 17634
+Centroid 2: 18, 18215
+Centroid 3: 8, 3337
+Centroid 4: 15, 16666
+Centroid 5: 1, 8285
+Centroid 6: 19, 18679
+Centroid 7: 17, 6703
+Centroid 8: 7, 11788
+Centroid 9: 17, 17975
+Centroid 10: 13, 15460
+Centroid 11: 10, 13771
+Centroid 12: 8, 3144
+Centroid 13: 17, 17771
+Centroid 14: 19, 18788
+Centroid 15: 16, 17148
+Centroid 16: 7, 2882
+Centroid 17: 10, 13659
+Centroid 18: 8, 3204
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 14, 15784
+Centroid 5: 6, 11121
+Centroid 6: 13, 15407
+Centroid 7: 12, 4878
+Centroid 8: 13, 5294
+Centroid 9: 17, 17803
+Centroid 10: 18, 18106
+Centroid 11: 8, 3191
+Centroid 12: 6, 10933
+Centroid 13: 6, 11444
+Centroid 14: 13, 5342
+Centroid 15: 6, 2463
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 5, 1947
+Centroid 4: 3, 9318
+Centroid 5: 13, 15190
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Centroid 3: 17, 17956
+Centroid 4: 17, 17448
+Centroid 5: 19, 18521
+Centroid 6: 19, 7483
+Centroid 7: 19, 18780
+Centroid 8: 19, 18493
+Centroid 9: 16, 6583
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Centroid 3: 0, 7528
+Centroid 4: 15, 6203
+Centroid 5: 0, 250
+Centroid 6: 15, 5914
+Centroid 7: 19, 18666
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Centroid 4: 14, 15694
+Centroid 5: 11, 14239
+Centroid 6: 11, 14005
+Centroid 7: 14, 15691
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Centroid 3: 18, 18104
+Centroid 4: 15, 16801
+Centroid 5: 1, 8099
+Centroid 6: 1, 8511
+Centroid 7: 18, 17997
+Centroid 8: 15, 5860
+Cluster 9 has the centroids:
+Centroid 1: 3, 9727
+Centroid 2: 16, 17222
+Centroid 3: 13, 5041
+Centroid 4: 1, 8092
+Centroid 5: 14, 16042
+Centroid 6: 19, 18563
+Centroid 7: 16, 16950
+Centroid 8: 3, 9433
+Centroid 9: 9, 3627
+Centroid 10: 18, 18085
+Centroid 11: 2, 958
+Centroid 12: 15, 5994
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Centroid 3: 1, 8581
+Centroid 4: 0, 303
+Centroid 5: 16, 6498
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Centroid 3: 17, 17710
+Centroid 4: 8, 12580
+Centroid 5: 8, 3420
+Centroid 6: 9, 3723
+Centroid 7: 17, 6935
+Centroid 8: 8, 3128
+Centroid 9: 17, 6805
+Centroid 10: 17, 6963
+Centroid 11: 9, 13196
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Centroid 3: 17, 17502
+Centroid 4: 16, 17093
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Centroid 3: 14, 15687
+Centroid 4: 5, 10358
+Centroid 5: 17, 17615
+Centroid 6: 13, 5083
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Centroid 3: 17, 6943
+Centroid 4: 0, 7719
+Centroid 5: 17, 6906
+Centroid 6: 18, 18300
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Centroid 3: 15, 6079
+Centroid 4: 15, 5839
+Centroid 5: 15, 5984
+Centroid 6: 15, 6076
+Centroid 7: 19, 18758
+Centroid 8: 15, 16716
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Centroid 3: 1, 8212
+Centroid 4: 11, 13932
+Centroid 5: 14, 15695
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Centroid 3: 13, 5085
+Centroid 4: 13, 5084
+Centroid 5: 13, 15567
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Centroid 3: 17, 6672
+Centroid 4: 17, 6673
+Cluster 19 has the centroids:
+Centroid 1: 18, 18032
+Centroid 2: 16, 17048
+Centroid 3: 13, 15426
+Centroid 4: 17, 6814
+Centroid 5: 16, 6373
+Centroid 6: 13, 5058
+Centroid 7: 17, 17445
+Centroid 8: 13, 5370
+Centroid 9: 16, 6551
+Centroid 10: 18, 7093
+Centroid 11: 15, 6157
+Centroid 12: 13, 15609
+Centroid 13: 12, 4873
+Centroid 14: 9, 3465
+Centroid 15: 17, 17649
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Centroid 3: 17, 6685
+Centroid 4: 18, 7105
+Centroid 5: 17, 6674
+Reassigning cluster ids to non-centroid docs...
+0.47513282 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 62185
+Número de documentos en el cluster = 16558
+He cubierto 25.084831% del vocabulario del cluster con 64 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 9054
+Número de documentos en el cluster = 625
+He cubierto 25.39209% del vocabulario del cluster con 22 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 6809
+Número de documentos en el cluster = 332
+He cubierto 25.818771% del vocabulario del cluster con 7 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 3029
+Número de documentos en el cluster = 31
+He cubierto 25.420929% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 3080
+Número de documentos en el cluster = 76
+He cubierto 33.27922% del vocabulario del cluster con 3 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 3012
+Número de documentos en el cluster = 14
+He cubierto 30.976097% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 4338
+Número de documentos en el cluster = 91
+He cubierto 33.95574% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 3599
+Número de documentos en el cluster = 86
+He cubierto 33.287025% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 6231
+Número de documentos en el cluster = 364
+He cubierto 25.549667% del vocabulario del cluster con 10 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 2821
+Número de documentos en el cluster = 21
+He cubierto 38.567883% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 5167
+Número de documentos en el cluster = 175
+He cubierto 28.217537% del vocabulario del cluster con 3 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 3228
+Número de documentos en el cluster = 17
+He cubierto 45.01239% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 4678
+Número de documentos en el cluster = 37
+He cubierto 26.955963% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 3166
+Número de documentos en el cluster = 7
+He cubierto 35.88124% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 4269
+Número de documentos en el cluster = 101
+He cubierto 33.192787% del vocabulario del cluster con 3 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 4957
+Número de documentos en el cluster = 31
+He cubierto 34.07303% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 3512
+Número de documentos en el cluster = 5
+He cubierto 34.595673% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3658
+Número de documentos en el cluster = 5
+He cubierto 48.578457% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 5591
+Número de documentos en el cluster = 235
+He cubierto 26.077621% del vocabulario del cluster con 7 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 3181
+Número de documentos en el cluster = 9
+He cubierto 40.89909% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 2 iterations: 37 seconds
+Iteration : 3
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 1, 406
+Centroid 3: 17, 6801
+Centroid 4: 10, 13500
+Centroid 5: 11, 13931
+Centroid 6: 1, 405
+Centroid 7: 17, 17458
+Centroid 8: 5, 2053
+Centroid 9: 17, 6950
+Centroid 10: 14, 5440
+Centroid 11: 13, 15563
+Centroid 12: 5, 10365
+Centroid 13: 10, 4032
+Centroid 14: 19, 18664
+Centroid 15: 13, 5086
+Centroid 16: 5, 10360
+Centroid 17: 14, 15741
+Centroid 18: 6, 2657
+Centroid 19: 5, 10366
+Centroid 20: 13, 15595
+Centroid 21: 4, 1549
+Centroid 22: 11, 14336
+Centroid 23: 14, 15684
+Centroid 24: 10, 4129
+Centroid 25: 9, 12711
+Centroid 26: 16, 17035
+Centroid 27: 17, 17418
+Centroid 28: 13, 15566
+Centroid 29: 5, 10345
+Centroid 30: 17, 17513
+Centroid 31: 13, 5274
+Centroid 32: 17, 6952
+Centroid 33: 1, 626
+Centroid 34: 17, 17618
+Centroid 35: 17, 17424
+Centroid 36: 5, 2054
+Centroid 37: 14, 16230
+Centroid 38: 1, 337
+Centroid 39: 17, 17548
+Centroid 40: 7, 11668
+Centroid 41: 0, 7527
+Centroid 42: 13, 15564
+Centroid 43: 17, 17809
+Centroid 44: 7, 2825
+Centroid 45: 9, 12889
+Centroid 46: 0, 311
+Centroid 47: 10, 4118
+Centroid 48: 13, 5147
+Centroid 49: 1, 607
+Centroid 50: 5, 10378
+Centroid 51: 11, 4362
+Centroid 52: 15, 6171
+Centroid 53: 17, 6894
+Centroid 54: 9, 13087
+Centroid 55: 0, 7720
+Centroid 56: 2, 9132
+Centroid 57: 10, 13818
+Centroid 58: 18, 7234
+Centroid 59: 15, 16547
+Centroid 60: 13, 15208
+Centroid 61: 5, 10333
+Centroid 62: 17, 17901
+Centroid 63: 17, 6756
+Centroid 64: 0, 144
+Cluster 2 has the centroids:
+Centroid 1: 17, 17634
+Centroid 2: 18, 18215
+Centroid 3: 8, 3337
+Centroid 4: 15, 16666
+Centroid 5: 1, 8285
+Centroid 6: 19, 18679
+Centroid 7: 17, 6703
+Centroid 8: 7, 11788
+Centroid 9: 17, 17975
+Centroid 10: 13, 15460
+Centroid 11: 10, 13771
+Centroid 12: 8, 3144
+Centroid 13: 17, 17771
+Centroid 14: 19, 18788
+Centroid 15: 16, 17148
+Centroid 16: 7, 2882
+Centroid 17: 10, 13659
+Centroid 18: 8, 3204
+Centroid 19: 7, 11916
+Centroid 20: 11, 14414
+Centroid 21: 8, 12474
+Centroid 22: 18, 18081
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 14, 15784
+Centroid 5: 6, 11121
+Centroid 6: 13, 15407
+Centroid 7: 12, 4878
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Centroid 3: 17, 17956
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Centroid 3: 18, 18104
+Cluster 9 has the centroids:
+Centroid 1: 3, 9727
+Centroid 2: 16, 17222
+Centroid 3: 13, 5041
+Centroid 4: 1, 8092
+Centroid 5: 14, 16042
+Centroid 6: 19, 18563
+Centroid 7: 16, 16950
+Centroid 8: 3, 9433
+Centroid 9: 9, 3627
+Centroid 10: 18, 18085
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Centroid 3: 17, 17710
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Centroid 3: 15, 6079
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 18, 18032
+Centroid 2: 16, 17048
+Centroid 3: 13, 15426
+Centroid 4: 17, 6814
+Centroid 5: 16, 6373
+Centroid 6: 13, 5058
+Centroid 7: 17, 17445
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.23820403 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 59914
+Número de documentos en el cluster = 13830
+He cubierto 25.015854% del vocabulario del cluster con 46 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 22779
+Número de documentos en el cluster = 2901
+He cubierto 25.115234% del vocabulario del cluster con 83 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 7204
+Número de documentos en el cluster = 293
+He cubierto 26.290947% del vocabulario del cluster con 8 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 3202
+Número de documentos en el cluster = 75
+He cubierto 45.50281% del vocabulario del cluster con 3 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 2404
+Número de documentos en el cluster = 47
+He cubierto 31.489182% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1659
+Número de documentos en el cluster = 10
+He cubierto 56.238697% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 5706
+Número de documentos en el cluster = 218
+He cubierto 25.814934% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 3136
+Número de documentos en el cluster = 78
+He cubierto 26.116074% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 10440
+Número de documentos en el cluster = 765
+He cubierto 25.210732% del vocabulario del cluster con 26 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 1975
+Número de documentos en el cluster = 13
+He cubierto 55.088608% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 3483
+Número de documentos en el cluster = 73
+He cubierto 32.96009% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 3481
+Número de documentos en el cluster = 54
+He cubierto 41.74088% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2932
+Número de documentos en el cluster = 54
+He cubierto 43.008186% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1886
+Número de documentos en el cluster = 8
+He cubierto 60.2333% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 2912
+Número de documentos en el cluster = 51
+He cubierto 34.065933% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3267
+Número de documentos en el cluster = 41
+He cubierto 51.698807% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2086
+Número de documentos en el cluster = 5
+He cubierto 58.245445% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3431
+Número de documentos en el cluster = 42
+He cubierto 51.79248% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 5430
+Número de documentos en el cluster = 240
+He cubierto 26.85083% del vocabulario del cluster con 7 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2557
+Número de documentos en el cluster = 22
+He cubierto 50.879936% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 3 iterations: 31 seconds
+Iteration : 4
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15687
+Centroid 18: 5, 10360
+Centroid 19: 13, 5084
+Centroid 20: 14, 15741
+Centroid 21: 13, 15563
+Centroid 22: 15, 5839
+Centroid 23: 5, 10366
+Centroid 24: 11, 13931
+Centroid 25: 17, 6673
+Centroid 26: 13, 15595
+Centroid 27: 6, 2657
+Centroid 28: 4, 1549
+Centroid 29: 11, 14336
+Centroid 30: 10, 4129
+Centroid 31: 15, 6203
+Centroid 32: 9, 12711
+Centroid 33: 13, 15566
+Centroid 34: 17, 17513
+Centroid 35: 1, 8581
+Centroid 36: 16, 17035
+Centroid 37: 17, 17458
+Centroid 38: 1, 626
+Centroid 39: 17, 6943
+Centroid 40: 17, 17424
+Centroid 41: 5, 10332
+Centroid 42: 14, 15684
+Centroid 43: 17, 6952
+Centroid 44: 13, 5274
+Centroid 45: 5, 10365
+Centroid 46: 18, 18300
+Cluster 2 has the centroids:
+Centroid 1: 17, 17634
+Centroid 2: 18, 18215
+Centroid 3: 8, 3337
+Centroid 4: 18, 7041
+Centroid 5: 15, 16641
+Centroid 6: 8, 3128
+Centroid 7: 19, 18793
+Centroid 8: 8, 3142
+Centroid 9: 17, 6703
+Centroid 10: 13, 15448
+Centroid 11: 19, 7395
+Centroid 12: 1, 8285
+Centroid 13: 7, 2702
+Centroid 14: 16, 6555
+Centroid 15: 19, 18679
+Centroid 16: 13, 15460
+Centroid 17: 4, 1799
+Centroid 18: 10, 3962
+Centroid 19: 8, 3323
+Centroid 20: 17, 17662
+Centroid 21: 8, 12246
+Centroid 22: 11, 4347
+Centroid 23: 15, 16589
+Centroid 24: 16, 17221
+Centroid 25: 19, 18583
+Centroid 26: 8, 12510
+Centroid 27: 16, 6567
+Centroid 28: 0, 7734
+Centroid 29: 12, 14937
+Centroid 30: 19, 7375
+Centroid 31: 7, 3024
+Centroid 32: 16, 17124
+Centroid 33: 12, 4973
+Centroid 34: 17, 17865
+Centroid 35: 4, 1634
+Centroid 36: 7, 12000
+Centroid 37: 6, 11329
+Centroid 38: 8, 12571
+Centroid 39: 15, 16467
+Centroid 40: 17, 17773
+Centroid 41: 19, 18788
+Centroid 42: 8, 12632
+Centroid 43: 8, 12493
+Centroid 44: 16, 17279
+Centroid 45: 12, 4757
+Centroid 46: 15, 5939
+Centroid 47: 7, 11585
+Centroid 48: 9, 3658
+Centroid 49: 12, 14589
+Centroid 50: 16, 17001
+Centroid 51: 8, 3182
+Centroid 52: 4, 1556
+Centroid 53: 6, 2368
+Centroid 54: 7, 2778
+Centroid 55: 7, 11632
+Centroid 56: 7, 11633
+Centroid 57: 9, 3667
+Centroid 58: 10, 13834
+Centroid 59: 13, 15145
+Centroid 60: 18, 18442
+Centroid 61: 8, 3317
+Centroid 62: 11, 4252
+Centroid 63: 8, 12508
+Centroid 64: 17, 17440
+Centroid 65: 19, 18453
+Centroid 66: 13, 5195
+Centroid 67: 18, 7208
+Centroid 68: 0, 7803
+Centroid 69: 0, 7871
+Centroid 70: 10, 13713
+Centroid 71: 8, 3447
+Centroid 72: 3, 9165
+Centroid 73: 17, 6853
+Centroid 74: 7, 11635
+Centroid 75: 8, 3285
+Centroid 76: 16, 6390
+Centroid 77: 14, 16146
+Centroid 78: 15, 16822
+Centroid 79: 0, 7682
+Centroid 80: 16, 16961
+Centroid 81: 16, 6303
+Centroid 82: 12, 15037
+Centroid 83: 19, 18790
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 14, 15784
+Centroid 5: 6, 11121
+Centroid 6: 13, 15407
+Centroid 7: 12, 4878
+Centroid 8: 6, 11339
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 14, 5449
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 3, 9727
+Centroid 2: 16, 17222
+Centroid 3: 13, 5041
+Centroid 4: 1, 8092
+Centroid 5: 14, 16042
+Centroid 6: 19, 18563
+Centroid 7: 16, 16950
+Centroid 8: 3, 9433
+Centroid 9: 9, 3627
+Centroid 10: 18, 18085
+Centroid 11: 11, 4588
+Centroid 12: 19, 18809
+Centroid 13: 18, 18415
+Centroid 14: 3, 1263
+Centroid 15: 18, 18285
+Centroid 16: 16, 17356
+Centroid 17: 3, 1434
+Centroid 18: 18, 18413
+Centroid 19: 14, 5479
+Centroid 20: 12, 14535
+Centroid 21: 4, 1851
+Centroid 22: 16, 6376
+Centroid 23: 18, 18135
+Centroid 24: 12, 4876
+Centroid 25: 14, 16141
+Centroid 26: 0, 7964
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 18, 18032
+Centroid 2: 16, 17048
+Centroid 3: 13, 15426
+Centroid 4: 17, 6814
+Centroid 5: 16, 6373
+Centroid 6: 13, 5058
+Centroid 7: 17, 17445
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.39867163 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 44604
+Número de documentos en el cluster = 8112
+He cubierto 25.112099% del vocabulario del cluster con 25 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 43270
+Número de documentos en el cluster = 8633
+He cubierto 25.08435% del vocabulario del cluster con 81 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 5125
+Número de documentos en el cluster = 187
+He cubierto 27.59024% del vocabulario del cluster con 5 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 3807
+Número de documentos en el cluster = 119
+He cubierto 38.271606% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1145
+Número de documentos en el cluster = 8
+He cubierto 66.11354% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1594
+Número de documentos en el cluster = 6
+He cubierto 58.531994% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 4342
+Número de documentos en el cluster = 130
+He cubierto 33.92446% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 1987
+Número de documentos en el cluster = 41
+He cubierto 41.217915% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 13266
+Número de documentos en el cluster = 1310
+He cubierto 25.109299% del vocabulario del cluster con 38 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 1750
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 62.17143% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 2138
+Número de documentos en el cluster = 26
+He cubierto 53.69504% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 2774
+Número de documentos en el cluster = 22
+He cubierto 52.379234% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2620
+Número de documentos en el cluster = 39
+He cubierto 48.129772% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1719
+Número de documentos en el cluster = 3
+He cubierto 66.08493% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1493
+Número de documentos en el cluster = 6
+He cubierto 66.443405% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3214
+Número de documentos en el cluster = 37
+He cubierto 52.55134% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2009
+Número de documentos en el cluster = 3
+He cubierto 60.477848% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3386
+Número de documentos en el cluster = 56
+He cubierto 52.480804% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 2905
+Número de documentos en el cluster = 74
+He cubierto 31.944923% del vocabulario del cluster con 4 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2156
+Número de documentos en el cluster = 6
+He cubierto 60.343227% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 4 iterations: 34 seconds
+Iteration : 5
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15687
+Centroid 18: 5, 10360
+Centroid 19: 13, 5084
+Centroid 20: 14, 15741
+Centroid 21: 13, 15563
+Centroid 22: 15, 5839
+Centroid 23: 5, 10366
+Centroid 24: 11, 13931
+Centroid 25: 17, 6673
+Cluster 2 has the centroids:
+Centroid 1: 1, 8239
+Centroid 2: 17, 17809
+Centroid 3: 14, 16230
+Centroid 4: 13, 5086
+Centroid 5: 17, 17418
+Centroid 6: 0, 7719
+Centroid 7: 7, 11668
+Centroid 8: 9, 12889
+Centroid 9: 18, 7234
+Centroid 10: 0, 250
+Centroid 11: 17, 17618
+Centroid 12: 15, 6079
+Centroid 13: 17, 6894
+Centroid 14: 7, 2825
+Centroid 15: 16, 16872
+Centroid 16: 10, 13880
+Centroid 17: 17, 17912
+Centroid 18: 19, 7503
+Centroid 19: 18, 7105
+Centroid 20: 19, 18481
+Centroid 21: 0, 144
+Centroid 22: 18, 18078
+Centroid 23: 14, 15680
+Centroid 24: 2, 731
+Centroid 25: 0, 7720
+Centroid 26: 0, 311
+Centroid 27: 15, 5914
+Centroid 28: 17, 6906
+Centroid 29: 11, 14179
+Centroid 30: 18, 18148
+Centroid 31: 19, 18666
+Centroid 32: 13, 5348
+Centroid 33: 17, 6774
+Centroid 34: 16, 17093
+Centroid 35: 17, 17550
+Centroid 36: 16, 6480
+Centroid 37: 17, 17614
+Centroid 38: 0, 117
+Centroid 39: 7, 11672
+Centroid 40: 19, 18494
+Centroid 41: 10, 13653
+Centroid 42: 15, 16277
+Centroid 43: 10, 13802
+Centroid 44: 14, 16072
+Centroid 45: 19, 18542
+Centroid 46: 16, 6315
+Centroid 47: 11, 13899
+Centroid 48: 7, 2876
+Centroid 49: 9, 13056
+Centroid 50: 15, 16854
+Centroid 51: 16, 16924
+Centroid 52: 17, 17742
+Centroid 53: 19, 18455
+Centroid 54: 0, 303
+Centroid 55: 0, 7898
+Centroid 56: 13, 5133
+Centroid 57: 15, 16857
+Centroid 58: 18, 18104
+Centroid 59: 18, 18145
+Centroid 60: 17, 6861
+Centroid 61: 17, 17675
+Centroid 62: 18, 18194
+Centroid 63: 7, 11674
+Centroid 64: 13, 15512
+Centroid 65: 15, 6177
+Centroid 66: 18, 7147
+Centroid 67: 17, 17655
+Centroid 68: 19, 7501
+Centroid 69: 9, 12813
+Centroid 70: 17, 6902
+Centroid 71: 15, 16808
+Centroid 72: 16, 17050
+Centroid 73: 18, 18061
+Centroid 74: 19, 18758
+Centroid 75: 4, 1629
+Centroid 76: 9, 3536
+Centroid 77: 17, 6930
+Centroid 78: 0, 7528
+Centroid 79: 15, 16367
+Centroid 80: 17, 17634
+Centroid 81: 0, 119
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 14, 15784
+Centroid 5: 6, 11121
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2607
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 3, 9727
+Centroid 2: 16, 17222
+Centroid 3: 13, 5041
+Centroid 4: 1, 8092
+Centroid 5: 14, 16042
+Centroid 6: 19, 18563
+Centroid 7: 16, 16950
+Centroid 8: 3, 9433
+Centroid 9: 9, 3627
+Centroid 10: 18, 18359
+Centroid 11: 18, 18085
+Centroid 12: 18, 18386
+Centroid 13: 17, 17823
+Centroid 14: 11, 4588
+Centroid 15: 18, 18213
+Centroid 16: 19, 18809
+Centroid 17: 4, 1851
+Centroid 18: 0, 256
+Centroid 19: 18, 6995
+Centroid 20: 3, 1263
+Centroid 21: 3, 1434
+Centroid 22: 12, 14535
+Centroid 23: 14, 5479
+Centroid 24: 18, 18374
+Centroid 25: 12, 5021
+Centroid 26: 3, 9209
+Centroid 27: 11, 14178
+Centroid 28: 16, 17139
+Centroid 29: 18, 18285
+Centroid 30: 3, 9458
+Centroid 31: 16, 6376
+Centroid 32: 13, 15305
+Centroid 33: 18, 18413
+Centroid 34: 11, 14149
+Centroid 35: 18, 7077
+Centroid 36: 11, 14485
+Centroid 37: 14, 16141
+Centroid 38: 1, 8179
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 18, 18032
+Centroid 2: 16, 17048
+Centroid 3: 13, 15426
+Centroid 4: 17, 6814
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.3993624 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 41498
+Número de documentos en el cluster = 9270
+He cubierto 25.35785% del vocabulario del cluster con 22 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 38744
+Número de documentos en el cluster = 3981
+He cubierto 25.092918% del vocabulario del cluster con 30 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 4563
+Número de documentos en el cluster = 128
+He cubierto 25.860176% del vocabulario del cluster con 4 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 4822
+Número de documentos en el cluster = 165
+He cubierto 30.215675% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1324
+Número de documentos en el cluster = 15
+He cubierto 57.17523% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1517
+Número de documentos en el cluster = 3
+He cubierto 61.502968% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 5505
+Número de documentos en el cluster = 196
+He cubierto 26.757492% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2343
+Número de documentos en el cluster = 55
+He cubierto 34.955185% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 27632
+Número de documentos en el cluster = 4622
+He cubierto 25.021713% del vocabulario del cluster con 111 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 1921
+Número de documentos en el cluster = 10
+He cubierto 56.63717% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 3402
+Número de documentos en el cluster = 73
+He cubierto 33.744858% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 3284
+Número de documentos en el cluster = 45
+He cubierto 44.244823% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2987
+Número de documentos en el cluster = 60
+He cubierto 42.21627% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1724
+Número de documentos en el cluster = 3
+He cubierto 65.89327% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1481
+Número de documentos en el cluster = 5
+He cubierto 66.981766% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3393
+Número de documentos en el cluster = 50
+He cubierto 49.778957% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2009
+Número de documentos en el cluster = 3
+He cubierto 60.477848% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 4005
+Número de documentos en el cluster = 82
+He cubierto 44.369537% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 2217
+Número de documentos en el cluster = 45
+He cubierto 30.311234% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2305
+Número de documentos en el cluster = 9
+He cubierto 56.442516% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 5 iterations: 29 seconds
+Iteration : 6
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15687
+Centroid 18: 5, 10360
+Centroid 19: 13, 5084
+Centroid 20: 14, 15741
+Centroid 21: 13, 15563
+Centroid 22: 15, 5839
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Centroid 3: 17, 17458
+Centroid 4: 5, 10365
+Centroid 5: 17, 17615
+Centroid 6: 13, 5086
+Centroid 7: 4, 1549
+Centroid 8: 17, 6943
+Centroid 9: 1, 337
+Centroid 10: 6, 2657
+Centroid 11: 14, 15684
+Centroid 12: 13, 15566
+Centroid 13: 13, 15595
+Centroid 14: 1, 626
+Centroid 15: 9, 12711
+Centroid 16: 15, 6203
+Centroid 17: 16, 17035
+Centroid 18: 18, 18300
+Centroid 19: 5, 10345
+Centroid 20: 14, 16230
+Centroid 21: 13, 5083
+Centroid 22: 17, 17418
+Centroid 23: 15, 6079
+Centroid 24: 13, 15567
+Centroid 25: 17, 6952
+Centroid 26: 17, 17513
+Centroid 27: 17, 17618
+Centroid 28: 17, 17424
+Centroid 29: 7, 11668
+Centroid 30: 17, 17548
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 14, 15784
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2463
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 3, 9727
+Centroid 2: 16, 17222
+Centroid 3: 13, 5041
+Centroid 4: 1, 8092
+Centroid 5: 14, 16042
+Centroid 6: 19, 18563
+Centroid 7: 16, 16950
+Centroid 8: 16, 6271
+Centroid 9: 6, 10933
+Centroid 10: 15, 16451
+Centroid 11: 7, 11749
+Centroid 12: 13, 15448
+Centroid 13: 9, 3627
+Centroid 14: 14, 5722
+Centroid 15: 3, 1171
+Centroid 16: 10, 4193
+Centroid 17: 12, 14949
+Centroid 18: 11, 13910
+Centroid 19: 16, 17221
+Centroid 20: 8, 12510
+Centroid 21: 17, 6678
+Centroid 22: 1, 8228
+Centroid 23: 12, 4873
+Centroid 24: 19, 18583
+Centroid 25: 0, 7734
+Centroid 26: 13, 15148
+Centroid 27: 18, 18359
+Centroid 28: 7, 2778
+Centroid 29: 14, 5806
+Centroid 30: 12, 5003
+Centroid 31: 4, 1799
+Centroid 32: 16, 6567
+Centroid 33: 18, 18386
+Centroid 34: 1, 8530
+Centroid 35: 3, 9423
+Centroid 36: 0, 256
+Centroid 37: 11, 14410
+Centroid 38: 18, 18058
+Centroid 39: 2, 9032
+Centroid 40: 18, 18213
+Centroid 41: 19, 7355
+Centroid 42: 11, 4348
+Centroid 43: 4, 1649
+Centroid 44: 11, 4576
+Centroid 45: 17, 17823
+Centroid 46: 9, 13185
+Centroid 47: 18, 18285
+Centroid 48: 3, 1408
+Centroid 49: 11, 4252
+Centroid 50: 18, 7011
+Centroid 51: 16, 6471
+Centroid 52: 12, 14589
+Centroid 53: 17, 17594
+Centroid 54: 17, 17656
+Centroid 55: 7, 2851
+Centroid 56: 8, 12217
+Centroid 57: 11, 14418
+Centroid 58: 12, 14850
+Centroid 59: 5, 10544
+Centroid 60: 4, 9849
+Centroid 61: 15, 16522
+Centroid 62: 18, 18294
+Centroid 63: 8, 12641
+Centroid 64: 14, 16051
+Centroid 65: 4, 1851
+Centroid 66: 13, 15574
+Centroid 67: 19, 18809
+Centroid 68: 8, 3204
+Centroid 69: 15, 6118
+Centroid 70: 18, 7272
+Centroid 71: 16, 16961
+Centroid 72: 12, 4859
+Centroid 73: 13, 5195
+Centroid 74: 14, 15736
+Centroid 75: 11, 14456
+Centroid 76: 12, 14536
+Centroid 77: 14, 15902
+Centroid 78: 17, 17841
+Centroid 79: 18, 17999
+Centroid 80: 12, 4774
+Centroid 81: 12, 4925
+Centroid 82: 2, 8887
+Centroid 83: 14, 5671
+Centroid 84: 3, 9209
+Centroid 85: 18, 18080
+Centroid 86: 3, 1304
+Centroid 87: 12, 14806
+Centroid 88: 6, 2324
+Centroid 89: 8, 3417
+Centroid 90: 8, 12461
+Centroid 91: 1, 395
+Centroid 92: 2, 1091
+Centroid 93: 4, 1847
+Centroid 94: 15, 5967
+Centroid 95: 16, 6299
+Centroid 96: 0, 7803
+Centroid 97: 3, 9165
+Centroid 98: 8, 12532
+Centroid 99: 14, 16141
+Centroid 100: 16, 16934
+Centroid 101: 17, 6696
+Centroid 102: 18, 7048
+Centroid 103: 18, 7092
+Centroid 104: 2, 8748
+Centroid 105: 11, 13962
+Centroid 106: 12, 14829
+Centroid 107: 4, 1559
+Centroid 108: 18, 7180
+Centroid 109: 13, 15657
+Centroid 110: 12, 4796
+Centroid 111: 13, 5385
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 18, 18032
+Centroid 2: 16, 17048
+Centroid 3: 13, 15426
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.4303932 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 33082
+Número de documentos en el cluster = 6367
+He cubierto 25.16172% del vocabulario del cluster con 14 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 15119
+Número de documentos en el cluster = 452
+He cubierto 26.245125% del vocabulario del cluster con 6 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 2435
+Número de documentos en el cluster = 54
+He cubierto 35.277206% del vocabulario del cluster con 3 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 3154
+Número de documentos en el cluster = 83
+He cubierto 46.19531% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1279
+Número de documentos en el cluster = 11
+He cubierto 59.186863% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1489
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 62.659504% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 3781
+Número de documentos en el cluster = 91
+He cubierto 38.957947% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 1452
+Número de documentos en el cluster = 14
+He cubierto 56.404957% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 51917
+Número de documentos en el cluster = 11545
+He cubierto 25.003372% del vocabulario del cluster con 86 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 1750
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 62.17143% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 2027
+Número de documentos en el cluster = 22
+He cubierto 56.63542% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 2650
+Número de documentos en el cluster = 15
+He cubierto 54.83019% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2426
+Número de documentos en el cluster = 25
+He cubierto 51.978565% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1818
+Número de documentos en el cluster = 5
+He cubierto 62.486248% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1863
+Número de documentos en el cluster = 16
+He cubierto 53.24745% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3073
+Número de documentos en el cluster = 31
+He cubierto 54.962578% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 1987
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 61.147457% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3593
+Número de documentos en el cluster = 70
+He cubierto 49.45728% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 1143
+Número de documentos en el cluster = 11
+He cubierto 33.595802% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2102
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 61.893436% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 6 iterations: 39 seconds
+Iteration : 7
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Centroid 3: 17, 17458
+Centroid 4: 5, 10365
+Centroid 5: 17, 17615
+Centroid 6: 13, 5086
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2463
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10366
+Centroid 3: 17, 17809
+Centroid 4: 1, 8239
+Centroid 5: 17, 6673
+Centroid 6: 5, 2054
+Centroid 7: 13, 15564
+Centroid 8: 11, 14336
+Centroid 9: 0, 7719
+Centroid 10: 13, 5274
+Centroid 11: 9, 12889
+Centroid 12: 17, 6906
+Centroid 13: 14, 15686
+Centroid 14: 5, 2055
+Centroid 15: 13, 5147
+Centroid 16: 17, 6765
+Centroid 17: 18, 7234
+Centroid 18: 0, 250
+Centroid 19: 7, 2825
+Centroid 20: 17, 6894
+Centroid 21: 1, 607
+Centroid 22: 18, 7105
+Centroid 23: 17, 17912
+Centroid 24: 5, 10378
+Centroid 25: 11, 14005
+Centroid 26: 19, 18481
+Centroid 27: 5, 10333
+Centroid 28: 10, 13880
+Centroid 29: 15, 6171
+Centroid 30: 14, 15680
+Centroid 31: 2, 9132
+Centroid 32: 0, 144
+Centroid 33: 18, 18078
+Centroid 34: 17, 6756
+Centroid 35: 0, 7720
+Centroid 36: 15, 16277
+Centroid 37: 5, 10331
+Centroid 38: 16, 16872
+Centroid 39: 2, 731
+Centroid 40: 14, 15693
+Centroid 41: 18, 18148
+Centroid 42: 13, 15190
+Centroid 43: 1, 542
+Centroid 44: 11, 14239
+Centroid 45: 0, 311
+Centroid 46: 17, 17550
+Centroid 47: 3, 9727
+Centroid 48: 14, 15694
+Centroid 49: 15, 6076
+Centroid 50: 19, 18666
+Centroid 51: 13, 5348
+Centroid 52: 15, 16716
+Centroid 53: 0, 251
+Centroid 54: 17, 6909
+Centroid 55: 0, 7898
+Centroid 56: 11, 14179
+Centroid 57: 14, 15685
+Centroid 58: 7, 2876
+Centroid 59: 16, 6480
+Centroid 60: 15, 16854
+Centroid 61: 19, 18494
+Centroid 62: 16, 17093
+Centroid 63: 10, 13802
+Centroid 64: 0, 117
+Centroid 65: 17, 17502
+Centroid 66: 14, 16072
+Centroid 67: 17, 17577
+Centroid 68: 2, 714
+Centroid 69: 7, 11674
+Centroid 70: 10, 13653
+Centroid 71: 9, 13056
+Centroid 72: 11, 14334
+Centroid 73: 14, 16178
+Centroid 74: 13, 15347
+Centroid 75: 19, 18542
+Centroid 76: 16, 16924
+Centroid 77: 3, 9181
+Centroid 78: 17, 17742
+Centroid 79: 19, 18455
+Centroid 80: 0, 303
+Centroid 81: 17, 6930
+Centroid 82: 15, 16857
+Centroid 83: 17, 17675
+Centroid 84: 17, 6704
+Centroid 85: 6, 2621
+Centroid 86: 17, 6902
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 18, 18032
+Centroid 2: 16, 17048
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.3901169 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 40944
+Número de documentos en el cluster = 11036
+He cubierto 25.056175% del vocabulario del cluster con 40 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 4747
+Número de documentos en el cluster = 25
+He cubierto 33.305244% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 4753
+Número de documentos en el cluster = 148
+He cubierto 27.224907% del vocabulario del cluster con 5 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 6578
+Número de documentos en el cluster = 258
+He cubierto 25.600487% del vocabulario del cluster con 5 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 2167
+Número de documentos en el cluster = 43
+He cubierto 34.93309% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1674
+Número de documentos en el cluster = 9
+He cubierto 55.734768% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 7298
+Número de documentos en el cluster = 321
+He cubierto 25.554947% del vocabulario del cluster con 4 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2174
+Número de documentos en el cluster = 49
+He cubierto 37.672493% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 48809
+Número de documentos en el cluster = 6349
+He cubierto 25.153145% del vocabulario del cluster con 45 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 2096
+Número de documentos en el cluster = 21
+He cubierto 51.908398% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 4271
+Número de documentos en el cluster = 103
+He cubierto 26.878952% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 4521
+Número de documentos en el cluster = 99
+He cubierto 32.13891% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 3199
+Número de documentos en el cluster = 71
+He cubierto 39.418568% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1725
+Número de documentos en el cluster = 3
+He cubierto 65.85507% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1654
+Número de documentos en el cluster = 11
+He cubierto 59.975815% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3331
+Número de documentos en el cluster = 43
+He cubierto 50.705494% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2060
+Número de documentos en el cluster = 5
+He cubierto 58.980583% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 4310
+Número de documentos en el cluster = 113
+He cubierto 41.2297% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 3211
+Número de documentos en el cluster = 83
+He cubierto 27.032074% del vocabulario del cluster con 5 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2855
+Número de documentos en el cluster = 30
+He cubierto 45.569176% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 7 iterations: 25 seconds
+Iteration : 8
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 14, 15741
+Centroid 16: 10, 4129
+Centroid 17: 17, 17805
+Centroid 18: 10, 4033
+Centroid 19: 10, 4151
+Centroid 20: 17, 6954
+Centroid 21: 19, 18809
+Centroid 22: 3, 1329
+Centroid 23: 5, 2235
+Centroid 24: 8, 12571
+Centroid 25: 10, 4209
+Centroid 26: 19, 7395
+Centroid 27: 7, 2679
+Centroid 28: 8, 3183
+Centroid 29: 16, 6255
+Centroid 30: 5, 10438
+Centroid 31: 11, 14418
+Centroid 32: 5, 2153
+Centroid 33: 8, 12493
+Centroid 34: 19, 18735
+Centroid 35: 12, 4973
+Centroid 36: 2, 8827
+Centroid 37: 13, 5385
+Centroid 38: 1, 8530
+Centroid 39: 19, 18504
+Centroid 40: 7, 2945
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 15, 16589
+Centroid 5: 19, 18598
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Centroid 4: 6, 2463
+Centroid 5: 16, 17148
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Centroid 4: 6, 11182
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 2053
+Centroid 3: 14, 15687
+Centroid 4: 1, 337
+Centroid 5: 17, 17809
+Centroid 6: 17, 6950
+Centroid 7: 13, 15563
+Centroid 8: 5, 10360
+Centroid 9: 10, 4032
+Centroid 10: 5, 10366
+Centroid 11: 13, 5084
+Centroid 12: 1, 626
+Centroid 13: 13, 15595
+Centroid 14: 17, 6673
+Centroid 15: 6, 2657
+Centroid 16: 11, 14336
+Centroid 17: 15, 5839
+Centroid 18: 9, 12711
+Centroid 19: 17, 6943
+Centroid 20: 14, 15684
+Centroid 21: 4, 1549
+Centroid 22: 13, 15566
+Centroid 23: 18, 18300
+Centroid 24: 1, 8581
+Centroid 25: 16, 17035
+Centroid 26: 5, 2054
+Centroid 27: 15, 6203
+Centroid 28: 17, 6952
+Centroid 29: 5, 10332
+Centroid 30: 17, 17618
+Centroid 31: 13, 5274
+Centroid 32: 13, 15567
+Centroid 33: 17, 17513
+Centroid 34: 14, 16230
+Centroid 35: 13, 5083
+Centroid 36: 17, 17424
+Centroid 37: 17, 17548
+Centroid 38: 7, 2825
+Centroid 39: 15, 6079
+Centroid 40: 9, 12889
+Centroid 41: 0, 250
+Centroid 42: 1, 607
+Centroid 43: 18, 7105
+Centroid 44: 10, 4118
+Centroid 45: 11, 4362
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 18, 18032
+Centroid 2: 16, 17048
+Centroid 3: 18, 17999
+Centroid 4: 11, 14413
+Centroid 5: 18, 18442
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.28156218 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 50154
+Número de documentos en el cluster = 14256
+He cubierto 25.008972% del vocabulario del cluster con 76 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2382
+Número de documentos en el cluster = 4
+He cubierto 66.372795% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 5875
+Número de documentos en el cluster = 225
+He cubierto 25.463829% del vocabulario del cluster con 7 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 6873
+Número de documentos en el cluster = 293
+He cubierto 25.898445% del vocabulario del cluster con 6 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1875
+Número de documentos en el cluster = 28
+He cubierto 40.373333% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1644
+Número de documentos en el cluster = 9
+He cubierto 56.751823% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 7434
+Número de documentos en el cluster = 371
+He cubierto 25.087433% del vocabulario del cluster con 4 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2578
+Número de documentos en el cluster = 73
+He cubierto 31.768814% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 38128
+Número de documentos en el cluster = 2917
+He cubierto 25.469475% del vocabulario del cluster con 28 centroides
+6 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 2442
+Número de documentos en el cluster = 41
+He cubierto 44.553646% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 2756
+Número de documentos en el cluster = 46
+He cubierto 41.65457% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 3491
+Número de documentos en el cluster = 50
+He cubierto 41.62131% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2513
+Número de documentos en el cluster = 22
+He cubierto 50.17907% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1940
+Número de documentos en el cluster = 7
+He cubierto 58.5567% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1925
+Número de documentos en el cluster = 19
+He cubierto 51.532467% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3198
+Número de documentos en el cluster = 34
+He cubierto 52.81426% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2112
+Número de documentos en el cluster = 5
+He cubierto 57.528408% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3635
+Número de documentos en el cluster = 50
+He cubierto 48.885834% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 6592
+Número de documentos en el cluster = 343
+He cubierto 25.819176% del vocabulario del cluster con 15 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2732
+Número de documentos en el cluster = 27
+He cubierto 47.620792% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 8 iterations: 34 seconds
+Iteration : 9
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 14, 15741
+Centroid 16: 10, 4129
+Centroid 17: 10, 13818
+Centroid 18: 9, 13087
+Centroid 19: 14, 15691
+Centroid 20: 7, 11672
+Centroid 21: 10, 4125
+Centroid 22: 17, 17805
+Centroid 23: 9, 13088
+Centroid 24: 10, 3986
+Centroid 25: 6, 11137
+Centroid 26: 10, 4033
+Centroid 27: 8, 3337
+Centroid 28: 6, 2621
+Centroid 29: 10, 13619
+Centroid 30: 7, 12018
+Centroid 31: 16, 6271
+Centroid 32: 15, 5950
+Centroid 33: 11, 14061
+Centroid 34: 18, 7164
+Centroid 35: 5, 10546
+Centroid 36: 17, 6954
+Centroid 37: 19, 18617
+Centroid 38: 6, 2537
+Centroid 39: 6, 10933
+Centroid 40: 10, 13751
+Centroid 41: 11, 13910
+Centroid 42: 19, 18809
+Centroid 43: 0, 25
+Centroid 44: 13, 15188
+Centroid 45: 13, 15448
+Centroid 46: 9, 3627
+Centroid 47: 16, 6543
+Centroid 48: 17, 17641
+Centroid 49: 4, 1556
+Centroid 50: 18, 7002
+Centroid 51: 6, 11339
+Centroid 52: 5, 2235
+Centroid 53: 9, 3663
+Centroid 54: 8, 12510
+Centroid 55: 5, 2267
+Centroid 56: 10, 4151
+Centroid 57: 17, 17529
+Centroid 58: 0, 12
+Centroid 59: 8, 12246
+Centroid 60: 3, 1329
+Centroid 61: 15, 6095
+Centroid 62: 15, 16394
+Centroid 63: 5, 2153
+Centroid 64: 15, 5867
+Centroid 65: 5, 10438
+Centroid 66: 6, 2351
+Centroid 67: 0, 7615
+Centroid 68: 12, 14949
+Centroid 69: 8, 3128
+Centroid 70: 10, 4128
+Centroid 71: 17, 6678
+Centroid 72: 0, 7776
+Centroid 73: 2, 8827
+Centroid 74: 5, 10638
+Centroid 75: 8, 12673
+Centroid 76: 11, 14418
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 15, 16589
+Centroid 5: 13, 15148
+Centroid 6: 19, 18598
+Centroid 7: 16, 6530
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Centroid 4: 6, 2463
+Centroid 5: 4, 1799
+Centroid 6: 11, 14276
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Centroid 4: 6, 11182
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Centroid 3: 17, 17458
+Centroid 4: 14, 15687
+Centroid 5: 1, 337
+Centroid 6: 17, 17615
+Centroid 7: 5, 2053
+Centroid 8: 13, 15563
+Centroid 9: 10, 4032
+Centroid 10: 1, 626
+Centroid 11: 13, 5084
+Centroid 12: 5, 10360
+Centroid 13: 17, 6673
+Centroid 14: 13, 15595
+Centroid 15: 5, 10366
+Centroid 16: 11, 14336
+Centroid 17: 17, 6943
+Centroid 18: 6, 2657
+Centroid 19: 15, 5839
+Centroid 20: 14, 15684
+Centroid 21: 9, 12711
+Centroid 22: 13, 15566
+Centroid 23: 18, 18300
+Centroid 24: 1, 8581
+Centroid 25: 16, 17035
+Centroid 26: 4, 1549
+Centroid 27: 17, 6952
+Centroid 28: 15, 6203
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 18, 18032
+Centroid 2: 16, 17048
+Centroid 3: 10, 4165
+Centroid 4: 8, 3317
+Centroid 5: 18, 18285
+Centroid 6: 16, 6303
+Centroid 7: 17, 6825
+Centroid 8: 14, 15736
+Centroid 9: 18, 18167
+Centroid 10: 15, 16470
+Centroid 11: 11, 14230
+Centroid 12: 18, 18220
+Centroid 13: 14, 16146
+Centroid 14: 16, 16981
+Centroid 15: 17, 17539
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.24086079 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 61905
+Número de documentos en el cluster = 16582
+He cubierto 25.00283% del vocabulario del cluster con 65 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2357
+Número de documentos en el cluster = 3
+He cubierto 67.0768% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 5952
+Número de documentos en el cluster = 239
+He cubierto 25.134407% del vocabulario del cluster con 7 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 6120
+Número de documentos en el cluster = 284
+He cubierto 25.89869% del vocabulario del cluster con 4 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1284
+Número de documentos en el cluster = 13
+He cubierto 58.956387% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1489
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 62.659504% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 5436
+Número de documentos en el cluster = 210
+He cubierto 27.09713% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 1767
+Número de documentos en el cluster = 31
+He cubierto 46.349747% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 14710
+Número de documentos en el cluster = 355
+He cubierto 25.098572% del vocabulario del cluster con 6 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 2084
+Número de documentos en el cluster = 20
+He cubierto 52.207294% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 1986
+Número de documentos en el cluster = 20
+He cubierto 57.804634% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 2918
+Número de documentos en el cluster = 27
+He cubierto 49.79438% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2243
+Número de documentos en el cluster = 10
+He cubierto 56.21935% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1693
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 67.09982% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1497
+Número de documentos en el cluster = 6
+He cubierto 66.26587% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 2985
+Número de documentos en el cluster = 22
+He cubierto 56.582916% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2065
+Número de documentos en el cluster = 4
+He cubierto 58.837772% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3071
+Número de documentos en el cluster = 16
+He cubierto 57.863888% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 11378
+Número de documentos en el cluster = 964
+He cubierto 25.25048% del vocabulario del cluster con 32 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2206
+Número de documentos en el cluster = 10
+He cubierto 58.97552% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 9 iterations: 34 seconds
+Iteration : 10
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 14, 15741
+Centroid 16: 13, 5086
+Centroid 17: 1, 8239
+Centroid 18: 10, 4118
+Centroid 19: 13, 5083
+Centroid 20: 10, 4129
+Centroid 21: 5, 2054
+Centroid 22: 13, 5274
+Centroid 23: 15, 6079
+Centroid 24: 5, 10345
+Centroid 25: 13, 15567
+Centroid 26: 17, 17618
+Centroid 27: 7, 11668
+Centroid 28: 0, 250
+Centroid 29: 17, 17809
+Centroid 30: 9, 12889
+Centroid 31: 17, 17418
+Centroid 32: 5, 2055
+Centroid 33: 14, 16230
+Centroid 34: 7, 2825
+Centroid 35: 17, 6894
+Centroid 36: 13, 5147
+Centroid 37: 15, 6171
+Centroid 38: 1, 607
+Centroid 39: 16, 16872
+Centroid 40: 11, 4362
+Centroid 41: 0, 311
+Centroid 42: 5, 10333
+Centroid 43: 9, 13087
+Centroid 44: 18, 7234
+Centroid 45: 2, 9132
+Centroid 46: 0, 7720
+Centroid 47: 5, 10378
+Centroid 48: 10, 13818
+Centroid 49: 18, 7105
+Centroid 50: 17, 17901
+Centroid 51: 13, 15564
+Centroid 52: 15, 16547
+Centroid 53: 17, 6756
+Centroid 54: 14, 15691
+Centroid 55: 0, 144
+Centroid 56: 13, 15208
+Centroid 57: 11, 14005
+Centroid 58: 17, 17805
+Centroid 59: 0, 7719
+Centroid 60: 17, 17912
+Centroid 61: 9, 13169
+Centroid 62: 11, 14239
+Centroid 63: 2, 731
+Centroid 64: 19, 18481
+Centroid 65: 17, 17555
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 15, 16589
+Centroid 5: 13, 15148
+Centroid 6: 19, 18598
+Centroid 7: 16, 16971
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Centroid 4: 6, 2463
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Centroid 3: 17, 17458
+Centroid 4: 14, 15687
+Centroid 5: 1, 337
+Centroid 6: 17, 17615
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 18, 18032
+Centroid 2: 16, 17048
+Centroid 3: 17, 17799
+Centroid 4: 10, 4165
+Centroid 5: 18, 18273
+Centroid 6: 16, 16902
+Centroid 7: 8, 3317
+Centroid 8: 0, 7734
+Centroid 9: 15, 16467
+Centroid 10: 7, 2806
+Centroid 11: 18, 18014
+Centroid 12: 16, 17357
+Centroid 13: 17, 6795
+Centroid 14: 16, 17089
+Centroid 15: 17, 17644
+Centroid 16: 12, 4774
+Centroid 17: 7, 11858
+Centroid 18: 11, 14230
+Centroid 19: 14, 15736
+Centroid 20: 18, 17999
+Centroid 21: 18, 18213
+Centroid 22: 16, 17060
+Centroid 23: 16, 17361
+Centroid 24: 8, 3447
+Centroid 25: 18, 18415
+Centroid 26: 1, 8235
+Centroid 27: 18, 18364
+Centroid 28: 16, 16957
+Centroid 29: 17, 17823
+Centroid 30: 16, 6285
+Centroid 31: 18, 18305
+Centroid 32: 13, 15121
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.24399576 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 59617
+Número de documentos en el cluster = 13632
+He cubierto 25.199188% del vocabulario del cluster con 47 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2401
+Número de documentos en el cluster = 5
+He cubierto 65.847565% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 7955
+Número de documentos en el cluster = 392
+He cubierto 25.392838% del vocabulario del cluster con 13 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 6428
+Número de documentos en el cluster = 266
+He cubierto 26.197884% del vocabulario del cluster con 5 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1898
+Número de documentos en el cluster = 35
+He cubierto 39.884087% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1489
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 62.659504% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 5088
+Número de documentos en el cluster = 160
+He cubierto 28.95047% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2430
+Número de documentos en el cluster = 56
+He cubierto 33.703705% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 4456
+Número de documentos en el cluster = 24
+He cubierto 27.805206% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 2276
+Número de documentos en el cluster = 29
+He cubierto 47.80316% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 3457
+Número de documentos en el cluster = 70
+He cubierto 33.207985% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 3416
+Número de documentos en el cluster = 51
+He cubierto 42.53513% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 3131
+Número de documentos en el cluster = 63
+He cubierto 40.274673% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 2015
+Número de documentos en el cluster = 9
+He cubierto 56.37717% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1990
+Número de documentos en el cluster = 21
+He cubierto 49.849247% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3215
+Número de documentos en el cluster = 37
+He cubierto 52.534992% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2098
+Número de documentos en el cluster = 5
+He cubierto 57.912296% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3744
+Número de documentos en el cluster = 57
+He cubierto 47.46261% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 25170
+Número de documentos en el cluster = 3887
+He cubierto 25.12912% del vocabulario del cluster con 91 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2498
+Número de documentos en el cluster = 19
+He cubierto 52.081665% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 10 iterations: 32 seconds
+Iteration : 11
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 5, 10360
+Centroid 18: 13, 5084
+Centroid 19: 14, 15741
+Centroid 20: 13, 15563
+Centroid 21: 5, 10366
+Centroid 22: 15, 5839
+Centroid 23: 17, 6673
+Centroid 24: 13, 15595
+Centroid 25: 4, 1549
+Centroid 26: 6, 2657
+Centroid 27: 11, 14336
+Centroid 28: 10, 4129
+Centroid 29: 15, 6203
+Centroid 30: 9, 12711
+Centroid 31: 13, 15566
+Centroid 32: 14, 15684
+Centroid 33: 17, 6943
+Centroid 34: 16, 17035
+Centroid 35: 17, 17513
+Centroid 36: 1, 626
+Centroid 37: 1, 8581
+Centroid 38: 17, 6952
+Centroid 39: 17, 17424
+Centroid 40: 5, 10332
+Centroid 41: 13, 5274
+Centroid 42: 18, 18300
+Centroid 43: 17, 17618
+Centroid 44: 5, 2054
+Centroid 45: 13, 5083
+Centroid 46: 13, 5086
+Centroid 47: 15, 6079
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 6, 11339
+Centroid 5: 15, 16589
+Centroid 6: 13, 15148
+Centroid 7: 19, 18598
+Centroid 8: 6, 11329
+Centroid 9: 16, 6567
+Centroid 10: 7, 11788
+Centroid 11: 13, 15670
+Centroid 12: 6, 11179
+Centroid 13: 16, 17328
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Centroid 4: 6, 2463
+Centroid 5: 7, 2925
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 18, 18032
+Centroid 2: 16, 17048
+Centroid 3: 11, 14462
+Centroid 4: 0, 188
+Centroid 5: 9, 12724
+Centroid 6: 16, 16947
+Centroid 7: 11, 14341
+Centroid 8: 16, 17364
+Centroid 9: 13, 15609
+Centroid 10: 16, 17002
+Centroid 11: 16, 6271
+Centroid 12: 7, 2740
+Centroid 13: 17, 6721
+Centroid 14: 7, 11538
+Centroid 15: 3, 1408
+Centroid 16: 7, 2924
+Centroid 17: 19, 18793
+Centroid 18: 8, 3142
+Centroid 19: 6, 11138
+Centroid 20: 14, 16051
+Centroid 21: 16, 17016
+Centroid 22: 17, 17799
+Centroid 23: 16, 16898
+Centroid 24: 8, 3342
+Centroid 25: 10, 4165
+Centroid 26: 0, 12
+Centroid 27: 14, 5772
+Centroid 28: 11, 14092
+Centroid 29: 9, 3627
+Centroid 30: 0, 7615
+Centroid 31: 7, 11559
+Centroid 32: 16, 16973
+Centroid 33: 17, 17464
+Centroid 34: 4, 1649
+Centroid 35: 8, 3323
+Centroid 36: 9, 3626
+Centroid 37: 8, 12316
+Centroid 38: 16, 6510
+Centroid 39: 13, 15206
+Centroid 40: 18, 18021
+Centroid 41: 4, 1799
+Centroid 42: 8, 12281
+Centroid 43: 13, 15514
+Centroid 44: 11, 4324
+Centroid 45: 15, 16467
+Centroid 46: 0, 7734
+Centroid 47: 10, 13834
+Centroid 48: 8, 3144
+Centroid 49: 2, 9032
+Centroid 50: 18, 18386
+Centroid 51: 15, 16866
+Centroid 52: 8, 3078
+Centroid 53: 17, 17865
+Centroid 54: 7, 2702
+Centroid 55: 18, 6979
+Centroid 56: 18, 18213
+Centroid 57: 3, 1263
+Centroid 58: 16, 17221
+Centroid 59: 17, 17662
+Centroid 60: 7, 3024
+Centroid 61: 14, 5609
+Centroid 62: 12, 14850
+Centroid 63: 14, 15758
+Centroid 64: 16, 16950
+Centroid 65: 4, 1556
+Centroid 66: 9, 3556
+Centroid 67: 12, 4973
+Centroid 68: 18, 7208
+Centroid 69: 16, 17124
+Centroid 70: 8, 3183
+Centroid 71: 17, 17452
+Centroid 72: 18, 18249
+Centroid 73: 13, 5195
+Centroid 74: 7, 11780
+Centroid 75: 17, 17440
+Centroid 76: 13, 5286
+Centroid 77: 16, 6493
+Centroid 78: 12, 14589
+Centroid 79: 18, 6995
+Centroid 80: 12, 14536
+Centroid 81: 0, 192
+Centroid 82: 7, 2675
+Centroid 83: 10, 4153
+Centroid 84: 18, 18135
+Centroid 85: 13, 5242
+Centroid 86: 12, 14584
+Centroid 87: 14, 15880
+Centroid 88: 18, 18026
+Centroid 89: 11, 14183
+Centroid 90: 16, 6303
+Centroid 91: 0, 7629
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.36450586 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 45062
+Número de documentos en el cluster = 8571
+He cubierto 25.336205% del vocabulario del cluster con 26 centroides
+6 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2373
+Número de documentos en el cluster = 5
+He cubierto 66.62453% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 10055
+Número de documentos en el cluster = 778
+He cubierto 25.191444% del vocabulario del cluster con 20 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 5041
+Número de documentos en el cluster = 189
+He cubierto 28.902992% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1327
+Número de documentos en el cluster = 12
+He cubierto 57.045967% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1513
+Número de documentos en el cluster = 3
+He cubierto 61.665565% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 4540
+Número de documentos en el cluster = 139
+He cubierto 32.44493% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2006
+Número de documentos en el cluster = 40
+He cubierto 40.82752% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 2046
+Número de documentos en el cluster = 3
+He cubierto 60.557186% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 1814
+Número de documentos en el cluster = 7
+He cubierto 59.97795% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 2171
+Número de documentos en el cluster = 28
+He cubierto 52.878857% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 2980
+Número de documentos en el cluster = 34
+He cubierto 48.75839% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2759
+Número de documentos en el cluster = 42
+He cubierto 45.704964% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1693
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 67.09982% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1641
+Número de documentos en el cluster = 11
+He cubierto 60.450943% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3269
+Número de documentos en el cluster = 41
+He cubierto 51.667175% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2009
+Número de documentos en el cluster = 3
+He cubierto 60.477848% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3315
+Número de documentos en el cluster = 56
+He cubierto 53.604828% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 43888
+Número de documentos en el cluster = 8853
+He cubierto 25.061523% del vocabulario del cluster con 75 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2126
+Número de documentos en el cluster = 3
+He cubierto 61.194733% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 11 iterations: 32 seconds
+Iteration : 12
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15687
+Centroid 18: 5, 10360
+Centroid 19: 13, 5084
+Centroid 20: 14, 15741
+Centroid 21: 13, 15563
+Centroid 22: 15, 5839
+Centroid 23: 5, 10366
+Centroid 24: 17, 6673
+Centroid 25: 13, 15595
+Centroid 26: 4, 1549
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 6, 11339
+Centroid 5: 15, 16589
+Centroid 6: 6, 11447
+Centroid 7: 19, 18598
+Centroid 8: 13, 15148
+Centroid 9: 6, 2329
+Centroid 10: 16, 6567
+Centroid 11: 6, 2537
+Centroid 12: 16, 17328
+Centroid 13: 6, 11179
+Centroid 14: 7, 11788
+Centroid 15: 13, 15670
+Centroid 16: 6, 11329
+Centroid 17: 6, 10986
+Centroid 18: 3, 9165
+Centroid 19: 13, 5271
+Centroid 20: 14, 15882
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 1, 8239
+Centroid 2: 17, 17458
+Centroid 3: 14, 16230
+Centroid 4: 0, 7719
+Centroid 5: 17, 17418
+Centroid 6: 5, 2055
+Centroid 7: 13, 15564
+Centroid 8: 9, 12889
+Centroid 9: 7, 11668
+Centroid 10: 17, 17548
+Centroid 11: 18, 7234
+Centroid 12: 0, 250
+Centroid 13: 13, 5147
+Centroid 14: 17, 6765
+Centroid 15: 17, 17809
+Centroid 16: 5, 10331
+Centroid 17: 7, 2825
+Centroid 18: 17, 6894
+Centroid 19: 16, 16872
+Centroid 20: 0, 144
+Centroid 21: 0, 311
+Centroid 22: 10, 13880
+Centroid 23: 14, 15680
+Centroid 24: 18, 7105
+Centroid 25: 0, 7720
+Centroid 26: 2, 731
+Centroid 27: 15, 5914
+Centroid 28: 11, 14179
+Centroid 29: 18, 18078
+Centroid 30: 17, 17901
+Centroid 31: 15, 16277
+Centroid 32: 19, 18481
+Centroid 33: 19, 7503
+Centroid 34: 15, 16716
+Centroid 35: 17, 17912
+Centroid 36: 13, 5348
+Centroid 37: 16, 6480
+Centroid 38: 18, 18148
+Centroid 39: 17, 6774
+Centroid 40: 17, 6909
+Centroid 41: 19, 18666
+Centroid 42: 10, 13802
+Centroid 43: 17, 17550
+Centroid 44: 7, 11672
+Centroid 45: 0, 117
+Centroid 46: 19, 18494
+Centroid 47: 2, 8711
+Centroid 48: 17, 17677
+Centroid 49: 0, 7898
+Centroid 50: 10, 13653
+Centroid 51: 16, 17093
+Centroid 52: 19, 18542
+Centroid 53: 3, 9318
+Centroid 54: 18, 18032
+Centroid 55: 14, 16072
+Centroid 56: 16, 16924
+Centroid 57: 15, 16854
+Centroid 58: 7, 2876
+Centroid 59: 9, 13056
+Centroid 60: 17, 6906
+Centroid 61: 10, 13620
+Centroid 62: 11, 13899
+Centroid 63: 17, 17614
+Centroid 64: 17, 17742
+Centroid 65: 19, 18455
+Centroid 66: 6, 2621
+Centroid 67: 13, 5133
+Centroid 68: 17, 17675
+Centroid 69: 0, 303
+Centroid 70: 18, 18104
+Centroid 71: 15, 16808
+Centroid 72: 15, 5920
+Centroid 73: 17, 6704
+Centroid 74: 11, 14008
+Centroid 75: 4, 1767
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.37151965 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 42485
+Número de documentos en el cluster = 9943
+He cubierto 25.305405% del vocabulario del cluster con 23 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2428
+Número de documentos en el cluster = 7
+He cubierto 65.115326% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 24674
+Número de documentos en el cluster = 3287
+He cubierto 25.00203% del vocabulario del cluster con 79 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 5340
+Número de documentos en el cluster = 185
+He cubierto 27.284645% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1875
+Número de documentos en el cluster = 32
+He cubierto 40.373333% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1647
+Número de documentos en el cluster = 9
+He cubierto 56.648453% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 6325
+Número de documentos en el cluster = 270
+He cubierto 29.486168% del vocabulario del cluster con 4 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2376
+Número de documentos en el cluster = 59
+He cubierto 34.469696% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 2073
+Número de documentos en el cluster = 5
+He cubierto 59.76845% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 2126
+Número de documentos en el cluster = 20
+He cubierto 51.17592% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 3026
+Número de documentos en el cluster = 55
+He cubierto 37.93787% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 4108
+Número de documentos en el cluster = 76
+He cubierto 35.37001% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 3091
+Número de documentos en el cluster = 59
+He cubierto 40.79586% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1725
+Número de documentos en el cluster = 3
+He cubierto 65.85507% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1581
+Número de documentos en el cluster = 8
+He cubierto 62.7451% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3452
+Número de documentos en el cluster = 50
+He cubierto 48.928158% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 1987
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 61.147457% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3658
+Número de documentos en el cluster = 59
+He cubierto 48.578457% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 40189
+Número de documentos en el cluster = 4672
+He cubierto 25.27806% del vocabulario del cluster con 39 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2451
+Número de documentos en el cluster = 19
+He cubierto 53.080376% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 12 iterations: 23 seconds
+Iteration : 13
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15687
+Centroid 18: 5, 10360
+Centroid 19: 13, 5084
+Centroid 20: 14, 15741
+Centroid 21: 13, 15563
+Centroid 22: 15, 5839
+Centroid 23: 5, 10366
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 17, 6757
+Centroid 2: 13, 5123
+Centroid 3: 6, 11082
+Centroid 4: 14, 15691
+Centroid 5: 6, 11121
+Centroid 6: 6, 2606
+Centroid 7: 7, 11749
+Centroid 8: 6, 11137
+Centroid 9: 19, 18793
+Centroid 10: 6, 11339
+Centroid 11: 13, 15448
+Centroid 12: 6, 11182
+Centroid 13: 6, 11444
+Centroid 14: 9, 3663
+Centroid 15: 13, 15385
+Centroid 16: 1, 8228
+Centroid 17: 8, 12510
+Centroid 18: 6, 2463
+Centroid 19: 8, 3318
+Centroid 20: 12, 5003
+Centroid 21: 14, 5772
+Centroid 22: 8, 3323
+Centroid 23: 19, 18598
+Centroid 24: 4, 9951
+Centroid 25: 15, 16589
+Centroid 26: 16, 6535
+Centroid 27: 6, 10933
+Centroid 28: 13, 15206
+Centroid 29: 12, 4873
+Centroid 30: 7, 2675
+Centroid 31: 17, 6853
+Centroid 32: 1, 558
+Centroid 33: 6, 2537
+Centroid 34: 12, 4973
+Centroid 35: 6, 11138
+Centroid 36: 13, 15460
+Centroid 37: 16, 6567
+Centroid 38: 8, 3183
+Centroid 39: 13, 15316
+Centroid 40: 3, 1408
+Centroid 41: 6, 10986
+Centroid 42: 13, 15148
+Centroid 43: 13, 5255
+Centroid 44: 6, 2324
+Centroid 45: 13, 5099
+Centroid 46: 13, 5385
+Centroid 47: 14, 5636
+Centroid 48: 7, 11635
+Centroid 49: 18, 18004
+Centroid 50: 6, 2368
+Centroid 51: 2, 8736
+Centroid 52: 18, 18442
+Centroid 53: 8, 3204
+Centroid 54: 10, 3851
+Centroid 55: 13, 5265
+Centroid 56: 12, 14806
+Centroid 57: 6, 2329
+Centroid 58: 13, 15639
+Centroid 59: 11, 4252
+Centroid 60: 0, 7930
+Centroid 61: 16, 17139
+Centroid 62: 6, 2392
+Centroid 63: 12, 14684
+Centroid 64: 8, 3175
+Centroid 65: 8, 12685
+Centroid 66: 12, 14850
+Centroid 67: 17, 17873
+Centroid 68: 6, 2271
+Centroid 69: 14, 5457
+Centroid 70: 9, 3474
+Centroid 71: 0, 7761
+Centroid 72: 11, 14086
+Centroid 73: 13, 15517
+Centroid 74: 13, 15570
+Centroid 75: 3, 1263
+Centroid 76: 6, 11131
+Centroid 77: 6, 11179
+Centroid 78: 16, 17034
+Centroid 79: 18, 17999
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Centroid 4: 11, 14061
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 1, 626
+Centroid 2: 17, 17458
+Centroid 3: 1, 337
+Centroid 4: 17, 17615
+Centroid 5: 14, 16230
+Centroid 6: 13, 15566
+Centroid 7: 14, 15684
+Centroid 8: 0, 7719
+Centroid 9: 6, 2657
+Centroid 10: 13, 5086
+Centroid 11: 9, 12711
+Centroid 12: 17, 6943
+Centroid 13: 16, 17035
+Centroid 14: 5, 2055
+Centroid 15: 15, 6203
+Centroid 16: 5, 10345
+Centroid 17: 13, 15567
+Centroid 18: 17, 17418
+Centroid 19: 13, 5083
+Centroid 20: 7, 11668
+Centroid 21: 18, 18300
+Centroid 22: 17, 6952
+Centroid 23: 17, 17513
+Centroid 24: 17, 17548
+Centroid 25: 17, 17424
+Centroid 26: 0, 250
+Centroid 27: 15, 6079
+Centroid 28: 5, 10333
+Centroid 29: 17, 17618
+Centroid 30: 1, 607
+Centroid 31: 10, 13818
+Centroid 32: 18, 7234
+Centroid 33: 14, 15686
+Centroid 34: 9, 12889
+Centroid 35: 17, 6894
+Centroid 36: 2, 9132
+Centroid 37: 7, 2825
+Centroid 38: 11, 14239
+Centroid 39: 18, 7105
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.4414984 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 34727
+Número de documentos en el cluster = 7062
+He cubierto 25.729263% del vocabulario del cluster con 16 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2326
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 67.970764% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 48382
+Número de documentos en el cluster = 10118
+He cubierto 25.034103% del vocabulario del cluster con 87 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 3443
+Número de documentos en el cluster = 84
+He cubierto 42.317745% del vocabulario del cluster con 3 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1689
+Número de documentos en el cluster = 27
+He cubierto 44.81942% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1564
+Número de documentos en el cluster = 6
+He cubierto 59.65473% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 6190
+Número de documentos en el cluster = 293
+He cubierto 30.129242% del vocabulario del cluster con 4 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 1759
+Número de documentos en el cluster = 29
+He cubierto 46.560547% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 2046
+Número de documentos en el cluster = 3
+He cubierto 60.557186% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 1863
+Número de documentos en el cluster = 9
+He cubierto 58.40043% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 1982
+Número de documentos en el cluster = 19
+He cubierto 57.92129% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 2878
+Número de documentos en el cluster = 26
+He cubierto 50.48645% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2682
+Número de documentos en el cluster = 39
+He cubierto 47.01715% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1751
+Número de documentos en el cluster = 3
+He cubierto 64.87721% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 2060
+Número de documentos en el cluster = 23
+He cubierto 48.15534% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3065
+Número de documentos en el cluster = 28
+He cubierto 55.106037% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2009
+Número de documentos en el cluster = 3
+He cubierto 60.477848% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3279
+Número de documentos en el cluster = 48
+He cubierto 54.19335% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 21614
+Número de documentos en el cluster = 996
+He cubierto 26.135841% del vocabulario del cluster con 13 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2102
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 61.893436% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 13 iterations: 35 seconds
+Iteration : 14
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 1, 8239
+Centroid 2: 17, 17809
+Centroid 3: 4, 1549
+Centroid 4: 13, 15595
+Centroid 5: 13, 15564
+Centroid 6: 11, 14336
+Centroid 7: 17, 6906
+Centroid 8: 5, 10406
+Centroid 9: 13, 5274
+Centroid 10: 1, 8581
+Centroid 11: 13, 5147
+Centroid 12: 0, 7528
+Centroid 13: 18, 18078
+Centroid 14: 6, 11082
+Centroid 15: 19, 18481
+Centroid 16: 17, 17912
+Centroid 17: 5, 10378
+Centroid 18: 14, 15680
+Centroid 19: 10, 13880
+Centroid 20: 13, 5123
+Centroid 21: 18, 18148
+Centroid 22: 16, 16872
+Centroid 23: 0, 144
+Centroid 24: 11, 14005
+Centroid 25: 5, 10331
+Centroid 26: 14, 15694
+Centroid 27: 15, 16277
+Centroid 28: 0, 7720
+Centroid 29: 7, 11674
+Centroid 30: 16, 17093
+Centroid 31: 15, 16854
+Centroid 32: 9, 13169
+Centroid 33: 14, 15693
+Centroid 34: 17, 6774
+Centroid 35: 13, 15190
+Centroid 36: 14, 15685
+Centroid 37: 17, 17432
+Centroid 38: 2, 731
+Centroid 39: 16, 6480
+Centroid 40: 11, 14179
+Centroid 41: 19, 18494
+Centroid 42: 3, 9727
+Centroid 43: 0, 311
+Centroid 44: 10, 4125
+Centroid 45: 0, 7898
+Centroid 46: 6, 11121
+Centroid 47: 14, 15691
+Centroid 48: 19, 18666
+Centroid 49: 7, 2876
+Centroid 50: 0, 117
+Centroid 51: 18, 18032
+Centroid 52: 13, 5348
+Centroid 53: 17, 6757
+Centroid 54: 14, 16072
+Centroid 55: 17, 17677
+Centroid 56: 10, 13653
+Centroid 57: 15, 5914
+Centroid 58: 18, 6969
+Centroid 59: 13, 15426
+Centroid 60: 18, 18145
+Centroid 61: 16, 6315
+Centroid 62: 15, 16857
+Centroid 63: 14, 16178
+Centroid 64: 18, 18104
+Centroid 65: 17, 6902
+Centroid 66: 10, 13620
+Centroid 67: 11, 14334
+Centroid 68: 0, 303
+Centroid 69: 17, 6861
+Centroid 70: 9, 13056
+Centroid 71: 3, 9181
+Centroid 72: 15, 5920
+Centroid 73: 19, 18455
+Centroid 74: 6, 2621
+Centroid 75: 19, 18758
+Centroid 76: 17, 6907
+Centroid 77: 7, 11866
+Centroid 78: 13, 5284
+Centroid 79: 18, 7133
+Centroid 80: 17, 17675
+Centroid 81: 18, 7029
+Centroid 82: 4, 1767
+Centroid 83: 15, 6177
+Centroid 84: 19, 7503
+Centroid 85: 2, 8711
+Centroid 86: 3, 9318
+Centroid 87: 6, 11182
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Centroid 4: 11, 14061
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 1, 626
+Centroid 2: 17, 17458
+Centroid 3: 1, 337
+Centroid 4: 17, 17615
+Centroid 5: 14, 16230
+Centroid 6: 13, 15566
+Centroid 7: 5, 2054
+Centroid 8: 0, 7719
+Centroid 9: 14, 15684
+Centroid 10: 17, 6673
+Centroid 11: 6, 2657
+Centroid 12: 13, 5086
+Centroid 13: 9, 12711
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.34383634 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 40613
+Número de documentos en el cluster = 10519
+He cubierto 25.026466% del vocabulario del cluster con 26 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2474
+Número de documentos en el cluster = 9
+He cubierto 63.90461% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 48347
+Número de documentos en el cluster = 6824
+He cubierto 25.118416% del vocabulario del cluster con 52 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 5855
+Número de documentos en el cluster = 215
+He cubierto 27.070877% del vocabulario del cluster con 4 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 2083
+Número de documentos en el cluster = 41
+He cubierto 36.341816% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1686
+Número de documentos en el cluster = 11
+He cubierto 55.338078% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 9454
+Número de documentos en el cluster = 559
+He cubierto 25.259148% del vocabulario del cluster con 10 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2427
+Número de documentos en el cluster = 65
+He cubierto 33.74536% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 2058
+Número de documentos en el cluster = 4
+He cubierto 60.204082% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 2069
+Número de documentos en el cluster = 18
+He cubierto 52.58579% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 3725
+Número de documentos en el cluster = 86
+He cubierto 30.818794% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 4219
+Número de documentos en el cluster = 84
+He cubierto 34.439438% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 3201
+Número de documentos en el cluster = 68
+He cubierto 39.39394% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1780
+Número de documentos en el cluster = 4
+He cubierto 63.820225% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1639
+Número de documentos en el cluster = 11
+He cubierto 60.52471% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3518
+Número de documentos en el cluster = 53
+He cubierto 48.010235% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2086
+Número de documentos en el cluster = 5
+He cubierto 58.245445% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3448
+Número de documentos en el cluster = 48
+He cubierto 51.537125% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 8235
+Número de documentos en el cluster = 173
+He cubierto 29.6782% del vocabulario del cluster con 4 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2649
+Número de documentos en el cluster = 23
+He cubierto 49.112873% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 14 iterations: 23 seconds
+Iteration : 15
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15741
+Centroid 18: 10, 4129
+Centroid 19: 17, 17805
+Centroid 20: 17, 17555
+Centroid 21: 10, 4033
+Centroid 22: 17, 6954
+Centroid 23: 5, 2267
+Centroid 24: 19, 18809
+Centroid 25: 3, 1329
+Centroid 26: 5, 2235
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 1, 8239
+Centroid 2: 14, 15687
+Centroid 3: 5, 10366
+Centroid 4: 17, 17809
+Centroid 5: 13, 15563
+Centroid 6: 5, 10360
+Centroid 7: 13, 5084
+Centroid 8: 4, 1549
+Centroid 9: 13, 15595
+Centroid 10: 17, 17418
+Centroid 11: 11, 14336
+Centroid 12: 10, 4118
+Centroid 13: 17, 6943
+Centroid 14: 15, 5839
+Centroid 15: 1, 8581
+Centroid 16: 15, 6203
+Centroid 17: 18, 18300
+Centroid 18: 16, 17035
+Centroid 19: 13, 15567
+Centroid 20: 13, 5083
+Centroid 21: 13, 5274
+Centroid 22: 17, 6952
+Centroid 23: 5, 10345
+Centroid 24: 17, 17618
+Centroid 25: 9, 12889
+Centroid 26: 17, 17548
+Centroid 27: 17, 17513
+Centroid 28: 7, 11668
+Centroid 29: 10, 4151
+Centroid 30: 6, 11082
+Centroid 31: 15, 6079
+Centroid 32: 5, 2055
+Centroid 33: 14, 15686
+Centroid 34: 13, 5147
+Centroid 35: 0, 250
+Centroid 36: 5, 10378
+Centroid 37: 11, 4362
+Centroid 38: 17, 6894
+Centroid 39: 13, 15564
+Centroid 40: 7, 2825
+Centroid 41: 1, 607
+Centroid 42: 18, 7105
+Centroid 43: 10, 13818
+Centroid 44: 5, 10333
+Centroid 45: 18, 7234
+Centroid 46: 9, 13087
+Centroid 47: 2, 9132
+Centroid 48: 17, 17912
+Centroid 49: 13, 5123
+Centroid 50: 0, 144
+Centroid 51: 0, 311
+Centroid 52: 11, 14005
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Centroid 4: 4, 1799
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Centroid 4: 11, 14061
+Centroid 5: 16, 16961
+Centroid 6: 12, 15043
+Centroid 7: 13, 15188
+Centroid 8: 16, 6471
+Centroid 9: 7, 3020
+Centroid 10: 12, 14536
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 1, 626
+Centroid 2: 17, 17458
+Centroid 3: 1, 337
+Centroid 4: 17, 17615
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.25887355 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 45015
+Número de documentos en el cluster = 11890
+He cubierto 25.082748% del vocabulario del cluster con 42 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2439
+Número de documentos en el cluster = 7
+He cubierto 64.82165% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 42131
+Número de documentos en el cluster = 4226
+He cubierto 25.342384% del vocabulario del cluster con 37 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 8349
+Número de documentos en el cluster = 448
+He cubierto 25.224579% del vocabulario del cluster con 10 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 2213
+Número de documentos en el cluster = 41
+He cubierto 34.206963% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1710
+Número de documentos en el cluster = 11
+He cubierto 54.561405% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 18168
+Número de documentos en el cluster = 1752
+He cubierto 25.115585% del vocabulario del cluster con 40 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2376
+Número de documentos en el cluster = 61
+He cubierto 34.469696% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 2111
+Número de documentos en el cluster = 5
+He cubierto 58.692562% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 2432
+Número de documentos en el cluster = 40
+He cubierto 44.736843% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 3935
+Número de documentos en el cluster = 91
+He cubierto 29.17408% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 3794
+Número de documentos en el cluster = 63
+He cubierto 38.29731% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2568
+Número de documentos en el cluster = 25
+He cubierto 49.104362% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 2001
+Número de documentos en el cluster = 9
+He cubierto 56.771614% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1809
+Número de documentos en el cluster = 13
+He cubierto 54.836926% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3157
+Número de documentos en el cluster = 32
+He cubierto 53.50016% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2205
+Número de documentos en el cluster = 8
+He cubierto 55.10204% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3708
+Número de documentos en el cluster = 57
+He cubierto 47.92341% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 3289
+Número de documentos en el cluster = 17
+He cubierto 33.019157% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2637
+Número de documentos en el cluster = 24
+He cubierto 49.33637% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 15 iterations: 24 seconds
+Iteration : 16
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15741
+Centroid 18: 10, 4129
+Centroid 19: 17, 17424
+Centroid 20: 14, 15691
+Centroid 21: 17, 17805
+Centroid 22: 10, 4125
+Centroid 23: 17, 17555
+Centroid 24: 10, 3986
+Centroid 25: 10, 4033
+Centroid 26: 6, 2621
+Centroid 27: 14, 5495
+Centroid 28: 5, 10523
+Centroid 29: 8, 3337
+Centroid 30: 10, 13619
+Centroid 31: 17, 6954
+Centroid 32: 6, 10933
+Centroid 33: 19, 18809
+Centroid 34: 9, 3627
+Centroid 35: 5, 10546
+Centroid 36: 11, 13910
+Centroid 37: 17, 17641
+Centroid 38: 15, 6095
+Centroid 39: 3, 1329
+Centroid 40: 5, 2235
+Centroid 41: 0, 7615
+Centroid 42: 12, 14949
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 1, 8239
+Centroid 2: 14, 15687
+Centroid 3: 5, 10366
+Centroid 4: 17, 17809
+Centroid 5: 13, 15563
+Centroid 6: 5, 10360
+Centroid 7: 13, 5084
+Centroid 8: 17, 6673
+Centroid 9: 4, 1549
+Centroid 10: 13, 15595
+Centroid 11: 5, 2054
+Centroid 12: 6, 2657
+Centroid 13: 14, 15684
+Centroid 14: 9, 12711
+Centroid 15: 11, 14336
+Centroid 16: 18, 18300
+Centroid 17: 15, 5839
+Centroid 18: 17, 6943
+Centroid 19: 17, 17618
+Centroid 20: 1, 8581
+Centroid 21: 13, 5083
+Centroid 22: 15, 6203
+Centroid 23: 10, 4118
+Centroid 24: 14, 16230
+Centroid 25: 16, 17035
+Centroid 26: 5, 10345
+Centroid 27: 17, 6952
+Centroid 28: 13, 5274
+Centroid 29: 13, 5086
+Centroid 30: 17, 17513
+Centroid 31: 13, 15566
+Centroid 32: 13, 15567
+Centroid 33: 17, 17548
+Centroid 34: 15, 6079
+Centroid 35: 7, 2825
+Centroid 36: 10, 4151
+Centroid 37: 0, 250
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Centroid 4: 4, 1556
+Centroid 5: 6, 2463
+Centroid 6: 4, 1799
+Centroid 7: 16, 6262
+Centroid 8: 11, 14086
+Centroid 9: 12, 4925
+Centroid 10: 7, 11564
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Centroid 4: 7, 11672
+Centroid 5: 19, 18781
+Centroid 6: 8, 12246
+Centroid 7: 0, 12
+Centroid 8: 8, 12510
+Centroid 9: 8, 3323
+Centroid 10: 18, 17999
+Centroid 11: 11, 14061
+Centroid 12: 19, 7375
+Centroid 13: 17, 6678
+Centroid 14: 18, 6979
+Centroid 15: 8, 12672
+Centroid 16: 3, 1263
+Centroid 17: 9, 12992
+Centroid 18: 13, 15514
+Centroid 19: 12, 4996
+Centroid 20: 16, 17124
+Centroid 21: 18, 18135
+Centroid 22: 16, 6567
+Centroid 23: 13, 15188
+Centroid 24: 16, 16961
+Centroid 25: 19, 7349
+Centroid 26: 7, 11957
+Centroid 27: 12, 4973
+Centroid 28: 18, 18415
+Centroid 29: 12, 4774
+Centroid 30: 11, 14457
+Centroid 31: 8, 12641
+Centroid 32: 17, 17656
+Centroid 33: 0, 318
+Centroid 34: 12, 5008
+Centroid 35: 18, 18034
+Centroid 36: 7, 2925
+Centroid 37: 11, 14456
+Centroid 38: 13, 15144
+Centroid 39: 8, 3078
+Centroid 40: 14, 16146
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 1, 626
+Centroid 2: 17, 17458
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.34080765 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 45893
+Número de documentos en el cluster = 11034
+He cubierto 25.049568% del vocabulario del cluster con 36 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2333
+Número de documentos en el cluster = 3
+He cubierto 67.76682% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 30130
+Número de documentos en el cluster = 1466
+He cubierto 25.718552% del vocabulario del cluster con 21 centroides
+6 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 10261
+Número de documentos en el cluster = 733
+He cubierto 25.299675% del vocabulario del cluster con 16 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1459
+Número de documentos en el cluster = 15
+He cubierto 51.884853% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1536
+Número de documentos en el cluster = 3
+He cubierto 60.742188% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 31933
+Número de documentos en el cluster = 5329
+He cubierto 25.02427% del vocabulario del cluster con 81 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2086
+Número de documentos en el cluster = 45
+He cubierto 39.261745% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 2046
+Número de documentos en el cluster = 3
+He cubierto 60.557186% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 1954
+Número de documentos en el cluster = 14
+He cubierto 55.680656% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 2216
+Número de documentos en el cluster = 29
+He cubierto 51.805054% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 3102
+Número de documentos en el cluster = 34
+He cubierto 46.840748% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2546
+Número de documentos en el cluster = 28
+He cubierto 49.52867% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1824
+Número de documentos en el cluster = 5
+He cubierto 62.2807% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1582
+Número de documentos en el cluster = 9
+He cubierto 62.705437% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3005
+Número de documentos en el cluster = 26
+He cubierto 56.20632% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2009
+Número de documentos en el cluster = 3
+He cubierto 60.477848% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3188
+Número de documentos en el cluster = 32
+He cubierto 55.740276% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 1790
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 60.67039% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2160
+Número de documentos en el cluster = 7
+He cubierto 60.23148% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 16 iterations: 29 seconds
+Iteration : 17
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15741
+Centroid 18: 10, 4129
+Centroid 19: 1, 337
+Centroid 20: 17, 17424
+Centroid 21: 11, 4362
+Centroid 22: 10, 13818
+Centroid 23: 9, 13087
+Centroid 24: 14, 15691
+Centroid 25: 6, 11121
+Centroid 26: 10, 13880
+Centroid 27: 17, 17805
+Centroid 28: 15, 16857
+Centroid 29: 3, 9727
+Centroid 30: 10, 4125
+Centroid 31: 17, 17555
+Centroid 32: 12, 14494
+Centroid 33: 10, 3986
+Centroid 34: 14, 15693
+Centroid 35: 6, 11137
+Centroid 36: 6, 11471
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 1, 8239
+Centroid 2: 14, 15687
+Centroid 3: 5, 10366
+Centroid 4: 17, 17809
+Centroid 5: 13, 15563
+Centroid 6: 5, 10360
+Centroid 7: 13, 5084
+Centroid 8: 17, 6673
+Centroid 9: 4, 1549
+Centroid 10: 13, 15595
+Centroid 11: 5, 2054
+Centroid 12: 6, 2657
+Centroid 13: 14, 15684
+Centroid 14: 9, 12711
+Centroid 15: 11, 14336
+Centroid 16: 18, 18300
+Centroid 17: 15, 5839
+Centroid 18: 17, 6943
+Centroid 19: 17, 17618
+Centroid 20: 1, 8581
+Centroid 21: 13, 5083
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Centroid 4: 12, 4873
+Centroid 5: 15, 16589
+Centroid 6: 4, 9849
+Centroid 7: 6, 2463
+Centroid 8: 4, 1799
+Centroid 9: 13, 5385
+Centroid 10: 11, 4576
+Centroid 11: 16, 6262
+Centroid 12: 11, 14418
+Centroid 13: 4, 1556
+Centroid 14: 18, 18293
+Centroid 15: 1, 569
+Centroid 16: 6, 2588
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 13, 15462
+Centroid 2: 11, 13999
+Centroid 3: 11, 13998
+Centroid 4: 16, 6480
+Centroid 5: 0, 174
+Centroid 6: 7, 11667
+Centroid 7: 18, 18104
+Centroid 8: 16, 17222
+Centroid 9: 18, 18061
+Centroid 10: 17, 17602
+Centroid 11: 8, 12580
+Centroid 12: 18, 7121
+Centroid 13: 16, 6377
+Centroid 14: 16, 16959
+Centroid 15: 12, 4878
+Centroid 16: 9, 12813
+Centroid 17: 8, 12533
+Centroid 18: 16, 6246
+Centroid 19: 7, 11672
+Centroid 20: 13, 15339
+Centroid 21: 17, 6739
+Centroid 22: 19, 18780
+Centroid 23: 13, 15407
+Centroid 24: 15, 5950
+Centroid 25: 7, 11841
+Centroid 26: 17, 6897
+Centroid 27: 14, 15794
+Centroid 28: 9, 3800
+Centroid 29: 18, 7156
+Centroid 30: 16, 6463
+Centroid 31: 11, 14061
+Centroid 32: 11, 14462
+Centroid 33: 19, 18543
+Centroid 34: 13, 15147
+Centroid 35: 13, 15512
+Centroid 36: 0, 188
+Centroid 37: 6, 11444
+Centroid 38: 8, 12510
+Centroid 39: 15, 16739
+Centroid 40: 13, 15642
+Centroid 41: 8, 3420
+Centroid 42: 17, 6680
+Centroid 43: 16, 17030
+Centroid 44: 0, 216
+Centroid 45: 9, 13008
+Centroid 46: 19, 18642
+Centroid 47: 4, 10252
+Centroid 48: 16, 17002
+Centroid 49: 11, 4487
+Centroid 50: 17, 6958
+Centroid 51: 2, 866
+Centroid 52: 13, 15460
+Centroid 53: 17, 17689
+Centroid 54: 7, 2785
+Centroid 55: 10, 4165
+Centroid 56: 6, 11138
+Centroid 57: 13, 15148
+Centroid 58: 13, 15188
+Centroid 59: 9, 13172
+Centroid 60: 0, 7695
+Centroid 61: 3, 9458
+Centroid 62: 11, 14177
+Centroid 63: 15, 5876
+Centroid 64: 19, 7395
+Centroid 65: 9, 3663
+Centroid 66: 7, 12018
+Centroid 67: 19, 18781
+Centroid 68: 0, 7777
+Centroid 69: 8, 12508
+Centroid 70: 14, 16042
+Centroid 71: 17, 17464
+Centroid 72: 7, 2924
+Centroid 73: 7, 2851
+Centroid 74: 11, 4385
+Centroid 75: 14, 5734
+Centroid 76: 16, 6551
+Centroid 77: 8, 12609
+Centroid 78: 19, 18655
+Centroid 79: 0, 7905
+Centroid 80: 3, 9685
+Centroid 81: 11, 14341
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 1, 626
+Centroid 2: 17, 17458
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.31057385 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 44254
+Número de documentos en el cluster = 9934
+He cubierto 25.199982% del vocabulario del cluster con 28 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2419
+Número de documentos en el cluster = 6
+He cubierto 65.35759% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 10727
+Número de documentos en el cluster = 242
+He cubierto 27.603241% del vocabulario del cluster con 5 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 13348
+Número de documentos en el cluster = 1170
+He cubierto 25.082413% del vocabulario del cluster con 28 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1408
+Número de documentos en el cluster = 15
+He cubierto 53.764206% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1547
+Número de documentos en el cluster = 4
+He cubierto 60.31028% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 43209
+Número de documentos en el cluster = 7220
+He cubierto 25.117455% del vocabulario del cluster con 53 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 1857
+Número de documentos en el cluster = 33
+He cubierto 44.103394% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 2046
+Número de documentos en el cluster = 3
+He cubierto 60.557186% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 1843
+Número de documentos en el cluster = 6
+He cubierto 59.034184% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 2071
+Número de documentos en el cluster = 23
+He cubierto 55.43216% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 3006
+Número de documentos en el cluster = 32
+He cubierto 48.33666% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2770
+Número de documentos en el cluster = 43
+He cubierto 45.523464% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1925
+Número de documentos en el cluster = 7
+He cubierto 59.012985% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1766
+Número de documentos en el cluster = 13
+He cubierto 56.172142% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3036
+Número de documentos en el cluster = 28
+He cubierto 55.632412% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2009
+Número de documentos en el cluster = 3
+He cubierto 60.477848% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3090
+Número de documentos en el cluster = 25
+He cubierto 57.50809% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 1790
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 60.67039% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2236
+Número de documentos en el cluster = 11
+He cubierto 58.184258% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 17 iterations: 25 seconds
+Iteration : 18
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15741
+Centroid 18: 10, 4129
+Centroid 19: 13, 5274
+Centroid 20: 17, 17513
+Centroid 21: 1, 337
+Centroid 22: 5, 10332
+Centroid 23: 17, 17424
+Centroid 24: 6, 11082
+Centroid 25: 10, 4118
+Centroid 26: 11, 4362
+Centroid 27: 9, 13087
+Centroid 28: 13, 15208
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 1, 8239
+Centroid 2: 14, 15687
+Centroid 3: 5, 10366
+Centroid 4: 17, 17809
+Centroid 5: 13, 15563
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 6, 2479
+Centroid 4: 12, 4873
+Centroid 5: 15, 16589
+Centroid 6: 4, 9849
+Centroid 7: 15, 6091
+Centroid 8: 6, 2463
+Centroid 9: 4, 1799
+Centroid 10: 13, 5385
+Centroid 11: 18, 18135
+Centroid 12: 18, 18374
+Centroid 13: 16, 6255
+Centroid 14: 1, 8134
+Centroid 15: 11, 4576
+Centroid 16: 6, 2407
+Centroid 17: 11, 14418
+Centroid 18: 18, 17999
+Centroid 19: 16, 6262
+Centroid 20: 0, 7930
+Centroid 21: 1, 569
+Centroid 22: 4, 1556
+Centroid 23: 9, 13185
+Centroid 24: 14, 5816
+Centroid 25: 12, 4876
+Centroid 26: 4, 1851
+Centroid 27: 6, 2585
+Centroid 28: 12, 4925
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 14, 16230
+Centroid 2: 13, 15462
+Centroid 3: 13, 5086
+Centroid 4: 0, 7719
+Centroid 5: 17, 17912
+Centroid 6: 5, 2055
+Centroid 7: 13, 15566
+Centroid 8: 17, 17418
+Centroid 9: 11, 13999
+Centroid 10: 7, 11668
+Centroid 11: 16, 17035
+Centroid 12: 15, 6203
+Centroid 13: 13, 15567
+Centroid 14: 17, 17548
+Centroid 15: 17, 6952
+Centroid 16: 9, 12889
+Centroid 17: 5, 10333
+Centroid 18: 17, 6765
+Centroid 19: 0, 250
+Centroid 20: 18, 7234
+Centroid 21: 15, 6079
+Centroid 22: 17, 6894
+Centroid 23: 5, 10331
+Centroid 24: 7, 2825
+Centroid 25: 13, 15564
+Centroid 26: 18, 7105
+Centroid 27: 13, 5123
+Centroid 28: 2, 9132
+Centroid 29: 14, 15694
+Centroid 30: 13, 5147
+Centroid 31: 0, 144
+Centroid 32: 0, 311
+Centroid 33: 16, 16872
+Centroid 34: 15, 16547
+Centroid 35: 17, 6756
+Centroid 36: 17, 17901
+Centroid 37: 14, 15685
+Centroid 38: 2, 731
+Centroid 39: 18, 18078
+Centroid 40: 14, 15680
+Centroid 41: 19, 18481
+Centroid 42: 10, 13362
+Centroid 43: 0, 7720
+Centroid 44: 13, 15190
+Centroid 45: 18, 18148
+Centroid 46: 15, 6171
+Centroid 47: 17, 6906
+Centroid 48: 16, 17093
+Centroid 49: 0, 303
+Centroid 50: 11, 14179
+Centroid 51: 19, 18666
+Centroid 52: 15, 16277
+Centroid 53: 17, 17550
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 1, 626
+Centroid 2: 17, 17458
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.3466525 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 45334
+Número de documentos en el cluster = 11012
+He cubierto 25.051834% del vocabulario del cluster con 28 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2333
+Número de documentos en el cluster = 3
+He cubierto 67.76682% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 3778
+Número de documentos en el cluster = 21
+He cubierto 28.613022% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 28525
+Número de documentos en el cluster = 4386
+He cubierto 25.079758% del vocabulario del cluster con 96 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1813
+Número de documentos en el cluster = 33
+He cubierto 41.753998% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1660
+Número de documentos en el cluster = 10
+He cubierto 56.20482% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 35731
+Número de documentos en el cluster = 2934
+He cubierto 25.087456% del vocabulario del cluster con 27 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2202
+Número de documentos en el cluster = 51
+He cubierto 37.193462% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 2082
+Número de documentos en el cluster = 6
+He cubierto 59.510086% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 2149
+Número de documentos en el cluster = 25
+He cubierto 50.6282% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 3500
+Número de documentos en el cluster = 70
+He cubierto 32.800003% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 3658
+Número de documentos en el cluster = 56
+He cubierto 39.72116% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 3291
+Número de documentos en el cluster = 72
+He cubierto 38.31662% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1766
+Número de documentos en el cluster = 4
+He cubierto 64.32616% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1766
+Número de documentos en el cluster = 13
+He cubierto 56.172142% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3412
+Número de documentos en el cluster = 49
+He cubierto 49.50176% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2009
+Número de documentos en el cluster = 3
+He cubierto 60.477848% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3561
+Número de documentos en el cluster = 54
+He cubierto 49.901714% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 1827
+Número de documentos en el cluster = 3
+He cubierto 59.441708% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2371
+Número de documentos en el cluster = 15
+He cubierto 54.87136% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 18 iterations: 27 seconds
+Iteration : 19
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15741
+Centroid 18: 6, 2657
+Centroid 19: 11, 14336
+Centroid 20: 10, 4129
+Centroid 21: 1, 8581
+Centroid 22: 13, 5274
+Centroid 23: 17, 17513
+Centroid 24: 1, 337
+Centroid 25: 5, 10332
+Centroid 26: 17, 17424
+Centroid 27: 10, 4118
+Centroid 28: 11, 4362
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 1, 8239
+Centroid 2: 14, 15687
+Cluster 4 has the centroids:
+Centroid 1: 14, 15689
+Centroid 2: 13, 5368
+Centroid 3: 10, 13726
+Centroid 4: 4, 10228
+Centroid 5: 7, 12018
+Centroid 6: 18, 7041
+Centroid 7: 8, 3128
+Centroid 8: 16, 6271
+Centroid 9: 7, 11749
+Centroid 10: 9, 13172
+Centroid 11: 15, 16451
+Centroid 12: 6, 10933
+Centroid 13: 9, 13196
+Centroid 14: 0, 7615
+Centroid 15: 10, 13563
+Centroid 16: 8, 12510
+Centroid 17: 6, 2479
+Centroid 18: 3, 9458
+Centroid 19: 19, 18583
+Centroid 20: 10, 4165
+Centroid 21: 15, 16589
+Centroid 22: 11, 4347
+Centroid 23: 6, 2463
+Centroid 24: 9, 3723
+Centroid 25: 1, 8228
+Centroid 26: 9, 3627
+Centroid 27: 12, 4873
+Centroid 28: 7, 2924
+Centroid 29: 9, 12768
+Centroid 30: 16, 17361
+Centroid 31: 17, 6678
+Centroid 32: 6, 11138
+Centroid 33: 14, 15738
+Centroid 34: 8, 12105
+Centroid 35: 8, 12316
+Centroid 36: 13, 15460
+Centroid 37: 9, 3626
+Centroid 38: 16, 6252
+Centroid 39: 3, 1408
+Centroid 40: 8, 3142
+Centroid 41: 10, 4081
+Centroid 42: 17, 6853
+Centroid 43: 12, 14937
+Centroid 44: 0, 7881
+Centroid 45: 4, 9951
+Centroid 46: 14, 15880
+Centroid 47: 4, 1799
+Centroid 48: 6, 2368
+Centroid 49: 8, 3144
+Centroid 50: 19, 7349
+Centroid 51: 19, 7355
+Centroid 52: 14, 16051
+Centroid 53: 7, 3024
+Centroid 54: 12, 4973
+Centroid 55: 12, 4839
+Centroid 56: 19, 18650
+Centroid 57: 11, 4576
+Centroid 58: 6, 11131
+Centroid 59: 4, 1649
+Centroid 60: 18, 6995
+Centroid 61: 9, 13236
+Centroid 62: 1, 8530
+Centroid 63: 16, 17025
+Centroid 64: 14, 5711
+Centroid 65: 6, 11447
+Centroid 66: 8, 12461
+Centroid 67: 13, 15554
+Centroid 68: 17, 17539
+Centroid 69: 15, 6091
+Centroid 70: 15, 16393
+Centroid 71: 18, 18285
+Centroid 72: 19, 18453
+Centroid 73: 8, 3183
+Centroid 74: 11, 14418
+Centroid 75: 15, 16523
+Centroid 76: 14, 5449
+Centroid 77: 7, 11635
+Centroid 78: 8, 12641
+Centroid 79: 15, 16315
+Centroid 80: 17, 17443
+Centroid 81: 0, 281
+Centroid 82: 7, 2675
+Centroid 83: 15, 6148
+Centroid 84: 12, 14589
+Centroid 85: 14, 16141
+Centroid 86: 13, 5195
+Centroid 87: 10, 13834
+Centroid 88: 18, 18386
+Centroid 89: 6, 2392
+Centroid 90: 7, 2778
+Centroid 91: 18, 7180
+Centroid 92: 4, 9849
+Centroid 93: 9, 12719
+Centroid 94: 12, 4757
+Centroid 95: 12, 4859
+Centroid 96: 16, 17139
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 4, 1549
+Centroid 2: 13, 15462
+Centroid 3: 13, 5084
+Centroid 4: 5, 10360
+Centroid 5: 14, 16230
+Centroid 6: 17, 6673
+Centroid 7: 0, 7719
+Centroid 8: 5, 2054
+Centroid 9: 13, 15595
+Centroid 10: 11, 13999
+Centroid 11: 13, 15566
+Centroid 12: 17, 17912
+Centroid 13: 14, 15684
+Centroid 14: 17, 6943
+Centroid 15: 9, 12711
+Centroid 16: 15, 5839
+Centroid 17: 13, 5083
+Centroid 18: 7, 11668
+Centroid 19: 15, 6203
+Centroid 20: 16, 17035
+Centroid 21: 5, 10345
+Centroid 22: 17, 6952
+Centroid 23: 13, 5086
+Centroid 24: 18, 18300
+Centroid 25: 17, 17618
+Centroid 26: 13, 15567
+Centroid 27: 5, 2055
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 1, 626
+Centroid 2: 17, 17458
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.3844846 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 38045
+Número de documentos en el cluster = 7830
+He cubierto 25.504005% del vocabulario del cluster con 19 centroides
+4 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2358
+Número de documentos en el cluster = 4
+He cubierto 67.04835% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 1808
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 59.78982% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 49854
+Número de documentos en el cluster = 10375
+He cubierto 25.125366% del vocabulario del cluster con 78 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 1431
+Número de documentos en el cluster = 18
+He cubierto 52.90007% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1613
+Número de documentos en el cluster = 8
+He cubierto 57.84253% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 14055
+Número de documentos en el cluster = 358
+He cubierto 25.528282% del vocabulario del cluster con 6 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 1848
+Número de documentos en el cluster = 33
+He cubierto 44.31818% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 2046
+Número de documentos en el cluster = 3
+He cubierto 60.557186% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 1826
+Número de documentos en el cluster = 5
+He cubierto 59.58379% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 1859
+Número de documentos en el cluster = 17
+He cubierto 61.75363% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 2896
+Número de documentos en el cluster = 28
+He cubierto 50.172653% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 2740
+Número de documentos en el cluster = 44
+He cubierto 46.021896% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1719
+Número de documentos en el cluster = 3
+He cubierto 66.08493% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1640
+Número de documentos en el cluster = 11
+He cubierto 60.487804% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3234
+Número de documentos en el cluster = 36
+He cubierto 52.226345% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2065
+Número de documentos en el cluster = 4
+He cubierto 58.837772% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3147
+Número de documentos en el cluster = 36
+He cubierto 56.466476% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 1790
+Número de documentos en el cluster = 2
+Cubrí el vocabulario con 2 centroides
+He cubierto 60.67039% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2120
+Número de documentos en el cluster = 3
+He cubierto 61.367924% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 19 iterations: 33 seconds
+Iteration : 20
+Cluster 1 has the centroids:
+Centroid 1: 1, 8213
+Centroid 2: 11, 13932
+Centroid 3: 1, 8212
+Centroid 4: 13, 5085
+Centroid 5: 10, 13500
+Centroid 6: 5, 10358
+Centroid 7: 14, 15695
+Centroid 8: 17, 6801
+Centroid 9: 17, 6672
+Centroid 10: 17, 6685
+Centroid 11: 1, 405
+Centroid 12: 5, 1947
+Centroid 13: 14, 5440
+Centroid 14: 19, 18664
+Centroid 15: 5, 2053
+Centroid 16: 10, 4032
+Centroid 17: 14, 15741
+Centroid 18: 6, 2657
+Centroid 19: 11, 14336
+Cluster 2 has the centroids:
+Centroid 1: 1, 406
+Centroid 2: 1, 8211
+Cluster 3 has the centroids:
+Centroid 1: 1, 8239
+Centroid 2: 14, 15687
+Cluster 4 has the centroids:
+Centroid 1: 5, 10366
+Centroid 2: 13, 15563
+Centroid 3: 17, 17809
+Centroid 4: 13, 5368
+Centroid 5: 18, 7234
+Centroid 6: 14, 15689
+Centroid 7: 17, 17418
+Centroid 8: 5, 10406
+Centroid 9: 9, 12889
+Centroid 10: 0, 250
+Centroid 11: 17, 17548
+Centroid 12: 13, 15564
+Centroid 13: 15, 6079
+Centroid 14: 17, 6765
+Centroid 15: 14, 15686
+Centroid 16: 7, 2825
+Centroid 17: 13, 5147
+Centroid 18: 17, 6894
+Centroid 19: 11, 14005
+Centroid 20: 5, 10333
+Centroid 21: 18, 7105
+Centroid 22: 19, 18481
+Centroid 23: 10, 13818
+Centroid 24: 5, 10378
+Centroid 25: 0, 7720
+Centroid 26: 11, 14239
+Centroid 27: 2, 9132
+Centroid 28: 0, 144
+Centroid 29: 17, 6756
+Centroid 30: 15, 6171
+Centroid 31: 9, 13087
+Centroid 32: 18, 18078
+Centroid 33: 14, 15680
+Centroid 34: 5, 10331
+Centroid 35: 17, 17901
+Centroid 36: 14, 15691
+Centroid 37: 10, 13880
+Centroid 38: 16, 16872
+Centroid 39: 15, 16547
+Centroid 40: 0, 311
+Centroid 41: 2, 731
+Centroid 42: 18, 18148
+Centroid 43: 13, 15190
+Centroid 44: 1, 542
+Centroid 45: 3, 9727
+Centroid 46: 11, 13998
+Centroid 47: 10, 4125
+Centroid 48: 17, 6906
+Centroid 49: 6, 11121
+Centroid 50: 14, 15694
+Centroid 51: 9, 13169
+Centroid 52: 15, 16277
+Centroid 53: 17, 6909
+Centroid 54: 14, 15685
+Centroid 55: 19, 18666
+Centroid 56: 7, 11672
+Centroid 57: 0, 303
+Centroid 58: 0, 7898
+Centroid 59: 15, 16716
+Centroid 60: 17, 17550
+Centroid 61: 11, 14179
+Centroid 62: 13, 5348
+Centroid 63: 16, 6480
+Centroid 64: 16, 17093
+Centroid 65: 0, 7528
+Centroid 66: 2, 714
+Centroid 67: 19, 18494
+Centroid 68: 17, 17614
+Centroid 69: 19, 18455
+Centroid 70: 7, 2876
+Centroid 71: 13, 15426
+Centroid 72: 17, 6757
+Centroid 73: 14, 16178
+Centroid 74: 11, 14334
+Centroid 75: 15, 16854
+Centroid 76: 19, 18542
+Centroid 77: 14, 15693
+Centroid 78: 17, 17450
+Cluster 5 has the centroids:
+Centroid 1: 17, 17819
+Centroid 2: 15, 6002
+Cluster 6 has the centroids:
+Centroid 1: 18, 7151
+Centroid 2: 17, 17575
+Cluster 7 has the centroids:
+Centroid 1: 4, 1549
+Centroid 2: 13, 15462
+Centroid 3: 13, 5084
+Centroid 4: 5, 10360
+Centroid 5: 14, 16230
+Centroid 6: 17, 6673
+Cluster 8 has the centroids:
+Centroid 1: 5, 2095
+Centroid 2: 5, 2052
+Cluster 9 has the centroids:
+Centroid 1: 11, 13931
+Centroid 2: 5, 10365
+Cluster 10 has the centroids:
+Centroid 1: 1, 665
+Centroid 2: 4, 10270
+Cluster 11 has the centroids:
+Centroid 1: 8, 12104
+Centroid 2: 8, 12266
+Cluster 12 has the centroids:
+Centroid 1: 16, 17362
+Centroid 2: 3, 9284
+Cluster 13 has the centroids:
+Centroid 1: 5, 10369
+Centroid 2: 5, 10334
+Cluster 14 has the centroids:
+Centroid 1: 0, 7945
+Centroid 2: 19, 7456
+Cluster 15 has the centroids:
+Centroid 1: 15, 5982
+Centroid 2: 19, 7431
+Cluster 16 has the centroids:
+Centroid 1: 1, 404
+Centroid 2: 11, 13933
+Cluster 17 has the centroids:
+Centroid 1: 17, 17913
+Centroid 2: 11, 4600
+Cluster 18 has the centroids:
+Centroid 1: 10, 13418
+Centroid 2: 14, 5612
+Cluster 19 has the centroids:
+Centroid 1: 1, 626
+Centroid 2: 17, 17458
+Cluster 20 has the centroids:
+Centroid 1: 12, 14676
+Centroid 2: 18, 18055
+Reassigning cluster ids to non-centroid docs...
+0.34213603 fraction of the documents reassigned different clusters...
+Recalculando centroides
+Generando vocabulario del cluster
+Cubriendo el vocabulario del cluster 0
+Tamaño del vocaulario del cluster = 43353
+Número de documentos en el cluster = 11607
+He cubierto 25.00634% del vocabulario del cluster con 30 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 1
+Tamaño del vocaulario del cluster = 2447
+Número de documentos en el cluster = 8
+He cubierto 64.609726% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 2
+Tamaño del vocaulario del cluster = 1874
+Número de documentos en el cluster = 4
+He cubierto 57.684097% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 3
+Tamaño del vocaulario del cluster = 47752
+Número de documentos en el cluster = 6290
+He cubierto 25.087952% del vocabulario del cluster con 47 centroides
+3 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 4
+Tamaño del vocaulario del cluster = 2527
+Número de documentos en el cluster = 56
+He cubierto 29.956467% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 5
+Tamaño del vocaulario del cluster = 1699
+Número de documentos en el cluster = 12
+He cubierto 54.914654% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 6
+Tamaño del vocaulario del cluster = 7894
+Número de documentos en el cluster = 282
+He cubierto 32.556374% del vocabulario del cluster con 4 centroides
+2 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 7
+Tamaño del vocaulario del cluster = 2474
+Número de documentos en el cluster = 60
+He cubierto 33.104286% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 8
+Tamaño del vocaulario del cluster = 2058
+Número de documentos en el cluster = 4
+He cubierto 60.204082% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 9
+Tamaño del vocaulario del cluster = 2514
+Número de documentos en el cluster = 45
+He cubierto 43.277645% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 10
+Tamaño del vocaulario del cluster = 4236
+Número de documentos en el cluster = 101
+He cubierto 27.101036% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 11
+Tamaño del vocaulario del cluster = 4827
+Número de documentos en el cluster = 108
+He cubierto 30.10151% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 12
+Tamaño del vocaulario del cluster = 3210
+Número de documentos en el cluster = 68
+He cubierto 39.28349% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 13
+Tamaño del vocaulario del cluster = 1837
+Número de documentos en el cluster = 6
+He cubierto 61.83996% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 14
+Tamaño del vocaulario del cluster = 1692
+Número de documentos en el cluster = 12
+He cubierto 58.62884% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 15
+Tamaño del vocaulario del cluster = 3640
+Número de documentos en el cluster = 55
+He cubierto 46.4011% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 16
+Tamaño del vocaulario del cluster = 2104
+Número de documentos en el cluster = 6
+He cubierto 57.747147% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 17
+Tamaño del vocaulario del cluster = 3609
+Número de documentos en el cluster = 60
+He cubierto 49.238014% del vocabulario del cluster con 2 centroides
+0 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 18
+Tamaño del vocaulario del cluster = 1867
+Número de documentos en el cluster = 4
+He cubierto 58.168182% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+Cubriendo el vocabulario del cluster 19
+Tamaño del vocaulario del cluster = 2880
+Número de documentos en el cluster = 32
+He cubierto 45.17361% del vocabulario del cluster con 2 centroides
+1 centroides se mantuvieron igual
+numberOfDocsAssigendRandomly = 0
+Time to run till 20 iterations: 23 seconds
+Time to cluster: 612 seconds
+Termina de inicializar mapa de ids de clusters
+Acc, Prec, recall, fscore: 
+0.5108989 0.05456625 0.53257036 0.098990135
+
+Purity: 0.09064824654622741
+NMI: 0.05138389951455361
+RI: 0.5108988536073188
