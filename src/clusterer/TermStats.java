@@ -6,14 +6,8 @@
 package clusterer;
 
 import indexer.WMTIndexer;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
-import org.apache.lucene.index.Terms;
-import org.apache.lucene.index.TermsEnum;
-import org.apache.lucene.util.BytesRef;
 
 /**
  *
@@ -40,7 +34,7 @@ public class TermStats implements Comparable<TermStats> {
                 Math.log(reader.numDocs()/
                 (float)(reader.docFreq(new Term(WMTIndexer.FIELD_ANALYZED_CONTENT, term)))));
     }
-    
+
     void computeWeight(int docLen, float lambda) {
         ntf = tf/(float)docLen;
         wt = (float)Math.log(1+ lambda/(1-lambda)*ntf*idf);

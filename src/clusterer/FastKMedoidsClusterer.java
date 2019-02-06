@@ -6,6 +6,8 @@
 package clusterer;
 
 import indexer.WMTIndexer;
+
+import java.awt.*;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
@@ -73,7 +75,8 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
     // as the next candidate centroid a document that does not belong to this region.
     @Override
     void initCentroids() throws Exception {
-        int selectedDoc = (int)(Math.random()*numDocs);
+//        int selectedDoc = (int)(Math.random()*numDocs);
+        int selectedDoc = 2;
         int numClusterCentresAssigned = 1;
         centroidDocIds = new HashMap<>();
         
@@ -149,6 +152,7 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
         int newCentroidDocId;
         for (int i=0; i < K; i++) {
             newCentroidDocId = rdes[i].recomputeCentroidDoc();
+            System.out.println(newCentroidDocId);
             if (rdes[i].docId != newCentroidDocId) {
                 String oldCentroidURL = rdes[i].queryDoc.get(idFieldName);
                 rdes[i] = new RelatedDocumentsRetriever(reader, newCentroidDocId, prop, i);
@@ -175,12 +179,12 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
             boolean eval = true;
             if (eval) {
                 ClusterEvaluator ceval = new ClusterEvaluator(args[0]);
-                System.out.println("Acc, prec, recall, fscore: ");
+//                System.out.println("Acc, prec, recall, fscore: ");
                 ceval.showNewMeasures();
 
-                System.out.println("Purity: " + ceval.computePurity());
-                System.out.println("NMI: " + ceval.computeNMI());            
-                System.out.println("RI: " + ceval.computeRandIndex());            
+//                System.out.println("Purity: " + ceval.computePurity());
+//                System.out.println("NMI: " + ceval.computeNMI());
+//                System.out.println("RI: " + ceval.computeRandIndex());
             }
         }
         catch (Exception ex) {

@@ -14,6 +14,8 @@ import org.apache.lucene.index.Terms;
 import org.apache.lucene.index.TermsEnum;
 import org.apache.lucene.util.BytesRef;
 
+import javax.swing.plaf.synth.SynthTextAreaUI;
+
 /**
  *
  * @author Debasis
@@ -72,11 +74,13 @@ public final class TermVector {
 //            // sorting steps.
 //            return new TermVector(termStats);
 //        }
-        
+//
+//        float acumulado = 0.0f;
         for (TermStats ts : termStats) {
             ts.computeWeight(docLen, lambda);
+//            acumulado += ts.wt;
         }
-        
+//        System.out.println(acumulado);
         Collections.sort(termStats);
         int numTopTerms = (int)(queryToDocRatio*termStats.size());
         numTopTerms = Math.min(numTopTerms, MAX_NUM_QRY_TERMS);

@@ -201,6 +201,7 @@ public class RelatedDocumentsRetriever {
     }
     
     int recomputeCentroidDoc() throws Exception {
+
         int numNonRetrDocs = nonretrievedDocIds.size();
         int numRelatedDocs = relatedDocs==null? 0 : relatedDocs.scoreDocs.length;
         int[] docIds = new int[numRelatedDocs + numNonRetrDocs];

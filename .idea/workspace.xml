@@ -5,11 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa70a3d3-b5ff-4825-aa13-b6eefe5b21b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/clusterer/FPACNU_NotSimilarHeuristics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clusterer/FPAC_NoRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/clusterer/FPAC_TermWeightSelection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kmeans.ids.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexes_properties/docs_index.properties" beforeDir="false" afterPath="$PROJECT_DIR$/indexes_properties/docs_index.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kmeans.ids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/kmeans.ids.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_properties/init_0.properties" beforeDir="false" afterPath="$PROJECT_DIR$/run_properties/init_0.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/clusterer/ClusterEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clusterer/ClusterEvaluator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clusterer/FPACDynamicCentroids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clusterer/FPACDynamicCentroids.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/clusterer/LuceneClusterer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clusterer/LuceneClusterer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clusterer/FPACDynamicCentroids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clusterer/FPACNU_SetCover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clusterer/MainExperiments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clusterer/MainExperiments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clusterer/RelatedDocumentsRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clusterer/RelatedDocumentsRetriever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clusterer/TermStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clusterer/TermStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/clusterer/TermVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/clusterer/TermVector.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,37 +30,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/indexes_properties/docs_index.properties">
+        <entry file="file://$PROJECT_DIR$/src/clusterer/FPAC_TermWeightSelection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/clusterer/FPACDynamicCentroids.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-978">
-              <caret line="281" column="58" selection-start-line="281" selection-start-column="58" selection-end-line="281" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer_RandomInit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer_TrueCentroid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+            <state relative-caret-position="1512">
+              <caret line="63" column="36" lean-forward="true" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
-              <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+            <state relative-caret-position="400">
+              <caret line="149" column="13" lean-forward="true" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
               <folding>
                 <element signature="method#selectDoc#0;class#FastKMedoidsClusterer#0" />
               </folding>
@@ -68,20 +53,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/clusterer/ClusterEvaluator.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clusterer/RelatedDocumentsRetriever.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="104" column="54" selection-start-line="104" selection-start-column="54" selection-end-line="104" selection-end-column="54" />
+            <state relative-caret-position="269">
+              <caret line="218" column="31" selection-start-line="218" selection-start-column="31" selection-end-line="218" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/clusterer/LuceneClusterer.java">
+        <entry file="file://$PROJECT_DIR$/stopwords.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="148" column="50" selection-start-line="148" selection-start-column="50" selection-end-line="148" selection-end-column="50" />
+            <state relative-caret-position="-17">
+              <caret line="552" column="6" lean-forward="true" selection-start-line="552" selection-start-column="6" selection-end-line="552" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/clusterer/FPACNU_SetCover.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clusterer/QrelClusterEvaluator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4486">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clusterer/ClusterEvaluator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="170" column="12" selection-start-line="170" selection-start-column="12" selection-end-line="170" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clusterer/TermStats.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/clusterer/TermVector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -89,44 +119,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run_properties/init_0.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-start-column="1" selection-end-line="10" selection-end-column="79" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/clusterer/FPACWithMCentroids.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="364" column="51" lean-forward="true" selection-start-line="364" selection-start-column="51" selection-end-line="364" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/clusterer/RelatedDocumentsRetriever.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="150" column="16" lean-forward="true" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
+            <state relative-caret-position="288">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>NewsFields</find>
-      <find>rdes</find>
-      <find>listSetOfTermsForEachCluster</find>
-      <find>idxCentroidsGroup</find>
-      <find>centroidDoc</find>
-      <find>CentroidsGroups</find>
-      <find>termVectorCentroids</find>
-      <find>assign c</find>
-      <find>ListOfDocsForE</find>
-      <find>hasBeenSelected</find>
       <find>assignClu</find>
       <find>No pu</find>
       <find>docsId</find>
@@ -136,7 +145,31 @@
       <find>reset</find>
       <find>Termin</find>
       <find>random</find>
+      <find>show</find>
+      <find>computep</find>
+      <find>args[0]</find>
+      <find>separ</find>
+      <find>getC</find>
+      <find>centroidvec</find>
+      <find>centroidVecs</find>
+      <find>computeCentroid</find>
+      <find>getTerm</find>
+      <find>recompute</find>
+      <find>termvector</find>
+      <find>dynamicTermVectorCentroids</find>
+      <find>computeW</find>
+      <find>lambda</find>
+      <find>compute</find>
+      <find>numnon</find>
+      <find>nonretrievedDoc</find>
+      <find>addDoc</find>
+      <find>recall</find>
+      <find>c2</find>
+      <find>nonretrievedDocIds</find>
     </findStrings>
+    <replaceStrings>
+      <replace>inputPropsFilePath</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -150,14 +183,23 @@
         <option value="$PROJECT_DIR$/src/indexer/TwentyNewsIndexer.java" />
         <option value="$PROJECT_DIR$/indexes_properties/20newsgroups.properties" />
         <option value="$PROJECT_DIR$/src/indexer/DocumentsIndexer.java" />
-        <option value="$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer.java" />
         <option value="$PROJECT_DIR$/src/clusterer/FPACWithMCentroids.java" />
         <option value="$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer_TrueCentroid.java" />
-        <option value="$PROJECT_DIR$/indexes_properties/docs_index.properties" />
-        <option value="$PROJECT_DIR$/run_properties/init_0.properties" />
         <option value="$PROJECT_DIR$/src/clusterer/LuceneClusterer.java" />
         <option value="$PROJECT_DIR$/src/clusterer/FPACDynamicCentroids.java" />
+        <option value="$PROJECT_DIR$/src/clusterer/FPACNU_NotSimilarHeuristics.java" />
+        <option value="$PROJECT_DIR$/dataset/davidson_agresividad_en/salida.csv" />
+        <option value="$PROJECT_DIR$/indexes_properties/docs_index.properties" />
+        <option value="$PROJECT_DIR$/src/clusterer/FPAC_NoRandom.java" />
+        <option value="$PROJECT_DIR$/src/clusterer/MainExperiments.java" />
+        <option value="$PROJECT_DIR$/src/clusterer/TermStats.java" />
+        <option value="$PROJECT_DIR$/src/clusterer/TermVector.java" />
+        <option value="$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer.java" />
+        <option value="$PROJECT_DIR$/src/clusterer/RelatedDocumentsRetriever.java" />
+        <option value="$PROJECT_DIR$/run_properties/init_0.properties" />
         <option value="$PROJECT_DIR$/src/clusterer/ClusterEvaluator.java" />
+        <option value="$PROJECT_DIR$/src/clusterer/FPAC_TermWeightSelection.java" />
+        <option value="$PROJECT_DIR$/src/clusterer/FPACNU_SetCover.java" />
       </list>
     </option>
   </component>
@@ -172,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,12 +230,7 @@
               <item name="FPAC-new-centroids-selection" type="b2602c69:ProjectViewProjectNode" />
               <item name="FPAC-new-centroids-selection" type="462c0819:PsiDirectoryNode" />
               <item name="dataset" type="462c0819:PsiDirectoryNode" />
-              <item name="twitter_sentiment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FPAC-new-centroids-selection" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FPAC-new-centroids-selection" type="462c0819:PsiDirectoryNode" />
-              <item name="indexes" type="462c0819:PsiDirectoryNode" />
+              <item name="davidson_agresividad_en" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FPAC-new-centroids-selection" type="b2602c69:ProjectViewProjectNode" />
@@ -221,21 +257,24 @@
               <item name="FPAC-new-centroids-selection" type="b2602c69:ProjectViewProjectNode" />
               <item name="FPAC-new-centroids-selection" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="indexer" type="462c0819:PsiDirectoryNode" />
+              <item name="clusterer" type="462c0819:PsiDirectoryNode" />
+              <item name="QrelClusterEvaluator.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548296789532" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548971422631" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -250,13 +289,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FastKMedoidsClusterer_TrueCentroid">
-    <configuration name="DocumentsIndexer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="indexer.DocumentsIndexer" />
+  <component name="RunManager" selected="Application.FPACNU_SetCover">
+    <configuration name="FPACNU_SetCover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clusterer.FPACNU_SetCover" />
       <module name="FPAC-new-centroids-selection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="indexer.*" />
+          <option name="PATTERN" value="clusterer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,8 +303,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FPACDynamicCentroids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clusterer.FPACDynamicCentroids" />
+    <configuration name="FPAC_NoRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clusterer.FPAC_NoRandom" />
+      <module name="FPAC-new-centroids-selection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clusterer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FPAC_TermWeightSelection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clusterer.FPAC_TermWeightSelection" />
       <module name="FPAC-new-centroids-selection" />
       <extension name="coverage">
         <pattern>
@@ -290,8 +342,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FastKMedoidsClusterer_TrueCentroid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clusterer.FastKMedoidsClusterer_TrueCentroid" />
+    <configuration name="MainExperiments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="clusterer.MainExperiments" />
       <module name="FPAC-new-centroids-selection" />
       <extension name="coverage">
         <pattern>
@@ -305,10 +357,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FastKMedoidsClusterer_TrueCentroid" />
-        <item itemvalue="Application.FPACDynamicCentroids" />
+        <item itemvalue="Application.FPACNU_SetCover" />
+        <item itemvalue="Application.FPAC_TermWeightSelection" />
         <item itemvalue="Application.FastKMedoidsClusterer" />
-        <item itemvalue="Application.DocumentsIndexer" />
+        <item itemvalue="Application.MainExperiments" />
+        <item itemvalue="Application.FPAC_NoRandom" />
       </list>
     </recent_temporary>
   </component>
@@ -333,17 +386,22 @@
       <workItem from="1548263928336" duration="2139000" />
       <workItem from="1548278491233" duration="5842000" />
       <workItem from="1548293632046" duration="3057000" />
+      <workItem from="1548774920555" duration="1252000" />
+      <workItem from="1548791623690" duration="14401000" />
+      <workItem from="1548808894544" duration="11069000" />
+      <workItem from="1548864699453" duration="599000" />
+      <workItem from="1548950556844" duration="1966000" />
+      <workItem from="1548962886614" duration="7269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23512000" />
+    <option name="totallyTimeSpent" value="63929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21184632" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24759872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -352,7 +410,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3291536" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3124347" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.62173456" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -418,16 +476,6 @@
     <entry file="file://$PROJECT_DIR$/indexes_properties/sms_clustering.properties" />
     <entry file="file://$PROJECT_DIR$/indexes_properties/tweets.properties" />
     <entry file="file://$PROJECT_DIR$/indexes_properties/sms.properties" />
-    <entry file="file://$PROJECT_DIR$/src/indexer/DocumentsIndexer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="133" column="43" selection-start-line="133" selection-start-column="43" selection-end-line="133" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/clusterer/ScalableKMeans.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -435,71 +483,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/clusterer/TermVector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clusterer/TermStats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clusterer/QrelClusterEvaluator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="226" column="80" lean-forward="true" selection-start-line="221" selection-start-column="8" selection-end-line="226" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clusterer/KMeansClusterer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1345">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run_properties/init_1.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/run_properties/init_2.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clusterer/MainExperiments.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stopwords.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/dataset/twitter_sentiment/train.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/indexes_properties/docs_index.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kmeans.ids.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-25920">
           <caret line="345" column="11" lean-forward="true" selection-start-line="345" selection-start-column="11" selection-end-line="345" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clusterer/RelatedDocumentsRetriever.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="150" column="16" lean-forward="true" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -510,34 +503,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run_properties/init_0.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-start-column="1" selection-end-line="10" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clusterer/LuceneClusterer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="148" column="50" selection-start-line="148" selection-start-column="50" selection-end-line="148" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clusterer/FPACDynamicCentroids.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-978">
-          <caret line="281" column="58" selection-start-line="281" selection-start-column="58" selection-end-line="281" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer_TrueCentroid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer_RandomInit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -545,20 +510,154 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/FPACNU_NotSimilarHeuristics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset/davidson_agresividad_en/salida.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594768">
+          <caret line="24782" column="108" selection-start-line="24782" selection-start-column="108" selection-end-line="24782" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer_TrueCentroid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="857">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/indexer/DocumentsIndexer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="136" column="35" selection-start-line="136" selection-start-column="35" selection-end-line="136" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/indexes_properties/docs_index.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/FPAC_NoRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_properties/init_1.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/LuceneClusterer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="63" column="77" selection-start-line="63" selection-start-column="77" selection-end-line="63" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/KMeansClusterer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/MainExperiments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/TermStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/TermVector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_properties/init_0.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/QrelClusterEvaluator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4486">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="552" column="6" lean-forward="true" selection-start-line="552" selection-start-column="6" selection-end-line="552" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/RelatedDocumentsRetriever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="218" column="31" selection-start-line="218" selection-start-column="31" selection-end-line="218" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/ClusterEvaluator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="170" column="12" selection-start-line="170" selection-start-column="12" selection-end-line="170" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/clusterer/FastKMedoidsClusterer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="49" column="8" lean-forward="true" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        <state relative-caret-position="400">
+          <caret line="149" column="13" lean-forward="true" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
           <folding>
             <element signature="method#selectDoc#0;class#FastKMedoidsClusterer#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/clusterer/ClusterEvaluator.java">
+    <entry file="file://$PROJECT_DIR$/src/clusterer/FPAC_TermWeightSelection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="104" column="54" selection-start-line="104" selection-start-column="54" selection-end-line="104" selection-end-column="54" />
+        <state relative-caret-position="1512">
+          <caret line="63" column="36" lean-forward="true" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/clusterer/FPACNU_SetCover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
         </state>
       </provider>
     </entry>
