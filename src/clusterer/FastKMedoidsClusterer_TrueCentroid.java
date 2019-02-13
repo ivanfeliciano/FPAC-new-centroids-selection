@@ -86,17 +86,8 @@ public class FastKMedoidsClusterer_TrueCentroid extends FastKMedoidsClusterer {
         try {
             LuceneClusterer fkmc = new FastKMedoidsClusterer_TrueCentroid(args[0]);
             fkmc.cluster();
-            
-            boolean eval = Boolean.parseBoolean(fkmc.getProperties().getProperty("eval", "false"));
-            if (eval) {
-                ClusterEvaluator ceval = new ClusterEvaluator(args[0]);
-                System.out.println("Acc, prec, recall, fscore: ");
-                ceval.showNewMeasures();
-
-                System.out.println("Purity: " + ceval.computePurity());
-                System.out.println("NMI: " + ceval.computeNMI());            
-                System.out.println("RI: " + ceval.computeRandIndex());            
-            }
+            ClusterEvaluator ceval = new ClusterEvaluator(args[0]);
+            ceval.showNewMeasures();
         }
         catch (Exception ex) {
             ex.printStackTrace();

@@ -239,12 +239,8 @@ public final class ClusterEvaluator {
         float fscore = 2*prec*recall/(prec+recall);
 
         try {
-            System.out.println("Accuracy: " + accuracy);
-            System.out.println("Recall: " + recall);
-            System.out.println("Precision: " + prec);
-            System.out.println("FScore: " + fscore);
-            System.out.println("Purity: " + computePurity());
-            System.out.println("NMI: " + computeNMI());
+            System.out.println("RI  Recall  Precision   FScore  Purity  NMI");
+            System.out.println(computeRandIndex() +  " " + recall + " " + prec + " " + fscore + " " + computePurity() + " " + computeNMI());
         } catch (Exception e) {
             e.printStackTrace();
         }

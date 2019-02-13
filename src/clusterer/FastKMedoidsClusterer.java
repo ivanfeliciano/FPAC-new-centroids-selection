@@ -11,10 +11,9 @@ import java.awt.*;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Properties;
-import java.util.Set;
+import java.util.*;
+import java.util.List;
+
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -75,21 +74,23 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
     // as the next candidate centroid a document that does not belong to this region.
     @Override
     void initCentroids() throws Exception {
-//        int selectedDoc = (int)(Math.random()*numDocs);
-        int selectedDoc = 2;
+        int selectedDoc = (int)(Math.random()*numDocs);
+//        int selectedDoc = 2;
         int numClusterCentresAssigned = 1;
         centroidDocIds = new HashMap<>();
-        
+        List<Integer> initialCentroids = Arrays.asList(7366,6007,31,6243,5975,1138,1603,3914);
+
         do {
+            selectedDoc = initialCentroids.get(numClusterCentresAssigned-1);
             RelatedDocumentsRetriever rde = new RelatedDocumentsRetriever(reader, selectedDoc, prop, numClusterCentresAssigned);
             System.out.println("Chosen doc " + selectedDoc + " as centroid number " + numClusterCentresAssigned);
             TopDocs topDocs = rde.getRelatedDocs(numDocs/K);
-            if (topDocs == null) {
-                selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
-                continue;
-            }
+//            if (topDocs == null) {
+//                selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
+//                continue;
+//            }
             centroidDocIds.put(selectedDoc, null);
-            selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
+//            selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
             rdes[numClusterCentresAssigned-1] = rde;
             numClusterCentresAssigned++;
         }

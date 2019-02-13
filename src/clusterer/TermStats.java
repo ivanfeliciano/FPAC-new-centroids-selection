@@ -39,6 +39,9 @@ public class TermStats implements Comparable<TermStats> {
         ntf = tf/(float)docLen;
         wt = (float)Math.log(1+ lambda/(1-lambda)*ntf*idf);
     }
+    void computeTFIDF(int docLen) {
+        wt = tf * idf;
+    }
 
     @Override
     public int compareTo(TermStats that) {

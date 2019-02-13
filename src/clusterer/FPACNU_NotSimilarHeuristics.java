@@ -74,7 +74,7 @@ public class FPACNU_NotSimilarHeuristics extends FPACNU_SetCover {
                 }
             }
             System.out.println("# centroides del cluster " + counter);
-            System.out.println(coutEqualCentroids(oldCentroids.get(cluster), cluster) + " centroides se mantuvieron igual");
+            System.out.println(countEqualCentroids(oldCentroids.get(cluster), cluster) + " centroides se mantuvieron igual");
 
         }
     }

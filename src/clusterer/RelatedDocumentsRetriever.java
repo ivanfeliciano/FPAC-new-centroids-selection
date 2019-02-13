@@ -111,6 +111,7 @@ public class RelatedDocumentsRetriever {
     }
     
     TopDocs getRelatedDocs(int numWanted) throws Exception {
+        System.out.println("I want " + numWanted + "  results");
         IndexSearcher searcher = new IndexSearcher(reader);
         searcher.setSimilarity(new LMJelinekMercerSimilarity(0.4f));
         
@@ -134,7 +135,7 @@ public class RelatedDocumentsRetriever {
             docScoreMap.put(sd.doc, sd);
         }
         
-        //System.out.println("#related docs = " + docScoreMap.size());
+        System.out.println("#related docs = " + docScoreMap.size());
         return relatedDocs;
     }
     

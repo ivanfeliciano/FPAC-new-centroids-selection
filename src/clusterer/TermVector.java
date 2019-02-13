@@ -42,9 +42,58 @@ public final class TermVector {
         return extractDocTerms(reader, docId, contentFieldName, 1, lambda);
     }
 
-	public int getLen() throws Exception {
+    public static TermVector extractAllDocTermsTF(IndexReader reader, int docId, String contentFieldName, float lambda) throws Exception {
+        return extractDocTermsTF(reader, docId, contentFieldName, 1, lambda);
+    }
+
+
+    public int getLen() throws Exception {
 		return termStatsList.size();
 	}
+
+    public static TermVector extractDocTermsTF(IndexReader reader, int docId, String contentFieldName, float queryToDocRatio, float lambda) throws Exception {
+        String termText;
+        BytesRef term;
+        Terms tfvector;
+        TermsEnum termsEnum;
+        int tf;
+
+        tfvector = reader.getTermVector(docId, contentFieldName);
+        if (tfvector == null || tfvector.size() == 0)
+            return null;
+        // Construct the normalized tf vector
+        termsEnum = tfvector.iterator(); // access the terms for this field
+
+        List<TermStats> termStats = new ArrayList<>();
+
+        int docLen = 0;
+        while ((term = termsEnum.next()) != null) { // explore the terms for this field
+            tf = (int)termsEnum.totalTermFreq();
+            termText = term.utf8ToString();
+            termStats.add(new TermStats(termText, tf, reader));
+            docLen += tf;
+        }
+
+//        if (queryToDocRatio == 1) {
+//            // if all terms are to be selected skip the weighting and the
+//            // sorting steps.
+//            return new TermVector(termStats);
+//        }
+//
+//        float acumulado = 0.0f;
+        for (TermStats ts : termStats) {
+            ts.computeTFIDF(docLen);
+//            acumulado += ts.wt;
+        }
+//        System.out.println(acumulado);
+        Collections.sort(termStats);
+        int numTopTerms = (int)(queryToDocRatio*termStats.size());
+        numTopTerms = Math.min(numTopTerms, MAX_NUM_QRY_TERMS);
+        if (numTopTerms == 0)
+            return null;
+
+        return new TermVector(termStats.subList(0, numTopTerms));
+    }
     
     public static TermVector extractDocTerms(IndexReader reader, int docId, String contentFieldName, float queryToDocRatio, float lambda) throws Exception {
         String termText;
@@ -149,7 +198,7 @@ public final class TermVector {
                 j++;
             }
         }
-        
+
         return sum;
     }
 
