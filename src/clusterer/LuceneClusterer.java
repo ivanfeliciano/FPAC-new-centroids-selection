@@ -37,6 +37,7 @@ public abstract class LuceneClusterer {
     float lambda;
     int numberOfCentroidsByGroup;
     int numberOfDocsAssginedRandomly = 0;
+    int numberOfAssignedByCosineSim = 0;
 
     public LuceneClusterer(String propFile) throws Exception {
         prop = new Properties();
@@ -84,21 +85,29 @@ public abstract class LuceneClusterer {
 	    start = System.currentTimeMillis();
 
             System.out.println("Iteration : " + i);
-            if (i ==  1 || i % 20 == 0) {
-                showCentroids();
-            }
+//            if (i ==  1 || i % 20 == 0) {
+//                showCentroids();
+//            }
             
             System.out.println("Reassigning cluster ids to non-centroid docs...");
             changeRatio = assignClusterIds();
-            
+            for (HashMap.Entry<Integer, Integer> clusterMapIterator: clusterIdMap.entrySet()) {
+                String domainIdWithDoubleQuotes = reader.document(clusterMapIterator.getKey()).get(WMTIndexer.FIELD_DOMAIN_ID);
+                String domainIdWODoubleQuotes = domainIdWithDoubleQuotes.replaceAll("^\"|\"$", "");
+                System.out.println("Doc " +  clusterMapIterator.getKey() + " asignado al cluster " + clusterMapIterator.getValue() + " y el cluster real es " + domainIdWODoubleQuotes);
+
+            }
             System.out.println(changeRatio + " fraction of the documents reassigned different clusters...");
             if (changeRatio < stopThreshold) {
                 System.out.println("Stopping after " + i + " iterations...");
                 break;
             }
-            recomputeCentroids();
             System.out.println("numberOfDocsAssigendRandomly = " + numberOfDocsAssginedRandomly);
+            System.out.println("numberOfAssignedByCosineSim =  " + numberOfAssignedByCosineSim);
+            recomputeCentroids();
             numberOfDocsAssginedRandomly = 0;
+            numberOfAssignedByCosineSim = 0;
+
             end = System.currentTimeMillis();
             System.out.println("Time to run till " + i + " iterations: " + (end-start)/1000 + " seconds");
             //saveClusterIds(i);

@@ -70,7 +70,8 @@ public class RelatedDocumentsRetriever {
         qSelLambda = Float.parseFloat(prop.getProperty("lm.termsel.lambda", "0.6f"));
         this.queryDoc = reader.document(docId);
         nonretrievedDocIds = new ArrayList<>();
-        queryToDocRatio = Float.parseFloat(prop.getProperty("termsel.ratio", "1")); // 1 <=> select all terms for query
+//        queryToDocRatio = Float.parseFloat(prop.getProperty("termsel.ratio", "1")); // 1 <=> select all terms for query
+        queryToDocRatio = 1;
     }
 
     TopDocs normalize(TopDocs topDocs) {
@@ -111,7 +112,7 @@ public class RelatedDocumentsRetriever {
     }
     
     TopDocs getRelatedDocs(int numWanted) throws Exception {
-        System.out.println("I want " + numWanted + "  results");
+//        System.out.println("I want " + numWanted + "  results");
         IndexSearcher searcher = new IndexSearcher(reader);
         searcher.setSimilarity(new LMJelinekMercerSimilarity(0.4f));
         
@@ -125,17 +126,18 @@ public class RelatedDocumentsRetriever {
         for (TermStats ts : repTerms.termStatsList) {
             queryDocument.add(new TermQuery(new Term(contentFieldName, ts.term)), BooleanClause.Occur.SHOULD);
         }
+
         
         relatedDocs = searcher.search(queryDocument, numWanted);
         relatedDocs = normalize(relatedDocs);
-        int counter = 0;
-        
         docScoreMap = new HashMap<>();
+        System.out.println("Mi lista TOP es:");
         for (ScoreDoc sd : relatedDocs.scoreDocs) {
             docScoreMap.put(sd.doc, sd);
+            System.out.println("doc = " + sd.doc + " score = " + sd.score);
         }
         
-        System.out.println("#related docs = " + docScoreMap.size());
+//        System.out.println("#related docs = " + docScoreMap.size());
         return relatedDocs;
     }
     
@@ -143,21 +145,25 @@ public class RelatedDocumentsRetriever {
         int numDocs = reader.numDocs();
         int start = (int)(Math.random()*numDocs), i;
         int end = numDocs;
-
         for (i=start; i < end; i++) {
-            if (docScoreMap!=null && !docScoreMap.containsKey(i) && !centroidDocIds.containsKey(i))
-                break;
-            else if (!centroidDocIds.containsKey(i))
-                break;
-                
+            if (docScoreMap!=null && !docScoreMap.containsKey(i) && !centroidDocIds.containsKey(i)){
+                System.out.println("El docScoreMap contiene al doc " + i);
+                System.out.println(docScoreMap.containsKey(i));
+                break;}
+//            else if (!centroidDocIds.containsKey(i)){
+//                System.out.println("No es un centroide por eso lo regreso");
+//                break;
+//
+//            }
+
             if (i==end-1) {
                 end = start;
                 i = 0;
             }
         }
-        
         // if nothing found, return a random one... else this document
-        return end==start? start : i;
+        System.out.println("Regreso al doc " + i);
+        return end == start? start : i;
     } 
 
     Document constructDoc(int docId, int clusterId) throws Exception {
@@ -184,10 +190,10 @@ public class RelatedDocumentsRetriever {
     }
     
     int getNumberOfUniqueTerms(int docId) throws Exception {
+
         Terms tfvector;
         TermsEnum termsEnum;
         BytesRef term;
-        
         tfvector = reader.getTermVector(docId, contentFieldName);
         if (tfvector == null || tfvector.size() == 0)
             return 0;
@@ -201,10 +207,11 @@ public class RelatedDocumentsRetriever {
         return numTerms;
     }
     
-    int recomputeCentroidDoc() throws Exception {
-
+    int recomputeCentroidDoc(HashMap <Integer, Byte> centroidsIds) throws Exception {
         int numNonRetrDocs = nonretrievedDocIds.size();
+//        System.out.println("no retrieved docs = " + numNonRetrDocs);
         int numRelatedDocs = relatedDocs==null? 0 : relatedDocs.scoreDocs.length;
+//        System.out.println("num related docs = " + numRelatedDocs);
         int[] docIds = new int[numRelatedDocs + numNonRetrDocs];
         int i;
         for (i=0; i < numRelatedDocs; i++) {
@@ -215,13 +222,22 @@ public class RelatedDocumentsRetriever {
         }
         
         int mostCentralDocId = 0;
+        int lastCentralDocId = 0;
         int maxNumUniqueTermsSeen = getNumberOfUniqueTerms(docIds[0]);
-        
+
         for (i=1; i < docIds.length; i++) {
-            int numUniqueTerms = getNumberOfUniqueTerms(docIds[i]);
-            if (numUniqueTerms > maxNumUniqueTermsSeen) {
-                maxNumUniqueTermsSeen = numUniqueTerms;
-                mostCentralDocId = i;
+            try {
+                int numUniqueTerms = getNumberOfUniqueTerms(docIds[i]);
+                if (numUniqueTerms > maxNumUniqueTermsSeen) {
+                    maxNumUniqueTermsSeen = numUniqueTerms;
+                    mostCentralDocId = i;
+                    if (centroidsIds != null && centroidsIds.containsKey(mostCentralDocId)){
+                        mostCentralDocId = lastCentralDocId;
+                    } else
+                        lastCentralDocId = mostCentralDocId;
+                }
+            } catch (Exception e) {
+                continue;
             }
         }
         

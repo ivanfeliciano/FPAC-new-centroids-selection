@@ -19,12 +19,14 @@ public class TermStats implements Comparable<TermStats> {
     float ntf;
     float idf;
     float wt;
-    
+    float wt_author;
+
     static final int MAX_NUM_QRY_TERMS = 1024;
     
     TermStats(String term, float wt) {
         this.term = term;
         this.wt = wt;
+        this.wt_author = wt;
     }
     
     TermStats(String term, int tf, IndexReader reader) throws Exception {
@@ -40,7 +42,9 @@ public class TermStats implements Comparable<TermStats> {
         wt = (float)Math.log(1+ lambda/(1-lambda)*ntf*idf);
     }
     void computeTFIDF(int docLen) {
-        wt = tf * idf;
+        wt = (tf/(float)docLen) * idf;
+        ntf = tf/(float)docLen;
+        wt_author = (float)Math.log(1+ .6/(1-.6)*ntf*idf);
     }
 
     @Override

@@ -38,7 +38,7 @@ public class FPACNU_NotSimilarHeuristics extends FPACNU_SetCover {
             int counter = 0;
             HashMap <Integer, Byte> hasBeenSelected = new HashMap<>();
             System.out.println("Generando nuevos centroides del cluster " + cluster);
-            int newInitialCentroidForThisCluster = initialLocalClusterCentroids.get(cluster).recomputeCentroidDoc();
+            int newInitialCentroidForThisCluster = initialLocalClusterCentroids.get(cluster).recomputeCentroidDoc(null);
 
 
             RelatedDocumentsRetriever initialRDE = new RelatedDocumentsRetriever(reader, newInitialCentroidForThisCluster, prop, cluster + 1);

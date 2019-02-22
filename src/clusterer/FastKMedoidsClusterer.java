@@ -75,23 +75,25 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
     @Override
     void initCentroids() throws Exception {
         int selectedDoc = (int)(Math.random()*numDocs);
-//        int selectedDoc = 2;
         int numClusterCentresAssigned = 1;
         centroidDocIds = new HashMap<>();
-        List<Integer> initialCentroids = Arrays.asList(7366,6007,31,6243,5975,1138,1603,3914);
-
+//        List<Integer> initialCentroids = Arrays.asList(12, 25);
         do {
-            selectedDoc = initialCentroids.get(numClusterCentresAssigned-1);
+//            int selectedDoc = initialCentroids.get(numClusterCentresAssigned - 1);
             RelatedDocumentsRetriever rde = new RelatedDocumentsRetriever(reader, selectedDoc, prop, numClusterCentresAssigned);
-            System.out.println("Chosen doc " + selectedDoc + " as centroid number " + numClusterCentresAssigned);
-            TopDocs topDocs = rde.getRelatedDocs(numDocs/K);
-//            if (topDocs == null) {
-//                selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
-//                continue;
-//            }
+            System.out.println("El documento " + selectedDoc + " se elige como centroide para el cluster " + (numClusterCentresAssigned - 1));
+            clusterIdMap.put(selectedDoc, numClusterCentresAssigned - 1);
+            TopDocs topDocs = rde.getRelatedDocs(numDocs / K);
+            if (topDocs == null) {
+                System.out.println("No obtuve lista top para este centroide");
+                selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
+                continue;
+            }
             centroidDocIds.put(selectedDoc, null);
-//            selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
+            selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
+            System.out.println("selected Doc " + selectedDoc);
             rdes[numClusterCentresAssigned-1] = rde;
+
             numClusterCentresAssigned++;
         }
         while (numClusterCentresAssigned <= K);        
@@ -116,26 +118,27 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
     
     @Override
     int getClosestCluster(int docId) throws Exception { // O(K) computation...
-        float maxScore = 0;
+        float maxScore = -10;
+        boolean notInAnyTopList = true;
         int clusterId = 0;
         for (int i=0; i < K; i++) {
-            if (rdes[i].docScoreMap == null)
+            if (rdes[i].docScoreMap == null) {
+                System.out.println("El centroide " + i + " no tiene top list");
                 continue;
+            }
             ScoreDoc sd = rdes[i].docScoreMap.get(docId);
-            // aquí debes guardar también en cuantos de los centroides del cluster aparece
-            // maxAparacionesEnCentroides
-            // entonces necesito otro FOR donde guarde el maxScore para un grupo de centroides
-            // y cuantas veces aparece para ir actualizando el clusterId
             if (sd != null) {
+                notInAnyTopList = false;
                 if (sd.score > maxScore) {
                     maxScore = sd.score;
                     clusterId = i;
                 }
             }
         }
-        if (maxScore == 0) {
+        if (notInAnyTopList) {
             // Retrieved in none... Assign to a random cluster id
             clusterId = (int)(Math.random()*K);
+            System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
             numberOfDocsAssginedRandomly++;
         }
         return clusterId;
@@ -151,15 +154,15 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
     @Override
     void recomputeCentroids() throws Exception {
         int newCentroidDocId;
+        centroidDocIds.clear();
         for (int i=0; i < K; i++) {
-            newCentroidDocId = rdes[i].recomputeCentroidDoc();
-            System.out.println(newCentroidDocId);
+            newCentroidDocId = rdes[i].recomputeCentroidDoc(centroidDocIds);
+            centroidDocIds.put(newCentroidDocId, null);
             if (rdes[i].docId != newCentroidDocId) {
                 String oldCentroidURL = rdes[i].queryDoc.get(idFieldName);
                 rdes[i] = new RelatedDocumentsRetriever(reader, newCentroidDocId, prop, i);
                 String newCentroidURL = rdes[i].queryDoc.get(idFieldName);
                 System.out.println("Changed centroid document " + oldCentroidURL + " to " + newCentroidURL);
-                
                 rdes[i].getRelatedDocs(numDocs/K);
             }
         }
