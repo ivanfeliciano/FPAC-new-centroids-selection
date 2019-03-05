@@ -52,7 +52,10 @@ public class RelatedDocumentsRetriever {
     TopDocs relatedDocs;
     HashMap<Integer, ScoreDoc> docScoreMap;
     List<Integer> nonretrievedDocIds;  // doc-ids that were not retrieved but assigned to this cluster
-    
+
+    TermVector termVectorForTrueCentroids = null;
+
+
     Properties prop;
 
     float qSelLambda;
@@ -117,52 +120,75 @@ public class RelatedDocumentsRetriever {
         searcher.setSimilarity(new LMJelinekMercerSimilarity(0.4f));
         
         BooleanQuery queryDocument = new BooleanQuery();
-        TermVector repTerms = TermVector.extractDocTerms(reader, docId, contentFieldName, queryToDocRatio, qSelLambda);
+        TermVector repTerms = termVectorForTrueCentroids != null ? termVectorForTrueCentroids : TermVector.extractDocTerms(reader, docId, contentFieldName, queryToDocRatio, qSelLambda);
+//        TermVector repTerms = TermVector.extractDocTerms(reader, docId, contentFieldName, queryToDocRatio, qSelLambda);
         if (repTerms == null)
             return null;
+        System.out.println("Selected " + repTerms.termStatsList.size() + " terms for query");
 
-//        System.out.println("Selected " + repTerms.termStatsList.size() + " terms for query");
-
-        for (TermStats ts : repTerms.termStatsList) {
-            queryDocument.add(new TermQuery(new Term(contentFieldName, ts.term)), BooleanClause.Occur.SHOULD);
+        boolean retry = true;
+        while (retry)
+        {
+            try
+            {
+                for (TermStats ts : repTerms.termStatsList) {
+                    queryDocument.add(new TermQuery(new Term(contentFieldName, ts.term)), BooleanClause.Occur.SHOULD);
+                }
+                relatedDocs = searcher.search(queryDocument, numWanted);
+                retry = false;
+            }
+            catch (BooleanQuery.TooManyClauses e)
+            {
+                // Double the number of boolean queries allowed.
+                // The default is in org.apache.lucene.search.BooleanQuery and is 1024.
+                String defaultQueries = Integer.toString(BooleanQuery.getMaxClauseCount());
+                int oldQueries = Integer.parseInt(System.getProperty("org.apache.lucene.maxClauseCount", defaultQueries));
+                int newQueries = oldQueries * 2;
+                System.setProperty("org.apache.lucene.maxClauseCount", Integer.toString(newQueries));
+                BooleanQuery.setMaxClauseCount(newQueries);
+                retry = true;
+            }
         }
 
+
         
-        relatedDocs = searcher.search(queryDocument, numWanted);
         relatedDocs = normalize(relatedDocs);
         docScoreMap = new HashMap<>();
-        System.out.println("Mi lista TOP es:");
+//        System.out.println("Mi lista TOP es:");
         for (ScoreDoc sd : relatedDocs.scoreDocs) {
             docScoreMap.put(sd.doc, sd);
-            System.out.println("doc = " + sd.doc + " score = " + sd.score);
+//            System.out.println("doc = " + sd.doc + " score = " + sd.score);
         }
         
 //        System.out.println("#related docs = " + docScoreMap.size());
         return relatedDocs;
     }
     
-    int getUnrelatedDocument(HashMap<Integer, Byte> centroidDocIds) {
+    int getUnrelatedDocument(HashMap<Integer, Byte> centroidDocIds, RelatedDocumentsRetriever[] rdes) {
         int numDocs = reader.numDocs();
         int start = (int)(Math.random()*numDocs), i;
         int end = numDocs;
+        boolean isInTopList;
+        HashMap<Integer, ScoreDoc> centroidDocScoreMap = new HashMap<>();
+//        System.out.println(centroidDocIds);
         for (i=start; i < end; i++) {
-            if (docScoreMap!=null && !docScoreMap.containsKey(i) && !centroidDocIds.containsKey(i)){
-                System.out.println("El docScoreMap contiene al doc " + i);
-                System.out.println(docScoreMap.containsKey(i));
-                break;}
-//            else if (!centroidDocIds.containsKey(i)){
-//                System.out.println("No es un centroide por eso lo regreso");
-//                break;
-//
-//            }
-
-            if (i==end-1) {
-                end = start;
-                i = 0;
+            isInTopList = false;
+            if (!centroidDocIds.containsKey(i))
+            {
+                for (RelatedDocumentsRetriever rde: rdes) {
+                    if (rde == null) continue;
+                    centroidDocScoreMap = rde.docScoreMap;
+//                    System.out.println(centroidDocScoreMap);
+                    if (centroidDocScoreMap != null && centroidDocScoreMap.containsKey(i)) {
+                        isInTopList = true;
+                        break;
+                    }
+                }
             }
+            if (!isInTopList) break;
+            if (i==end-1) {end = start; i = 0;}
         }
         // if nothing found, return a random one... else this document
-        System.out.println("Regreso al doc " + i);
         return end == start? start : i;
     } 
 

@@ -13,7 +13,7 @@ public class FPAC_TermWeightSelection extends FPACNU_SetCover {
     public void recomputeCentroids() throws IOException {
         System.out.println("Recalculando centroides");
         int bestDocId = 0;
-        int numOfDocsCapacity = 5;
+        int numOfDocsCapacity = 1;
         ArrayList<ArrayList<Integer>> docsInEachCluster = new ArrayList<>(K);
         RelatedDocumentsRetriever rde;
         TermVector termVectorAux;
@@ -48,20 +48,21 @@ public class FPAC_TermWeightSelection extends FPACNU_SetCover {
             HashMap<Integer, Float> puntajes = new HashMap<>();
             System.out.println("Calculando centroides para el cluster " + cluster);
             double puntajeLocal = 0.0f;
-            double maxPuntaje = 0.0f;
             int counter = 0;
+            double maxPuntaje = 0.0f;
 
             for (int clusterDocsIdx = 0; clusterDocsIdx < docsInEachCluster.get(cluster).size(); clusterDocsIdx++) {
                 int docId = docsInEachCluster.get(cluster).get(clusterDocsIdx);
+                puntajeLocal = 0;
                 try {
                     for (TermStats st : TermVector.extractAllDocTermsTF(reader, docId, contentFieldName, lambda).termStatsList) {
                         puntajeLocal += st.wt;
-                        puntajes.put(docId, (float) puntajeLocal);
 //                        puntajeLocal += st.wt_author;
                     }
                 } catch (Exception e) {
-                    e.printStackTrace();
+                    //e.printStackTrace();
                 }
+                puntajes.put(docId, (float) puntajeLocal);
             }
             Map<Integer, Float> sorted = puntajes
                     .entrySet()
@@ -79,10 +80,10 @@ public class FPAC_TermWeightSelection extends FPACNU_SetCover {
                 clustersCentresIds.put(bestDocId, null);
                 System.out.println("Selecciona " +  bestDocId + " como centroide con ntf * idf = " + maxPuntaje);
 //                System.out.println("Selecciona " +  bestDocId + " como centroide con medida del autor  = " + maxPuntaje);
-                DynamicCentroids.get(cluster).add(new RelatedDocumentsRetriever(reader, bestDocId, prop, cluster + 1));
+                DynamicCentroids.get(cluster).add(new RelatedDocumentsRetriever(reader, bestDocId, prop, cluster));
                 try {
                     dynamicTermVectorCentroids.get(cluster).add(TermVector.extractAllDocTerms(reader, bestDocId, contentFieldName, lambda));
-                    DynamicCentroids.get(cluster).get(counter++).getRelatedDocs(numDocs / K);
+                    DynamicCentroids.get(cluster).get(counter++).getRelatedDocs(numDocs);
                 } catch (Exception e) {
                     e.printStackTrace();
                 }

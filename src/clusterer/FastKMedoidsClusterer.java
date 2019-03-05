@@ -75,28 +75,29 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
     @Override
     void initCentroids() throws Exception {
         int selectedDoc = (int)(Math.random()*numDocs);
-        int numClusterCentresAssigned = 1;
+        int numClusterCentresAssigned = 0;
         centroidDocIds = new HashMap<>();
-//        List<Integer> initialCentroids = Arrays.asList(12, 25);
-        do {
-//            int selectedDoc = initialCentroids.get(numClusterCentresAssigned - 1);
-            RelatedDocumentsRetriever rde = new RelatedDocumentsRetriever(reader, selectedDoc, prop, numClusterCentresAssigned);
-            System.out.println("El documento " + selectedDoc + " se elige como centroide para el cluster " + (numClusterCentresAssigned - 1));
-            clusterIdMap.put(selectedDoc, numClusterCentresAssigned - 1);
-            TopDocs topDocs = rde.getRelatedDocs(numDocs / K);
+//        List<Integer> initialCentroids = Arrays.asList(18361, 1530, 3930, 18239, 7957, 5565, 16159, 11214, 2446, 18485, 15716, 12348, 1181, 3914, 11754, 1277, 9534, 3093, 6590, 3113);
+//        List<Integer> initialCentroids = Arrays.asList(4114,7365,4280,4387,6446,517,4288,4887);
+//        List<Integer> initialCentroids = Arrays.asList(2615, 5477);
+        List<Integer> initialCentroids = Arrays.asList(62477,50238,55879,28993,50023,42838,2164,47159,27600,9760,3632,46457,19784,12677,30759,16907);
+        while (numClusterCentresAssigned < K) {
+            selectedDoc = initialCentroids.get(numClusterCentresAssigned);
+            RelatedDocumentsRetriever rde = new RelatedDocumentsRetriever(reader, selectedDoc, prop, numClusterCentresAssigned );
+            System.out.println("El documento " + selectedDoc + " se elige como centroide para el cluster " + (numClusterCentresAssigned));
+            clusterIdMap.put(selectedDoc, numClusterCentresAssigned);
+            TopDocs topDocs = rde.getRelatedDocs(numDocs);
             if (topDocs == null) {
                 System.out.println("No obtuve lista top para este centroide");
-                selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
+                selectedDoc = rde.getUnrelatedDocument(centroidDocIds, rdes);
                 continue;
             }
             centroidDocIds.put(selectedDoc, null);
-            selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
+            rdes[numClusterCentresAssigned] = rde;
+            selectedDoc = rde.getUnrelatedDocument(centroidDocIds, rdes);
             System.out.println("selected Doc " + selectedDoc);
-            rdes[numClusterCentresAssigned-1] = rde;
-
             numClusterCentresAssigned++;
         }
-        while (numClusterCentresAssigned <= K);        
     }
     
     void showCentroids() throws Exception {
@@ -138,7 +139,7 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
         if (notInAnyTopList) {
             // Retrieved in none... Assign to a random cluster id
             clusterId = (int)(Math.random()*K);
-            System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
+//            System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
             numberOfDocsAssginedRandomly++;
         }
         return clusterId;
@@ -153,17 +154,37 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
         
     @Override
     void recomputeCentroids() throws Exception {
-        int newCentroidDocId;
         centroidDocIds.clear();
+        int clusterId;
+        ArrayList<ArrayList<Integer>> docsInEachCluster = new ArrayList<>(K);
+        for (int i = 0; i < K; i++) {
+            docsInEachCluster.add(new ArrayList<>());
+        }
+        for (int docId = 0; docId < numDocs; docId++) {
+            clusterId = getClusterId(docId);
+            if (clusterId == INITIAL_CLUSTER_ID) continue;
+            docsInEachCluster.get(clusterId).add(docId);
+        }
         for (int i=0; i < K; i++) {
-            newCentroidDocId = rdes[i].recomputeCentroidDoc(centroidDocIds);
+            int newCentroidDocId = docsInEachCluster.get(0).get(0);
+            int maxUniqueTerms = -1;
+            int numberOfUniqueTerms;
+            for (int docId: docsInEachCluster.get(i)) {
+                numberOfUniqueTerms = rdes[i].getNumberOfUniqueTerms(docId);
+                if (numberOfUniqueTerms > maxUniqueTerms)
+                {
+                    newCentroidDocId = docId;
+                    maxUniqueTerms = numberOfUniqueTerms;
+                }
+            }
+//            newCentroidDocId = rdes[i].recomputeCentroidDoc(centroidDocIds);
             centroidDocIds.put(newCentroidDocId, null);
             if (rdes[i].docId != newCentroidDocId) {
                 String oldCentroidURL = rdes[i].queryDoc.get(idFieldName);
                 rdes[i] = new RelatedDocumentsRetriever(reader, newCentroidDocId, prop, i);
                 String newCentroidURL = rdes[i].queryDoc.get(idFieldName);
                 System.out.println("Changed centroid document " + oldCentroidURL + " to " + newCentroidURL);
-                rdes[i].getRelatedDocs(numDocs/K);
+                rdes[i].getRelatedDocs(numDocs);
             }
         }
     }
@@ -178,7 +199,6 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
         try {
             LuceneClusterer fkmc = new FastKMedoidsClusterer(args[0]);
             fkmc.cluster();
-//            
 //            boolean eval = Boolean.parseBoolean(fkmc.getProperties().getProperty("eval", "true"));
             boolean eval = true;
             if (eval) {

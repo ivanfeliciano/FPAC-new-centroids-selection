@@ -201,6 +201,9 @@ public final class TermVector {
 
         return sum;
     }
+    static public TermVector addToAverage(TermVector averageVector, TermVector currentVector) {
+        return  averageVector;
+    }
 
     TermsEnum iterator(Object object) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.

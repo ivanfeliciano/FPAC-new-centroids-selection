@@ -21,7 +21,7 @@ public class TermStats implements Comparable<TermStats> {
     float wt;
     float wt_author;
 
-    static final int MAX_NUM_QRY_TERMS = 1024;
+    static final int MAX_NUM_QRY_TERMS = 50000;
     
     TermStats(String term, float wt) {
         this.term = term;

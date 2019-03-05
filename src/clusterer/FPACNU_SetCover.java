@@ -43,12 +43,15 @@ public class FPACNU_SetCover extends LuceneClusterer {
     int initialSelectedDoc;
     boolean shouldUseRandom = false;
 
+    RelatedDocumentsRetriever[] rdes;
+
     public FPACNU_SetCover(String propFile) throws Exception {
 
         super(propFile);
         searcher = new IndexSearcher(reader);
         searcher.setSimilarity(new BM25Similarity());
         initialSelectedDoc = 100;
+        rdes = new RelatedDocumentsRetriever[K];
         // Inicializa estructura que guarda los centroides
         DynamicCentroids = new ArrayList<>();
         dynamicTermVectorCentroids = new ArrayList<>();
@@ -93,18 +96,12 @@ public class FPACNU_SetCover extends LuceneClusterer {
     @Override
     void initCentroids() throws Exception {
         int selectedDoc = (int)(Math.random() * numDocs);
-
-//        List<Integer> initialCentroids = Arrays.asList(2, 15076, 4503, 6205, 7694, 14206, 7569, 16363, 1533, 17118, 17092, 4764, 144, 10827, 15704, 896, 12168, 7925, 4734, 13700);
-//        List<Integer> initialCentroids = Arrays.asList(6877, 17952);
-//        List<Integer> initialCentroids = Arrays.asList(466, 7590);
-//        List<Integer> initialCentroids = Arrays.asList(16256, 20532);
-//        List<Integer> initialCentroids = Arrays.asList(27,34,28,25);
-//        int selectedDoc;
-//        List<Integer> initialCentroids = Arrays.asList(0, 49, 20, 26, 12);//, 10, 25, 42, 30, 35);
-
-        List<Integer> initialCentroids = Arrays.asList(12, 25);
+//        int selectedDoc = 25;
         int numClusterCentresAssigned = 0;
-
+//        List<Integer> initialCentroids = Arrays.asList(18361, 1530, 3930, 18239, 7957, 5565, 16159, 11214, 2446, 18485, 15716, 12348, 1181, 3914, 11754, 1277, 9534, 3093, 6590, 3113);
+//        List<Integer> initialCentroids = Arrays.asList(4114,7365,4280,4387,6446,517,4288,4887);
+//        List<Integer> initialCentroids = Arrays.asList(2615, 3312);
+        List<Integer> initialCentroids = Arrays.asList(62477,50238,55879,28993,50023,42838,2164,47159,27600,9760,3632,46457,19784,12677,30759,16907);
         // Mapa para guardar los documentos que selecciono como centroides
         centroidDocIds = new HashMap<>();
 
@@ -120,36 +117,36 @@ public class FPACNU_SetCover extends LuceneClusterer {
 
         // Se obtiene un centroide por cada cluster, usando la heurística del autor.
         while(numClusterCentresAssigned < K) {
-//            selectedDoc = initialCentroids.get(numClusterCentresAssigned);
+            selectedDoc = initialCentroids.get(numClusterCentresAssigned);
             // Obtiene la lista top para el documento que no aparece
             // en otras listas TOP.
-            selectedDoc = initialCentroids.get(numClusterCentresAssigned);
             System.out.println("El documento " + selectedDoc + " se elige como centroide para el cluster " + numClusterCentresAssigned);
-            RelatedDocumentsRetriever rde = new RelatedDocumentsRetriever(reader, selectedDoc, prop, numClusterCentresAssigned + 1);
-            clusterIdMap.put(selectedDoc, numClusterCentresAssigned);
-            TopDocs topDocs = rde.getRelatedDocs(numDocs/K);
+            RelatedDocumentsRetriever rde = new RelatedDocumentsRetriever(reader, selectedDoc, prop, numClusterCentresAssigned);
 //            System.out.println("Chosen doc " + selectedDoc + " as first centroid for cluster " + numClusterCentresAssigned);
 //             Si no tiene lista TOP tomo otro documento
+            clusterIdMap.put(selectedDoc, numClusterCentresAssigned);
+            TopDocs topDocs = rde.getRelatedDocs(numDocs);
+            rdes[numClusterCentresAssigned] = rde;
             if (topDocs == null) {
-                selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
+                selectedDoc = rde.getUnrelatedDocument(centroidDocIds, rdes);
                 continue;
             }
             // Actualizo mapa
             centroidDocIds.put(selectedDoc, null);
+            rdes[numClusterCentresAssigned] = rde;
             TermVector centroid = TermVector.extractAllDocTerms(reader, selectedDoc, contentFieldName, lambda);
             // Agrego a mis centroides
             DynamicCentroids.get(numClusterCentresAssigned).add(rde);
             dynamicTermVectorCentroids.get(numClusterCentresAssigned).add(centroid);
 
             // Actualizo el nuevo documento que puede ser un posible centroide
-            selectedDoc = rde.getUnrelatedDocument(centroidDocIds);
+            selectedDoc = rde.getUnrelatedDocument(centroidDocIds, rdes);
 
             numClusterCentresAssigned++;
 
         }
 //        while (numClusterCentresAssigned <= K);
-        
-        numClusterCentresAssigned = 1;
+
 
 //        // Es esto necesario??? Para que inicializar con varios centroides por cluster??
 //        for (int clusterIdx = 0; clusterIdx < K; clusterIdx++) {
@@ -194,26 +191,30 @@ public class FPACNU_SetCover extends LuceneClusterer {
     
     @Override
     int getClosestCluster(int docId) throws Exception { // O(K) computation...
-        float maxScore = 0;
+        float maxScore = -1;
         int clusterId = 0;
+        boolean sista = false;
         for (int i = 0; i < K; i++) {
             float localScore = 0;
             for (RelatedDocumentsRetriever rde : DynamicCentroids.get(i)) {
                 if (rde.docScoreMap == null)
                     continue;
                 ScoreDoc sd = rde.docScoreMap.get(docId);
-                if (sd != null)
+                if (sd != null){
                     localScore += sd.score;
+                    sista = true;
+                }
             }
             if (localScore > maxScore) {
                 maxScore = localScore;
                 clusterId = i;
             }
         }
-        if (maxScore == 0) {
+//        if (!sista) System.out.println("El doc " + docId + " no está en ninguna lista");
+        if (!sista) {
             // Retrieved in none... Assign to a random cluster id
             if (shouldUseRandom && Math.random() > 0.9) {
-                System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
+//                System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
                 clusterId = (int)(Math.random()*K);
                 numberOfDocsAssginedRandomly++;
             }
@@ -238,8 +239,8 @@ public class FPACNU_SetCover extends LuceneClusterer {
             for (TermVector centroidVec : dynamicTermVectorCentroids.get(i)) {
                 if (centroidVec == null) {
                     numberOfDocsAssginedRandomly++;
-                    System.out.println("Skipping cluster assignment for empty doc because there is an empty centroid: " + docId);
-                    System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
+//                    System.out.println("Skipping cluster assignment for empty doc because there is an empty centroid: " + docId);
+//                    System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
                     return (int)(Math.random()*K);
                 }
                 clusterId = i;
@@ -252,11 +253,11 @@ public class FPACNU_SetCover extends LuceneClusterer {
         if(Float.compare(maxSim, 0) == 0){
             numberOfDocsAssginedRandomly++;
             clusterId = (int)(Math.random()*K);
-            System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
+//            System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
             return clusterId;
         }
         numberOfAssignedByCosineSim++;
-        System.out.println("El documento " + docId  + " se asignó al cluster " + clusterId + " con similitud = " + maxSim);
+//        System.out.println("El documento " + docId  + " se asignó al cluster " + clusterId + " con similitud = " + maxSim);
         return mostSimClusterId;
     }
     // Returns true if the cluster id is changed...
@@ -351,7 +352,7 @@ public class FPACNU_SetCover extends LuceneClusterer {
             HashMap <Integer, Byte> hasBeenSelected = new HashMap<>();
             float porcentajeCubierto = 0.0f;
             int documentosCubiertos = 0;
-            int initialNumberOfRelatedDocs = numDocs / K;
+            int initialNumberOfRelatedDocs = numDocs;
             int remaining = 0;
             /////////////////////
 
@@ -392,11 +393,11 @@ public class FPACNU_SetCover extends LuceneClusterer {
                 clusterVocabulary.removeAll(bestDoc);
                 porcentajeCubierto = 100.0f - (clusterVocabulary.size() * 100.0f) / clusterVocabularyInitialSize;
                 System.out.println("He cubierto " + porcentajeCubierto  + "% del vocabulario del cluster con " + idx + " centroides");
-                DynamicCentroids.get(cluster).add(new RelatedDocumentsRetriever(reader, bestDocId, prop, cluster + 1));
+                DynamicCentroids.get(cluster).add(new RelatedDocumentsRetriever(reader, bestDocId, prop, cluster));
 
 //                System.out.println("Con " + DynamicCentroids.get(cluster).size() + " centroides");
                 dynamicTermVectorCentroids.get(cluster).add(TermVector.extractAllDocTerms(reader, bestDocId, contentFieldName, lambda));
-                TopDocs relatedDocs = DynamicCentroids.get(cluster).get(idx++).getRelatedDocs(initialNumberOfRelatedDocs);
+                DynamicCentroids.get(cluster).get(idx++).getRelatedDocs(initialNumberOfRelatedDocs);
 //                documentosCubiertos += relatedDocs.scoreDocs.length;
 //                if (documentosCubiertos > (numDocs / K)) {
 //                    System.out.println("He cubierto " + documentosCubiertos + " documentos");

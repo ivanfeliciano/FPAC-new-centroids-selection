@@ -9,6 +9,7 @@ import indexer.WMTIndexer;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Properties;
@@ -43,36 +44,58 @@ public class FastKMedoidsClusterer_TrueCentroid extends FastKMedoidsClusterer {
     }
     
 	// compute true centroid instead of the heuristics 
-    TermVector computeCentroid(int centroidId) throws Exception {
-        TermVector centroidVec = TermVector.extractAllDocTerms(reader, centroidId, contentFieldName, lambda);
-		TermVector newCentroidVec = null;
-
-		if (centroidVec==null || centroidVec.termStatsList == null)
-			newCentroidVec = new TermVector();
-		else
-        	newCentroidVec = new TermVector(centroidVec.termStatsList);
-
+    TermVector computeCentroid(int clusterId) throws Exception {
+        TermVector newCentroidVec = null;
+        newCentroidVec = new TermVector();
+		int numberOfDocsInThisCluster = 0;
         for (int i=0; i < numDocs; i++) {
-            if (i == centroidId)
+            int clusterIdCurrentDoc = getClusterId(i);
+            if (clusterIdCurrentDoc != clusterId)
                 continue;
-
-            int clusterId = getClusterId(i);
-            if (clusterId != centroidId)
-                continue;
+            numberOfDocsInThisCluster += 1;
             
             TermVector docVec = TermVector.extractAllDocTerms(reader, i, contentFieldName, lambda);
-			if (docVec != null)
-            	newCentroidVec = TermVector.add(newCentroidVec, docVec);
+			if (docVec != null) {
+//                newCentroidVec = TermVector.add(newCentroidVec, docVec);
+
+                for(TermStats termStat: docVec.termStatsList) {
+                    boolean isAlreadyInTheVector = false;
+                    if (newCentroidVec.termStatsList == null) newCentroidVec.termStatsList = new ArrayList<>();
+                    for (TermStats termStatsCentroid : newCentroidVec.termStatsList) {
+                        if (termStat.term.equals(termStatsCentroid.term)) {
+                            termStatsCentroid.wt += termStat.wt;
+                            isAlreadyInTheVector = true;
+                            break;
+                        }
+                    }
+                    if (!isAlreadyInTheVector) {
+                        newCentroidVec.add(termStat);
+                    }
+                }
+
+            }
         }
+
+        for (TermStats termStatsCentroid: newCentroidVec.termStatsList) {
+            termStatsCentroid.wt /= numberOfDocsInThisCluster;
+        }
+
         return newCentroidVec;
     }
         
     @Override
     void recomputeCentroids() throws Exception {        
         int k = 0;
-        for (int centroidId : centroidDocIds.keySet()) {
-            TermVector newCentroidVec = computeCentroid(centroidId);            
-            centroidVecs[k++] = newCentroidVec;            
+//        System.out.println(centroidDocIds);
+        for (int cluster = 0; cluster < K; cluster++) {
+            TermVector newCentroidVec = computeCentroid(cluster);
+//            System.out.println("Mi nuevo centroide es ");
+//            for(TermStats ts: newCentroidVec.termStatsList){
+////                System.out.print(ts.term + " ");
+//            }
+//            System.out.println();
+            rdes[cluster].termVectorForTrueCentroids = newCentroidVec;
+            rdes[cluster].getRelatedDocs(numDocs);
         }
     }
  

@@ -91,12 +91,12 @@ public abstract class LuceneClusterer {
             
             System.out.println("Reassigning cluster ids to non-centroid docs...");
             changeRatio = assignClusterIds();
-            for (HashMap.Entry<Integer, Integer> clusterMapIterator: clusterIdMap.entrySet()) {
-                String domainIdWithDoubleQuotes = reader.document(clusterMapIterator.getKey()).get(WMTIndexer.FIELD_DOMAIN_ID);
-                String domainIdWODoubleQuotes = domainIdWithDoubleQuotes.replaceAll("^\"|\"$", "");
-                System.out.println("Doc " +  clusterMapIterator.getKey() + " asignado al cluster " + clusterMapIterator.getValue() + " y el cluster real es " + domainIdWODoubleQuotes);
-
-            }
+//            for (HashMap.Entry<Integer, Integer> clusterMapIterator: clusterIdMap.entrySet()) {
+//                String domainIdWithDoubleQuotes = reader.document(clusterMapIterator.getKey()).get(WMTIndexer.FIELD_DOMAIN_ID);
+//                String domainIdWODoubleQuotes = domainIdWithDoubleQuotes.replaceAll("^\"|\"$", "");
+//                System.out.println("Doc " +  clusterMapIterator.getKey() + " asignado al cluster " + clusterMapIterator.getValue() + " y el cluster real es " + domainIdWODoubleQuotes);
+//
+//            }
             System.out.println(changeRatio + " fraction of the documents reassigned different clusters...");
             if (changeRatio < stopThreshold) {
                 System.out.println("Stopping after " + i + " iterations...");
