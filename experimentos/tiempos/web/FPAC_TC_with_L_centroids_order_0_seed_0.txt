@@ -1,0 +1,174 @@
+El número de clusters es 4
+El documento 2906 se elige como centroide para el cluster 0
+#related docs = 2784
+El documento 3927 se elige como centroide para el cluster 1
+#related docs = 4000
+El documento 2194 se elige como centroide para el cluster 2
+#related docs = 4094
+El documento 1333 se elige como centroide para el cluster 3
+#related docs = 3778
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9990403 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 36
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+#related docs = 4166
+#related docs = 4167
+#related docs = 4167
+#related docs = 4166
+#related docs = 4166
+#related docs = 4166
+#related docs = 4166
+#related docs = 4165
+#related docs = 4165
+#related docs = 4167
+#related docs = 4164
+#related docs = 4165
+#related docs = 4166
+#related docs = 4166
+#related docs = 4167
+#related docs = 4165
+#related docs = 4165
+#related docs = 4165
+#related docs = 4166
+#related docs = 4165
+#related docs = 4165
+#related docs = 4165
+#related docs = 4164
+#related docs = 4165
+#related docs = 4166
+#related docs = 4164
+#related docs = 4166
+#related docs = 4164
+#related docs = 4166
+#related docs = 4166
+#related docs = 4166
+#related docs = 4166
+#related docs = 4164
+#related docs = 4163
+#related docs = 4167
+#related docs = 4166
+#related docs = 4165
+#related docs = 4163
+#related docs = 4166
+#related docs = 4167
+Time to run till 1 iterations: 1 seconds
+Global time until this iteration: 1 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.3140595 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+#related docs = 4166
+#related docs = 4167
+#related docs = 4166
+#related docs = 4166
+#related docs = 4166
+#related docs = 4165
+#related docs = 4166
+#related docs = 4166
+#related docs = 4165
+#related docs = 4165
+#related docs = 4167
+#related docs = 4165
+#related docs = 4167
+#related docs = 4166
+#related docs = 4165
+#related docs = 4167
+#related docs = 4166
+#related docs = 4166
+#related docs = 4166
+#related docs = 4165
+#related docs = 4166
+#related docs = 4167
+#related docs = 4163
+#related docs = 4166
+#related docs = 4165
+#related docs = 4166
+#related docs = 4166
+#related docs = 4166
+#related docs = 4167
+#related docs = 4166
+#related docs = 4165
+#related docs = 4165
+#related docs = 4164
+#related docs = 4165
+#related docs = 4164
+#related docs = 4166
+#related docs = 4165
+#related docs = 4164
+#related docs = 4165
+#related docs = 4164
+Time to run till 2 iterations: 1 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.14299424 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+#related docs = 4166
+#related docs = 4166
+#related docs = 4167
+#related docs = 4165
+#related docs = 4166
+#related docs = 4165
+#related docs = 4166
+#related docs = 4167
+#related docs = 4166
+#related docs = 4166
+#related docs = 4165
+#related docs = 4167
+#related docs = 4166
+#related docs = 4167
+#related docs = 4166
+#related docs = 4167
+#related docs = 4165
+#related docs = 4164
+#related docs = 4165
+#related docs = 4166
+#related docs = 4165
+#related docs = 4166
+#related docs = 4167
+#related docs = 4166
+#related docs = 4166
+#related docs = 4166
+#related docs = 4166
+#related docs = 4167
+#related docs = 4166
+#related docs = 4165
+#related docs = 4164
+#related docs = 4165
+#related docs = 4164
+#related docs = 4166
+#related docs = 4164
+#related docs = 4165
+#related docs = 4166
+#related docs = 4165
+#related docs = 4165
+#related docs = 4164
+Time to run till 3 iterations: 1 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.06957774 fraction of the documents reassigned different clusters...
+Stopping after 4 iterations...
+Time to cluster: 4 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.648264261699755 0.33899754 0.37576997 0.35643783 0.4988003838771593 0.12185552743341695
+Number of documents
+4168
+Number of documents
+4168
+Number of documents
+4168

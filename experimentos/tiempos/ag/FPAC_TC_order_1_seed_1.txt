@@ -1,0 +1,61 @@
+El documento 15750 se elige como centroide para el cluster 0
+#related docs = 24456
+selected Doc 66208
+El documento 57434 se elige como centroide para el cluster 1
+#related docs = 23493
+selected Doc 34831
+El documento 104124 se elige como centroide para el cluster 2
+#related docs = 19225
+selected Doc 6538
+El documento 81656 se elige como centroide para el cluster 3
+#related docs = 5648
+selected Doc 78890
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.99996865 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 68017
+numberOfAssignedByCosineSim =  0
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 1 iterations: 16 seconds
+Global time until this iteration: 16 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.65730137 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 127598
+#related docs = 127599
+#related docs = 127598
+#related docs = 127599
+Time to run till 2 iterations: 16 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.68134546 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 127598
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 3 iterations: 16 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.121646725 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 127598
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 4 iterations: 16 seconds
+Iteration : 5
+Reassigning cluster ids to non-centroid docs...
+8.542387E-4 fraction of the documents reassigned different clusters...
+Stopping after 5 iterations...
+Time to cluster: 66 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.5894673035903293 0.33625618 0.25577003 0.29054204 0.30303529024522136 0.010187456592207786

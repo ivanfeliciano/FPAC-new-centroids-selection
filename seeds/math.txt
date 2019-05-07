@@ -1,0 +1,19 @@
+//Orden 0
+initialCentroids[0].add(Arrays.asList(667, 110, 298, 200, 394, 837, 652, 305, 92, 320, 403));
+initialCentroids[0].add(Arrays.asList(140, 838, 66, 686, 208, 827, 335, 215, 326, 731, 149));
+initialCentroids[0].add(Arrays.asList(333, 801, 385, 732, 74, 4, 326, 737, 564, 471, 100));
+initialCentroids[0].add(Arrays.asList(239, 286, 410, 224, 86, 642, 65, 810, 597, 651, 49));
+initialCentroids[0].add(Arrays.asList(396, 495, 40, 624, 694, 455, 323, 840, 459, 455, 552));
+//Orden 1
+initialCentroids[1].add(Arrays.asList(515, 774, 424, 321, 246, 826, 472, 271, 758, 773, 681));
+initialCentroids[1].add(Arrays.asList(117, 10, 807, 566, 154, 264, 151, 179, 15, 627, 785));
+initialCentroids[1].add(Arrays.asList(397, 131, 526, 219, 124, 238, 229, 635, 194, 180, 621));
+initialCentroids[1].add(Arrays.asList(521, 384, 4, 402, 596, 297, 545, 239, 171, 755, 265));
+initialCentroids[1].add(Arrays.asList(160, 677, 282, 139, 109, 564, 815, 616, 765, 476, 115));
+//Orden 2
+initialCentroids[2].add(Arrays.asList(400, 198, 244, 468, 480, 550, 116, 628, 483, 709, 328));
+initialCentroids[2].add(Arrays.asList(797, 646, 554, 30, 612, 648, 779, 252, 735, 547, 20));
+initialCentroids[2].add(Arrays.asList(710, 284, 646, 169, 385, 249, 364, 197, 777, 259, 555));
+initialCentroids[2].add(Arrays.asList(598, 571, 303, 87, 462, 821, 127, 794, 375, 475, 46));
+initialCentroids[2].add(Arrays.asList(665, 309, 669, 535, 462, 703, 85, 276, 18, 341, 183));
+

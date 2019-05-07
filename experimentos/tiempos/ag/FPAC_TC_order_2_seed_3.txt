@@ -1,0 +1,51 @@
+El documento 7015 se elige como centroide para el cluster 0
+#related docs = 6529
+selected Doc 114865
+El documento 74385 se elige como centroide para el cluster 1
+#related docs = 25528
+selected Doc 83803
+El documento 23716 se elige como centroide para el cluster 2
+#related docs = 17732
+selected Doc 7822
+El documento 65459 se elige como centroide para el cluster 3
+#related docs = 24958
+selected Doc 11962
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.99996865 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 66029
+numberOfAssignedByCosineSim =  0
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 1 iterations: 16 seconds
+Global time until this iteration: 16 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.660734 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 2 iterations: 16 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.6870508 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 3 iterations: 16 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.015313599 fraction of the documents reassigned different clusters...
+Stopping after 4 iterations...
+Time to cluster: 49 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.586135471686494 0.3386648 0.25409514 0.29034713 0.30144436868627494 0.008190118705028344

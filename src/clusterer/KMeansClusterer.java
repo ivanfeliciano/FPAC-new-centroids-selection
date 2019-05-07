@@ -19,7 +19,9 @@ import org.apache.lucene.util.BytesRef;
 public class KMeansClusterer extends LuceneClusterer {
     
     boolean flag = true;
-    
+
+    @Override
+    public String getAlgoName(){return "";}
     public KMeansClusterer(String propFile) throws Exception {
         super(propFile);
     }

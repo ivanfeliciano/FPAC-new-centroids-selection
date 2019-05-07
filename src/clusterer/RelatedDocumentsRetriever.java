@@ -34,6 +34,7 @@ import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.search.TopDocs;
+import org.apache.lucene.search.similarities.LMDirichletSimilarity;
 import org.apache.lucene.search.similarities.LMJelinekMercerSimilarity;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.BytesRef;
@@ -118,20 +119,23 @@ public class RelatedDocumentsRetriever {
 //        System.out.println("I want " + numWanted + "  results");
         IndexSearcher searcher = new IndexSearcher(reader);
         searcher.setSimilarity(new LMJelinekMercerSimilarity(0.4f));
-        
+//        searcher.setSimilarity(new LMDirichletSimilarity());
+
         BooleanQuery queryDocument = new BooleanQuery();
         TermVector repTerms = termVectorForTrueCentroids != null ? termVectorForTrueCentroids : TermVector.extractDocTerms(reader, docId, contentFieldName, queryToDocRatio, qSelLambda);
 //        TermVector repTerms = TermVector.extractDocTerms(reader, docId, contentFieldName, queryToDocRatio, qSelLambda);
         if (repTerms == null)
             return null;
-        System.out.println("Selected " + repTerms.termStatsList.size() + " terms for query");
+//        System.out.println("Selected " + repTerms.termStatsList.size() + " terms for query");
 
         boolean retry = true;
         while (retry)
         {
             try
             {
+                int counter = 0;
                 for (TermStats ts : repTerms.termStatsList) {
+//                    if (counter++ >= 1024) break;
                     queryDocument.add(new TermQuery(new Term(contentFieldName, ts.term)), BooleanClause.Occur.SHOULD);
                 }
                 relatedDocs = searcher.search(queryDocument, numWanted);
@@ -160,7 +164,7 @@ public class RelatedDocumentsRetriever {
 //            System.out.println("doc = " + sd.doc + " score = " + sd.score);
         }
         
-//        System.out.println("#related docs = " + docScoreMap.size());
+        System.out.println("#related docs = " + docScoreMap.size());
         return relatedDocs;
     }
     

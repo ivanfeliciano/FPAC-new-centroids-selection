@@ -1,0 +1,18 @@
+//Orden 0
+initialCentroids[0].add(Arrays.asList(6685, 1905, 1637, 6396, 7315, 977, 3516, 4623));
+initialCentroids[0].add(Arrays.asList(5218, 4243, 6512, 4580, 4899, 2690, 6457, 2350));
+initialCentroids[0].add(Arrays.asList(1063, 4783, 4895, 2538, 7132, 7082, 2788, 5849));
+initialCentroids[0].add(Arrays.asList(1094, 4557, 3166, 6426, 4875, 5729, 1118, 7159));
+initialCentroids[0].add(Arrays.asList(1322, 2152, 634, 3391, 3303, 3252, 3926, 1932));
+//Orden 1
+initialCentroids[1].add(Arrays.asList(4246, 3125, 6007, 2887, 3676, 6663, 935, 3366));
+initialCentroids[1].add(Arrays.asList(2943, 3945, 1413, 3473, 6270, 5878, 6194, 3070));
+initialCentroids[1].add(Arrays.asList(6400, 2860, 4715, 5614, 4408, 3099, 4648, 902));
+initialCentroids[1].add(Arrays.asList(259, 6772, 333, 1076, 3403, 2836, 5240, 5498));
+initialCentroids[1].add(Arrays.asList(3054, 6550, 455, 727, 1517, 2426, 1582, 6771));
+//Orden 2
+initialCentroids[2].add(Arrays.asList(7421, 6913, 4974, 5875, 2155, 3440, 1218, 1791));
+initialCentroids[2].add(Arrays.asList(6317, 7045, 5401, 4590, 381, 4696, 6738, 6369));
+initialCentroids[2].add(Arrays.asList(5832, 2536, 4195, 5139, 4385, 233, 638, 5451));
+initialCentroids[2].add(Arrays.asList(6815, 3195, 613, 4195, 5951, 2041, 5221, 7501));
+initialCentroids[2].add(Arrays.asList(7349, 3746, 4927, 4096, 6277, 4144, 6602, 6119));

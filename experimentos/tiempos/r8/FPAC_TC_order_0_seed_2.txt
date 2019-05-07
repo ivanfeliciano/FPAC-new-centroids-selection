@@ -1,0 +1,61 @@
+El documento 1063 se elige como centroide para el cluster 0
+#related docs = 7147
+selected Doc 488
+El documento 4783 se elige como centroide para el cluster 1
+#related docs = 7383
+selected Doc 2457
+El documento 4895 se elige como centroide para el cluster 2
+#related docs = 2409
+selected Doc 2607
+El documento 2538 se elige como centroide para el cluster 3
+#related docs = 7374
+selected Doc 6887
+El documento 7132 se elige como centroide para el cluster 4
+#related docs = 3153
+selected Doc 547
+El documento 7082 se elige como centroide para el cluster 5
+#related docs = 7198
+selected Doc 7489
+El documento 2788 se elige como centroide para el cluster 6
+#related docs = 7204
+selected Doc 4123
+El documento 5849 se elige como centroide para el cluster 7
+#related docs = 7239
+selected Doc 6569
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9989575 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 56
+numberOfAssignedByCosineSim =  0
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+Time to run till 1 iterations: 1 seconds
+Global time until this iteration: 1 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.3213448 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+Time to run till 2 iterations: 1 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.06515507 fraction of the documents reassigned different clusters...
+Stopping after 3 iterations...
+Time to cluster: 2 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.6702886873103875 0.30909315 0.5725507 0.401458 0.6482929371905134 0.17564411517547818

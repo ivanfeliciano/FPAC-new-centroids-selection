@@ -1,0 +1,61 @@
+El documento 3054 se elige como centroide para el cluster 0
+#related docs = 7320
+selected Doc 3580
+El documento 6550 se elige como centroide para el cluster 1
+#related docs = 7453
+selected Doc 1239
+El documento 455 se elige como centroide para el cluster 2
+#related docs = 7368
+selected Doc 5987
+El documento 727 se elige como centroide para el cluster 3
+#related docs = 7384
+selected Doc 4650
+El documento 1517 se elige como centroide para el cluster 4
+#related docs = 7145
+selected Doc 1843
+El documento 2426 se elige como centroide para el cluster 5
+#related docs = 7353
+selected Doc 6692
+El documento 1582 se elige como centroide para el cluster 6
+#related docs = 7292
+selected Doc 565
+El documento 6771 se elige como centroide para el cluster 7
+#related docs = 7215
+selected Doc 5091
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9989575 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 40
+numberOfAssignedByCosineSim =  0
+#related docs = 7671
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+Time to run till 1 iterations: 1 seconds
+Global time until this iteration: 1 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.30753192 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+Time to run till 2 iterations: 1 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.07362523 fraction of the documents reassigned different clusters...
+Stopping after 3 iterations...
+Time to cluster: 2 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.6594687170923594 0.23677856 0.5565111 0.33221132 0.6656241855616367 0.1966358227769464

@@ -1,0 +1,61 @@
+El documento 3097 se elige como centroide para el cluster 0
+#related docs = 3925
+selected Doc 3426
+El documento 2223 se elige como centroide para el cluster 1
+#related docs = 3781
+selected Doc 2900
+El documento 3773 se elige como centroide para el cluster 2
+#related docs = 4139
+selected Doc 2146
+El documento 2883 se elige como centroide para el cluster 3
+#related docs = 4064
+selected Doc 2223
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9990403 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 18
+numberOfAssignedByCosineSim =  0
+#related docs = 4168
+#related docs = 4167
+#related docs = 4168
+#related docs = 4168
+Time to run till 1 iterations: 1 seconds
+Global time until this iteration: 1 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.30014396 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 4168
+#related docs = 4167
+#related docs = 4168
+#related docs = 4168
+Time to run till 2 iterations: 1 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.234405 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 4168
+#related docs = 4167
+#related docs = 4168
+#related docs = 4168
+Time to run till 3 iterations: 1 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.18090211 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 4168
+#related docs = 4167
+#related docs = 4168
+#related docs = 4168
+Time to run till 4 iterations: 1 seconds
+Iteration : 5
+Reassigning cluster ids to non-centroid docs...
+7.197697E-4 fraction of the documents reassigned different clusters...
+Stopping after 5 iterations...
+Time to cluster: 4 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.5961058623947321 0.36557743 0.3215768 0.34216836 0.4064299424184261 0.059933535090047736

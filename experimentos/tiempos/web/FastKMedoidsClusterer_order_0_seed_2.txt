@@ -1,0 +1,57 @@
+El documento 3370 se elige como centroide para el cluster 0
+#related docs = 4033
+selected Doc 1282
+El documento 260 se elige como centroide para el cluster 1
+#related docs = 3371
+selected Doc 2064
+El documento 1763 se elige como centroide para el cluster 2
+#related docs = 4073
+selected Doc 2823
+El documento 2973 se elige como centroide para el cluster 3
+#related docs = 4062
+selected Doc 3794
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9990403 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 35
+numberOfAssignedByCosineSim =  0
+Changed centroid document 3370 to 1700
+#related docs = 4155
+Changed centroid document 260 to 3390
+#related docs = 4152
+Changed centroid document 1763 to 2542
+#related docs = 4165
+Changed centroid document 2973 to 2014
+#related docs = 4125
+Time to run till 1 iterations: 0 seconds
+Global time until this iteration: 0 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.5635797 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 1
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 1700
+Changed centroid document 3390 to 27
+#related docs = 4154
+Me quedo con el centroide 2542
+Changed centroid document 2014 to 1083
+#related docs = 4156
+Time to run till 2 iterations: 0 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.31957772 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 2
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 1700
+Me quedo con el centroide 27
+Me quedo con el centroide 2542
+Me quedo con el centroide 1083
+Time to run till 3 iterations: 0 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+2.3992322E-4 fraction of the documents reassigned different clusters...
+Stopping after 4 iterations...
+Time to cluster: 0 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.6531884742886596 0.34518665 0.38465983 0.36385578 0.5143953934740882 0.14301650559110882

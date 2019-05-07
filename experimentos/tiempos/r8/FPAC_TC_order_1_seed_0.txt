@@ -1,0 +1,61 @@
+El documento 4246 se elige como centroide para el cluster 0
+#related docs = 7196
+selected Doc 7652
+El documento 3125 se elige como centroide para el cluster 1
+#related docs = 7356
+selected Doc 2776
+El documento 6007 se elige como centroide para el cluster 2
+#related docs = 7239
+selected Doc 1037
+El documento 2887 se elige como centroide para el cluster 3
+#related docs = 7319
+selected Doc 2057
+El documento 3676 se elige como centroide para el cluster 4
+#related docs = 7189
+selected Doc 3522
+El documento 6663 se elige como centroide para el cluster 5
+#related docs = 7389
+selected Doc 5245
+El documento 935 se elige como centroide para el cluster 6
+#related docs = 7353
+selected Doc 7671
+El documento 3366 se elige como centroide para el cluster 7
+#related docs = 3153
+selected Doc 2412
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9989575 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 85
+numberOfAssignedByCosineSim =  0
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+Time to run till 1 iterations: 1 seconds
+Global time until this iteration: 1 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.37307793 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+Time to run till 2 iterations: 1 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.08287725 fraction of the documents reassigned different clusters...
+Stopping after 3 iterations...
+Time to cluster: 2 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.666557330465797 0.2760993 0.5701047 0.3720273 0.6310919989575189 0.1768610170293587

@@ -1,0 +1,75 @@
+El documento 6815 se elige como centroide para el cluster 0
+#related docs = 5200
+selected Doc 5545
+El documento 3195 se elige como centroide para el cluster 1
+#related docs = 7400
+selected Doc 1710
+El documento 613 se elige como centroide para el cluster 2
+#related docs = 7362
+selected Doc 4451
+El documento 4195 se elige como centroide para el cluster 3
+#related docs = 7301
+selected Doc 1571
+El documento 5951 se elige como centroide para el cluster 4
+#related docs = 7186
+selected Doc 6158
+El documento 2041 se elige como centroide para el cluster 5
+#related docs = 2409
+selected Doc 7167
+El documento 5221 se elige como centroide para el cluster 6
+#related docs = 7223
+selected Doc 3592
+El documento 7501 se elige como centroide para el cluster 7
+#related docs = 7397
+selected Doc 182
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9989575 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 36
+numberOfAssignedByCosineSim =  0
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7674
+#related docs = 7672
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+Time to run till 1 iterations: 1 seconds
+Global time until this iteration: 1 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.3059682 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+Time to run till 2 iterations: 1 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.10046912 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+Time to run till 3 iterations: 1 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.053818088 fraction of the documents reassigned different clusters...
+Stopping after 4 iterations...
+Time to cluster: 3 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.6592302425765764 0.26266187 0.54961354 0.35545215 0.644904873599166 0.15894169209401054

@@ -1,0 +1,56 @@
+El documento 1098 se elige como centroide para el cluster 0
+#related docs = 3754
+selected Doc 1492
+El documento 3147 se elige como centroide para el cluster 1
+#related docs = 3759
+selected Doc 2823
+El documento 1419 se elige como centroide para el cluster 2
+#related docs = 4005
+selected Doc 3147
+El documento 2264 se elige como centroide para el cluster 3
+#related docs = 3871
+selected Doc 2264
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9990403 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 53
+numberOfAssignedByCosineSim =  0
+Changed centroid document 1098 to 1976
+#related docs = 4157
+Changed centroid document 3147 to 1136
+#related docs = 4125
+Changed centroid document 1419 to 1700
+#related docs = 4155
+Changed centroid document 2264 to 2542
+#related docs = 4165
+Time to run till 1 iterations: 0 seconds
+Global time until this iteration: 0 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.66986567 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 1
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 1976
+Changed centroid document 1136 to 27
+#related docs = 4154
+Me quedo con el centroide 1700
+Me quedo con el centroide 2542
+Time to run till 2 iterations: 0 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.26583493 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 1
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 1976
+Me quedo con el centroide 27
+Me quedo con el centroide 1700
+Me quedo con el centroide 2542
+Time to run till 3 iterations: 0 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.0 fraction of the documents reassigned different clusters...
+Stopping after 4 iterations...
+Time to cluster: 0 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.6302592529641775 0.30734873 0.340928 0.3232687 0.4553742802303263 0.09111528359631496

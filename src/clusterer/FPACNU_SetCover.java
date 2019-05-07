@@ -32,7 +32,9 @@ import org.apache.lucene.util.BytesRef;
  */
 public class FPACNU_SetCover extends LuceneClusterer {
     private IndexSearcher searcher;
-    
+
+    @Override
+    public String getAlgoName(){return "";}
     //Estos son los grupos de centroides
     public ArrayList<ArrayList<RelatedDocumentsRetriever>> DynamicCentroids;
 
@@ -42,6 +44,7 @@ public class FPACNU_SetCover extends LuceneClusterer {
     private float stopThresholdCritera;
     int initialSelectedDoc;
     boolean shouldUseRandom = false;
+    List<Integer> initialCentroids;
 
     RelatedDocumentsRetriever[] rdes;
 
@@ -58,19 +61,18 @@ public class FPACNU_SetCover extends LuceneClusterer {
         termVectorCentroids =  new TermVector[K][numberOfCentroidsByGroup];
     }
 
-    public FPACNU_SetCover(String propFile, float threshold) throws Exception {
+    public FPACNU_SetCover(String propFile,   List<Integer> initialCentroidsSeeds) throws Exception {
         super(propFile);
 
         searcher = new IndexSearcher(reader);
         searcher.setSimilarity(new BM25Similarity());
+        rdes = new RelatedDocumentsRetriever[K];
 
         // Inicializa estructura que guarda los centroides
         DynamicCentroids = new ArrayList<>();
         dynamicTermVectorCentroids = new ArrayList<>();
         termVectorCentroids =  new TermVector[K][numberOfCentroidsByGroup];
-
-        stopThresholdCritera = threshold;
-        useStopThresholdCriteria = true;
+        initialCentroids = initialCentroidsSeeds;
     }
 
     int selectDoc(HashSet<String> queryTerms) throws IOException {
@@ -98,13 +100,7 @@ public class FPACNU_SetCover extends LuceneClusterer {
         int selectedDoc = (int)(Math.random() * numDocs);
 //        int selectedDoc = 25;
         int numClusterCentresAssigned = 0;
-//        List<Integer> initialCentroids = Arrays.asList(18361, 1530, 3930, 18239, 7957, 5565, 16159, 11214, 2446, 18485, 15716, 12348, 1181, 3914, 11754, 1277, 9534, 3093, 6590, 3113);
-//        List<Integer> initialCentroids = Arrays.asList(4114,7365,4280,4387,6446,517,4288,4887);
-//        List<Integer> initialCentroids = Arrays.asList(2615, 3312);
-        List<Integer> initialCentroids = Arrays.asList(62477,50238,55879,28993,50023,42838,2164,47159,27600,9760,3632,46457,19784,12677,30759,16907);
-        // Mapa para guardar los documentos que selecciono como centroides
         centroidDocIds = new HashMap<>();
-
 
         for (int i = 0; i < K; i++) {
             DynamicCentroids.add(new ArrayList<>());
@@ -214,7 +210,7 @@ public class FPACNU_SetCover extends LuceneClusterer {
         if (!sista) {
             // Retrieved in none... Assign to a random cluster id
             if (shouldUseRandom && Math.random() > 0.9) {
-//                System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
+                System.out.println("El documento " + docId  + " se asignó aleatoriamente al cluster " + clusterId);
                 clusterId = (int)(Math.random()*K);
                 numberOfDocsAssginedRandomly++;
             }
@@ -227,7 +223,7 @@ public class FPACNU_SetCover extends LuceneClusterer {
     int getClosestClusterNotAssignedDoc(int docId) throws Exception {
         TermVector docVec = TermVector.extractAllDocTerms(reader, docId, contentFieldName, lambda);
         if (docVec == null) {
-//            System.out.println("Skipping cluster assignment for empty doc, because the docs is empty: " + docId);
+            System.out.println("Skipping cluster assignment for empty doc, because the docs is empty: " + docId);
             numberOfDocsAssginedRandomly++;
             return (int)(Math.random()*K);
         }

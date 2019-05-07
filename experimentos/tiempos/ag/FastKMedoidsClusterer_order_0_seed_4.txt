@@ -1,0 +1,56 @@
+El documento 96402 se elige como centroide para el cluster 0
+#related docs = 37828
+selected Doc 74656
+El documento 56397 se elige como centroide para el cluster 1
+#related docs = 10364
+selected Doc 65814
+El documento 27994 se elige como centroide para el cluster 2
+#related docs = 16139
+selected Doc 84466
+El documento 4026 se elige como centroide para el cluster 3
+#related docs = 13387
+selected Doc 121323
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.99996865 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 64182
+numberOfAssignedByCosineSim =  0
+Changed centroid document 96402 to 120388
+#related docs = 46275
+Changed centroid document 56397 to 92626
+#related docs = 69203
+Changed centroid document 27994 to 38412
+#related docs = 66864
+Changed centroid document 4026 to 68084
+#related docs = 57424
+Time to run till 1 iterations: 2 seconds
+Global time until this iteration: 2 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.736581 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 18705
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 120388
+Changed centroid document 92626 to 24302
+#related docs = 60936
+Me quedo con el centroide 38412
+Me quedo con el centroide 68084
+Time to run till 2 iterations: 2 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.3371735 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 16705
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 120388
+Me quedo con el centroide 24302
+Me quedo con el centroide 38412
+Me quedo con el centroide 68084
+Time to run till 3 iterations: 1 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.09876253 fraction of the documents reassigned different clusters...
+Stopping after 4 iterations...
+Time to cluster: 6 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.6302464506957991 0.26280117 0.26158446 0.2621914 0.32348999600310346 0.017275586075340552

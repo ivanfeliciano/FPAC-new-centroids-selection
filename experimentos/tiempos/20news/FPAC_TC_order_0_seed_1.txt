@@ -1,0 +1,121 @@
+El documento 3967 se elige como centroide para el cluster 0
+#related docs = 17031
+selected Doc 15031
+El documento 16225 se elige como centroide para el cluster 1
+#related docs = 15706
+selected Doc 6378
+El documento 4942 se elige como centroide para el cluster 2
+#related docs = 13166
+selected Doc 5624
+El documento 14773 se elige como centroide para el cluster 3
+#related docs = 16199
+selected Doc 18533
+El documento 10958 se elige como centroide para el cluster 4
+#related docs = 18435
+selected Doc 14032
+El documento 14260 se elige como centroide para el cluster 5
+#related docs = 17329
+selected Doc 8382
+El documento 8195 se elige como centroide para el cluster 6
+#related docs = 16879
+selected Doc 6956
+El documento 15875 se elige como centroide para el cluster 7
+#related docs = 16533
+selected Doc 6128
+El documento 4785 se elige como centroide para el cluster 8
+#related docs = 17007
+selected Doc 12677
+El documento 16079 se elige como centroide para el cluster 9
+#related docs = 14015
+selected Doc 4236
+El documento 12450 se elige como centroide para el cluster 10
+#related docs = 16541
+selected Doc 4760
+El documento 5896 se elige como centroide para el cluster 11
+#related docs = 17427
+selected Doc 8195
+El documento 18066 se elige como centroide para el cluster 12
+#related docs = 17397
+selected Doc 6472
+El documento 11513 se elige como centroide para el cluster 13
+#related docs = 16475
+selected Doc 14647
+El documento 9372 se elige como centroide para el cluster 14
+#related docs = 13523
+selected Doc 1406
+El documento 3217 se elige como centroide para el cluster 15
+#related docs = 14974
+selected Doc 4361
+El documento 7908 se elige como centroide para el cluster 16
+#related docs = 15835
+selected Doc 3085
+El documento 6749 se elige como centroide para el cluster 17
+#related docs = 17091
+selected Doc 16225
+El documento 16877 se elige como centroide para el cluster 18
+#related docs = 15415
+selected Doc 3085
+El documento 4671 se elige como centroide para el cluster 19
+#related docs = 16820
+selected Doc 18066
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9989373 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 43
+numberOfAssignedByCosineSim =  0
+#related docs = 18815
+#related docs = 18817
+#related docs = 18818
+#related docs = 18815
+#related docs = 18815
+#related docs = 18815
+#related docs = 18815
+#related docs = 18816
+#related docs = 18817
+#related docs = 18820
+#related docs = 18815
+#related docs = 18816
+#related docs = 18814
+#related docs = 18816
+#related docs = 18819
+#related docs = 18817
+#related docs = 18818
+#related docs = 18816
+#related docs = 18818
+#related docs = 18814
+Time to run till 1 iterations: 8 seconds
+Global time until this iteration: 8 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.24851222 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 18816
+#related docs = 18815
+#related docs = 18818
+#related docs = 18813
+#related docs = 18815
+#related docs = 18815
+#related docs = 18815
+#related docs = 18816
+#related docs = 18817
+#related docs = 18820
+#related docs = 18815
+#related docs = 18816
+#related docs = 18814
+#related docs = 18816
+#related docs = 18819
+#related docs = 18817
+#related docs = 18817
+#related docs = 18814
+#related docs = 18817
+#related docs = 18816
+Time to run till 2 iterations: 8 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.028533475 fraction of the documents reassigned different clusters...
+Stopping after 3 iterations...
+Time to cluster: 17 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.9094681144765231 0.13429436 0.1263227 0.1301866 0.2379383634431456 0.1643685298845309

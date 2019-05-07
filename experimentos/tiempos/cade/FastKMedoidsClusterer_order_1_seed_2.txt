@@ -1,0 +1,136 @@
+El documento 36787 se elige como centroide para el cluster 0
+#related docs = 7574
+selected Doc 1281
+El documento 12405 se elige como centroide para el cluster 1
+#related docs = 15665
+selected Doc 7493
+El documento 35523 se elige como centroide para el cluster 2
+#related docs = 4312
+selected Doc 11642
+El documento 28088 se elige como centroide para el cluster 3
+#related docs = 7094
+selected Doc 32628
+El documento 37161 se elige como centroide para el cluster 4
+#related docs = 6928
+selected Doc 25448
+El documento 33746 se elige como centroide para el cluster 5
+#related docs = 12849
+selected Doc 20250
+El documento 37090 se elige como centroide para el cluster 6
+#related docs = 23628
+selected Doc 23553
+El documento 10379 se elige como centroide para el cluster 7
+#related docs = 13228
+selected Doc 7579
+El documento 13709 se elige como centroide para el cluster 8
+#related docs = 7385
+selected Doc 12179
+El documento 18909 se elige como centroide para el cluster 9
+#related docs = 14996
+selected Doc 14100
+El documento 11834 se elige como centroide para el cluster 10
+#related docs = 3856
+selected Doc 7290
+El documento 3685 se elige como centroide para el cluster 11
+#related docs = 1314
+selected Doc 16258
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.99970716 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 6758
+numberOfAssignedByCosineSim =  0
+Changed centroid document 36787 to 611
+#related docs = 36936
+Changed centroid document 12405 to 14254
+#related docs = 39924
+Changed centroid document 35523 to 33490
+#related docs = 30464
+Changed centroid document 28088 to 37358
+#related docs = 37884
+Changed centroid document 37161 to 39237
+#related docs = 32995
+Changed centroid document 33746 to 14134
+#related docs = 30535
+Changed centroid document 37090 to 30446
+#related docs = 39117
+Changed centroid document 10379 to 15021
+#related docs = 31731
+Changed centroid document 13709 to 36851
+#related docs = 32987
+Changed centroid document 18909 to 4520
+#related docs = 29731
+Changed centroid document 11834 to 36933
+#related docs = 39252
+Changed centroid document 3685 to 12573
+#related docs = 39849
+Time to run till 1 iterations: 2 seconds
+Global time until this iteration: 2 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.7840759 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 233
+numberOfAssignedByCosineSim =  0
+Changed centroid document 611 to 26442
+#related docs = 39075
+Me quedo con el centroide 14254
+Changed centroid document 33490 to 36374
+#related docs = 38492
+Changed centroid document 37358 to 40710
+#related docs = 38921
+Me quedo con el centroide 39237
+Me quedo con el centroide 14134
+Changed centroid document 30446 to 27293
+#related docs = 38869
+Me quedo con el centroide 15021
+Me quedo con el centroide 36851
+Changed centroid document 4520 to 37049
+#related docs = 37739
+Me quedo con el centroide 36933
+Me quedo con el centroide 12573
+Time to run till 2 iterations: 1 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.35044655 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 205
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 26442
+Me quedo con el centroide 14254
+Changed centroid document 36374 to 30446
+#related docs = 39117
+Changed centroid document 40710 to 27315
+#related docs = 39046
+Me quedo con el centroide 39237
+Me quedo con el centroide 14134
+Me quedo con el centroide 27293
+Me quedo con el centroide 15021
+Me quedo con el centroide 36851
+Me quedo con el centroide 37049
+Me quedo con el centroide 36933
+Me quedo con el centroide 12573
+Time to run till 3 iterations: 1 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.114904106 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 193
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 26442
+Me quedo con el centroide 14254
+Me quedo con el centroide 30446
+Me quedo con el centroide 27315
+Me quedo con el centroide 39237
+Me quedo con el centroide 14134
+Me quedo con el centroide 27293
+Me quedo con el centroide 15021
+Me quedo con el centroide 36851
+Me quedo con el centroide 37049
+Me quedo con el centroide 36933
+Me quedo con el centroide 12573
+Time to run till 4 iterations: 0 seconds
+Iteration : 5
+Reassigning cluster ids to non-centroid docs...
+0.0043433704 fraction of the documents reassigned different clusters...
+Stopping after 5 iterations...
+Time to cluster: 5 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.7672993257946824 0.16118467 0.13830048 0.14886826 0.2588941486506271 0.043459540675111485

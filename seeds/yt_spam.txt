@@ -1,0 +1,7 @@
+//Orden 0
+initialCentroids[0].add(Arrays.asList(222, 1136));
+initialCentroids[0].add(Arrays.asList(742, 789));
+initialCentroids[0].add(Arrays.asList(1558, 1399));
+initialCentroids[0].add(Arrays.asList(44, 99));
+initialCentroids[0].add(Arrays.asList(1451, 1451));
+

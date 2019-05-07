@@ -10,6 +10,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Properties;
 import org.apache.lucene.index.DirectoryReader;
@@ -232,20 +233,30 @@ public final class ClusterEvaluator {
         }
     }
 
-    void showNewMeasures() {
+    ArrayList<String> showNewMeasures() {
+        ArrayList<String> measures = new ArrayList<>();
         float accuracy = (countTP() + countTN())/(float)(countTP() + (countTPPlusFP() - countTP()) + countFN() + countTN());
         float prec = (countTP())/(float)(countTP() + (countTPPlusFP() - countTP()));
         float recall = (countTP())/(float)(countTP() + countFN());
         float fscore = 2*prec*recall/(prec+recall);
 
         try {
+            double ri = computeRandIndex();
+            double purity  = computePurity();
+            double nmi = computeNMI();
             System.out.println("RI  Recall  Precision   FScore  Purity  NMI");
-            System.out.println(computeRandIndex() +  " " + recall + " " + prec + " " + fscore + " " + computePurity() + " " + computeNMI());
+            measures.add(String.valueOf(ri));
+            measures.add(String.valueOf(recall));
+            measures.add(String.valueOf(prec));
+            measures.add(String.valueOf(fscore));
+            measures.add(String.valueOf(purity));
+            measures.add(String.valueOf(nmi));
+            System.out.println(ri +  " " + recall + " " + prec + " " + fscore + " " + purity + " " + nmi);
         } catch (Exception e) {
             e.printStackTrace();
         }
 //        System.out.println(accuracy + " " + prec + " " + recall + " " + fscore);
-
+        return measures;
     }
 
     void testFunctionalities() throws Exception {

@@ -1,0 +1,1006 @@
+El número de clusters es 12
+El documento 40447 se elige como centroide para el cluster 0
+#related docs = 21330
+El documento 35439 se elige como centroide para el cluster 1
+#related docs = 11578
+El documento 14052 se elige como centroide para el cluster 2
+#related docs = 4247
+El documento 5165 se elige como centroide para el cluster 3
+#related docs = 29134
+El documento 19770 se elige como centroide para el cluster 4
+#related docs = 12655
+El documento 5230 se elige como centroide para el cluster 5
+#related docs = 2603
+El documento 15574 se elige como centroide para el cluster 6
+#related docs = 13934
+El documento 24166 se elige como centroide para el cluster 7
+#related docs = 13587
+El documento 2667 se elige como centroide para el cluster 8
+#related docs = 23624
+El documento 12590 se elige como centroide para el cluster 9
+#related docs = 1003
+El documento 24011 se elige como centroide para el cluster 10
+#related docs = 2990
+El documento 2477 se elige como centroide para el cluster 11
+#related docs = 7953
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.99970716 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 7062
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+#related docs = 39951
+#related docs = 39968
+#related docs = 40085
+#related docs = 39926
+#related docs = 39822
+#related docs = 39866
+#related docs = 39819
+#related docs = 40015
+#related docs = 39949
+#related docs = 39854
+#related docs = 40760
+#related docs = 40650
+#related docs = 40635
+#related docs = 40686
+#related docs = 40712
+#related docs = 40714
+#related docs = 40624
+#related docs = 40633
+#related docs = 40752
+#related docs = 40689
+#related docs = 40715
+#related docs = 40706
+#related docs = 40714
+#related docs = 40660
+#related docs = 40644
+#related docs = 40655
+#related docs = 40637
+#related docs = 40715
+#related docs = 40616
+#related docs = 40691
+#related docs = 40752
+#related docs = 40778
+#related docs = 40765
+#related docs = 40733
+#related docs = 40760
+#related docs = 40704
+#related docs = 40745
+#related docs = 40752
+#related docs = 40769
+#related docs = 40734
+#related docs = 39757
+#related docs = 39650
+#related docs = 39776
+#related docs = 39751
+#related docs = 39805
+#related docs = 39777
+#related docs = 39629
+#related docs = 39578
+#related docs = 39798
+#related docs = 39664
+#related docs = 40732
+#related docs = 40759
+#related docs = 40735
+#related docs = 40799
+#related docs = 40808
+#related docs = 40827
+#related docs = 40720
+#related docs = 40714
+#related docs = 40813
+#related docs = 40811
+#related docs = 39723
+#related docs = 39666
+#related docs = 39553
+#related docs = 39716
+#related docs = 39714
+#related docs = 39818
+#related docs = 40119
+#related docs = 39623
+#related docs = 39723
+#related docs = 39647
+#related docs = 40555
+#related docs = 40471
+#related docs = 40268
+#related docs = 40479
+#related docs = 40487
+#related docs = 40436
+#related docs = 40490
+#related docs = 40482
+#related docs = 40332
+#related docs = 40208
+#related docs = 40332
+#related docs = 40381
+#related docs = 40459
+#related docs = 40128
+#related docs = 40438
+#related docs = 40331
+#related docs = 40347
+#related docs = 40343
+#related docs = 40083
+#related docs = 39971
+#related docs = 40743
+#related docs = 40758
+#related docs = 40737
+#related docs = 40809
+#related docs = 40664
+#related docs = 40740
+#related docs = 40718
+#related docs = 40806
+#related docs = 40694
+#related docs = 40758
+#related docs = 40567
+#related docs = 40582
+#related docs = 40581
+#related docs = 40670
+#related docs = 40727
+#related docs = 40651
+#related docs = 40625
+#related docs = 40650
+#related docs = 40630
+#related docs = 40642
+#related docs = 40368
+#related docs = 40612
+#related docs = 40579
+#related docs = 40352
+#related docs = 40584
+#related docs = 40435
+#related docs = 40399
+#related docs = 40381
+#related docs = 40411
+#related docs = 40349
+Time to run till 1 iterations: 40 seconds
+Global time until this iteration: 41 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.61031675 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+#related docs = 40511
+#related docs = 40573
+#related docs = 40543
+#related docs = 40557
+#related docs = 40559
+#related docs = 40542
+#related docs = 40579
+#related docs = 40582
+#related docs = 40571
+#related docs = 40568
+#related docs = 40575
+#related docs = 40629
+#related docs = 40371
+#related docs = 40495
+#related docs = 40644
+#related docs = 40642
+#related docs = 40664
+#related docs = 40532
+#related docs = 40466
+#related docs = 40408
+#related docs = 40268
+#related docs = 40510
+#related docs = 40272
+#related docs = 40364
+#related docs = 40546
+#related docs = 40515
+#related docs = 40287
+#related docs = 40527
+#related docs = 40506
+#related docs = 40420
+#related docs = 40480
+#related docs = 40734
+#related docs = 40648
+#related docs = 40502
+#related docs = 40468
+#related docs = 40695
+#related docs = 40763
+#related docs = 40779
+#related docs = 40496
+#related docs = 40732
+#related docs = 40313
+#related docs = 40279
+#related docs = 40363
+#related docs = 40364
+#related docs = 40328
+#related docs = 40319
+#related docs = 40404
+#related docs = 40351
+#related docs = 40279
+#related docs = 40324
+#related docs = 40738
+#related docs = 40741
+#related docs = 40703
+#related docs = 40735
+#related docs = 40453
+#related docs = 40731
+#related docs = 40477
+#related docs = 40457
+#related docs = 40741
+#related docs = 40566
+#related docs = 40560
+#related docs = 40545
+#related docs = 40559
+#related docs = 40587
+#related docs = 40533
+#related docs = 40575
+#related docs = 40604
+#related docs = 40591
+#related docs = 40563
+#related docs = 40592
+#related docs = 40365
+#related docs = 40390
+#related docs = 40039
+#related docs = 40441
+#related docs = 40247
+#related docs = 40356
+#related docs = 40216
+#related docs = 40144
+#related docs = 40354
+#related docs = 40324
+#related docs = 40235
+#related docs = 40186
+#related docs = 40089
+#related docs = 40409
+#related docs = 40233
+#related docs = 40032
+#related docs = 40053
+#related docs = 40248
+#related docs = 40058
+#related docs = 40160
+#related docs = 40483
+#related docs = 40686
+#related docs = 40705
+#related docs = 40742
+#related docs = 40729
+#related docs = 40781
+#related docs = 40809
+#related docs = 40758
+#related docs = 40703
+#related docs = 40735
+#related docs = 40477
+#related docs = 40264
+#related docs = 40095
+#related docs = 39936
+#related docs = 40231
+#related docs = 39946
+#related docs = 40037
+#related docs = 40308
+#related docs = 40357
+#related docs = 40305
+#related docs = 40052
+#related docs = 40070
+#related docs = 40364
+#related docs = 40238
+#related docs = 39817
+#related docs = 39991
+#related docs = 39974
+#related docs = 39996
+#related docs = 40183
+#related docs = 39949
+Time to run till 2 iterations: 38 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.3241179 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+#related docs = 40426
+#related docs = 40500
+#related docs = 40498
+#related docs = 40393
+#related docs = 40460
+#related docs = 40406
+#related docs = 40430
+#related docs = 40475
+#related docs = 40405
+#related docs = 40441
+#related docs = 40617
+#related docs = 40664
+#related docs = 40511
+#related docs = 40625
+#related docs = 40561
+#related docs = 40688
+#related docs = 40278
+#related docs = 40657
+#related docs = 40436
+#related docs = 40539
+#related docs = 40421
+#related docs = 40366
+#related docs = 40391
+#related docs = 40505
+#related docs = 40297
+#related docs = 40184
+#related docs = 40219
+#related docs = 40533
+#related docs = 40376
+#related docs = 40397
+#related docs = 40734
+#related docs = 40727
+#related docs = 40535
+#related docs = 40710
+#related docs = 40516
+#related docs = 40517
+#related docs = 40534
+#related docs = 40724
+#related docs = 40690
+#related docs = 40736
+#related docs = 40321
+#related docs = 40329
+#related docs = 40243
+#related docs = 40285
+#related docs = 40260
+#related docs = 40248
+#related docs = 40275
+#related docs = 40311
+#related docs = 40276
+#related docs = 40358
+#related docs = 40487
+#related docs = 40707
+#related docs = 40640
+#related docs = 40415
+#related docs = 40498
+#related docs = 40681
+#related docs = 40435
+#related docs = 40617
+#related docs = 40496
+#related docs = 40667
+#related docs = 40420
+#related docs = 40477
+#related docs = 40493
+#related docs = 40502
+#related docs = 40463
+#related docs = 40461
+#related docs = 40468
+#related docs = 40458
+#related docs = 40461
+#related docs = 40478
+#related docs = 40152
+#related docs = 40148
+#related docs = 40366
+#related docs = 40239
+#related docs = 40518
+#related docs = 40442
+#related docs = 40125
+#related docs = 40058
+#related docs = 40370
+#related docs = 40521
+#related docs = 40212
+#related docs = 40192
+#related docs = 40397
+#related docs = 40091
+#related docs = 40353
+#related docs = 40273
+#related docs = 40351
+#related docs = 40321
+#related docs = 40226
+#related docs = 40300
+#related docs = 40794
+#related docs = 40526
+#related docs = 40557
+#related docs = 40658
+#related docs = 40723
+#related docs = 40746
+#related docs = 40759
+#related docs = 40743
+#related docs = 40520
+#related docs = 40702
+#related docs = 40260
+#related docs = 40425
+#related docs = 40306
+#related docs = 40336
+#related docs = 40267
+#related docs = 40437
+#related docs = 40117
+#related docs = 40343
+#related docs = 40479
+#related docs = 40470
+#related docs = 40046
+#related docs = 40215
+#related docs = 39946
+#related docs = 40272
+#related docs = 40255
+#related docs = 40350
+#related docs = 40187
+#related docs = 40246
+#related docs = 40245
+#related docs = 39983
+Time to run till 3 iterations: 39 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.19530526 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+#related docs = 40525
+#related docs = 40551
+#related docs = 40198
+#related docs = 40522
+#related docs = 40490
+#related docs = 40507
+#related docs = 40538
+#related docs = 40540
+#related docs = 40524
+#related docs = 40511
+#related docs = 40457
+#related docs = 40617
+#related docs = 40583
+#related docs = 40640
+#related docs = 40487
+#related docs = 40595
+#related docs = 40375
+#related docs = 40614
+#related docs = 40514
+#related docs = 40384
+#related docs = 40226
+#related docs = 40561
+#related docs = 40481
+#related docs = 40424
+#related docs = 40357
+#related docs = 40471
+#related docs = 40201
+#related docs = 40262
+#related docs = 40204
+#related docs = 39964
+#related docs = 40779
+#related docs = 40515
+#related docs = 40689
+#related docs = 40751
+#related docs = 40784
+#related docs = 40570
+#related docs = 40537
+#related docs = 40736
+#related docs = 40718
+#related docs = 40707
+#related docs = 40214
+#related docs = 40233
+#related docs = 40215
+#related docs = 40290
+#related docs = 40259
+#related docs = 40197
+#related docs = 40227
+#related docs = 40177
+#related docs = 40284
+#related docs = 40240
+#related docs = 40430
+#related docs = 40548
+#related docs = 40525
+#related docs = 40373
+#related docs = 40623
+#related docs = 40676
+#related docs = 40153
+#related docs = 40356
+#related docs = 40272
+#related docs = 40322
+#related docs = 40529
+#related docs = 40557
+#related docs = 40542
+#related docs = 40515
+#related docs = 40534
+#related docs = 40574
+#related docs = 40534
+#related docs = 40562
+#related docs = 40539
+#related docs = 40532
+#related docs = 40352
+#related docs = 40187
+#related docs = 40352
+#related docs = 40453
+#related docs = 40412
+#related docs = 40351
+#related docs = 40184
+#related docs = 40368
+#related docs = 40162
+#related docs = 40108
+#related docs = 40260
+#related docs = 40193
+#related docs = 40112
+#related docs = 40083
+#related docs = 40302
+#related docs = 40220
+#related docs = 40277
+#related docs = 40126
+#related docs = 40239
+#related docs = 40365
+#related docs = 40425
+#related docs = 40498
+#related docs = 40677
+#related docs = 40413
+#related docs = 40765
+#related docs = 40782
+#related docs = 40738
+#related docs = 40519
+#related docs = 40458
+#related docs = 40767
+#related docs = 40185
+#related docs = 40193
+#related docs = 40362
+#related docs = 40219
+#related docs = 40218
+#related docs = 40314
+#related docs = 40093
+#related docs = 40171
+#related docs = 40209
+#related docs = 40297
+#related docs = 39912
+#related docs = 39815
+#related docs = 40062
+#related docs = 40133
+#related docs = 40118
+#related docs = 40252
+#related docs = 39989
+#related docs = 39790
+#related docs = 40177
+#related docs = 39972
+Time to run till 4 iterations: 38 seconds
+Iteration : 5
+Reassigning cluster ids to non-centroid docs...
+0.15750818 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+#related docs = 40523
+#related docs = 40536
+#related docs = 40535
+#related docs = 40486
+#related docs = 40518
+#related docs = 40456
+#related docs = 40512
+#related docs = 40490
+#related docs = 40526
+#related docs = 40463
+#related docs = 40570
+#related docs = 40653
+#related docs = 40582
+#related docs = 40293
+#related docs = 40489
+#related docs = 40402
+#related docs = 40696
+#related docs = 40672
+#related docs = 40565
+#related docs = 40524
+#related docs = 40502
+#related docs = 40335
+#related docs = 40471
+#related docs = 40153
+#related docs = 40337
+#related docs = 40279
+#related docs = 40263
+#related docs = 40343
+#related docs = 40390
+#related docs = 40400
+#related docs = 40539
+#related docs = 40750
+#related docs = 40797
+#related docs = 40542
+#related docs = 40800
+#related docs = 40523
+#related docs = 40746
+#related docs = 40774
+#related docs = 40690
+#related docs = 40673
+#related docs = 40251
+#related docs = 40272
+#related docs = 40231
+#related docs = 40252
+#related docs = 40270
+#related docs = 40211
+#related docs = 40191
+#related docs = 40224
+#related docs = 40313
+#related docs = 40241
+#related docs = 40270
+#related docs = 40577
+#related docs = 40627
+#related docs = 40702
+#related docs = 40179
+#related docs = 40286
+#related docs = 40280
+#related docs = 40345
+#related docs = 40280
+#related docs = 40530
+#related docs = 40526
+#related docs = 40511
+#related docs = 40534
+#related docs = 40501
+#related docs = 40551
+#related docs = 40557
+#related docs = 40540
+#related docs = 40566
+#related docs = 40516
+#related docs = 40532
+#related docs = 40494
+#related docs = 40098
+#related docs = 40065
+#related docs = 40400
+#related docs = 40385
+#related docs = 40264
+#related docs = 40384
+#related docs = 40088
+#related docs = 40128
+#related docs = 40398
+#related docs = 40208
+#related docs = 40326
+#related docs = 40215
+#related docs = 40249
+#related docs = 40272
+#related docs = 40111
+#related docs = 40297
+#related docs = 40118
+#related docs = 40133
+#related docs = 40186
+#related docs = 40657
+#related docs = 40507
+#related docs = 40712
+#related docs = 40539
+#related docs = 40531
+#related docs = 40778
+#related docs = 40754
+#related docs = 40569
+#related docs = 40660
+#related docs = 40730
+#related docs = 40336
+#related docs = 40085
+#related docs = 40152
+#related docs = 40430
+#related docs = 40372
+#related docs = 40474
+#related docs = 40001
+#related docs = 40378
+#related docs = 40182
+#related docs = 40272
+#related docs = 40177
+#related docs = 39937
+#related docs = 40227
+#related docs = 40140
+#related docs = 40168
+#related docs = 40128
+#related docs = 40129
+#related docs = 39950
+#related docs = 40009
+#related docs = 39947
+Time to run till 5 iterations: 38 seconds
+Iteration : 6
+Reassigning cluster ids to non-centroid docs...
+0.108071834 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+#related docs = 40498
+#related docs = 40270
+#related docs = 40454
+#related docs = 40460
+#related docs = 40491
+#related docs = 40552
+#related docs = 40474
+#related docs = 40459
+#related docs = 40559
+#related docs = 40493
+#related docs = 40615
+#related docs = 40640
+#related docs = 40236
+#related docs = 40379
+#related docs = 40610
+#related docs = 40482
+#related docs = 40576
+#related docs = 40529
+#related docs = 40650
+#related docs = 40462
+#related docs = 40385
+#related docs = 40375
+#related docs = 40517
+#related docs = 39929
+#related docs = 40244
+#related docs = 40431
+#related docs = 40294
+#related docs = 40202
+#related docs = 40391
+#related docs = 40398
+#related docs = 40675
+#related docs = 40510
+#related docs = 40705
+#related docs = 40766
+#related docs = 40567
+#related docs = 40536
+#related docs = 40803
+#related docs = 40770
+#related docs = 40747
+#related docs = 40513
+#related docs = 40247
+#related docs = 40234
+#related docs = 40202
+#related docs = 40249
+#related docs = 40180
+#related docs = 40245
+#related docs = 40222
+#related docs = 40201
+#related docs = 40140
+#related docs = 40197
+#related docs = 40630
+#related docs = 40529
+#related docs = 40322
+#related docs = 40195
+#related docs = 40356
+#related docs = 40501
+#related docs = 40150
+#related docs = 40607
+#related docs = 40400
+#related docs = 40461
+#related docs = 40514
+#related docs = 40507
+#related docs = 40504
+#related docs = 40524
+#related docs = 40565
+#related docs = 40528
+#related docs = 40540
+#related docs = 40541
+#related docs = 40590
+#related docs = 40555
+#related docs = 40365
+#related docs = 40215
+#related docs = 40355
+#related docs = 40442
+#related docs = 40392
+#related docs = 40222
+#related docs = 40088
+#related docs = 40376
+#related docs = 40365
+#related docs = 40451
+#related docs = 40169
+#related docs = 40295
+#related docs = 40166
+#related docs = 40320
+#related docs = 40210
+#related docs = 40163
+#related docs = 40226
+#related docs = 40137
+#related docs = 40261
+#related docs = 39907
+#related docs = 40490
+#related docs = 40732
+#related docs = 40450
+#related docs = 40644
+#related docs = 40705
+#related docs = 40636
+#related docs = 40618
+#related docs = 40733
+#related docs = 40749
+#related docs = 40709
+#related docs = 40275
+#related docs = 40073
+#related docs = 40095
+#related docs = 40047
+#related docs = 40235
+#related docs = 40384
+#related docs = 40365
+#related docs = 40350
+#related docs = 40319
+#related docs = 40280
+#related docs = 40186
+#related docs = 40113
+#related docs = 40161
+#related docs = 39958
+#related docs = 39886
+#related docs = 40082
+#related docs = 40202
+#related docs = 40228
+#related docs = 39832
+#related docs = 40196
+Time to run till 6 iterations: 38 seconds
+Iteration : 7
+Reassigning cluster ids to non-centroid docs...
+0.10082475 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+#related docs = 40513
+#related docs = 40503
+#related docs = 40493
+#related docs = 40515
+#related docs = 40514
+#related docs = 40522
+#related docs = 40411
+#related docs = 40579
+#related docs = 40495
+#related docs = 40443
+#related docs = 40444
+#related docs = 40535
+#related docs = 40257
+#related docs = 40641
+#related docs = 40586
+#related docs = 40661
+#related docs = 40514
+#related docs = 40594
+#related docs = 40574
+#related docs = 40564
+#related docs = 40257
+#related docs = 40280
+#related docs = 40274
+#related docs = 40499
+#related docs = 40180
+#related docs = 40330
+#related docs = 40187
+#related docs = 40435
+#related docs = 40234
+#related docs = 40424
+#related docs = 40773
+#related docs = 40691
+#related docs = 40774
+#related docs = 40510
+#related docs = 40761
+#related docs = 40516
+#related docs = 40767
+#related docs = 40540
+#related docs = 40735
+#related docs = 40547
+#related docs = 40237
+#related docs = 40204
+#related docs = 40301
+#related docs = 40238
+#related docs = 40225
+#related docs = 40178
+#related docs = 40253
+#related docs = 40212
+#related docs = 40253
+#related docs = 40238
+#related docs = 40521
+#related docs = 40235
+#related docs = 40228
+#related docs = 40328
+#related docs = 40391
+#related docs = 40568
+#related docs = 40564
+#related docs = 40557
+#related docs = 40265
+#related docs = 40373
+#related docs = 40554
+#related docs = 40518
+#related docs = 40485
+#related docs = 40548
+#related docs = 40544
+#related docs = 40534
+#related docs = 40536
+#related docs = 40536
+#related docs = 40482
+#related docs = 40562
+#related docs = 40380
+#related docs = 40122
+#related docs = 40185
+#related docs = 40135
+#related docs = 40417
+#related docs = 40383
+#related docs = 40387
+#related docs = 40425
+#related docs = 40375
+#related docs = 40477
+#related docs = 39861
+#related docs = 40218
+#related docs = 40214
+#related docs = 40297
+#related docs = 40319
+#related docs = 40188
+#related docs = 40313
+#related docs = 40204
+#related docs = 40269
+#related docs = 40115
+#related docs = 40701
+#related docs = 40673
+#related docs = 40633
+#related docs = 40683
+#related docs = 40656
+#related docs = 40427
+#related docs = 40510
+#related docs = 40602
+#related docs = 40757
+#related docs = 40768
+#related docs = 40097
+#related docs = 40349
+#related docs = 40449
+#related docs = 40400
+#related docs = 40049
+#related docs = 40271
+#related docs = 40085
+#related docs = 40313
+#related docs = 40185
+#related docs = 40235
+#related docs = 40126
+#related docs = 40154
+#related docs = 39864
+#related docs = 39958
+#related docs = 39914
+#related docs = 40123
+#related docs = 40248
+#related docs = 40077
+#related docs = 40210
+#related docs = 39981
+Time to run till 7 iterations: 34 seconds
+Iteration : 8
+Reassigning cluster ids to non-centroid docs...
+0.07354448 fraction of the documents reassigned different clusters...
+Stopping after 8 iterations...
+Time to cluster: 269 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.7706605844977771 0.16249071 0.14235382 0.15175718 0.27233907569176713 0.05743243275966973
+Number of documents
+40982
+Number of documents
+40982
+Number of documents
+40982

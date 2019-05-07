@@ -10,6 +10,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
@@ -71,17 +72,19 @@ public abstract class LuceneClusterer {
     abstract boolean isCentroid(int docId);
     abstract int getClosestCluster(int docId) throws Exception;    
     abstract void showCentroids() throws Exception;
-    
-    public void cluster() throws Exception {        
+    abstract String getAlgoName();
+    public ArrayList<String> cluster() throws Exception {
+
         long gstart, gend, start, end;
         gstart = System.currentTimeMillis();
         resetAllClusterIds();
         initCentroids();
         int maxIters = Integer.parseInt(prop.getProperty("maxiters", "20"));
+        float lastNumberOfRandomDocs = 0;
         float stopThreshold = Float.parseFloat(prop.getProperty("stopthreshold", "0.1"));
         float changeRatio;
-        
-        for (int i=1; i <= maxIters; i++) {
+        int i;
+        for (i=1; i <= maxIters; i++) {
 	    start = System.currentTimeMillis();
 
             System.out.println("Iteration : " + i);
@@ -105,6 +108,7 @@ public abstract class LuceneClusterer {
             System.out.println("numberOfDocsAssigendRandomly = " + numberOfDocsAssginedRandomly);
             System.out.println("numberOfAssignedByCosineSim =  " + numberOfAssignedByCosineSim);
             recomputeCentroids();
+            lastNumberOfRandomDocs = numberOfDocsAssginedRandomly;
             numberOfDocsAssginedRandomly = 0;
             numberOfAssignedByCosineSim = 0;
 
@@ -118,9 +122,15 @@ public abstract class LuceneClusterer {
         }
         gend = System.currentTimeMillis();
         System.out.println("Time to cluster: " + (gend-gstart)/1000 + " seconds");
-
         saveClusterIds(0);  // the global one
+        ArrayList<String> resultsToBePrinted = new ArrayList<>();
+        long timeToCluster = (gend-gstart)/1000;
+
+        resultsToBePrinted.add(String.valueOf(timeToCluster));
+        resultsToBePrinted.add(String.valueOf(i));
+        resultsToBePrinted.add(String.valueOf(lastNumberOfRandomDocs    ));
         reader.close();
+        return resultsToBePrinted;
     }
     
     void saveClusterIds(int iter) throws Exception {

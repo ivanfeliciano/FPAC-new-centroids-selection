@@ -54,6 +54,8 @@ public class FPACWithMCentroids extends LuceneClusterer {
     }
 
     @Override
+    public String getAlgoName(){return "";}
+    @Override
     void initCentroids() throws Exception {
 
     }

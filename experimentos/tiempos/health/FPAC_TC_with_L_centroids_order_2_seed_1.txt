@@ -1,0 +1,598 @@
+El número de clusters es 16
+El documento 7494 se elige como centroide para el cluster 0
+#related docs = 59785
+El documento 22491 se elige como centroide para el cluster 1
+#related docs = 59701
+El documento 15003 se elige como centroide para el cluster 2
+#related docs = 59411
+El documento 37490 se elige como centroide para el cluster 3
+#related docs = 59397
+El documento 2759 se elige como centroide para el cluster 4
+#related docs = 59425
+El documento 42199 se elige como centroide para el cluster 5
+#related docs = 59426
+El documento 49887 se elige como centroide para el cluster 6
+#related docs = 59373
+El documento 16329 se elige como centroide para el cluster 7
+#related docs = 59344
+El documento 18786 se elige como centroide para el cluster 8
+#related docs = 11427
+El documento 38355 se elige como centroide para el cluster 9
+#related docs = 59640
+El documento 11843 se elige como centroide para el cluster 10
+#related docs = 59304
+El documento 13537 se elige como centroide para el cluster 11
+#related docs = 59653
+El documento 51778 se elige como centroide para el cluster 12
+#related docs = 59448
+El documento 49308 se elige como centroide para el cluster 13
+#related docs = 59352
+El documento 43561 se elige como centroide para el cluster 14
+#related docs = 59362
+El documento 28863 se elige como centroide para el cluster 15
+#related docs = 59916
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+Skipping cluster assignment for empty doc, because the docs is empty: 54856
+0.99974734 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 779
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+Calculando centroides para el cluster 12
+Calculando centroides para el cluster 13
+Calculando centroides para el cluster 14
+Calculando centroides para el cluster 15
+#related docs = 63207
+#related docs = 63213
+#related docs = 63224
+#related docs = 63229
+#related docs = 63223
+#related docs = 63210
+#related docs = 63230
+#related docs = 63215
+#related docs = 63212
+#related docs = 63235
+#related docs = 63214
+#related docs = 63208
+#related docs = 63224
+#related docs = 63240
+#related docs = 63219
+#related docs = 63216
+#related docs = 63203
+#related docs = 63216
+#related docs = 63228
+#related docs = 63201
+#related docs = 63160
+#related docs = 63102
+#related docs = 63134
+#related docs = 63148
+#related docs = 63171
+#related docs = 63144
+#related docs = 63143
+#related docs = 63132
+#related docs = 63146
+#related docs = 63150
+#related docs = 63150
+#related docs = 63160
+#related docs = 63074
+#related docs = 63128
+#related docs = 63128
+#related docs = 63108
+#related docs = 63159
+#related docs = 63138
+#related docs = 63158
+#related docs = 63167
+#related docs = 63222
+#related docs = 63203
+#related docs = 63228
+#related docs = 63224
+#related docs = 63236
+#related docs = 63218
+#related docs = 63216
+#related docs = 63217
+#related docs = 63228
+#related docs = 63216
+#related docs = 63201
+#related docs = 63207
+#related docs = 63219
+#related docs = 63178
+#related docs = 63203
+#related docs = 63217
+#related docs = 63229
+#related docs = 63205
+#related docs = 63208
+#related docs = 63214
+#related docs = 63177
+#related docs = 63183
+#related docs = 63194
+#related docs = 63104
+#related docs = 63163
+#related docs = 63157
+#related docs = 63187
+#related docs = 63157
+#related docs = 63155
+#related docs = 63178
+#related docs = 63220
+#related docs = 63162
+#related docs = 63178
+#related docs = 63207
+#related docs = 63215
+#related docs = 63228
+#related docs = 63198
+#related docs = 63205
+#related docs = 63202
+#related docs = 63169
+#related docs = 63268
+#related docs = 63269
+#related docs = 63271
+#related docs = 63276
+#related docs = 63275
+#related docs = 63268
+#related docs = 63277
+#related docs = 63256
+#related docs = 63274
+#related docs = 63257
+#related docs = 63165
+#related docs = 63164
+#related docs = 63141
+#related docs = 63163
+#related docs = 63120
+#related docs = 63192
+#related docs = 63195
+#related docs = 63173
+#related docs = 63180
+#related docs = 63184
+#related docs = 63135
+#related docs = 63154
+#related docs = 63200
+#related docs = 63161
+#related docs = 63181
+#related docs = 63176
+#related docs = 63190
+#related docs = 63168
+#related docs = 63171
+#related docs = 63194
+#related docs = 63068
+#related docs = 63086
+#related docs = 63153
+#related docs = 63119
+#related docs = 63146
+#related docs = 63115
+#related docs = 63151
+#related docs = 63064
+#related docs = 63082
+#related docs = 63103
+#related docs = 63193
+#related docs = 63178
+#related docs = 63187
+#related docs = 63193
+#related docs = 63178
+#related docs = 63187
+#related docs = 63191
+#related docs = 63178
+#related docs = 63163
+#related docs = 63187
+#related docs = 63248
+#related docs = 63261
+#related docs = 63240
+#related docs = 63254
+#related docs = 63248
+#related docs = 63244
+#related docs = 63227
+#related docs = 63232
+#related docs = 63245
+#related docs = 63250
+#related docs = 63228
+#related docs = 63233
+#related docs = 63220
+#related docs = 63229
+#related docs = 63245
+#related docs = 63217
+#related docs = 63242
+#related docs = 63216
+#related docs = 63211
+#related docs = 63235
+#related docs = 63191
+#related docs = 63136
+#related docs = 63171
+#related docs = 63190
+#related docs = 63196
+#related docs = 63142
+#related docs = 63175
+#related docs = 63150
+#related docs = 63197
+#related docs = 63167
+Time to run till 1 iterations: 14 seconds
+Global time until this iteration: 15 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+Skipping cluster assignment for empty doc, because the docs is empty: 54856
+0.51556206 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 1
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+Calculando centroides para el cluster 12
+Calculando centroides para el cluster 13
+Calculando centroides para el cluster 14
+Calculando centroides para el cluster 15
+#related docs = 63228
+#related docs = 63203
+#related docs = 63216
+#related docs = 63209
+#related docs = 63236
+#related docs = 63216
+#related docs = 63221
+#related docs = 63211
+#related docs = 63190
+#related docs = 63207
+#related docs = 63192
+#related docs = 63198
+#related docs = 63187
+#related docs = 63163
+#related docs = 63178
+#related docs = 63184
+#related docs = 63190
+#related docs = 63178
+#related docs = 63185
+#related docs = 63197
+#related docs = 63201
+#related docs = 63211
+#related docs = 63195
+#related docs = 63191
+#related docs = 63202
+#related docs = 63205
+#related docs = 63201
+#related docs = 63192
+#related docs = 63229
+#related docs = 63211
+#related docs = 63181
+#related docs = 63173
+#related docs = 63205
+#related docs = 63197
+#related docs = 63205
+#related docs = 63189
+#related docs = 63191
+#related docs = 63195
+#related docs = 63179
+#related docs = 63179
+#related docs = 63116
+#related docs = 63107
+#related docs = 63048
+#related docs = 63082
+#related docs = 63071
+#related docs = 63103
+#related docs = 63110
+#related docs = 63092
+#related docs = 63077
+#related docs = 63116
+#related docs = 63158
+#related docs = 63154
+#related docs = 63109
+#related docs = 63098
+#related docs = 63095
+#related docs = 63114
+#related docs = 63121
+#related docs = 63124
+#related docs = 63146
+#related docs = 63121
+#related docs = 63112
+#related docs = 63073
+#related docs = 63129
+#related docs = 63063
+#related docs = 63097
+#related docs = 63100
+#related docs = 63093
+#related docs = 63031
+#related docs = 63072
+#related docs = 63078
+#related docs = 63111
+#related docs = 63109
+#related docs = 63131
+#related docs = 63092
+#related docs = 63104
+#related docs = 63117
+#related docs = 63125
+#related docs = 63063
+#related docs = 63134
+#related docs = 63123
+#related docs = 63225
+#related docs = 63234
+#related docs = 63222
+#related docs = 63226
+#related docs = 63231
+#related docs = 63236
+#related docs = 63236
+#related docs = 63230
+#related docs = 63238
+#related docs = 63212
+#related docs = 63113
+#related docs = 63133
+#related docs = 63126
+#related docs = 63106
+#related docs = 63137
+#related docs = 63135
+#related docs = 63137
+#related docs = 63118
+#related docs = 63137
+#related docs = 63124
+#related docs = 63126
+#related docs = 63117
+#related docs = 63147
+#related docs = 63137
+#related docs = 63141
+#related docs = 63156
+#related docs = 63142
+#related docs = 63118
+#related docs = 63121
+#related docs = 63123
+#related docs = 63107
+#related docs = 63174
+#related docs = 63145
+#related docs = 63128
+#related docs = 63158
+#related docs = 63177
+#related docs = 63167
+#related docs = 63143
+#related docs = 63161
+#related docs = 63158
+#related docs = 63229
+#related docs = 63231
+#related docs = 63230
+#related docs = 63232
+#related docs = 63228
+#related docs = 63235
+#related docs = 63237
+#related docs = 63232
+#related docs = 63235
+#related docs = 63238
+#related docs = 63170
+#related docs = 63180
+#related docs = 63154
+#related docs = 63146
+#related docs = 63158
+#related docs = 63175
+#related docs = 63187
+#related docs = 63169
+#related docs = 63135
+#related docs = 63168
+#related docs = 63165
+#related docs = 63197
+#related docs = 63215
+#related docs = 63177
+#related docs = 63179
+#related docs = 63195
+#related docs = 63210
+#related docs = 63192
+#related docs = 63209
+#related docs = 63185
+#related docs = 63258
+#related docs = 63256
+#related docs = 63255
+#related docs = 63243
+#related docs = 63248
+#related docs = 63261
+#related docs = 63260
+#related docs = 63240
+#related docs = 63252
+#related docs = 63256
+Time to run till 2 iterations: 15 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+Skipping cluster assignment for empty doc, because the docs is empty: 54856
+0.24859855 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 1
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+Calculando centroides para el cluster 12
+Calculando centroides para el cluster 13
+Calculando centroides para el cluster 14
+Calculando centroides para el cluster 15
+#related docs = 63217
+#related docs = 63220
+#related docs = 63221
+#related docs = 63227
+#related docs = 63225
+#related docs = 63228
+#related docs = 63224
+#related docs = 63221
+#related docs = 63216
+#related docs = 63224
+#related docs = 63215
+#related docs = 63192
+#related docs = 63188
+#related docs = 63178
+#related docs = 63191
+#related docs = 63205
+#related docs = 63188
+#related docs = 63197
+#related docs = 63198
+#related docs = 63199
+#related docs = 63186
+#related docs = 63168
+#related docs = 63150
+#related docs = 63155
+#related docs = 63178
+#related docs = 63160
+#related docs = 63155
+#related docs = 63178
+#related docs = 63164
+#related docs = 63176
+#related docs = 63139
+#related docs = 63147
+#related docs = 63159
+#related docs = 63170
+#related docs = 63093
+#related docs = 63131
+#related docs = 63143
+#related docs = 63141
+#related docs = 63160
+#related docs = 63167
+#related docs = 63154
+#related docs = 63158
+#related docs = 63154
+#related docs = 63151
+#related docs = 63145
+#related docs = 63171
+#related docs = 63157
+#related docs = 63157
+#related docs = 63190
+#related docs = 63162
+#related docs = 63144
+#related docs = 63126
+#related docs = 63164
+#related docs = 63124
+#related docs = 63115
+#related docs = 63105
+#related docs = 63122
+#related docs = 63106
+#related docs = 63114
+#related docs = 63105
+#related docs = 63113
+#related docs = 63080
+#related docs = 63124
+#related docs = 63084
+#related docs = 63126
+#related docs = 63107
+#related docs = 63119
+#related docs = 63126
+#related docs = 63117
+#related docs = 63115
+#related docs = 63125
+#related docs = 63144
+#related docs = 63141
+#related docs = 63109
+#related docs = 63139
+#related docs = 63125
+#related docs = 63134
+#related docs = 63147
+#related docs = 63151
+#related docs = 63093
+#related docs = 63215
+#related docs = 63235
+#related docs = 63220
+#related docs = 63218
+#related docs = 63223
+#related docs = 63242
+#related docs = 63236
+#related docs = 63233
+#related docs = 63221
+#related docs = 63235
+#related docs = 63124
+#related docs = 63153
+#related docs = 63095
+#related docs = 63109
+#related docs = 63092
+#related docs = 63144
+#related docs = 63114
+#related docs = 63116
+#related docs = 63084
+#related docs = 63109
+#related docs = 63128
+#related docs = 63127
+#related docs = 63087
+#related docs = 63113
+#related docs = 63102
+#related docs = 63126
+#related docs = 63110
+#related docs = 63121
+#related docs = 63129
+#related docs = 63093
+#related docs = 63114
+#related docs = 63133
+#related docs = 63134
+#related docs = 63110
+#related docs = 63109
+#related docs = 63099
+#related docs = 63135
+#related docs = 63127
+#related docs = 63136
+#related docs = 63086
+#related docs = 63225
+#related docs = 63225
+#related docs = 63219
+#related docs = 63225
+#related docs = 63223
+#related docs = 63203
+#related docs = 63206
+#related docs = 63226
+#related docs = 63191
+#related docs = 63222
+#related docs = 63190
+#related docs = 63192
+#related docs = 63173
+#related docs = 63157
+#related docs = 63182
+#related docs = 63171
+#related docs = 63206
+#related docs = 63180
+#related docs = 63179
+#related docs = 63182
+#related docs = 63208
+#related docs = 63218
+#related docs = 63215
+#related docs = 63229
+#related docs = 63228
+#related docs = 63213
+#related docs = 63207
+#related docs = 63202
+#related docs = 63223
+#related docs = 63209
+#related docs = 63235
+#related docs = 63228
+#related docs = 63229
+#related docs = 63231
+#related docs = 63238
+#related docs = 63228
+#related docs = 63236
+#related docs = 63227
+#related docs = 63228
+#related docs = 63237
+Time to run till 3 iterations: 16 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+Skipping cluster assignment for empty doc, because the docs is empty: 54856
+0.097857155 fraction of the documents reassigned different clusters...
+Stopping after 4 iterations...
+Time to cluster: 47 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.8900954864758929 0.17802212 0.19816326 0.18755351 0.3512245961438249 0.20471459846191228
+Number of documents
+63327
+Number of documents
+63327
+Number of documents
+63327

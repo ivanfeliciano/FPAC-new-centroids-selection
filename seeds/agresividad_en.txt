@@ -1,0 +1,19 @@
+//Orden 0
+initialCentroids[0].add(Arrays.asList(386, 1218));
+initialCentroids[0].add(Arrays.asList(679, 678));
+initialCentroids[0].add(Arrays.asList(2718, 392));
+initialCentroids[0].add(Arrays.asList(1299, 709));
+initialCentroids[0].add(Arrays.asList(1583, 2041));
+//Orden 1
+initialCentroids[1].add(Arrays.asList(311, 801));
+initialCentroids[1].add(Arrays.asList(1625, 190));
+initialCentroids[1].add(Arrays.asList(2622, 199));
+initialCentroids[1].add(Arrays.asList(799, 579));
+initialCentroids[1].add(Arrays.asList(1393, 835));
+//Orden 2
+initialCentroids[2].add(Arrays.asList(1413, 800));
+initialCentroids[2].add(Arrays.asList(529, 645));
+initialCentroids[2].add(Arrays.asList(449, 1753));
+initialCentroids[2].add(Arrays.asList(12, 813));
+initialCentroids[2].add(Arrays.asList(55, 29));
+

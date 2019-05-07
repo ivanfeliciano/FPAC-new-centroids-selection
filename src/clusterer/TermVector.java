@@ -21,7 +21,7 @@ import javax.swing.plaf.synth.SynthTextAreaUI;
  * @author Debasis
  */
 public final class TermVector {
-    List<TermStats> termStatsList;
+    public List<TermStats> termStatsList;
     float norm;
 
     public TermVector() {

@@ -1,0 +1,99 @@
+El documento 11488 se elige como centroide para el cluster 0
+#related docs = 2891
+selected Doc 4251
+El documento 2828 se elige como centroide para el cluster 1
+#related docs = 17036
+selected Doc 10025
+El documento 2791 se elige como centroide para el cluster 2
+#related docs = 13709
+selected Doc 29713
+El documento 24612 se elige como centroide para el cluster 3
+#related docs = 18490
+selected Doc 16265
+El documento 21263 se elige como centroide para el cluster 4
+#related docs = 8904
+selected Doc 23088
+El documento 38182 se elige como centroide para el cluster 5
+#related docs = 10712
+selected Doc 40118
+El documento 16162 se elige como centroide para el cluster 6
+#related docs = 26627
+selected Doc 21961
+El documento 15633 se elige como centroide para el cluster 7
+#related docs = 21710
+selected Doc 32157
+El documento 39944 se elige como centroide para el cluster 8
+#related docs = 13915
+selected Doc 37760
+El documento 31327 se elige como centroide para el cluster 9
+#related docs = 4492
+selected Doc 18767
+El documento 27005 se elige como centroide para el cluster 10
+#related docs = 2321
+selected Doc 22973
+El documento 23799 se elige como centroide para el cluster 11
+#related docs = 27160
+selected Doc 26359
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.99970716 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 5449
+numberOfAssignedByCosineSim =  0
+#related docs = 40946
+#related docs = 40902
+#related docs = 40564
+#related docs = 40893
+#related docs = 40876
+#related docs = 40696
+#related docs = 40862
+#related docs = 40776
+#related docs = 40875
+#related docs = 40954
+#related docs = 40941
+#related docs = 40942
+Time to run till 1 iterations: 24 seconds
+Global time until this iteration: 24 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.50588065 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 40941
+#related docs = 40897
+#related docs = 40904
+#related docs = 40881
+#related docs = 40866
+#related docs = 40848
+#related docs = 40863
+#related docs = 40835
+#related docs = 40857
+#related docs = 40953
+#related docs = 40929
+#related docs = 40934
+Time to run till 2 iterations: 24 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.32284907 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 40941
+#related docs = 40897
+#related docs = 40883
+#related docs = 40881
+#related docs = 40868
+#related docs = 40851
+#related docs = 40862
+#related docs = 40837
+#related docs = 40859
+#related docs = 40953
+#related docs = 40929
+#related docs = 40934
+Time to run till 3 iterations: 24 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.017739495 fraction of the documents reassigned different clusters...
+Stopping after 4 iterations...
+Time to cluster: 73 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.7610405545778852 0.1599015 0.13188043 0.14454548 0.23359035674198428 0.020234102352450038

@@ -1,0 +1,118 @@
+El documento 7421 se elige como centroide para el cluster 0
+#related docs = 7363
+selected Doc 5956
+El documento 6913 se elige como centroide para el cluster 1
+#related docs = 7230
+selected Doc 4516
+El documento 4974 se elige como centroide para el cluster 2
+#related docs = 7349
+selected Doc 6518
+El documento 5875 se elige como centroide para el cluster 3
+#related docs = 680
+selected Doc 7421
+El documento 2155 se elige como centroide para el cluster 4
+#related docs = 7396
+selected Doc 6824
+El documento 3440 se elige como centroide para el cluster 5
+#related docs = 3379
+selected Doc 4597
+El documento 1218 se elige como centroide para el cluster 6
+#related docs = 7199
+selected Doc 6270
+El documento 1791 se elige como centroide para el cluster 7
+#related docs = 7288
+selected Doc 2503
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9989575 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 80
+numberOfAssignedByCosineSim =  0
+Changed centroid document 7421 to 2905
+#related docs = 7506
+Changed centroid document 6913 to 2577
+#related docs = 7617
+Changed centroid document 4974 to 1413
+#related docs = 7531
+Changed centroid document 5875 to 6640
+#related docs = 7537
+Changed centroid document 2155 to 1510
+#related docs = 7474
+Changed centroid document 3440 to 5021
+#related docs = 7413
+Changed centroid document 1218 to 2781
+#related docs = 7540
+Changed centroid document 1791 to 77
+#related docs = 7566
+Time to run till 1 iterations: 0 seconds
+Global time until this iteration: 0 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.68178266 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 1
+numberOfAssignedByCosineSim =  0
+Changed centroid document 2905 to 5144
+#related docs = 7543
+Me quedo con el centroide 2577
+Changed centroid document 1413 to 590
+#related docs = 7615
+Me quedo con el centroide 6640
+Changed centroid document 1510 to 5830
+#related docs = 7596
+Changed centroid document 5021 to 533
+#related docs = 7492
+Me quedo con el centroide 2781
+Me quedo con el centroide 77
+Time to run till 2 iterations: 0 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.56737036 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 13
+numberOfAssignedByCosineSim =  0
+Changed centroid document 5144 to 1807
+#related docs = 7550
+Me quedo con el centroide 2577
+Me quedo con el centroide 590
+Me quedo con el centroide 6640
+Me quedo con el centroide 5830
+Changed centroid document 533 to 1328
+#related docs = 7564
+Me quedo con el centroide 2781
+Me quedo con el centroide 77
+Time to run till 3 iterations: 0 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.40578577 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 13
+numberOfAssignedByCosineSim =  0
+Changed centroid document 1807 to 4192
+#related docs = 7546
+Me quedo con el centroide 2577
+Me quedo con el centroide 590
+Me quedo con el centroide 6640
+Me quedo con el centroide 5830
+Me quedo con el centroide 1328
+Me quedo con el centroide 2781
+Me quedo con el centroide 77
+Time to run till 4 iterations: 0 seconds
+Iteration : 5
+Reassigning cluster ids to non-centroid docs...
+0.2288246 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 13
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 4192
+Me quedo con el centroide 2577
+Me quedo con el centroide 590
+Me quedo con el centroide 6640
+Me quedo con el centroide 5830
+Me quedo con el centroide 1328
+Me quedo con el centroide 2781
+Me quedo con el centroide 77
+Time to run till 5 iterations: 0 seconds
+Iteration : 6
+Reassigning cluster ids to non-centroid docs...
+0.0014334115 fraction of the documents reassigned different clusters...
+Stopping after 6 iterations...
+Time to cluster: 0 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.6334762176440505 0.17901209 0.46788874 0.2589508 0.5484753713838937 0.14590813643689202

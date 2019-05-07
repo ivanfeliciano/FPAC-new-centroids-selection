@@ -73,6 +73,17 @@ public class DocumentsIndexer {
         docContentIdx = Integer.parseInt(prop.getProperty("doc_content_pos"));
         docDomainIdx = Integer.parseInt(prop.getProperty("doc_domain_pos"));
     }
+    private DocumentsIndexer(String _separator, int _docContentIdx, int _docDomainIdx, String indexPath, String _coll) throws Exception {
+        prop = new Properties();
+        prop.setProperty("coll", _coll);
+        prop.setProperty("stopfile", "/home/ivan/Documentos/FPAC-new-centroids-selection/stopwords.txt");
+        analyzer = constructAnalyzer();
+        indexDir = new File(indexPath);
+        separator = _separator;
+        docContentIdx = _docContentIdx;
+        docDomainIdx = _docDomainIdx;
+
+    }
     
     public Analyzer getAnalyzer() { return analyzer; }
 
@@ -143,18 +154,39 @@ public class DocumentsIndexer {
     
     
     public static void main(String[] args) {
-        if (args.length == 0) {
-            args = new String[1];
-            System.out.println("Usage: java DocumentsIndexer <prop-file>");
-            args[0] = "indexes_properties/docs_index.properties";
+//        if (args.length == 0) {
+//            args = new String[1];
+//            System.out.println("Usage: java DocumentsIndexer <prop-file>");
+//            args[0] = "indexes_properties/docs_index.properties";
+//        }
+//
+//        try {
+//            DocumentsIndexer indexer = new DocumentsIndexer(args[0]);
+//            indexer.processAll();
+//        }
+//        catch (Exception ex) {
+//            ex.printStackTrace();
+//        }
+//        System.out.println("Usage: java DocumentsIndexer <prop-file>");
+
+        String dataset_path[] = {"/home/ivan/Documentos/FPAC-new-centroids-selection/dataset/AGNewsOrden1",
+                "/home/ivan/Documentos/FPAC-new-centroids-selection/dataset/AGNewsOrden2",
+                "/home/ivan/Documentos/FPAC-new-centroids-selection/dataset/AGNewsOrden3"};
+        String indexes_path[] = {"/home/ivan/Documentos/FPAC-new-centroids-selection/indexes_orders/AGNewsOrden1",
+                "/home/ivan/Documentos/FPAC-new-centroids-selection/indexes_orders/AGNewsOrden2",
+                "/home/ivan/Documentos/FPAC-new-centroids-selection/indexes_orders/AGNewsOrden3"};
+        String separator = ",";
+        int domain_pos = 1, content_pos = 0;
+        for (int i = 0; i < dataset_path.length; i++) {
+            try {
+                DocumentsIndexer indexer = new DocumentsIndexer(separator, content_pos, domain_pos, indexes_path[i], dataset_path[i]);
+                indexer.processAll();
+            }
+            catch (Exception ex) {
+                ex.printStackTrace();
+            }
+//            break;
         }
 
-        try {
-            DocumentsIndexer indexer = new DocumentsIndexer(args[0]);
-            indexer.processAll();
-        }
-        catch (Exception ex) {
-            ex.printStackTrace();
-        }
-    }    
+    }
 }

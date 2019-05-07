@@ -1,0 +1,71 @@
+El documento 127097 se elige como centroide para el cluster 0
+#related docs = 33706
+selected Doc 40435
+El documento 18929 se elige como centroide para el cluster 1
+#related docs = 18069
+selected Doc 112038
+El documento 3943 se elige como centroide para el cluster 2
+#related docs = 35262
+selected Doc 75025
+El documento 80277 se elige como centroide para el cluster 3
+#related docs = 29249
+selected Doc 26730
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.99996865 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 43536
+numberOfAssignedByCosineSim =  0
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 1 iterations: 18 seconds
+Global time until this iteration: 18 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.5914545 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 2 iterations: 16 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.6119327 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 3 iterations: 16 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.13959357 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 4 iterations: 16 seconds
+Iteration : 5
+Reassigning cluster ids to non-centroid docs...
+0.10901339 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+#related docs = 127599
+Time to run till 5 iterations: 15 seconds
+Iteration : 6
+Reassigning cluster ids to non-centroid docs...
+0.0 fraction of the documents reassigned different clusters...
+Stopping after 6 iterations...
+Time to cluster: 83 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.5714164466908345 0.3904401 0.26111946 0.31294608 0.33714214061238723 0.03517178586699469

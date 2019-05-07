@@ -1,0 +1,314 @@
+El número de clusters es 8
+El documento 6400 se elige como centroide para el cluster 0
+#related docs = 7445
+El documento 2860 se elige como centroide para el cluster 1
+#related docs = 7423
+El documento 4715 se elige como centroide para el cluster 2
+#related docs = 7457
+El documento 5614 se elige como centroide para el cluster 3
+#related docs = 7361
+El documento 4408 se elige como centroide para el cluster 4
+#related docs = 7327
+El documento 3099 se elige como centroide para el cluster 5
+#related docs = 4710
+El documento 4648 se elige como centroide para el cluster 6
+#related docs = 7448
+El documento 902 se elige como centroide para el cluster 7
+#related docs = 2836
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9989575 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 31
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+#related docs = 7673
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7673
+#related docs = 7673
+#related docs = 7669
+#related docs = 7673
+#related docs = 7670
+#related docs = 7672
+#related docs = 7671
+#related docs = 7671
+#related docs = 7669
+#related docs = 7667
+#related docs = 7668
+#related docs = 7668
+#related docs = 7671
+#related docs = 7667
+#related docs = 7669
+#related docs = 7667
+#related docs = 7667
+#related docs = 7664
+#related docs = 7666
+#related docs = 7673
+#related docs = 7671
+#related docs = 7671
+#related docs = 7672
+#related docs = 7670
+#related docs = 7672
+#related docs = 7673
+#related docs = 7673
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7657
+#related docs = 7661
+#related docs = 7672
+#related docs = 7650
+#related docs = 7663
+#related docs = 7662
+#related docs = 7666
+#related docs = 7667
+#related docs = 7662
+#related docs = 7654
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+Time to run till 1 iterations: 2 seconds
+Global time until this iteration: 2 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.3547042 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+#related docs = 7674
+#related docs = 7662
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7674
+#related docs = 7662
+#related docs = 7674
+#related docs = 7671
+#related docs = 7671
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7672
+#related docs = 7673
+#related docs = 7671
+#related docs = 7674
+#related docs = 7669
+#related docs = 7669
+#related docs = 7673
+#related docs = 7665
+#related docs = 7674
+#related docs = 7670
+#related docs = 7671
+#related docs = 7672
+#related docs = 7671
+#related docs = 7671
+#related docs = 7671
+#related docs = 7673
+#related docs = 7674
+#related docs = 7672
+#related docs = 7672
+#related docs = 7673
+#related docs = 7658
+#related docs = 7672
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7662
+#related docs = 7662
+#related docs = 7674
+#related docs = 7674
+#related docs = 7663
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7664
+#related docs = 7657
+#related docs = 7665
+#related docs = 7668
+#related docs = 7666
+#related docs = 7666
+#related docs = 7670
+#related docs = 7669
+#related docs = 7670
+#related docs = 7667
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7674
+#related docs = 7673
+#related docs = 7661
+#related docs = 7673
+#related docs = 7674
+#related docs = 7673
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7674
+Time to run till 2 iterations: 2 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.16288768 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+#related docs = 7674
+#related docs = 7673
+#related docs = 7662
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7673
+#related docs = 7673
+#related docs = 7674
+#related docs = 7672
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7674
+#related docs = 7673
+#related docs = 7673
+#related docs = 7671
+#related docs = 7670
+#related docs = 7669
+#related docs = 7671
+#related docs = 7670
+#related docs = 7671
+#related docs = 7671
+#related docs = 7670
+#related docs = 7672
+#related docs = 7668
+#related docs = 7672
+#related docs = 7671
+#related docs = 7668
+#related docs = 7673
+#related docs = 7673
+#related docs = 7673
+#related docs = 7672
+#related docs = 7673
+#related docs = 7674
+#related docs = 7669
+#related docs = 7661
+#related docs = 7661
+#related docs = 7674
+#related docs = 7661
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7674
+#related docs = 7674
+#related docs = 7668
+#related docs = 7671
+#related docs = 7669
+#related docs = 7669
+#related docs = 7664
+#related docs = 7671
+#related docs = 7664
+#related docs = 7668
+#related docs = 7662
+#related docs = 7670
+#related docs = 7673
+#related docs = 7673
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7674
+#related docs = 7673
+#related docs = 7674
+#related docs = 7672
+#related docs = 7671
+#related docs = 7673
+#related docs = 7674
+#related docs = 7674
+#related docs = 7671
+#related docs = 7674
+Time to run till 3 iterations: 2 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.05551212 fraction of the documents reassigned different clusters...
+Stopping after 4 iterations...
+Time to cluster: 6 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.7443865676995728 0.4039324 0.77322423 0.53065205 0.788246025540787 0.4060797234236706
+Number of documents
+7674
+Number of documents
+7674
+Number of documents
+7674

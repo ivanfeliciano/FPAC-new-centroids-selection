@@ -41,16 +41,30 @@ import org.apache.lucene.search.ScoreDoc;
 public class FastKMedoidsClusterer extends LuceneClusterer {
     IndexSearcher searcher;
     RelatedDocumentsRetriever[] rdes;
-    
+    List<Integer> initialCentroids;
     // Un conjunto de términos para cada cluster
     
     Set<String>[] listSetOfTermsForEachCluster;
-    
-    public FastKMedoidsClusterer(String propFile) throws Exception {
+
+    @Override
+    public String getAlgoName() {
+        return "FastKMedoidsClusterer";
+    }
+
+    public FastKMedoidsClusterer(String propFile, List<Integer> initialCentroidsSeeds) throws Exception {
         super(propFile);
         
         searcher = new IndexSearcher(reader);
         searcher.setSimilarity(new BM25Similarity());        
+        rdes = new RelatedDocumentsRetriever[K];
+        listSetOfTermsForEachCluster = new HashSet[K];
+        initialCentroids = initialCentroidsSeeds;
+    }
+    public FastKMedoidsClusterer(String propFile) throws Exception {
+        super(propFile);
+
+        searcher = new IndexSearcher(reader);
+        searcher.setSimilarity(new BM25Similarity());
         rdes = new RelatedDocumentsRetriever[K];
         listSetOfTermsForEachCluster = new HashSet[K];
     }
@@ -77,27 +91,31 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
         int selectedDoc = (int)(Math.random()*numDocs);
         int numClusterCentresAssigned = 0;
         centroidDocIds = new HashMap<>();
-//        List<Integer> initialCentroids = Arrays.asList(18361, 1530, 3930, 18239, 7957, 5565, 16159, 11214, 2446, 18485, 15716, 12348, 1181, 3914, 11754, 1277, 9534, 3093, 6590, 3113);
-//        List<Integer> initialCentroids = Arrays.asList(4114,7365,4280,4387,6446,517,4288,4887);
-//        List<Integer> initialCentroids = Arrays.asList(2615, 5477);
-        List<Integer> initialCentroids = Arrays.asList(62477,50238,55879,28993,50023,42838,2164,47159,27600,9760,3632,46457,19784,12677,30759,16907);
+        ArrayList<Integer> centroidsIdsForPrint = new ArrayList<>();
         while (numClusterCentresAssigned < K) {
-            selectedDoc = initialCentroids.get(numClusterCentresAssigned);
+            selectedDoc = initialCentroids == null ? selectedDoc : initialCentroids.get(numClusterCentresAssigned);
             RelatedDocumentsRetriever rde = new RelatedDocumentsRetriever(reader, selectedDoc, prop, numClusterCentresAssigned );
             System.out.println("El documento " + selectedDoc + " se elige como centroide para el cluster " + (numClusterCentresAssigned));
-            clusterIdMap.put(selectedDoc, numClusterCentresAssigned);
             TopDocs topDocs = rde.getRelatedDocs(numDocs);
             if (topDocs == null) {
                 System.out.println("No obtuve lista top para este centroide");
                 selectedDoc = rde.getUnrelatedDocument(centroidDocIds, rdes);
                 continue;
             }
+            centroidsIdsForPrint.add(selectedDoc);
+            clusterIdMap.put(selectedDoc, numClusterCentresAssigned);
             centroidDocIds.put(selectedDoc, null);
             rdes[numClusterCentresAssigned] = rde;
             selectedDoc = rde.getUnrelatedDocument(centroidDocIds, rdes);
             System.out.println("selected Doc " + selectedDoc);
             numClusterCentresAssigned++;
         }
+//        System.out.print("initialCentroids[].add(Arrays.asList(");
+//        for (int idx = 0; idx < centroidsIdsForPrint.size(); idx++) {
+//            System.out.print(centroidsIdsForPrint.get(idx));
+//            if (idx < centroidsIdsForPrint.size() - 1) System.out.print(", ");
+//        }
+//        System.out.println("));");
     }
     
     void showCentroids() throws Exception {
@@ -186,33 +204,43 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
                 System.out.println("Changed centroid document " + oldCentroidURL + " to " + newCentroidURL);
                 rdes[i].getRelatedDocs(numDocs);
             }
+            else {
+                System.out.println("Me quedo con el centroide " + newCentroidDocId);
+            }
         }
     }
     
     public static void main(String[] args) {
-        if (args.length == 0) {
-            args = new String[1];
-            System.out.println("Usage: java FastKMedoidsClusterer <prop-file>");
-            args[0] = "/home/ivan/Documentos/FPAC-new-centroids-selection/run_properties/init_0.properties";
-        }
-        
-        try {
-            LuceneClusterer fkmc = new FastKMedoidsClusterer(args[0]);
-            fkmc.cluster();
-//            boolean eval = Boolean.parseBoolean(fkmc.getProperties().getProperty("eval", "true"));
-            boolean eval = true;
-            if (eval) {
-                ClusterEvaluator ceval = new ClusterEvaluator(args[0]);
-//                System.out.println("Acc, prec, recall, fscore: ");
-                ceval.showNewMeasures();
+//        if (args.length == 0) {
+//            args = new String[1];
+//            System.out.println("Usage: java FastKMedoidsClusterer <prop-file>");
+//            args[0] = "/home/ivan/Documentos/FPAC-new-centroids-selection/run_properties/init_0.properties";
+//        }
+        String properties_paths[] = {"/home/ivan/Documentos/FPAC-new-centroids-selection/run_properties/init_orden1.properties",
+                "/home/ivan/Documentos/FPAC-new-centroids-selection/run_properties/init_orden2.properties",
+                "/home/ivan/Documentos/FPAC-new-centroids-selection/run_properties/init_orden3.properties"};
+//        try {
+//            LuceneClusterer fkmc = new FastKMedoidsClusterer(args[0]);
+//            fkmc.cluster();
+//            ClusterEvaluator ceval = new ClusterEvaluator(args[0]);
+//            ceval.showNewMeasures();
+//        }
+//        catch (Exception ex) {
+//            ex.printStackTrace();
+//        }
 
-//                System.out.println("Purity: " + ceval.computePurity());
-//                System.out.println("NMI: " + ceval.computeNMI());
-//                System.out.println("RI: " + ceval.computeRandIndex());
+        for (int i = 0; i < properties_paths.length; i++) {
+            System.out.println("Orden " + i);
+            for (int j = 0; j < 5; j++) {
+//                System.out.println("Semilla " + j);
+                try {
+                    LuceneClusterer fkmc = new FastKMedoidsClusterer(properties_paths[i]);
+                    fkmc.initCentroids();
+                } catch (Exception ex) {
+                    ex.printStackTrace();
+                }
             }
         }
-        catch (Exception ex) {
-            ex.printStackTrace();
-        }
+
     }
 }

@@ -1,0 +1,61 @@
+El documento 653 se elige como centroide para el cluster 0
+#related docs = 4119
+selected Doc 2777
+El documento 3979 se elige como centroide para el cluster 1
+#related docs = 4106
+selected Doc 2166
+El documento 1383 se elige como centroide para el cluster 2
+#related docs = 4054
+selected Doc 928
+El documento 3509 se elige como centroide para el cluster 3
+#related docs = 4010
+selected Doc 653
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9990403 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 30
+numberOfAssignedByCosineSim =  0
+#related docs = 4168
+#related docs = 4168
+#related docs = 4168
+#related docs = 4167
+Time to run till 1 iterations: 1 seconds
+Global time until this iteration: 1 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.32269675 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 4168
+#related docs = 4168
+#related docs = 4167
+#related docs = 4167
+Time to run till 2 iterations: 1 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.3037428 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 4168
+#related docs = 4168
+#related docs = 4167
+#related docs = 4167
+Time to run till 3 iterations: 1 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.19289827 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+#related docs = 4168
+#related docs = 4168
+#related docs = 4167
+#related docs = 4167
+Time to run till 4 iterations: 1 seconds
+Iteration : 5
+Reassigning cluster ids to non-centroid docs...
+0.0 fraction of the documents reassigned different clusters...
+Stopping after 5 iterations...
+Time to cluster: 4 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.6105846273181063 0.3795531 0.3405931 0.35901928 0.43330134357005756 0.05086079741383436

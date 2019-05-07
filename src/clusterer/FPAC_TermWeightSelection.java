@@ -13,7 +13,7 @@ public class FPAC_TermWeightSelection extends FPACNU_SetCover {
     public void recomputeCentroids() throws IOException {
         System.out.println("Recalculando centroides");
         int bestDocId = 0;
-        int numOfDocsCapacity = 1;
+        int numOfDocsCapacity = 2;
         ArrayList<ArrayList<Integer>> docsInEachCluster = new ArrayList<>(K);
         RelatedDocumentsRetriever rde;
         TermVector termVectorAux;
@@ -83,7 +83,7 @@ public class FPAC_TermWeightSelection extends FPACNU_SetCover {
                 DynamicCentroids.get(cluster).add(new RelatedDocumentsRetriever(reader, bestDocId, prop, cluster));
                 try {
                     dynamicTermVectorCentroids.get(cluster).add(TermVector.extractAllDocTerms(reader, bestDocId, contentFieldName, lambda));
-                    DynamicCentroids.get(cluster).get(counter++).getRelatedDocs(numDocs);
+                    DynamicCentroids.get(cluster).get(counter++).getRelatedDocs(numDocs / K);
                 } catch (Exception e) {
                     e.printStackTrace();
                 }

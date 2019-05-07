@@ -9,10 +9,8 @@ import indexer.WMTIndexer;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Properties;
+import java.util.*;
+
 import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -38,39 +36,45 @@ import org.apache.lucene.search.ScoreDoc;
  * @author dganguly
  */
 public class FastKMedoidsClusterer_TrueCentroid extends FastKMedoidsClusterer {
-    
+
+    @Override
+    public String getAlgoName() {
+        return "FPAC_TC";
+    }
     public FastKMedoidsClusterer_TrueCentroid(String propFile) throws Exception {
         super(propFile);
     }
-    
-	// compute true centroid instead of the heuristics 
+    public FastKMedoidsClusterer_TrueCentroid(String propFile,  List<Integer> initCentroids) throws Exception {
+        super(propFile, initCentroids);
+    }
+
+
+    // compute true centroid instead of the heuristics
     TermVector computeCentroid(int clusterId) throws Exception {
         TermVector newCentroidVec = null;
         newCentroidVec = new TermVector();
+        HashMap<String, Float> vocabularySetStats = new HashMap<>();
 		int numberOfDocsInThisCluster = 0;
         for (int i=0; i < numDocs; i++) {
             int clusterIdCurrentDoc = getClusterId(i);
             if (clusterIdCurrentDoc != clusterId)
                 continue;
             numberOfDocsInThisCluster += 1;
-            
             TermVector docVec = TermVector.extractAllDocTerms(reader, i, contentFieldName, lambda);
 			if (docVec != null) {
 //                newCentroidVec = TermVector.add(newCentroidVec, docVec);
-
                 for(TermStats termStat: docVec.termStatsList) {
-                    boolean isAlreadyInTheVector = false;
                     if (newCentroidVec.termStatsList == null) newCentroidVec.termStatsList = new ArrayList<>();
-                    for (TermStats termStatsCentroid : newCentroidVec.termStatsList) {
-                        if (termStat.term.equals(termStatsCentroid.term)) {
-                            termStatsCentroid.wt += termStat.wt;
-                            isAlreadyInTheVector = true;
-                            break;
-                        }
-                    }
-                    if (!isAlreadyInTheVector) {
-                        newCentroidVec.add(termStat);
-                    }
+//                    for (TermStats termStatsCentroid : newCentroidVec.termStatsList) {
+//                        if (termStat.term.equals(termStatsCentroid.term)) {
+//                            termStatsCentroid.wt += termStat.wt;
+//                            isAlreadyInTheVector = true;
+//                            break;
+//                        }
+//                    }
+                    if (vocabularySetStats.containsKey(termStat.term)) continue;
+                    vocabularySetStats.put(termStat.term,null);
+                    newCentroidVec.add(termStat);
                 }
 
             }

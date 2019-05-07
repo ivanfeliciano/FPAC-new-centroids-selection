@@ -1,0 +1,56 @@
+El documento 1180 se elige como centroide para el cluster 0
+#related docs = 4114
+selected Doc 1212
+El documento 2358 se elige como centroide para el cluster 1
+#related docs = 4100
+selected Doc 3141
+El documento 337 se elige como centroide para el cluster 2
+#related docs = 3984
+selected Doc 2166
+El documento 1257 se elige como centroide para el cluster 3
+#related docs = 3808
+selected Doc 3702
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9990403 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 42
+numberOfAssignedByCosineSim =  0
+Changed centroid document 1180 to 3883
+#related docs = 4144
+Changed centroid document 2358 to 202
+#related docs = 4165
+Changed centroid document 337 to 2816
+#related docs = 4148
+Changed centroid document 1257 to 2103
+#related docs = 4135
+Time to run till 1 iterations: 0 seconds
+Global time until this iteration: 0 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.6487524 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 3
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 3883
+Me quedo con el centroide 202
+Changed centroid document 2816 to 3171
+#related docs = 4129
+Me quedo con el centroide 2103
+Time to run till 2 iterations: 0 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.27015355 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 2
+numberOfAssignedByCosineSim =  0
+Me quedo con el centroide 3883
+Me quedo con el centroide 202
+Me quedo con el centroide 3171
+Me quedo con el centroide 2103
+Time to run till 3 iterations: 0 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+4.7984644E-4 fraction of the documents reassigned different clusters...
+Stopping after 4 iterations...
+Time to cluster: 0 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.62342221835305 0.28310332 0.3228786 0.30168554 0.43450095969289826 0.05478486062344915

@@ -1,0 +1,960 @@
+El número de clusters es 20
+El documento 17899 se elige como centroide para el cluster 0
+#related docs = 14550
+El documento 1825 se elige como centroide para el cluster 1
+#related docs = 13244
+El documento 13188 se elige como centroide para el cluster 2
+#related docs = 2373
+El documento 6172 se elige como centroide para el cluster 3
+#related docs = 17337
+El documento 12223 se elige como centroide para el cluster 4
+#related docs = 2584
+El documento 13672 se elige como centroide para el cluster 5
+#related docs = 17647
+El documento 3384 se elige como centroide para el cluster 6
+#related docs = 12687
+El documento 10219 se elige como centroide para el cluster 7
+#related docs = 12287
+El documento 965 se elige como centroide para el cluster 8
+#related docs = 14668
+El documento 2995 se elige como centroide para el cluster 9
+#related docs = 2659
+El documento 9856 se elige como centroide para el cluster 10
+#related docs = 16617
+El documento 17166 se elige como centroide para el cluster 11
+#related docs = 6782
+El documento 17553 se elige como centroide para el cluster 12
+#related docs = 2944
+El documento 12519 se elige como centroide para el cluster 13
+#related docs = 17515
+El documento 3083 se elige como centroide para el cluster 14
+#related docs = 13115
+El documento 1845 se elige como centroide para el cluster 15
+#related docs = 17882
+El documento 4526 se elige como centroide para el cluster 16
+#related docs = 16636
+El documento 800 se elige como centroide para el cluster 17
+#related docs = 13963
+El documento 9210 se elige como centroide para el cluster 18
+#related docs = 17465
+El documento 622 se elige como centroide para el cluster 19
+#related docs = 15587
+Iteration : 1
+Reassigning cluster ids to non-centroid docs...
+0.9989373 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 62
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+Calculando centroides para el cluster 12
+Calculando centroides para el cluster 13
+Calculando centroides para el cluster 14
+Calculando centroides para el cluster 15
+Calculando centroides para el cluster 16
+Calculando centroides para el cluster 17
+Calculando centroides para el cluster 18
+Calculando centroides para el cluster 19
+#related docs = 18800
+#related docs = 18795
+#related docs = 18801
+#related docs = 18801
+#related docs = 18793
+#related docs = 18788
+#related docs = 18798
+#related docs = 18797
+#related docs = 18795
+#related docs = 18794
+#related docs = 18805
+#related docs = 18806
+#related docs = 18806
+#related docs = 18810
+#related docs = 18805
+#related docs = 18811
+#related docs = 18809
+#related docs = 18799
+#related docs = 18805
+#related docs = 18807
+#related docs = 18814
+#related docs = 18814
+#related docs = 18818
+#related docs = 18815
+#related docs = 18814
+#related docs = 18817
+#related docs = 18815
+#related docs = 18817
+#related docs = 18813
+#related docs = 18813
+#related docs = 18770
+#related docs = 18740
+#related docs = 18760
+#related docs = 18768
+#related docs = 18767
+#related docs = 18776
+#related docs = 18763
+#related docs = 18763
+#related docs = 18744
+#related docs = 18740
+#related docs = 18811
+#related docs = 18812
+#related docs = 18811
+#related docs = 18813
+#related docs = 18812
+#related docs = 18813
+#related docs = 18810
+#related docs = 18814
+#related docs = 18814
+#related docs = 18812
+#related docs = 18768
+#related docs = 18791
+#related docs = 18760
+#related docs = 18786
+#related docs = 18801
+#related docs = 18769
+#related docs = 18773
+#related docs = 18792
+#related docs = 18776
+#related docs = 18784
+#related docs = 18807
+#related docs = 18808
+#related docs = 18810
+#related docs = 18806
+#related docs = 18809
+#related docs = 18811
+#related docs = 18807
+#related docs = 18801
+#related docs = 18808
+#related docs = 18807
+#related docs = 18810
+#related docs = 18810
+#related docs = 18808
+#related docs = 18808
+#related docs = 18808
+#related docs = 18808
+#related docs = 18805
+#related docs = 18813
+#related docs = 18802
+#related docs = 18811
+#related docs = 18780
+#related docs = 18795
+#related docs = 18790
+#related docs = 18784
+#related docs = 18802
+#related docs = 18789
+#related docs = 18784
+#related docs = 18788
+#related docs = 18785
+#related docs = 18794
+#related docs = 18814
+#related docs = 18813
+#related docs = 18813
+#related docs = 18812
+#related docs = 18813
+#related docs = 18812
+#related docs = 18814
+#related docs = 18814
+#related docs = 18811
+#related docs = 18814
+#related docs = 18793
+#related docs = 18778
+#related docs = 18781
+#related docs = 18778
+#related docs = 18783
+#related docs = 18791
+#related docs = 18789
+#related docs = 18787
+#related docs = 18783
+#related docs = 18791
+#related docs = 18812
+#related docs = 18813
+#related docs = 18811
+#related docs = 18812
+#related docs = 18813
+#related docs = 18810
+#related docs = 18808
+#related docs = 18811
+#related docs = 18809
+#related docs = 18808
+#related docs = 18814
+#related docs = 18815
+#related docs = 18817
+#related docs = 18811
+#related docs = 18811
+#related docs = 18810
+#related docs = 18813
+#related docs = 18814
+#related docs = 18812
+#related docs = 18813
+#related docs = 18771
+#related docs = 18755
+#related docs = 18766
+#related docs = 18781
+#related docs = 18766
+#related docs = 18755
+#related docs = 18746
+#related docs = 18769
+#related docs = 18774
+#related docs = 18772
+#related docs = 18810
+#related docs = 18810
+#related docs = 18804
+#related docs = 18809
+#related docs = 18803
+#related docs = 18806
+#related docs = 18807
+#related docs = 18810
+#related docs = 18809
+#related docs = 18807
+#related docs = 18791
+#related docs = 18779
+#related docs = 18787
+#related docs = 18781
+#related docs = 18768
+#related docs = 18770
+#related docs = 18769
+#related docs = 18779
+#related docs = 18773
+#related docs = 18764
+#related docs = 18805
+#related docs = 18805
+#related docs = 18796
+#related docs = 18802
+#related docs = 18798
+#related docs = 18792
+#related docs = 18795
+#related docs = 18801
+#related docs = 18791
+#related docs = 18804
+#related docs = 18799
+#related docs = 18803
+#related docs = 18797
+#related docs = 18801
+#related docs = 18795
+#related docs = 18803
+#related docs = 18800
+#related docs = 18798
+#related docs = 18794
+#related docs = 18802
+#related docs = 18723
+#related docs = 18741
+#related docs = 18748
+#related docs = 18685
+#related docs = 18702
+#related docs = 18711
+#related docs = 18716
+#related docs = 18722
+#related docs = 18721
+#related docs = 18650
+#related docs = 18802
+#related docs = 18792
+#related docs = 18789
+#related docs = 18802
+#related docs = 18806
+#related docs = 18804
+#related docs = 18791
+#related docs = 18805
+#related docs = 18805
+#related docs = 18800
+Time to run till 1 iterations: 18 seconds
+Global time until this iteration: 18 seconds
+Iteration : 2
+Reassigning cluster ids to non-centroid docs...
+0.6036663 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+Calculando centroides para el cluster 12
+Calculando centroides para el cluster 13
+Calculando centroides para el cluster 14
+Calculando centroides para el cluster 15
+Calculando centroides para el cluster 16
+Calculando centroides para el cluster 17
+Calculando centroides para el cluster 18
+Calculando centroides para el cluster 19
+#related docs = 18802
+#related docs = 18801
+#related docs = 18792
+#related docs = 18800
+#related docs = 18795
+#related docs = 18792
+#related docs = 18800
+#related docs = 18795
+#related docs = 18798
+#related docs = 18803
+#related docs = 18774
+#related docs = 18785
+#related docs = 18769
+#related docs = 18785
+#related docs = 18778
+#related docs = 18772
+#related docs = 18798
+#related docs = 18783
+#related docs = 18789
+#related docs = 18784
+#related docs = 18813
+#related docs = 18801
+#related docs = 18805
+#related docs = 18810
+#related docs = 18805
+#related docs = 18804
+#related docs = 18809
+#related docs = 18804
+#related docs = 18804
+#related docs = 18804
+#related docs = 18813
+#related docs = 18809
+#related docs = 18811
+#related docs = 18814
+#related docs = 18813
+#related docs = 18811
+#related docs = 18809
+#related docs = 18811
+#related docs = 18808
+#related docs = 18810
+#related docs = 18805
+#related docs = 18801
+#related docs = 18808
+#related docs = 18799
+#related docs = 18808
+#related docs = 18808
+#related docs = 18810
+#related docs = 18802
+#related docs = 18810
+#related docs = 18808
+#related docs = 18803
+#related docs = 18809
+#related docs = 18809
+#related docs = 18803
+#related docs = 18800
+#related docs = 18806
+#related docs = 18802
+#related docs = 18803
+#related docs = 18798
+#related docs = 18807
+#related docs = 18776
+#related docs = 18765
+#related docs = 18783
+#related docs = 18786
+#related docs = 18749
+#related docs = 18755
+#related docs = 18774
+#related docs = 18794
+#related docs = 18782
+#related docs = 18780
+#related docs = 18802
+#related docs = 18806
+#related docs = 18801
+#related docs = 18796
+#related docs = 18796
+#related docs = 18794
+#related docs = 18798
+#related docs = 18807
+#related docs = 18796
+#related docs = 18803
+#related docs = 18786
+#related docs = 18797
+#related docs = 18790
+#related docs = 18789
+#related docs = 18798
+#related docs = 18783
+#related docs = 18787
+#related docs = 18785
+#related docs = 18791
+#related docs = 18800
+#related docs = 18813
+#related docs = 18810
+#related docs = 18810
+#related docs = 18809
+#related docs = 18810
+#related docs = 18811
+#related docs = 18810
+#related docs = 18810
+#related docs = 18810
+#related docs = 18808
+#related docs = 18809
+#related docs = 18809
+#related docs = 18803
+#related docs = 18807
+#related docs = 18809
+#related docs = 18808
+#related docs = 18807
+#related docs = 18811
+#related docs = 18807
+#related docs = 18804
+#related docs = 18765
+#related docs = 18772
+#related docs = 18772
+#related docs = 18781
+#related docs = 18777
+#related docs = 18757
+#related docs = 18789
+#related docs = 18727
+#related docs = 18749
+#related docs = 18750
+#related docs = 18795
+#related docs = 18784
+#related docs = 18806
+#related docs = 18800
+#related docs = 18788
+#related docs = 18785
+#related docs = 18795
+#related docs = 18808
+#related docs = 18801
+#related docs = 18799
+#related docs = 18812
+#related docs = 18806
+#related docs = 18807
+#related docs = 18807
+#related docs = 18810
+#related docs = 18804
+#related docs = 18811
+#related docs = 18809
+#related docs = 18811
+#related docs = 18807
+#related docs = 18791
+#related docs = 18793
+#related docs = 18797
+#related docs = 18806
+#related docs = 18799
+#related docs = 18801
+#related docs = 18804
+#related docs = 18802
+#related docs = 18792
+#related docs = 18793
+#related docs = 18808
+#related docs = 18811
+#related docs = 18809
+#related docs = 18808
+#related docs = 18810
+#related docs = 18809
+#related docs = 18807
+#related docs = 18812
+#related docs = 18810
+#related docs = 18811
+#related docs = 18807
+#related docs = 18809
+#related docs = 18807
+#related docs = 18805
+#related docs = 18812
+#related docs = 18805
+#related docs = 18808
+#related docs = 18803
+#related docs = 18810
+#related docs = 18809
+#related docs = 18798
+#related docs = 18792
+#related docs = 18794
+#related docs = 18787
+#related docs = 18798
+#related docs = 18782
+#related docs = 18797
+#related docs = 18795
+#related docs = 18793
+#related docs = 18789
+#related docs = 18809
+#related docs = 18805
+#related docs = 18808
+#related docs = 18809
+#related docs = 18808
+#related docs = 18807
+#related docs = 18810
+#related docs = 18809
+#related docs = 18808
+#related docs = 18807
+#related docs = 18807
+#related docs = 18805
+#related docs = 18809
+#related docs = 18811
+#related docs = 18809
+#related docs = 18806
+#related docs = 18807
+#related docs = 18809
+#related docs = 18812
+#related docs = 18811
+Time to run till 2 iterations: 19 seconds
+Iteration : 3
+Reassigning cluster ids to non-centroid docs...
+0.282678 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+Calculando centroides para el cluster 12
+Calculando centroides para el cluster 13
+Calculando centroides para el cluster 14
+Calculando centroides para el cluster 15
+Calculando centroides para el cluster 16
+Calculando centroides para el cluster 17
+Calculando centroides para el cluster 18
+Calculando centroides para el cluster 19
+#related docs = 18802
+#related docs = 18809
+#related docs = 18804
+#related docs = 18809
+#related docs = 18806
+#related docs = 18807
+#related docs = 18801
+#related docs = 18804
+#related docs = 18802
+#related docs = 18806
+#related docs = 18803
+#related docs = 18803
+#related docs = 18799
+#related docs = 18801
+#related docs = 18800
+#related docs = 18789
+#related docs = 18802
+#related docs = 18800
+#related docs = 18800
+#related docs = 18800
+#related docs = 18810
+#related docs = 18801
+#related docs = 18809
+#related docs = 18797
+#related docs = 18807
+#related docs = 18797
+#related docs = 18809
+#related docs = 18809
+#related docs = 18802
+#related docs = 18806
+#related docs = 18808
+#related docs = 18806
+#related docs = 18809
+#related docs = 18796
+#related docs = 18794
+#related docs = 18804
+#related docs = 18807
+#related docs = 18807
+#related docs = 18797
+#related docs = 18800
+#related docs = 18799
+#related docs = 18806
+#related docs = 18811
+#related docs = 18800
+#related docs = 18809
+#related docs = 18809
+#related docs = 18796
+#related docs = 18800
+#related docs = 18808
+#related docs = 18799
+#related docs = 18808
+#related docs = 18804
+#related docs = 18803
+#related docs = 18795
+#related docs = 18805
+#related docs = 18802
+#related docs = 18803
+#related docs = 18802
+#related docs = 18800
+#related docs = 18802
+#related docs = 18789
+#related docs = 18796
+#related docs = 18793
+#related docs = 18797
+#related docs = 18799
+#related docs = 18793
+#related docs = 18796
+#related docs = 18796
+#related docs = 18797
+#related docs = 18797
+#related docs = 18798
+#related docs = 18807
+#related docs = 18802
+#related docs = 18800
+#related docs = 18803
+#related docs = 18806
+#related docs = 18793
+#related docs = 18806
+#related docs = 18792
+#related docs = 18801
+#related docs = 18799
+#related docs = 18791
+#related docs = 18788
+#related docs = 18803
+#related docs = 18802
+#related docs = 18794
+#related docs = 18796
+#related docs = 18802
+#related docs = 18802
+#related docs = 18791
+#related docs = 18809
+#related docs = 18809
+#related docs = 18808
+#related docs = 18804
+#related docs = 18811
+#related docs = 18808
+#related docs = 18809
+#related docs = 18806
+#related docs = 18811
+#related docs = 18812
+#related docs = 18799
+#related docs = 18805
+#related docs = 18796
+#related docs = 18805
+#related docs = 18802
+#related docs = 18806
+#related docs = 18806
+#related docs = 18805
+#related docs = 18806
+#related docs = 18808
+#related docs = 18797
+#related docs = 18804
+#related docs = 18810
+#related docs = 18802
+#related docs = 18796
+#related docs = 18806
+#related docs = 18800
+#related docs = 18807
+#related docs = 18810
+#related docs = 18799
+#related docs = 18802
+#related docs = 18801
+#related docs = 18802
+#related docs = 18797
+#related docs = 18804
+#related docs = 18790
+#related docs = 18802
+#related docs = 18797
+#related docs = 18808
+#related docs = 18794
+#related docs = 18807
+#related docs = 18805
+#related docs = 18806
+#related docs = 18803
+#related docs = 18804
+#related docs = 18800
+#related docs = 18806
+#related docs = 18806
+#related docs = 18807
+#related docs = 18801
+#related docs = 18801
+#related docs = 18798
+#related docs = 18796
+#related docs = 18800
+#related docs = 18801
+#related docs = 18804
+#related docs = 18805
+#related docs = 18797
+#related docs = 18803
+#related docs = 18808
+#related docs = 18807
+#related docs = 18808
+#related docs = 18809
+#related docs = 18806
+#related docs = 18808
+#related docs = 18808
+#related docs = 18810
+#related docs = 18808
+#related docs = 18809
+#related docs = 18807
+#related docs = 18807
+#related docs = 18811
+#related docs = 18808
+#related docs = 18799
+#related docs = 18809
+#related docs = 18807
+#related docs = 18807
+#related docs = 18804
+#related docs = 18802
+#related docs = 18811
+#related docs = 18805
+#related docs = 18803
+#related docs = 18804
+#related docs = 18799
+#related docs = 18801
+#related docs = 18804
+#related docs = 18804
+#related docs = 18800
+#related docs = 18803
+#related docs = 18802
+#related docs = 18799
+#related docs = 18796
+#related docs = 18783
+#related docs = 18797
+#related docs = 18797
+#related docs = 18795
+#related docs = 18792
+#related docs = 18797
+#related docs = 18794
+#related docs = 18794
+#related docs = 18809
+#related docs = 18808
+#related docs = 18808
+#related docs = 18809
+#related docs = 18811
+#related docs = 18809
+#related docs = 18806
+#related docs = 18808
+#related docs = 18806
+#related docs = 18809
+Time to run till 3 iterations: 18 seconds
+Iteration : 4
+Reassigning cluster ids to non-centroid docs...
+0.11131775 fraction of the documents reassigned different clusters...
+numberOfDocsAssigendRandomly = 0
+numberOfAssignedByCosineSim =  0
+Calculando centroides para el cluster 0
+Calculando centroides para el cluster 1
+Calculando centroides para el cluster 2
+Calculando centroides para el cluster 3
+Calculando centroides para el cluster 4
+Calculando centroides para el cluster 5
+Calculando centroides para el cluster 6
+Calculando centroides para el cluster 7
+Calculando centroides para el cluster 8
+Calculando centroides para el cluster 9
+Calculando centroides para el cluster 10
+Calculando centroides para el cluster 11
+Calculando centroides para el cluster 12
+Calculando centroides para el cluster 13
+Calculando centroides para el cluster 14
+Calculando centroides para el cluster 15
+Calculando centroides para el cluster 16
+Calculando centroides para el cluster 17
+Calculando centroides para el cluster 18
+Calculando centroides para el cluster 19
+#related docs = 18804
+#related docs = 18806
+#related docs = 18806
+#related docs = 18809
+#related docs = 18800
+#related docs = 18802
+#related docs = 18807
+#related docs = 18802
+#related docs = 18805
+#related docs = 18805
+#related docs = 18795
+#related docs = 18797
+#related docs = 18806
+#related docs = 18795
+#related docs = 18800
+#related docs = 18794
+#related docs = 18791
+#related docs = 18797
+#related docs = 18802
+#related docs = 18787
+#related docs = 18799
+#related docs = 18811
+#related docs = 18812
+#related docs = 18804
+#related docs = 18797
+#related docs = 18807
+#related docs = 18808
+#related docs = 18811
+#related docs = 18806
+#related docs = 18796
+#related docs = 18804
+#related docs = 18808
+#related docs = 18800
+#related docs = 18798
+#related docs = 18805
+#related docs = 18803
+#related docs = 18800
+#related docs = 18803
+#related docs = 18795
+#related docs = 18800
+#related docs = 18799
+#related docs = 18807
+#related docs = 18806
+#related docs = 18804
+#related docs = 18810
+#related docs = 18798
+#related docs = 18805
+#related docs = 18806
+#related docs = 18807
+#related docs = 18803
+#related docs = 18799
+#related docs = 18804
+#related docs = 18806
+#related docs = 18802
+#related docs = 18804
+#related docs = 18803
+#related docs = 18803
+#related docs = 18799
+#related docs = 18801
+#related docs = 18805
+#related docs = 18790
+#related docs = 18790
+#related docs = 18796
+#related docs = 18783
+#related docs = 18800
+#related docs = 18791
+#related docs = 18794
+#related docs = 18790
+#related docs = 18797
+#related docs = 18800
+#related docs = 18803
+#related docs = 18801
+#related docs = 18797
+#related docs = 18805
+#related docs = 18800
+#related docs = 18802
+#related docs = 18803
+#related docs = 18805
+#related docs = 18801
+#related docs = 18804
+#related docs = 18794
+#related docs = 18800
+#related docs = 18804
+#related docs = 18801
+#related docs = 18796
+#related docs = 18791
+#related docs = 18794
+#related docs = 18788
+#related docs = 18794
+#related docs = 18799
+#related docs = 18812
+#related docs = 18798
+#related docs = 18804
+#related docs = 18810
+#related docs = 18809
+#related docs = 18812
+#related docs = 18810
+#related docs = 18808
+#related docs = 18806
+#related docs = 18808
+#related docs = 18800
+#related docs = 18804
+#related docs = 18805
+#related docs = 18809
+#related docs = 18801
+#related docs = 18804
+#related docs = 18801
+#related docs = 18807
+#related docs = 18802
+#related docs = 18801
+#related docs = 18804
+#related docs = 18805
+#related docs = 18798
+#related docs = 18805
+#related docs = 18805
+#related docs = 18794
+#related docs = 18795
+#related docs = 18799
+#related docs = 18804
+#related docs = 18797
+#related docs = 18805
+#related docs = 18797
+#related docs = 18796
+#related docs = 18803
+#related docs = 18809
+#related docs = 18802
+#related docs = 18804
+#related docs = 18796
+#related docs = 18793
+#related docs = 18801
+#related docs = 18805
+#related docs = 18804
+#related docs = 18805
+#related docs = 18804
+#related docs = 18811
+#related docs = 18808
+#related docs = 18807
+#related docs = 18805
+#related docs = 18806
+#related docs = 18806
+#related docs = 18797
+#related docs = 18808
+#related docs = 18800
+#related docs = 18810
+#related docs = 18799
+#related docs = 18802
+#related docs = 18801
+#related docs = 18795
+#related docs = 18791
+#related docs = 18801
+#related docs = 18806
+#related docs = 18803
+#related docs = 18806
+#related docs = 18805
+#related docs = 18805
+#related docs = 18807
+#related docs = 18806
+#related docs = 18804
+#related docs = 18809
+#related docs = 18805
+#related docs = 18809
+#related docs = 18804
+#related docs = 18806
+#related docs = 18806
+#related docs = 18798
+#related docs = 18808
+#related docs = 18805
+#related docs = 18803
+#related docs = 18811
+#related docs = 18808
+#related docs = 18797
+#related docs = 18805
+#related docs = 18803
+#related docs = 18801
+#related docs = 18800
+#related docs = 18802
+#related docs = 18803
+#related docs = 18806
+#related docs = 18796
+#related docs = 18802
+#related docs = 18799
+#related docs = 18798
+#related docs = 18801
+#related docs = 18804
+#related docs = 18799
+#related docs = 18804
+#related docs = 18799
+#related docs = 18799
+#related docs = 18802
+#related docs = 18804
+#related docs = 18808
+#related docs = 18808
+#related docs = 18807
+#related docs = 18805
+#related docs = 18808
+#related docs = 18810
+#related docs = 18810
+#related docs = 18807
+#related docs = 18804
+#related docs = 18805
+Time to run till 4 iterations: 18 seconds
+Iteration : 5
+Reassigning cluster ids to non-centroid docs...
+0.06583422 fraction of the documents reassigned different clusters...
+Stopping after 5 iterations...
+Time to cluster: 75 seconds
+Termina de inicializar mapa de ids de clusters
+RI  Recall  Precision   FScore  Purity  NMI
+0.9270341282938157 0.3400955 0.30190042 0.31986174 0.45669500531349627 0.4596909243161963
+Number of documents
+18820
+Number of documents
+18820
+Number of documents
+18820
