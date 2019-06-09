@@ -96,7 +96,7 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
             selectedDoc = initialCentroids == null ? selectedDoc : initialCentroids.get(numClusterCentresAssigned);
             RelatedDocumentsRetriever rde = new RelatedDocumentsRetriever(reader, selectedDoc, prop, numClusterCentresAssigned );
             System.out.println("El documento " + selectedDoc + " se elige como centroide para el cluster " + (numClusterCentresAssigned));
-            TopDocs topDocs = rde.getRelatedDocs(numDocs);
+            TopDocs topDocs = rde.getRelatedDocs(numDocs );
             if (topDocs == null) {
                 System.out.println("No obtuve lista top para este centroide");
                 selectedDoc = rde.getUnrelatedDocument(centroidDocIds, rdes);
@@ -110,12 +110,12 @@ public class FastKMedoidsClusterer extends LuceneClusterer {
             System.out.println("selected Doc " + selectedDoc);
             numClusterCentresAssigned++;
         }
-//        System.out.print("initialCentroids[].add(Arrays.asList(");
-//        for (int idx = 0; idx < centroidsIdsForPrint.size(); idx++) {
-//            System.out.print(centroidsIdsForPrint.get(idx));
-//            if (idx < centroidsIdsForPrint.size() - 1) System.out.print(", ");
-//        }
-//        System.out.println("));");
+        System.out.print("initialCentroids[].add(Arrays.asList(");
+        for (int idx = 0; idx < centroidsIdsForPrint.size(); idx++) {
+            System.out.print(centroidsIdsForPrint.get(idx));
+            if (idx < centroidsIdsForPrint.size() - 1) System.out.print(", ");
+        }
+        System.out.println("));");
     }
     
     void showCentroids() throws Exception {

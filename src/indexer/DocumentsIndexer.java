@@ -169,14 +169,14 @@ public class DocumentsIndexer {
 //        }
 //        System.out.println("Usage: java DocumentsIndexer <prop-file>");
 
-        String dataset_path[] = {"/home/ivan/Documentos/FPAC-new-centroids-selection/dataset/AGNewsOrden1",
-                "/home/ivan/Documentos/FPAC-new-centroids-selection/dataset/AGNewsOrden2",
-                "/home/ivan/Documentos/FPAC-new-centroids-selection/dataset/AGNewsOrden3"};
-        String indexes_path[] = {"/home/ivan/Documentos/FPAC-new-centroids-selection/indexes_orders/AGNewsOrden1",
-                "/home/ivan/Documentos/FPAC-new-centroids-selection/indexes_orders/AGNewsOrden2",
-                "/home/ivan/Documentos/FPAC-new-centroids-selection/indexes_orders/AGNewsOrden3"};
+        String dataset_path[] = {"/home/ivan/Documentos/FPAC-new-centroids-selection/dataset/reviewsOrden1",
+                "/home/ivan/Documentos/FPAC-new-centroids-selection/dataset/reviewsOrden2",
+                "/home/ivan/Documentos/FPAC-new-centroids-selection/dataset/reviewsOrden3"};
+        String indexes_path[] = {"/home/ivan/Documentos/FPAC-new-centroids-selection/indexes_orders/reviewsOrden1",
+                "/home/ivan/Documentos/FPAC-new-centroids-selection/indexes_orders/reviewsOrden2",
+                "/home/ivan/Documentos/FPAC-new-centroids-selection/indexes_orders/reviewsOrden3"};
         String separator = ",";
-        int domain_pos = 1, content_pos = 0;
+        int domain_pos = 0, content_pos = 1;
         for (int i = 0; i < dataset_path.length; i++) {
             try {
                 DocumentsIndexer indexer = new DocumentsIndexer(separator, content_pos, domain_pos, indexes_path[i], dataset_path[i]);
